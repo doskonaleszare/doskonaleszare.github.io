@@ -5,9 +5,45 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jun 2015 19:35:41 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2015 19:35:41 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Jun 2015 21:42:07 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2015 21:42:07 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Błękitny lód sprzed miliona lat</title>
+        <description>&lt;p&gt;Najdokładniejsze rekonstrukcje składu atmosfery z odległej przeszłości Ziemi oparte są o analizę rdzeni lodowych z Antarktydy. W odróżnieniu od metod pośrednich, wykorzystujących korelacje pomiędzy jakimś proxy (np. ilością aparatów szparkowych na skamieniałych liściach) a rekonstruowanym indeksem (np. koncentracją dwutlenku węgla), rdzenie zawierają &lt;em&gt;prawdziwe&lt;/em&gt; powietrze uwięzione dawno temu pomiędzy ziarnami firnu, a potem sprasowane pod kilometrami lodu na Antarktydzie.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Przy sprzyjających warunkach&lt;/span&gt;  — to znaczy w lokalizacjach o niewielkiej prędkości spływu lodowca, małych opadach i ablacji lodu,&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Przykładowo, rosyjska stacja Wostok otrzymuje niecałe 3 milimetry opadu rocznie.&lt;/span&gt; czyli tak naprawdę w najzimniejszej i najmniej dostępnej części kontynentu — odwiert wykonany przez lądolód od powierzchni do skali macierzystej może zawierać nawet setki tysięcy sezonowych warstw opadów, dzięki czemu możliwe było zrekonstruowanie zmian warunków klimatycznych na Antarktydzie (oraz składu globalnej atmosfery) z całkiem sporego kawałka plejstocenu. Najdłuższe rdzenie lodowe, pozyskane przez europejski projekt EPICA, umożliwiły nam cofnięcie się aż 800 tysięcy lat wstecz… i wydawało się że pobicie tego rekordu będzie bardzo trudne &lt;a href=&quot;#p1&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Okazuje się jednak, że w niektórych miejscach na Antarktydzie bardzo stary lód leży na samej powierzchni lądolodu. Generalnie zdarza się jeśli w jakiejś lokalizacji lodowiec traci więcej masy w wyniku sublimacji niż zyskuje w opadach śniegu; różnica jest uzupełniana przez stary lód nadpływający skądinąd. Zwykle jest też powiązane ze specyficzną topografią terenu — na przykład obecnością gór albo nunataków — dzięki której strumień lodu może odbić się od skały macierzystej i powrócić na powierzchnię.&lt;/p&gt;
+
+&lt;p&gt;Na Antarktydzie miejsca takie — zwane BIA, &lt;em&gt;Blue Ice Areas&lt;/em&gt; — łatwo rozpoznać po kolorze: odsłonięty, sublimujący lód ma niebieski kolor,&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Wynika to wyłącznie ze słabej absorpcji czerwonej części widma przez cząsteczki wody, a nie “wyciskaniu” pęcherzyków powietrza z lodu, jak można wyczytać w internetach.&lt;/span&gt; i wyraźnie odróżnia się od pokrytej białym śniegiem okolicy.&lt;/p&gt;
+
+&lt;p&gt;Najbardziej znanym BIA są Wzgórza Allana, które niektórzy starsi czytelnicy mogą kojarzyć w związku z największym niedoszłym odkryciem lat dziewięćdziesiątych. Sublimujący niebieski lód zostawia bowiem na niewielkiej powierzchni wszystkie śmieci, które były niesione przez lodowiec — a na Antarktydzie, przez ostatnich kilka milionów lat, głównym źródłem śmieci była przestrzeń pozaziemska. Większość znanych ludzkości meteorytów znaleziona została na Antarktydzie w ciągu ostatnich 40 lat, i to właśnie ze Wzgórz Allana pochodzi próbka nr 84001, znana szerzej jako ALH 84001 &lt;a href=&quot;#p2&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wracając jednak do rdzeni lodowych: kilka dni temu &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt; zamieściło opublikowało rekonstrukcję składu atmosfery sprzed miliona lat opartą o zaledwie 126-metrowy odwiert ze Wzgórz Allana &lt;a href=&quot;#p3&quot;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;A, B i C koncentracja CO&lt;sub&gt;2&lt;/sub&gt;, CH&lt;sub&gt;4&lt;/sub&gt; oraz deuteru (proxy temperatury) według rekonstrukcji rdzenia lodowego EPICA (kolorowe krzywe) oraz z Allan Hills (kolor czarny, kwadrat obrazuje zakres niepewności ±89 tys. lat (SE). Panele D i E pokazują dodatkowo dwie serie temperaturowych proxy.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/higgins2015.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kawałek rdzenia wydatowany radioizotopowo na milion (plus minus 100 tysięcy) lat ma zaburzoną stratygrafię, zatem niemożliwe było skonstruowanie &lt;em&gt;ciągłej&lt;/em&gt; serii zmian koncentracji deuteru, dwutlenku węgla i metanu w tym okresie. Zmierzony rozrzut wartości (221-277 ppm i 411-569 ppb dla CO&lt;sub&gt;2&lt;/sub&gt; i CH&lt;sub&gt;4&lt;/sub&gt;) reprezentuje, mniej więcej, zakres wahań pomiędzy glacjałem i interglacjałem, i odpowiada temu czego spodziewalibyśmy się po nieco cieplejszym środkowym plejstocenie. Potwierdza też, oczywiście, że obecny poziom dwutlenku węgla w atmosferze jest czymś niespotykanym od bardzo, bardzo dawna.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&quot;p1&quot;&gt;&lt;/a&gt;1. Severinghaus, Wolff, Brook (2010) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2010EO400001/abstract&quot;&gt;Searching for the Oldest Ice&lt;/a&gt;, Van Liefferinge, Pattyn (2013), &lt;a href=&quot;http://www.clim-past.net/9/2335/2013/cp-9-2335-2013.html&quot;&gt;Using ice-flow models to evaluate potential sites of million year-old ice in Antarctica&lt;/a&gt;, Fischer, et al (2013), &lt;a href=&quot;http://www.clim-past.net/9/2489/2013/cp-9-2489-2013.html&quot;&gt;Where to find 1.5 million yr old ice for the IPICS “Oldest-Ice” ice core&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;p2&quot;&gt;&lt;/a&gt;2. McKay, et al (1996) &lt;a href=&quot;http://www.sciencemag.org/content/273/5277/924&quot;&gt;Search for Past Life on Mars: Possible Relic Biogenic Activity in Martian Meteorite ALH84001&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;p3&quot;&gt;&lt;/a&gt;3. Higgins, et al (2015) &lt;a href=&quot;http://www.pnas.org/content/112/22/6887&quot;&gt;Atmospheric composition 1 million years ago from blue ice in the Allan Hills, Antarctica&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jun 2015 21:00:00 +0000</pubDate>
+        <link>https://doskonaleszare.github.io/articles/15/blekitny-lod</link>
+        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/blekitny-lod</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>Czy można osiągnąć neutralność węglową bez redukcji emisji?</title>
