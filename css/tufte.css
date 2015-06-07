@@ -486,6 +486,9 @@ sup.sidenote-number {
 span.newthought {
   font-variant: small-caps; }
 
+.disqus-comment-count {
+  color: green; }
+
 /* LaTeX-logo-specific styling */
 .latex sub, .latex sup {
   text-transform: uppercase; }
