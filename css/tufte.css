@@ -280,7 +280,8 @@ li.listing hr {
 
 .listing, .listing h3 {
   display: inline-block;
-  margin: 0; }
+  margin: 0;
+  width: 100%; }
 
 li.listing {
   margin: 0; }
@@ -341,7 +342,8 @@ a, .marginnote a, .sidenote a {
   color: #4010f0; }
 
 ul.content {
-  list-style: none; }
+  list-style: none;
+  width: 55%; }
 
 img {
   max-width: 100%; }
@@ -488,6 +490,20 @@ span.newthought {
 
 .disqus-comment-count {
   color: green; }
+
+.dsq-widget-list {
+  width: 40%;
+  float: right; }
+
+.dsq-widget-item {
+  font-size: 1.0rem; }
+
+.dsq-widget-comment > p {
+  font-size: 1.0rem; }
+
+.dsq-widget-meta {
+  font-size: 100%;
+  width: 100%; }
 
 /* LaTeX-logo-specific styling */
 .latex sub, .latex sup {
