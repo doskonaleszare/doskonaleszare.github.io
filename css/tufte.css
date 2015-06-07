@@ -205,11 +205,8 @@ body > header {
   max-width: 90%;
   padding-bottom: 0.5rem; }
 
-header > nav.group {
-  height: 4.5rem; }
-
 header > nav h1 {
-  font-size: 4.0rem;
+  font-size: 3.0rem;
   font-style: normal;
   color: #888;
   font-family: "Consolas", Courier, monospace;
