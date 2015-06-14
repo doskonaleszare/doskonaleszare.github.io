@@ -505,6 +505,20 @@ span.newthought {
   font-size: 100%;
   width: 100%; }
 
+.share-page {
+  text-align: center;
+  background: #aaaaaa;
+  color: white;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 45px 0; }
+  .share-page a {
+    font-weight: 700;
+    color: #fff;
+    margin-left: 10px; }
+    .share-page a:hover {
+      border-bottom: 1px dashed #fff; }
+
 /* LaTeX-logo-specific styling */
 .latex sub, .latex sup {
   text-transform: uppercase; }

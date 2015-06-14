@@ -5,9 +5,37 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jun 2015 10:27:29 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Jun 2015 10:27:29 +0000</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2015 23:13:24 +0000</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2015 23:13:24 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>2015 powtórką z 1997?</title>
+        <description>&lt;p&gt;Długoterminowe prognozy sugerują nasilenie się tegorocznego El Niño, z maksimum osiągniętym tradycyjnie w okolicach końca roku. Co ciekawe, prognozowane indeksy ENSO wskazują na co najmniej średnie El Niño.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Wiązka prognoz indeksu ENSO 3.4 wygenerowana przez kilka różnych modeli dynamicznych wiązki NMME (&lt;em&gt;North American Multi-Model Ensemble&lt;/em&gt;).&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/nino34.NMME.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Europejski &lt;a href=&quot;http://www.ecmwf.int/en/forecasts/charts/seasonal/nino-plumes-public-charts-long-range-forecast&quot;&gt;SFS&lt;/a&gt;, japoński &lt;a href=&quot;http://ds.data.jma.go.jp/tcc/tcc/products/elnino/nino_fcst/indices/indexninofcst.html&quot;&gt;EPS&lt;/a&gt; i australijski &lt;a href=&quot;http://www.bom.gov.au/climate/poama2.4/poama.shtml&quot;&gt;POAMA&lt;/a&gt; też pokazują silne El Niño pod koniec roku.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Podobno łatwiej jest przewidywać ewolucję ENSO&lt;/span&gt;  już po rozpoczęciu El Niño, tym bardziej że jesteśmy już za &lt;a href=&quot;http://www.climate.gov/news-features/blogs/enso/spring-predictability-barrier-we%E2%80%99d-rather-be-spring-break&quot;&gt;wiosenną barierą przewidywalności&lt;/a&gt;, więc jest spora szansa&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Według &lt;a href=&quot;http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/lanina/enso_evolution-status-fcsts-web.pdf&quot;&gt;Climate Prediction Center&lt;/a&gt; 80%.&lt;/span&gt; na to że El Niño nie wypali się przedwcześnie i dotrwa do świąt Bożego Narodzenia.&lt;/p&gt;
+
+&lt;p&gt;Gdyby prognozy modeli miały się sprawdzić, a ENSO 3.4 faktycznie wylądowało w okolicach +2°C, to mielibyśmy ponownie do czynienia z jednym z najsilniejszych El Niño w ostatnich kilku dekadach.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/enso19702015.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Ewolucja indeksu ENSO 3.4 w kilku ostatnich dekadach. Dane oparte o ERSST4, średnia 3-miesięczna.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Oznacza to, że nie tylko rok 2015 może być globalnie najcieplejszym w historii obserwacji, ale że rekord ten mógłby zostać pobity już w roku następnym — wszystko zależy od tego, jak będzie wyglądać końcówka El Niño na początku 2016, oraz tempo rozwoju ewentualnej La Niña. Podobna sytuacja miała miejsce 18 lat temu, gdy rekordy średniej temperatury globu pobił najpierw rok 1997, a potem 1998.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2015 23:52:00 +0000</pubDate>
+        <link>https://doskonaleszare.github.io/articles/15/2015-powtorka-z-1997</link>
+        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/2015-powtorka-z-1997</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>Błękitny lód sprzed miliona lat</title>
