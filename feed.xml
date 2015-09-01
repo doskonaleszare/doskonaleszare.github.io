@@ -5,9 +5,45 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Jul 2015 15:18:26 +0000</pubDate>
-    <lastBuildDate>Sat, 25 Jul 2015 15:18:26 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Sep 2015 09:18:13 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Sep 2015 09:18:13 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Bo latem musi być ciepło!</title>
+        <description>&lt;p&gt;Klimatologiczne lato dobiegło już końca, można więc pokusić się o krótkie podsumowanie.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;O minionym sierpniu i lecie w kontekście historycznym&lt;/span&gt; , można poczytać u &lt;a href=&quot;http://meteomodel.pl/BLOG/?p=10708&quot;&gt;Piotra Djaków&lt;/a&gt;, ja natomiast chciałbym zwrócić na popularne przekonanie, że latem musi być ciepło, że 30-stopniowe upały nie są niczym niezwykłym, a dzień z temperaturami maksymalnymi pozostającymi w okolicach 20+ jest uznawany za zimny.&lt;/p&gt;
+
+&lt;p&gt;Tymczasem mamy większą szansę na doświadczenie latem temperatur maksymalnych &lt;em&gt;poniżej&lt;/em&gt; dwudziestu stopni Celsjusza, niż &lt;em&gt;powyżej&lt;/em&gt; trzydziestu stopni. Statystycznie, na obszarze większości Polski, trzydzieści stopni Celsjusza wypada w okolicach 95 centyla temperatur maksymalnych, co oznacza że w ciągu dekady “powinniśmy” obserwować kilkadziesiąt takich dni (czyli, średnio, zaledwie kilka rocznie).&lt;/p&gt;
+
+&lt;p&gt;Rozkłady temperatur maksymalnych dla Warszawy pokazuję poniżej, dla innych obszarów Polski wyglądają podobnie (aczkolwiek zachód jest nieco cieplejszy).&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Dekadowe rozkłady temperatur maksymalnych dla lata w kolejnych dekadach drugiej połowy XX wieku i pierwszej wieku XXI.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/distJJA.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;W tym roku, głównie dzięki dotkliwej sierpniowej fali upałów, mieliśmy około 20 dni z temperaturami maksymalnymi powyżej 30 stopni. Nie powinno więc dziwić, że był to w wielu miejscach Polski najcieplejszy sierpień XX wieku i drugi najcieplejszy w historii obserwacji, ustępując tylko rekordowemu 1807.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Dobowe temperatury maksymalne lata 2015 w porównaniu z rozkładami dekadowymi.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/dist2JJA.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Co ciekawe, w tym roku tylko raz jeden raz, 10 lipca, temperatury maksymalne osiągnęły &lt;em&gt;niemal&lt;/em&gt; rekordowo niskie wartości, co zresztą wystarczyło coponiektórym do obwieszenia końca globalnego ocieplenia. Okazji do pobicia rekordów ciepła było oczywiście znacznie więcej.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/okecie2015.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Dobowe temperatury maksymalne mierzone przez stację Warszawa-Okęcie.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Zła wiadomość jest taka, że wraz z globalnym ociepleniem i przesuwaniem się rozkładu temperatur w kierunku wyższych wartości, prawdopodobieństwo występowania takich fal upałów będzie rosło, w dodatku nieliniowo w najmniej przyjemnym dla nas ogonie rozkładu (czyli trzydziestu kilku stopni Celsjusza). Nie wątpię że są osoby, które w dalszym ciągu będą utrzymywać, że im taki klimat odpowiada, podejrzewam jednak iż opinie takie wygłaszane są głównie wewnątrz klimatyzowanych pomieszczeń.&lt;/p&gt;
+
+&lt;p&gt;Niestety, jak się &lt;a href=&quot;http://www.pse.pl/index.php?dzid=14&amp;amp;did=2471&quot;&gt;przekonaliśmy 10 sierpnia&lt;/a&gt;, klimatyzacja nie jest optymalną strategią adaptacyjną.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2015 11:00:00 +0000</pubDate>
+        <link>https://doskonaleszare.github.io/articles/15/bo-latem-musi-byc-cieplo</link>
+        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/bo-latem-musi-byc-cieplo</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>El Niño - aktualizacja 1</title>
