@@ -5,8 +5,8 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 26 Sep 2015 10:25:02 +0000</pubDate>
-    <lastBuildDate>Sat, 26 Sep 2015 10:25:02 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Sep 2015 09:19:43 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Sep 2015 09:19:43 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;!--more--&gt;
 
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Zostało to zresztą świadomie zracjonalizowane przez prof. Hołysta&lt;/span&gt; , który przedstawił się jako agnostyk globalnego ocieplenia, wymieniający wątpliwości i niepewności związanych z klimatem, bez których rozstrzygniecia nie da się określić roli czynników atropogenicznych. A wątpliwości wymienianych przez prof. Hołysta jest mnóstwo: co do przyczyn zmian koncentracji pary wodnej w atmosferze i jej udziale w efekcie cieplarnianym; emisji metanu z topnienia wiecznej zmarzliny; dwutlenku węgla ze spalania biomasy; niepewności w pomiarach nierównowagi radiacyjnej i pochłaniania ciepła przez oceany; czy cyrkulacji atmosferycznej na planetach w rezonansie koorbitalnym ze Słońcem.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Zostało to zresztą świadomie zracjonalizowane przez prof. Hołysta&lt;/span&gt; , który przedstawił się jako agnostyk globalnego ocieplenia, wymieniający wątpliwości i niepewności związanych z klimatem, bez których rozstrzygniecia nie da się określić roli czynników atropogenicznych. A wątpliwości wymienianych przez prof. Hołysta jest mnóstwo: co do przyczyn zmian koncentracji pary wodnej w atmosferze i jej udziale w efekcie cieplarnianym; emisji metanu z topnienia wiecznej zmarzliny; dwutlenku węgla ze spalania biomasy; niepewności w pomiarach nierównowagi radiacyjnej i pochłaniania ciepła przez oceany; czy cyrkulacji atmosferycznej na planetach w rezonansie orbitalnym ze Słońcem.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Chodzi mi tylko o to, że pokazuję że mogą być procesy, na przykład spowalniające ruch Ziemi, które będą systematycznie prowadziły do zmian klimatycznych. Może się zmieniać orbita, może się zmieniać aktywność Słońca […] jest parowanie oceanów. Ja teraz świadomie nie używam żadnych liczb, tylko podaję argumenty które należy sprawdzić.&lt;/p&gt;
@@ -38,6 +38,8 @@
 &lt;p&gt;&lt;em&gt;Wiemy&lt;/em&gt; co jest główną przyczyną ocieplenia. Wiemy, jaki wpływ na skład atmosfery mają antropogeniczne emisje dwutlenku węgla, potrafimy obliczyć wynikające z nich zmiany przepływu promieniowania podczerwonego przez atmosferę, i potrafimy oszacować konsekwencje klimatyczne z wystarczajcą dokładnością, by przypisać czynnikom antropogenicznym co najmniej połowę ocieplenia od roku 1950. Co więcej, jednym z przewidywań teorii antropogenicznego globalnego ocieplenia, sformułowanym jeszcze pod koniec XIX wieku &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, jest towarzyszący ociepleniu wzrost zawartości pary wodnej w atmosferze, działający jednocześnie jak dodatnie sprzężenie zwrotne.&lt;/p&gt;
 
 &lt;p&gt;Gdyby to inne, nienazwane przez prof. Hołysta “procesy klimatyczne” wymuszały, poprzez zmiany zawartości pary wodnej w atmosferze, zmiany temperatury, prowadziłoby to do jeszcze większej zagadki: dlaczego dwutlenek węgla &lt;em&gt;nie powoduje&lt;/em&gt; ocieplenia, mimo że zgodnie z obowiązującą fizyką &lt;em&gt;powinien&lt;/em&gt; je powodować? A jeśli powoduje ocieplenie, dlaczego nie obserwujemy znacznie większej zmiany temperatury: tej wywołanej przez klimatyczne krasnoludki prof. Hołysta, oraz dodatkowo tej spowodowanej wzrostem zawartości dwutlenku węgla?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/tpw.png&quot; /&gt;Zmiany zawartości pary wodnej w atmosferze w latach 1988-2015. Dane: RSS.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Jeszcze większym nonsensem jest teza, że “bardzo łatwo” można zaburzyć równowagę pomiędzy wodą w oceanach i atmosferą. Dane obserwacyjne demonstrują, że jest wręcz przeciwnie, a ilość pary wodnej w atmosferze jest wartością bardzo stabilną. Policzmy: dobowy globalny &lt;em&gt;opad&lt;/em&gt; wynosi około 2,8 kg/m&lt;sup&gt;2&lt;/sup&gt; &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, zatem suma opadu dla całego globu wynosi 520 tys. km&lt;sup&gt;3&lt;/sup&gt; rocznie.&lt;br /&gt;
 Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu rocznym oscyluje pomiędzy 23 a 26 kg/m&lt;sup&gt;2&lt;/sup&gt; &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;, wahania międzyroczne są rzędu 0,2 kg/m&lt;sup&gt;2&lt;/sup&gt;, a trend długoletni wynosi około 0,34 kg/m&lt;sup&gt;2&lt;/sup&gt;, czyli 173 km&lt;sup&gt;3&lt;/sup&gt; na dekadę &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
