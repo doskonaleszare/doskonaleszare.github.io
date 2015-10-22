@@ -5,9 +5,124 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Sep 2015 09:19:43 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Sep 2015 09:19:43 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Oct 2015 19:55:04 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Oct 2015 19:55:04 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Evans i pochodne cząstkowe</title>
+        <description>&lt;p&gt;Słyszeliście o genialnym australijskim inżynierze, który obalił teorię antropogenicznego globalnego ocieplenia? Nie?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Jak podały media&lt;/span&gt;  (a tak naprawdę &lt;a href=&quot;http://www.perthnow.com.au/news/opinion/miranda-devine-perth-electrical-engineers-discovery-will-change-climate-change-debate/news-story/d1fe0f22a737e8d67e75a5014d0519c6&quot;&gt;jedna niezbyt mądra pani z jednego tabloidowego portalu&lt;/a&gt;):&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A mathematical discovery by Perth-based electrical engineer Dr David Evans may change everything about the climate debate, on the eve of the UN climate change conference in Paris next month. A former climate modeller for the Government’s Australian Greenhouse Office, with six degrees in applied mathematics, Dr Evans has unpacked the architecture of the basic climate model which underpins all climate science. He has found that, while the underlying physics of the model is correct, it had been applied incorrectly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Matematyczne odkrycie” Davida Evansa zostało opisane tam, gdzie zwykle publikuje się takie rzeczy: &lt;a href=&quot;http://joannenova.com.au/2015/09/new-science-4-error-1-partial-derivatives/&quot;&gt;w serii kilkunastu notek na blogu jego żony&lt;/a&gt;. Nie jest to medium, które sprzyjałoby krytycznej i obiektywnej analizie, zwłaszcza w połączeniu z wybujałym ego i przeświadczeniem o własnej wyjątkowości &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zacytowany fragment mówi o “architekturze podstawowego modelu klimatu”, i sugeruje, jakoby chodziło o globalne modele klimatu takie jak ten&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4794mgJLTbU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;których symulacje są na przykład podstawą prognoz zmian klimatu w XXI wieku.&lt;/p&gt;
+
+&lt;p&gt;Modele takie, nazywane powszechnie &lt;em&gt;Earth System Models&lt;/em&gt; (albo czasami, z powodów historycznych, &lt;em&gt;General Circulation Models&lt;/em&gt; albo &lt;em&gt;Global Climate Models&lt;/em&gt;), są specjalnymi programami komputerowymi rozwiązującymi numerycznie równania mechaniki płynów, oraz symulujące setki procesów fizycznych, chemicznych i biologicznych zachodzących w atmosferze, oceanach i na lądach.&lt;/p&gt;
+
+&lt;p&gt;Okazuje się jednak, że “model” który krytykuje Evans to coś jakby zupełnie innego: jedno równanie opisujące, w zgrubnym, zero-wymiarowym przybliżeniu, bilans energetyczny całej planety. Czytelnicy niniejszego bloga pewnie go kojarzą, ale dla pewności przypomnę go poniżej.&lt;/p&gt;
+
+&lt;p&gt;Niech &lt;script type=&quot;math/tex&quot;&gt;G&lt;/script&gt; oznacza strumień netto promieniowania uciekającego ze szczytu atmosfery, czyli różnicę pomiędzy promieniowaniem docierającym ze Słońca a odbitym oraz emitowanym przez Ziemię. W stanie równowagowym oba strumienie promieniowania się równoważą, czyli &lt;script type=&quot;math/tex&quot;&gt;G = 0&lt;/script&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zaburzmy &lt;script type=&quot;math/tex&quot;&gt;G&lt;/script&gt; o jakieś &lt;script type=&quot;math/tex&quot;&gt;dG&lt;/script&gt;, na przykład podkręcając jasność Słońca, zwiększając koncentrację gazów cieplarnianych w atmosferze, albo zasnuwając niebo pyłem wulkanicznym. Zaburzany paramentr niech będzie oznaczony &lt;script type=&quot;math/tex&quot;&gt;\Lambda&lt;/script&gt;, samo zaburzenie to &lt;script type=&quot;math/tex&quot;&gt;d\Lambda&lt;/script&gt;, a wpływ na bilans radiacyjny u szczytu atmosfery to &lt;script type=&quot;math/tex&quot;&gt;\frac{\partial G}{\partial\Lambda}d\Lambda&lt;/script&gt;. Dla wygody możemy nazwać tę wielkość wymuszeniem radiacyjnym i zapisać jako &lt;script type=&quot;math/tex&quot;&gt;F&lt;/script&gt;. Aby odzyskać równowagę radiacyjną, temperatura powierzchni Ziemi &lt;script type=&quot;math/tex&quot;&gt;T&lt;/script&gt; będzie się musiała zmienić o &lt;script type=&quot;math/tex&quot;&gt;dT&lt;/script&gt;.&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Gdyby się nie zmieniła, Ziemia musiałaby odzyskać równowagę w jakiś inny sposób, poprzez zmianę innego parametru, i wtedy pytalibyśmy o czułość tego właśnie parametru na wymuszenie.&lt;/span&gt; Iloraz obu wielkości, &lt;script type=&quot;math/tex&quot;&gt;\frac{dT}{d\Lambda}&lt;/script&gt;, jest czułością klimatu na wymuszenie, i wartość tego parametru chcielibyśmy oszacować w jakiś sposób.&lt;/p&gt;
+
+&lt;p&gt;Ponieważ w tym prostym modelu &lt;script type=&quot;math/tex&quot;&gt;G&lt;/script&gt; jest funkcją tylko &lt;script type=&quot;math/tex&quot;&gt;T&lt;/script&gt; i &lt;script type=&quot;math/tex&quot;&gt;\Lambda&lt;/script&gt;, różniczka zupełna &lt;script type=&quot;math/tex&quot;&gt;G&lt;/script&gt; ma postać&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}&lt;br /&gt;
+dG = \frac{\partial G}{\partial T}dT + \frac{\partial G}{\partial\Lambda}d\Lambda&lt;br /&gt;
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;Ponieważ w stanie równowagowym (&lt;script type=&quot;math/tex&quot;&gt;G = 0&lt;/script&gt;) pierwszy człon (zmiana temperatury) musi bilansować człon drugi (zaburzenie wymuszeniem radiacyjnym), czułość klimatu równa jest&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}&lt;br /&gt;
+\frac{dT}{d\Lambda} = -\frac{\frac{\partial G}{\partial\Lambda}}{\frac{\partial G}{\partial T}}&lt;br /&gt;
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;Zwykle jednak chcielibyśmy wiedzieć coś więcej. Formalizm o którym pisze Evans służy do analizy klimatycznych &lt;em&gt;sprzężeń zwrotnych&lt;/em&gt;, to znaczy dekompozycji zmiany klimatu na różne czynniki o różnym wkładzie &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wyobraźmy sobie na przykład, że &lt;script type=&quot;math/tex&quot;&gt;\Lambda&lt;/script&gt; to jasność Słońca, którą stopniowo zmniejszamy. Początkowo temu wymuszeniu odpowiadać będzie mniej-więcej liniowy spadek temperatury Ziemi, z którym związany będzie przyrost lądolodów i powierzchni lodu morskiego. Ponieważ lód ma wysokie albedo, Ziemia będzie sukcesywnie odbijać coraz więcej promieniowania słonecznego, co spowoduje dalszy spadek temperatury. Po przekroczeniu pewnej granicy to sprzężenie zwrotne będzie tak silne, że dojdzie do dalszego samoistnego spadku temperatury i rozrostu pokrywy lodowej, a klimat przeskoczy do nowego stanu, zwanego “Ziemią-śnieżką”.&lt;/p&gt;
+
+&lt;p&gt;Takich sprzężeń zwrotnych w systemie klimatycznym jest sporo, i chcielibyśmy naturalnie wiedzieć które z nich są ważne, które zaniedywalne, które wzmacniają, a które osłabiają reakcję systemu klimatycznego na wymuszenia radiacyjne. Zwykle mamy więc w równaniu więcej składników, np.&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}&lt;br /&gt;
+0 = \frac{\partial G}{\partial T}dT + \frac{\partial G}{\partial\Lambda}d\Lambda + \frac{\partial G}{\partial A}dA&lt;br /&gt;
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;gdzie &lt;script type=&quot;math/tex&quot;&gt;A&lt;/script&gt; oznacza kolejną zmienną, na przykład wartość albedo. Możemy przepisać to równanie zastępując środkowy człon (wymuszenie radiacyjne) przez &lt;script type=&quot;math/tex&quot;&gt;F&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}&lt;br /&gt;
+-F = \frac{\partial G}{\partial T}dT + \frac{\partial G}{\partial A}dA&lt;br /&gt;
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;zatem, jeśli &lt;script type=&quot;math/tex&quot;&gt;A&lt;/script&gt; jest funkcją &lt;script type=&quot;math/tex&quot;&gt;T&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}&lt;br /&gt;
+dT = -\frac{F}{\frac{\partial G}{\partial T} + \frac{\partial G}{\partial A}\frac{dA}{dT}}&lt;br /&gt;
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;Co już wygląda bardziej znajomo: zmiana temperatury równa jest ilorazowowi wymuszenia radiacyjnego i sumy składników w mianowniku, co możemy przepisać jako&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}&lt;br /&gt;
+dT = -\frac{F}{\lambda_T + \lambda_A}&lt;br /&gt;
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\lambda_T&lt;/script&gt; oznacza tutaj zmianę strumienia promieniowania wynikająca z samej zmiany temperatury &lt;script type=&quot;math/tex&quot;&gt;\frac{\partial G}{\partial T}&lt;/script&gt; (bo cieplejsze ciało więcej emituje), a &lt;script type=&quot;math/tex&quot;&gt;\lambda_A&lt;/script&gt; to sprzężenie zwrotne związane z tą zmianą temperatury, &lt;script type=&quot;math/tex&quot;&gt;\frac{\partial G}{\partial A}\frac{dA}{dT}&lt;/script&gt; (bo w cieplejszym klimacie jest mniej śniegu i lodu).&lt;/p&gt;
+
+&lt;p&gt;Jeśli zdefiniujemy &lt;script type=&quot;math/tex&quot;&gt;dT_{\rvert A} = -\frac{F}{\lambda_T}&lt;/script&gt; jako wzrost temperatury planety pod nieobecność sprzężenia zwrotnego &lt;script type=&quot;math/tex&quot;&gt;A&lt;/script&gt;, oraz &lt;script type=&quot;math/tex&quot;&gt;\alpha = -\frac{\lambda_A}{\lambda_T}&lt;/script&gt; jako współczynnik sprzężenia zwrotnego &lt;script type=&quot;math/tex&quot;&gt;A&lt;/script&gt;, możemy to równanie zapisać w postaci&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}&lt;br /&gt;
+dT = \frac{dT_{\rvert A}}{1-\alpha}&lt;br /&gt;
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;Jeśli &lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
+0 &lt; \alpha &lt; 1 %]]&gt;&lt;/script&gt;, jest to sprzężenie zwrotne dodatnie, wzmacniające wzrost temperatury. Przy &lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
+\alpha &lt; 0 %]]&gt;&lt;/script&gt; jest to sprzężenie ujemne, osłabiające wzrost temperatury w stosunku do wartości referencyjnej &lt;script type=&quot;math/tex&quot;&gt;dT_{\rvert A}&lt;/script&gt;. W tym konkretnym przypadku tę wartość referencyjną nazywa się czułością Plancka, bo oznacza wzrost temperatury wynikający ze zmiany mocy wypromieniowywanej przez ciało doskonale czarne.&lt;/p&gt;
+
+&lt;p&gt;Taki sposób myślenia o złożonych systemach, i ich dekompozycja na wymuszenia i sprzężenia zwrotne jest dość standardowy, i nie jest spotykany tylko klimatologii. Evans uważa jednak, że jest niepoprawny, ze względu na występowanie pochodnych cząstkowych.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;When a quantity depends on dependent variables (variables that depend on or affect one another), a partial derivative of the quantity “has no definite meaning” (from Auroux 2010, who gives a worked example), because of ambiguity over which variables are truly held constant and which change because they depend on the variable allowed to change. So even if a mathematical expression for the net TOA downward flux G as a function of surface temperature and the other climate variables somehow existed, and a technical application of the partial differentiation rules produced something, we would not be sure what that something was — so it would be of little use in a model, let alone for determining something as vital as climate sensitivity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Cytowany przez niego “Aurox 2010” to notatki do &lt;a href=&quot;http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-43-clearer-notation/MIT18_02SC_MNotes_n1_2.pdf&quot;&gt;kursu rachunku różniczkowego i całkowego&lt;/a&gt; prowadzonego na MIT. Można jednak odnieść wrażenie, że Evans albo tych notatek nie doczytał, albo nie zrozumiał, skoro zamieszczony tam wywód kończy się konkluzją, że wystarczy odpowiednia notacja by dwuznaczności zniknęły, i nie było żadnych wątpliwości które zmienne są traktowane jako ustalone. Teza Evansa że “nie bylibyśmy pewni” co jest wynikiem różniczkowania jest tutaj kompletnym absurdem.&lt;/p&gt;
+
+&lt;p&gt;Ale nie, Evans brnie dalej. Według niego samo ustalanie wartości zmiennych w przypadku funkcji odnoszącej się do klimatu jest niemożliwe, gdyż&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;[T]here are many variables and they are not independent — they form a rich web of feedbacks and indirect interconnections. As a rule of thumb, “in climate, everything depends on everything”. Consequently it is not possible to hold everything constant except for only two variables, as required for partial derivatives to exist. For example, warming the surface affects nearly every climate variable, not just the OLR. The partial derivatives of dependent variables are strictly hypothetical and not empirically verifiable – like the proverbial angels on a pinhead. […] The notion of “holding everything else constant” can be ambiguous or arbitrary in climate. Because the climate variables are so interconnected, it may be impossible to plausibly and unambiguously hold everything constant except two variables.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nie rozumiem (jak kilka &lt;a href=&quot;http://rankexploits.com/musings/2015/questions-to-david-evans-what-do-you-mean-about-partial-derivatives/&quot;&gt;innych&lt;/a&gt; &lt;a href=&quot;http://moyhu.blogspot.co.uk/2015/10/on-partial-derivatives-people-have-been.html&quot;&gt;osób&lt;/a&gt;) z czego ma wynikać ta niemożność ustalenia zmiennych i policzenia dowolnych pochodnych cząstkowych funkcji zmiennych których zależności znamy. Nawet gdyby, jak twierdzi Evans, “wszystko było powiązane ze wszystkim”&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Co jest prawdą tylko w filozoficznym znaczeniu — ze względu na liczbę stopni swobody systemu klimatycznego, wiele interesujących nas zmiennych możemy traktować jako efektywnie niezależne.&lt;/span&gt;, nie ma żadnej przeszkody by obliczać pochodną funkcji względem jakiejś zmiennej przy założeniu że wszystkie pozostałe &lt;em&gt;z wyjątkiem jednej&lt;/em&gt; są niezależne &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Co więcej, nie ma też &lt;em&gt;technicznych&lt;/em&gt; przeszkód by nie traktować wszystkich zmiennych klimatycznych jako niezależne. Choć wiemy, że albedo Ziemi zależy od temperatury i stanowi wzmacniające sprzężenie zwrotne, nie ma nic niepoprawnego w próbie odpowiedzi na pytanie, “co by było gdyby albedo Ziemi miało wartość niezależną od temperatury”. Tak samo, jeśli próbujemy oszacować rolę efektu cieplarnianego, nie ma żadnych przeszkód by obliczyć przepływ promieniowania przez atmosferę pozbawioną gazów cieplarnianych, ale poza tym o własnościach identycznych z rzeczywistą atmosferą. Jest prawdą, że przypadki takie są “czysto hipotetyczne” i “nieweryfikowalne empirycznie”. Drabina w stodole Einsteina też taka jest, ale przecież pomaga nam zrozumieć konsekwencje teorii względności.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Przykładem może być nadmuchiwanie życiorysu Evansa i jego kompetencji. Jest prawdą, że przez jakiś czas współpracował on z &lt;em&gt;Australian Greenhouse Office&lt;/em&gt;, czyli instytucji będącej odpowiednikiem polskiego Krajowego Ośrodka Bilansowania i Zarządzania Emisjami. AGO i KOBIZE zajmują się ewidencjonowaniem emisji gazów cieplarnianych; i choć wymaga to tworzenia modeli (zwłaszcza przy szacowaniu emisji z sektorów takich jak leśnictwo czy rolnictwo), i choć modele te uwzględniają warunki meteorologiczne i klimatyczne (na przykład zmiany pochłaniania i emisji przez ekosystemy leśne w zależności od temperatury i opadów), to ciągle nie jest to “modelowanie klimatu”. Tym bardziej, że konsultacje Evansa polegały na przepisaniu &lt;a href=&quot;http://dataservices.efi.int/casfor/downloads/co2fix1_2_manual.pdf&quot;&gt;modelu ekosystemu opracowanego przez kogoś innego&lt;/a&gt; z FORTRANa do Excela.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. A dokładniej, Evans podaje tutaj odnośniki do przeglądówki &lt;a href=&quot;http://www.annualreviews.org/doi/abs/10.1146/annurev.energy.25.1.441&quot;&gt;Helda i Sodena&lt;/a&gt; oraz podręcznika Pierrehumberta.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Przy czym wybór zestawu zmiennych niezależnych może być kwestią wygody, albo mieć głębsze znacznie związane z fizyczną interpretacją sprzężeń zwrotnych. Dobrym przykładem może być traktowanie sprzężenia pary wodnej w &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2011JD017221/abstract&quot;&gt;Ingram 2012&lt;/a&gt; i &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00721.1&quot;&gt;Held i Shell 2012&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Oct 2015 23:00:00 +0000</pubDate>
+        <link>https://doskonaleszare.github.io/articles/15/evans-i-pochodne-czastkowe</link>
+        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/evans-i-pochodne-czastkowe</guid>
+        
+        
+        <category>negacjonizm</category>
+        
+      </item>
     
       <item>
         <title>Hołyst</title>
@@ -39,7 +154,7 @@
 
 &lt;p&gt;Gdyby to inne, nienazwane przez prof. Hołysta “procesy klimatyczne” wymuszały, poprzez zmiany zawartości pary wodnej w atmosferze, zmiany temperatury, prowadziłoby to do jeszcze większej zagadki: dlaczego dwutlenek węgla &lt;em&gt;nie powoduje&lt;/em&gt; ocieplenia, mimo że zgodnie z obowiązującą fizyką &lt;em&gt;powinien&lt;/em&gt; je powodować? A jeśli powoduje ocieplenie, dlaczego nie obserwujemy znacznie większej zmiany temperatury: tej wywołanej przez klimatyczne krasnoludki prof. Hołysta, oraz dodatkowo tej spowodowanej wzrostem zawartości dwutlenku węgla?&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/tpw.png&quot; /&gt;Zmiany zawartości pary wodnej w atmosferze w latach 1988-2015. Dane: RSS.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/tpw.png&quot; /&gt;Zmiany zawartości pary wodnej w atmosferze nad oceanami w latach 1988-2015. Źródło danych: RSS.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Jeszcze większym nonsensem jest teza, że “bardzo łatwo” można zaburzyć równowagę pomiędzy wodą w oceanach i atmosferą. Dane obserwacyjne demonstrują, że jest wręcz przeciwnie, a ilość pary wodnej w atmosferze jest wartością bardzo stabilną. Policzmy: dobowy globalny &lt;em&gt;opad&lt;/em&gt; wynosi około 2,8 kg/m&lt;sup&gt;2&lt;/sup&gt; &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, zatem suma opadu dla całego globu wynosi 520 tys. km&lt;sup&gt;3&lt;/sup&gt; rocznie.&lt;br /&gt;
 Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu rocznym oscyluje pomiędzy 23 a 26 kg/m&lt;sup&gt;2&lt;/sup&gt; &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;, wahania międzyroczne są rzędu 0,2 kg/m&lt;sup&gt;2&lt;/sup&gt;, a trend długoletni wynosi około 0,34 kg/m&lt;sup&gt;2&lt;/sup&gt;, czyli 173 km&lt;sup&gt;3&lt;/sup&gt; na dekadę &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
@@ -65,9 +180,9 @@ Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu roczny
 &lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
 &lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Arrhenius (1897) &lt;a href=&quot;http://www.jstor.org/stable/40670917&quot;&gt;On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground&lt;/a&gt;.&lt;br /&gt;
 &lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Np. Rodell, et al. (2015) &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00555.1&quot;&gt;The Observed State of the Water Cycle in the Early 21st Century&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Vonder Haar, et al. (2012) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2012GL052094/full&quot;&gt;Weather and climate analyses using improved global water vapor observations&lt;/a&gt;, Trenberth i Smith (2005) &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-3299.1&quot;&gt;The Mass of the Atmosphere: A Constraint on Global Analyses&lt;/a&gt;, Berrisford, et al (2011) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/qj.864/pdf&quot;&gt;Atmospheric conservation properties in ERA-Interim&lt;/a&gt;, Wang et al. (2006) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2006JD007529/full&quot;&gt;A near-global, 2-hourly data set of atmospheric precipitable water from ground-based GPS measurements&lt;/a&gt;,&lt;br /&gt;
+&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Vonder Haar, et al. (2012) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2012GL052094/full&quot;&gt;Weather and climate analyses using improved global water vapor observations&lt;/a&gt;, Trenberth i Smith (2005) &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-3299.1&quot;&gt;The Mass of the Atmosphere: A Constraint on Global Analyses&lt;/a&gt;, Berrisford, et al (2011) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/qj.864/pdf&quot;&gt;Atmospheric conservation properties in ERA-Interim&lt;/a&gt;, Wang, et al. (2006) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2006JD007529/full&quot;&gt;A near-global, 2-hourly data set of atmospheric precipitable water from ground-based GPS measurements&lt;/a&gt;, Grossi, et al (2015) &lt;a href=&quot;http://www.atmos-meas-tech.net/8/1111/2015/amt-8-1111-2015.pdf&quot;&gt;Total column water vapour measurements from GOME-2 MetOp-A and MetOp-B&lt;/a&gt;.&lt;br /&gt;
 &lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Policzone jako jedno odchylenie standardowe i trend liniowy z serii TPW RSS wersja 7.&lt;br /&gt;
-&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Np. Wu, et al. (2013) &lt;a href=&quot;http://www.nature.com/nclimate/journal/v3/n9/full/nclimate1932.html&quot;&gt;Anthropogenic impact on Earth’s hydrological cycle&lt;/a&gt;&lt;/p&gt;
+&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Np. Wu, et al. (2013) &lt;a href=&quot;http://www.nature.com/nclimate/journal/v3/n9/full/nclimate1932.html&quot;&gt;Anthropogenic impact on Earth’s hydrological cycle&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 12:00:00 +0000</pubDate>
         <link>https://doskonaleszare.github.io/articles/15/holyst</link>
