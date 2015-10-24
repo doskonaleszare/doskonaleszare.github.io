@@ -222,6 +222,9 @@ header > nav h1 {
   vertical-align: baseline; }
 
 header > nav a {
+  color: #888; }
+
+header > nav a.about {
   font-size: 1.2rem;
   font-family: "Didact Gothic", Calibri, sans-serif;
   letter-spacing: 0.15em;

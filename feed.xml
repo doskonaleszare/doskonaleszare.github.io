@@ -3,11 +3,52 @@
   <channel>
     <title>Doskonale Szare</title>
     <description>Blog o klimacie</description>
-    <link>https://doskonaleszare.github.io/</link>
-    <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Oct 2015 19:55:04 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2015 19:55:04 +0000</lastBuildDate>
+    <link>http://doskonaleszare.github.io/</link>
+    <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 24 Oct 2015 13:35:38 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2015 13:35:38 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Jeszcze o parowaniu</title>
+        <description>&lt;p&gt;Tym razem przełomowego odkrycia dokonali polscy naukowcy.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Grupa prof. Hołysta z Instytutu Chemii Fizycznej&lt;/span&gt;  opublikowała &lt;a href=&quot;http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm01508a&quot;&gt;artykuł&lt;/a&gt; z dziedziny dynamiki molekularnej, opisujący wyniki symulacji procesu parowania. Jak to zwykle się robi, publikacji towarzyszy informacja prasowa, wypuszczona w &lt;a href=&quot;http://ichf.edu.pl/press/2015/10/IChF151022a_PL.pdf&quot;&gt;języku polskim&lt;/a&gt; i &lt;a href=&quot;http://ichf.edu.pl/press/2015/10/IChF151022a_EN.pdf&quot;&gt;angielskim&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Informacja ta kończy się takim oto kwiatkiem:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Odkrycie naukowców z IChF PAN ma ogromne znaczenie m.in. dla zrozumienia rzeczywistych mechanizmów odpowiedzialnych za globalne ocieplenie. Wbrew potocznemu przekonaniu, gazem cieplarnianym najobficiej występującym w atmosferze naszej planety nie jest dwutlenek węgla, lecz para wodna. Wiadomo jednocześnie, że prędkości przepływów mas powietrza nad oceanami mogą znacznie przekraczać 100 km na godzinę, a zatem z pewnością wpływają na szybkość parowania. Dotychczasowe oceny tempa parowania oceanów muszą więc być obarczone błędami, co z pewnością rzutuje na dokładność przewidywań współczesnych modeli ziemskiego klimatu.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Tezy te skomentował już &lt;a href=&quot;https://www.facebook.com/naukaoklimacie/posts/977249809002229&quot;&gt;prof. Malinowski&lt;/a&gt;, mój komentarz jest w zasadzie taki sam, ale bardziej dosadny: odkrycie naukowców z IChF PAN nie ma &lt;em&gt;żadnego&lt;/em&gt; znaczenia dla “zrozumienia rzeczywistych mechanizmach odpowiedzialnych za globalne ocieplenie”; klimatolodzy doskonale zdają sobie sprawę z roli pary wodnej w systemie klimatycznym; dotychczasowe oceny tempa parowania oceanów &lt;em&gt;nie są&lt;/em&gt; oparte o wyliczenia z równania Hertza-Knudsena; a współczesne modele klimatu &lt;em&gt;nie używają&lt;/em&gt; równania Hertza-Knudsena do parametryzowania parowania z powierzchni oceanów &lt;a href=&quot;przyp1&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Domyślam się że te “rzeczywiste mechanizmy odpowiedzialne za globalne ocieplenie” to aluzja do przedstawionego &lt;a href=&quot;http://doskonaleszare.github.io/articles/15/holyst/&quot;&gt;niedawno pomysłu prof. Hołysta&lt;/a&gt;, zgodnie z którym jakieś nieznane czynniki powodują zwiększone parowanie, większą koncentrację pary wodnej w atmosferze, i w konsekwencji wzrost temperatury. I o ile dziwiło mnie, że swoimi pomysłami prof. Hołyst postanowił się podzielić z publicznością, można byłoby jeszcze od biedy uznać to za swobodne spekulacje, do których ma prawo każdy, nawet naukowiec wypowiadający się na antenie polskiego radia.&lt;/p&gt;
+
+&lt;p&gt;Tym razem jednak, w notkach prasowych wypuszczonych w świat przez IChF, autorzy (bo zakładam, że nie pisał ich żaden biedny stażysta) dopisują do swojego artykułu konkluzje, które wcale z niego nie wynikają, i wygłaszają &lt;em&gt;ex cathedra&lt;/em&gt; (“&lt;em&gt;muszą&lt;/em&gt; więc”, “co &lt;em&gt;z pewnościa&lt;/em&gt; rzutuje”…) bzdury na temat o którym niewiele wiedzą, z pełną świadomością że ich słowa zostaną powtórzone przez media i serwisy prasowe (m. in. &lt;a href=&quot;http://naukawpolsce.pap.pl/aktualnosci/news,407035,parowanie-do-poprawki--a-wraz-z-nim-globalne-ocieplenie.html&quot;&gt;PAP&lt;/a&gt;, &lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-10/iopc-efr102215.php&quot;&gt;EurekAlert&lt;/a&gt;, &lt;a href=&quot;http://www.sciencedaily.com/releases/2015/10/151022103535.htm&quot;&gt;ScienceDaily&lt;/a&gt;, trafiły nawet do &lt;a href=&quot;http://tvnmeteo.tvn24.pl/informacje-pogoda/ciekawostki,49/parowanie-do-poprawki-przelomowe-odkrycie-polskich-naukowcow,183448,1,0.html&quot;&gt;TVN&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;A przecież odkrycie Hołysta, Litniewskiego i Jakubczaka jest interesujące samo w sobie, i jego wagi nie umniejsza to, że &lt;em&gt;nie ma&lt;/em&gt; ono bezpośrednich związków z globalnym ociepleniem.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. W każdym znanym mi modelu fizyka warstwy przyziemnej atmosfery posiada mniej więcej następującą parametryzację parowania:&lt;/p&gt;
+
+&lt;p&gt;\begin{equation}&lt;br /&gt;
+F_\psi = \rho C_\psi \lvert v \rvert (\psi_1 - \psi_S)&lt;br /&gt;
+\end{equation}&lt;/p&gt;
+
+&lt;p&gt;gdzie &lt;script type=&quot;math/tex&quot;&gt;\rho&lt;/script&gt; to gęstość powietrza, &lt;script type=&quot;math/tex&quot;&gt;v&lt;/script&gt; to wektor prędkości poziomej najniższej warstwy atmosfery modelu, &lt;script type=&quot;math/tex&quot;&gt;(\psi_1 - \psi_S)&lt;/script&gt; to różnica w wilgotności pomiędzy powierzchnią oceanu a powietrzem znajdującym się bezpośrednio nad nim, a &lt;script type=&quot;math/tex&quot;&gt;C_\psi&lt;/script&gt; to współczynnik transportu który można wyznaczyć &lt;a href=&quot;http://www.igf.fuw.edu.pl/wyklady/fwga/wyklad07.pdf&quot;&gt;z Monina-Obuchowa&lt;/a&gt;. Przykładem może być np. NCAR Community Atmosphere Model (&lt;a href=&quot;http://www.cesm.ucar.edu/models/atm-cam/docs/cam2.0/description/node90.html&quot;&gt;tutaj w wersji 2&lt;/a&gt;, ale ten kawałek fizyki modelu się akurat nie zmienił)&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Oct 2015 14:00:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/15/jeszcze-o-parowaniu</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/jeszcze-o-parowaniu</guid>
+        
+        
+        <category>negacjonizm</category>
+        
+      </item>
     
       <item>
         <title>Evans i pochodne cząstkowe</title>
@@ -116,8 +157,8 @@ dT = \frac{dT_{\rvert A}}{1-\alpha}&lt;br /&gt;
 &lt;p&gt;&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Przy czym wybór zestawu zmiennych niezależnych może być kwestią wygody, albo mieć głębsze znacznie związane z fizyczną interpretacją sprzężeń zwrotnych. Dobrym przykładem może być traktowanie sprzężenia pary wodnej w &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2011JD017221/abstract&quot;&gt;Ingram 2012&lt;/a&gt; i &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-11-00721.1&quot;&gt;Held i Shell 2012&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Oct 2015 23:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/evans-i-pochodne-czastkowe</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/evans-i-pochodne-czastkowe</guid>
+        <link>http://doskonaleszare.github.io/articles/15/evans-i-pochodne-czastkowe</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/evans-i-pochodne-czastkowe</guid>
         
         
         <category>negacjonizm</category>
@@ -185,8 +226,8 @@ Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu roczny
 &lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Np. Wu, et al. (2013) &lt;a href=&quot;http://www.nature.com/nclimate/journal/v3/n9/full/nclimate1932.html&quot;&gt;Anthropogenic impact on Earth’s hydrological cycle&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 12:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/holyst</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/holyst</guid>
+        <link>http://doskonaleszare.github.io/articles/15/holyst</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/holyst</guid>
         
         
         <category>negacjonizm</category>
@@ -221,8 +262,8 @@ Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu roczny
 &lt;p&gt;Niestety, jak się &lt;a href=&quot;http://www.pse.pl/index.php?dzid=14&amp;amp;did=2471&quot;&gt;przekonaliśmy 10 sierpnia&lt;/a&gt;, klimatyzacja nie jest optymalną strategią adaptacyjną.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Sep 2015 11:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/bo-latem-musi-byc-cieplo</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/bo-latem-musi-byc-cieplo</guid>
+        <link>http://doskonaleszare.github.io/articles/15/bo-latem-musi-byc-cieplo</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/bo-latem-musi-byc-cieplo</guid>
         
         
         <category>climsci</category>
@@ -281,8 +322,8 @@ Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu roczny
 &lt;p&gt;Popularne wśród denialistów prognozy globalnego ochłodzenia będą pod koniec roku wyglądać jeszcze bardziej komicznie.&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Jul 2015 13:15:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/el-nino-aktualizacja-1</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/el-nino-aktualizacja-1</guid>
+        <link>http://doskonaleszare.github.io/articles/15/el-nino-aktualizacja-1</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/el-nino-aktualizacja-1</guid>
         
         
         <category>climsci</category>
@@ -415,8 +456,8 @@ Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu roczny
 &lt;a name=&quot;p6&quot;&gt;&lt;/a&gt;6. Dobrym artykułem przeglądowym wprowadzającym w ten temat może być np. Trewin (2010) &lt;a href=&quot;http://www.stat.washington.edu/peter/593/Trewin.pdf&quot;&gt;Exposure, instrumentation, and observing practice effects on land temperature measurements&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Jun 2015 01:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/kolakowska</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/kolakowska</guid>
+        <link>http://doskonaleszare.github.io/articles/15/kolakowska</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/kolakowska</guid>
         
         
         <category>negacjonizm</category>
@@ -443,8 +484,8 @@ Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu roczny
 &lt;p&gt;Oznacza to, że nie tylko rok 2015 może być globalnie najcieplejszym w historii obserwacji, ale że rekord ten mógłby zostać pobity już w roku następnym — wszystko zależy od tego, jak będzie wyglądać końcówka El Niño na początku 2016, oraz tempo rozwoju ewentualnej La Niña. Podobna sytuacja miała miejsce 18 lat temu, gdy rekordy średniej temperatury globu pobił najpierw rok 1997, a potem 1998.&lt;/p&gt;
 </description>
         <pubDate>Sun, 14 Jun 2015 23:52:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/2015-powtorka-z-1997</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/2015-powtorka-z-1997</guid>
+        <link>http://doskonaleszare.github.io/articles/15/2015-powtorka-z-1997</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/2015-powtorka-z-1997</guid>
         
         
         <category>climsci</category>
@@ -479,8 +520,8 @@ Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu roczny
 &lt;a name=&quot;p3&quot;&gt;&lt;/a&gt;3. Higgins, et al (2015) &lt;a href=&quot;http://www.pnas.org/content/112/22/6887&quot;&gt;Atmospheric composition 1 million years ago from blue ice in the Allan Hills, Antarctica&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jun 2015 21:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/blekitny-lod</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/blekitny-lod</guid>
+        <link>http://doskonaleszare.github.io/articles/15/blekitny-lod</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/blekitny-lod</guid>
         
         
         <category>climsci</category>
@@ -537,8 +578,8 @@ Jego zdaniem KE, zamiast mówić o dekarbonizacji, powinna skupić się na szuka
 &lt;a name=&quot;p3&quot;&gt;&lt;/a&gt;3. Kuikman, et al (2011) &lt;a href=&quot;http://ec.europa.eu/clima/policies/forests/lulucf/docs/synthesis_report_en.pdf&quot;&gt;Policy options for including LULUCF in the EU reduction commitment and policy instruments for increasing GHG mitigation efforts in the LULUCF and agriculture sectors&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jun 2015 21:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/neutralnosc-weglowa</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/neutralnosc-weglowa</guid>
+        <link>http://doskonaleszare.github.io/articles/15/neutralnosc-weglowa</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/neutralnosc-weglowa</guid>
         
         
         <category>polityka</category>
@@ -723,8 +764,8 @@ Jego zdaniem KE, zamiast mówić o dekarbonizacji, powinna skupić się na szuka
 &lt;a name=&quot;p22&quot;&gt;&lt;/a&gt;22. Marty, Jambon (1987) &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/0012821X87900471&quot;&gt;C&lt;sup&gt;3&lt;/sup&gt;He in volatile fluxes from the solid Earth: implications for carbon geodynamics&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 May 2015 22:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/15/w-sejmie-o-globalnym-ociepleniu</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/15/w-sejmie-o-globalnym-ociepleniu</guid>
+        <link>http://doskonaleszare.github.io/articles/15/w-sejmie-o-globalnym-ociepleniu</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/w-sejmie-o-globalnym-ociepleniu</guid>
         
         
         <category>denializm</category>
