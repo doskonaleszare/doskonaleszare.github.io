@@ -5,9 +5,90 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 24 Oct 2015 13:35:38 +0000</pubDate>
-    <lastBuildDate>Sat, 24 Oct 2015 13:35:38 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2015 19:43:13 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2015 19:43:13 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Czy na Antarktydzie przybywa lodu?</title>
+        <description>&lt;p&gt;Nie.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Jak pewnie zauważyliście&lt;/span&gt;  internety ekscytują się nowym artykułem Zwally’ego et al &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt; zawierającym reanalizę szacunków bilansu masy lądolodu Antarktydy. Jak to zwykle bywa, najbardziej absurdalne wnioski &lt;a href=&quot;http://www.mpolska24.pl/post/10019/jakie-globalne-ocieplenie&quot;&gt;wyciągają&lt;/a&gt; z niego &lt;a href=&quot;http://www.wprost.pl/ar/524320/Na-Antarktydzie-jestS-coraz-wiecej-lodu/?preview=2015724495&quot;&gt;osoby&lt;/a&gt;, które samego artykułu nie czytały, więc warto dodać kilka słów na temat kontekstu badań oraz ich interpretacji.&lt;/p&gt;
+
+&lt;p&gt;Zacznijmy od rzeczy najbardziej oczywistej: Zwally et al. nie piszą, że na Antarktydzie przybywa lodu. Nie &lt;em&gt;przybywa&lt;/em&gt;, w czasie teraźniejszym, bo artykuł dotyczy danych z dwóch &lt;em&gt;przeszłych&lt;/em&gt; okresów: 1992-2001, oraz 2003-2008. Dlaczego akurat tych, i dlaczego nie zawiera nowszych danych? Głównym powodem jest to, że Jay Zwally najpierw współpracował z ESA przy analizie danych z satelitów ERS-1/2, a potem został szefem zespołu ICESat w NASA, a satelity te zbierały dane właśnie w tych okresach.&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Ściślej rzecz ujmując, ERS-2 wykonywał pomiary do roku 2010, jednak Zwally już w tym projekcie nie uczestniczył. O wynikach tych pomiarów więcej można przeczytać niżej.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Interwały zostały wcześniej &lt;a href=&quot;http://imbie.org/wp-content/uploads/2012/11/Time-Periods.png&quot;&gt;wybrane&lt;/a&gt; w projekcie &lt;a href=&quot;http://imbie.org/&quot;&gt;IMBIE&lt;/a&gt; (&lt;em&gt;Ice sheet Mass Balance Inter-comparison Exercise&lt;/em&gt;) jako obejmujący okres w którym możliwe jest porównanie szacunków bilansu masy lądolodów Antarktydy i Grenlandii uzyskanych różnymi metodami, tj.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Altimetria lidarowa i radarowa&lt;/strong&gt;&lt;br /&gt;
+W metodzie tej mierzy się, przy pomocy lasera albo radaru, zmiany wysokości lądolodu pod przelatującym satelitą, z czego następnie wylicza się zmiany jego objętości, a ze zmian objętości zmiany masy. Pomiary przy pomocy lasera przeprowadzał wspomniany już ICSat, radaru używaly europejskie satelity ERS-1, ERS-2, Envisat i CryoSat-2.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Pomiary grawimetryczne&lt;/strong&gt;&lt;br /&gt;
+Czyli pomiary satelitarne (wykonywane przez parę GRACE) lokalnych zmian pola grawitacyjnego Ziemi, wynikające z przyrostu albo ubytku masy w danym miejscu. Metodą tą można mierzyć różne ciekawe rzeczy, np. zmiany poziomu wód gruntowych wywołane &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2012GL053055/abstract&quot;&gt;zwiększonymi opadami&lt;/a&gt; albo suszą; zmiany masy oceanów; albo zmiany masy lądolodów.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Modelowanie przepływu&lt;/strong&gt;&lt;br /&gt;
+W tej metodzie bilans masy obliczany jest na podstawie wielkości strumieni dostarczających i odprowadzających lód do lądolodu: ilości padającego śniegu, ablacji powierzchni, prędkości przepływu i tempa cielenia się lodowca.&lt;/p&gt;
+
+&lt;p&gt;Każda z tych metod ma swoje zalety i ograniczenia, a celem IMBIE było porównanie wyników uzyskanych przez różne zespoły, dla tych samych okresów oraz domen przestrzennych. Wyniki opublikowano w roku 2012 w czasopiśmie &lt;em&gt;Science&lt;/em&gt; &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, w artykule którego Zwally był jednym z autorów.&lt;/p&gt;
+
+&lt;p&gt;Artykuł nosił tytuł “A Reconciled Estimate of Ice-Sheet Mass Balance”, trochę na wyrost, bo jak zauważyli autorzy w przypadku lądolodu Antarktydy Wschodniej rozrzut wyników był spory: z modelowania przepływu wynikał niewielki ubytek (-30±76 Gt/rok)&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; W dalszej części notki będę konsekwentnie używał wartości ujemnych dla ujemnego bilansu masy, nawet jeśli mowa o “ubytku”, więc proszę tego nie interpretować jako podwójnego zaprzeczenia.&lt;/span&gt;, grawimetria i altimetria radarowa wskazywała na niewielki przyrost (+35±40 i +22±39 Gt/rok, odpowiednio), a altimetria laserowa na znaczący przyrost masy lodowca (+109±57 Gt/rok). Ponieważ metody były (mniej więcej) niezależne, w końcowym bilansie IMBIE uznano że ICESat przeszacowywał przyrost masy we wschodniej Antarktydzie, i jest on w rzeczywistości mniejszy, choć ze sporą niepewnością (+24±36 Gt/rok), z zastrzeżeniem że&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For the EAIS, our mass change estimates exhibit an unsatisfactory spread, with results from the IOM and LA techniques falling consistently lower and higher than the mean value we have derived (table S2). Although the average signal of EAIS imbalance is relatively small, such a large divergence is a matter of concern; improvements of the ancillary data sets that support satellite observations would be of considerable benefit in this region.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Co istotne, wszystkie metody wskazywały też na spory ubytek masy lądolodu Zachodniej Antarktydy (WAIS), średnio -67±21 Gt/rok. Sumarycznie (uwzględniając lodowce Półwyspu Antarktycznego), według analizy IMBIE, Antarktyda miała zatem ujemny bilans masy, wynoszący około -72±43 Gt/rok (+21±81 Gt/rok według samej altimetrii laserowej). Dla porównania, Grenlandia w tej samej analizie miała ubytek lądolodu wynoszący -232±23 Gt/rok (-185±24 Gt/rok wg. metody altimetrii laserowej).&lt;/p&gt;
+
+&lt;p&gt;Świeżo opublikowany artykuł Zwally’ego to powtórna analiza tych samych danych, z altimetrii radarowej (1992-2001) oraz laserowej (2003-2008), uwzględniając kilka poprawek metodologicznych wprowadzonych już po roku 2012 (m. in. kalibrację ICESat pomiarami radarowymi wykonanymi dla Arktyki przez Envisat). I choć WAIS oraz Półwysep Antarktyczny wciąż traci lód, a Antarktyda Wschodnia wciąż przyrasta, ubytek jest mniejszy (-25±15 i -29±2 Gt/rok), a przyrost większy (136±28 Gt/rok) niż w analizie IMBIE (nawet ograniczonej do samej altimetrii laserowej), przy znacznie zmniejszonych niepewnościach.&lt;/p&gt;
+
+&lt;p&gt;Mamy więc do czynienia z sytuacją, w której różne metody pomiarowe dają różne wyniki. Oczywiście istnieje silna pokusa (zwłaszcza dla mediów), by za poprawny uznać wynik “najnowszy”, jednak poniżej przedstawię powody, dla których jestem (i nie tylko ja) sceptycznie nastawiony do analizy Zwally’ego et al.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Najnowsze pomiary grawimetryczne wciąż wskazują na ciągły ubytek masy Antarktydy &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt; &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt; &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pomiary radarowe CryoSat-2 pokazują ujemny bilans masy Antarktydy &lt;a href=&quot;#przyp6&quot;&gt;[6]&lt;/a&gt; &lt;a href=&quot;#przyp7&quot;&gt;[7]&lt;/a&gt;. Dotyczy to co prawda późniejszego okresu niż ten o którym piszą Zwally et al (bo CryoSat-2 zbiera dane dopiero od 2010 roku), ale nawet gdyby wziąć oba wyniki za dobrą monetę, oznaczałoby to znaczne zmniejszenie przyrostu lodowca na Antarktydzie Wschodniej, co przeczy jednej z głównych konkluzji Zwally et al o jego przyczynach i stabilności.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Przy okazji, inna reanaliza danych ICESat (zrobiona przy okazji &lt;a href=&quot;#przyp6&quot;&gt;[6]&lt;/a&gt;) też pokazuje na ubytek lądolodu na Antarktydzie.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tak jak i najnowsze szacunki przepływu lądolodu &lt;a href=&quot;#przyp8&quot;&gt;[8]&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Na koniec zostaje jeszcze zagadka bilansu poziomu wszechoceanu. 82 Gt przyrostu lądolodu rocznie odpowiada -0,23 zamiast +0,20 mm/rok, co oznaczałoby że w okresie 2003-2008 0,43 mm/rok wzrostu poziomu wszechoceanu (prawie 20% całości, albo 2,4 mm/rok w tych latach &lt;a href=&quot;#przyp9&quot;&gt;[9]&lt;/a&gt;) pochodziło skądinąd: lądolodu Grenlandii i/lub szybciej ocieplających się oceanów.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Podsumowując, różnice pomiędzy szacunkami Zwally’ego et al i innych zespołów są trudne do wytłumaczenia, i nie ma przekonującego powodu by za wiarygodne uznać akurat szacunki tego pierwszego. Podejrzewam nawet, że kontrowersji tych nie da się już &lt;em&gt;nigdy&lt;/em&gt; rozstrzygnąć, bo nie mamy możliwości &lt;em&gt;powtórzenia&lt;/em&gt; przeprowadzanych w przeszłości pomiarów, a nowe pokolenia naukowców skoncentrują się na analizie nowych danych z nowych instrumentów, zamiast reanalizować stare.&lt;/p&gt;
+
+&lt;p&gt;O ile jednak można mieć wątpliwości co do bilansu masy antarktycznego lądolodu w &lt;em&gt;poprzedniej&lt;/em&gt; dekadzie, nie ma podstaw by twierdzić że na Antarktydzie przybywa lodu &lt;em&gt;obecnie&lt;/em&gt;, w sytuacji gdy przeczą temu pomiary GRACE i CryoSat-2.&lt;/p&gt;
+
+&lt;p&gt;Swoją drogą, jest coś ironicznego w tym, że ta sama NASA, która zwykle jest uważana za część lewackiego &lt;a href=&quot;http://www.mpolska24.pl/post/10019/jakie-globalne-ocieplenie&quot;&gt;“lobby broniącego koncepcji zmiany klimatu”&lt;/a&gt;, staje się wiarygodną instytucją, jeśli tylko komuś wydaje się że “teorie globalnego ocieplenia zostały podane w wątpliwość”. Zbliża się jesienny kongres Amerykańskiego Towarzystwa Geofizycznego, w czasie którego różne jednostki badawcze NASA prezentować będą wyniki badań związanych ze zmianami klimatu. Jestem pewien, że negacjoniści globalnego ocieplenia będą je cytować z równie wielkim&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Zwally, et al (2015) &lt;a href=&quot;http://www.ingentaconnect.com/content/igsoc/jog/pre-prints/content-ings_jog_15j071&quot;&gt;Mass gains of the Antarctic ice sheet exceed losses&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Shepherd, et al (2012) &lt;a href=&quot;http://www.sciencemag.org/content/338/6111/1183&quot;&gt;A Reconciled Estimate of Ice-Sheet Mass Balance&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Harig i Simons (2015) &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0012821X15000564&quot;&gt;Accelerated West Antarctic ice mass loss continues to outpace East Antarctic gains&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Sasgen, et al (2013) &lt;a href=&quot;http://www.the-cryosphere.net/7/1499/2013/tc-7-1499-2013.html&quot;&gt;Antarctic ice-mass balance 2003 to 2012: regional reanalysis of GRACE satellite gravimetry measurements with improved estimate of glacial-isostatic adjustment based on GPS uplift rates&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Velicogna, Wahr (2013) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/grl.50527/abstract&quot;&gt;Time-variable gravity observations of ice sheet mass balance: Precision and limitations of the GRACE satellite data&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp6&quot;&gt;&lt;/a&gt;6. Helm, Humbert, Miller (2014) &lt;a href=&quot;http://www.the-cryosphere.net/8/1539/2014/tc-8-1539-2014.html&quot;&gt;Elevation and elevation change of Greenland and Antarctica derived from CryoSat-2&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp7&quot;&gt;&lt;/a&gt;7. McMillan, et al (2014) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2014GL060111/abstract&quot;&gt;Increased ice losses from Antarctica detected by CryoSat-2&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp8&quot;&gt;&lt;/a&gt;8. Mouginot, Scheuchl, Rignot (AGU 2015) &lt;a href=&quot;https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/76972&quot;&gt;Antarctic mass budget from 1975-2015 using InSAR, Landsat and RACMO-2&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp9&quot;&gt;&lt;/a&gt;9. Cazenave, et al (2009) &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0921818108001343&quot;&gt;Sea level budget over 2003–2008: A reevaluation from GRACE space gravimetry, satellite altimetry and Argo&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Nov 2015 20:00:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/15/czy-na-antarktydzie-przybywa-lodu</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/czy-na-antarktydzie-przybywa-lodu</guid>
+        
+        
+        <category>clisci</category>
+        
+      </item>
     
       <item>
         <title>Jeszcze o parowaniu</title>
@@ -500,7 +581,7 @@ Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu roczny
 
 &lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Przy sprzyjających warunkach&lt;/span&gt;  — to znaczy w lokalizacjach o niewielkiej prędkości spływu lodowca, małych opadach i ablacji lodu,&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Przykładowo, rosyjska stacja Wostok otrzymuje niecałe 3 milimetry opadu rocznie.&lt;/span&gt; czyli tak naprawdę w najzimniejszej i najmniej dostępnej części kontynentu — odwiert wykonany przez lądolód od powierzchni do skali macierzystej może zawierać nawet setki tysięcy sezonowych warstw opadów, dzięki czemu możliwe było zrekonstruowanie zmian warunków klimatycznych na Antarktydzie (oraz składu globalnej atmosfery) z całkiem sporego kawałka plejstocenu. Najdłuższe rdzenie lodowe, pozyskane przez europejski projekt EPICA, umożliwiły nam cofnięcie się aż 800 tysięcy lat wstecz… i wydawało się że pobicie tego rekordu będzie bardzo trudne &lt;a href=&quot;#p1&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Okazuje się jednak, że w niektórych miejscach na Antarktydzie bardzo stary lód leży na samej powierzchni lądolodu. Generalnie zdarza się jeśli w jakiejś lokalizacji lodowiec traci więcej masy w wyniku sublimacji niż zyskuje w opadach śniegu; różnica jest uzupełniana przez stary lód nadpływający skądinąd. Zwykle jest też powiązane ze specyficzną topografią terenu — na przykład obecnością gór albo nunataków — dzięki której strumień lodu może odbić się od skały macierzystej i powrócić na powierzchnię.&lt;/p&gt;
+&lt;p&gt;Okazuje się jednak, że w niektórych miejscach na Antarktydzie bardzo stary lód leży na samej powierzchni lądolodu. Zdarza się tak, jeśli w jakiejś lokalizacji lodowiec traci więcej masy w wyniku sublimacji niż zyskuje w opadach śniegu; a różnica jest uzupełniana przez stary lód nadpływający skądinąd. Zwykle jest to też powiązane ze specyficzną topografią terenu — na przykład obecnością gór albo nunataków — dzięki której strumień lodu może odbić się od skały macierzystej i powrócić na powierzchnię.&lt;/p&gt;
 
 &lt;p&gt;Na Antarktydzie miejsca takie — zwane BIA, &lt;em&gt;Blue Ice Areas&lt;/em&gt; — łatwo rozpoznać po kolorze: odsłonięty, sublimujący lód ma niebieski kolor,&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Wynika to wyłącznie ze słabej absorpcji czerwonej części widma przez cząsteczki wody, a nie “wyciskaniu” pęcherzyków powietrza z lodu, jak można wyczytać w internetach.&lt;/span&gt; i wyraźnie odróżnia się od pokrytej białym śniegiem okolicy.&lt;/p&gt;
 
@@ -583,192 +664,6 @@ Jego zdaniem KE, zamiast mówić o dekarbonizacji, powinna skupić się na szuka
         
         
         <category>polityka</category>
-        
-      </item>
-    
-      <item>
-        <title>W Sejmie o globalnym ociepleniu</title>
-        <description>&lt;p&gt;5 maja br. w Sejmie RP odbyła się zorganizowana przez Parlamentarny Zespół Surowców i Energii konferencja “Polityka klimatyczna: globalnie i regionalnie” (transmisję można obejrzeć &lt;a href=&quot;https://www.youtube.com/watch?v=gQB2Y7CEO1s&quot;&gt;tutaj&lt;/a&gt;), która umożliwiła nam uzyskanie wglądu w opinię części polskich decydentów i przedstawicieli przemysłu na temat zmian klimatu oraz globalnej polityki klimatycznej. Oczywiście opinie te nie były specjalnie zaskakujące — dominowało poczucie krzywdy i przekonanie, że zła Unia Europejska globalne ocieplenie wymyśliła, by zaszkodzić stojącej na czarnym złocie i łupkach Polsce — jednak wśród kuriozalnych wystąpień najbardziej wyróżniała się prezentacja Mariusza Oriona Jędryska, geologa z Uniwersytetu Wrocławskiego, byłego Głównego Geologa Kraju, obecnie posła na Sejm RP w klubie parlamentarnym PiS.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Wystąpienie prof. Jędryska&lt;/span&gt;  składało się z dwóch części, naukowej i ekonomiczno-politycznej, zatem poniżej skomentuję tylko tę pierwszą. Wszystkie cytowane wypowiedzi zostały spisane ze słuchu, mam nadzieję że wiernie, choć w niektórych miejscach pozwoliłem sobie na wycięcie powtórzeń i ewidentnych przejęzyczeń. Niestety, nie wszystkie błędy i przekłamania które padały w wypowiedziach Jędryska da się wytłumaczyć w ten sposób, a ich liczba wystawia smutne świadectwo poziomowi “debaty” jaka toczyła się w polskim Sejmie.&lt;/p&gt;
-
-&lt;p&gt;Prof. Jędrysek zaczął od przedstawienia globalnego ocieplenia z perspektywy geologicznej:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Mamy stałe obniżanie się stężenia dwutlenku węgla w atmosferze. Są wahania, ale (…) takie stężenie jakie dzisiaj mamy jest jedno z najniższych, jeśli nie najniższe, patrząc w skali milionów lat.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/solar_luminosity.png&quot; /&gt;Ewolucja jasności Słońca według &lt;a href=&quot;http://iopscience.iop.org/0004-637X/555/2/990/fulltext/&quot;&gt;modelu standardowego&lt;/a&gt; względem jasności obecnej (100%).&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Faktycznie, jest prawdą, że w odległej przeszłości Ziemi stężenie dwutlenku węgla było wyższe niż obecnie, i że w skali czasowej liczonej w milionach lat — dziesiątkach, setkach i tysiącach milionów lat — koncentracja CO&lt;sub&gt;2&lt;/sub&gt; na naszej planecie spadała. Praprzyczyną tego zjawiska było efektywności procesu wietrzenia krzemianów &lt;a href=&quot;#p1&quot;&gt;[1]&lt;/a&gt;, który jest głównym mechanizmem usuwającym dwutlenek węgla w atmosferze w geologicznych skalach czasowych. Bez tego mechanizmu powolny, zachodzący przez miliardy lat wzrost jasności Słońca, typowy dla gwiazd ciągu głównego, spowodowałby ocieplenie uniemożliwiające życie na Ziemi. Nie powinno zatem nikogo dziwić, że w odległej przeszłości koncentracja dwutlenku węgla była wyższa niż obecnie — gdyby była taka sama, mniejsza ilość docierającej do Ziemi energii słonecznej skutkowałaby znacznie niższymi temperaturami i globalnym zlodowaceniem.&lt;/p&gt;
-
-&lt;p&gt;Choć wietrzenie krzemianów działa jak planetarny termostat (przy znacznym obniżeniu globalnej temperatury zwalnia, prowadząc do akumulacji dwutlenku węgla w atmosferze, przy wzroście temperatury przyspiesza, obniżając ilość CO&lt;sub&gt;2&lt;/sub&gt;), mechanizm ten nie jest wystarczająco szybki, by reagować na zaburzenia składu atmosfery zachodzące w skalach krótszych niż setki tysięcy lat, a tym bardziej kilku setek lat, w czasie których ludzkość spaliła miliardy ton węgla i ropy.&lt;/p&gt;
-
-&lt;p&gt;W efekcie poziom dwutlenku węgla szybko rośnie, i już w tym momencie osiągnął wartości bezprecedensowe nawet w geologicznej skali czasowej. Koncentracja CO&lt;sub&gt;2&lt;/sub&gt; w atmosferze przekracza &lt;em&gt;dzisiaj&lt;/em&gt; (w roku 2015) 400 części na milion (ppm), co jest poziomem wyższym o około 100 ppm od maksymalnych wartości osiąganych w trakcie interglacjałów ostatnich 800 tysięcy lat &lt;a href=&quot;#p2&quot;&gt;[2]&lt;/a&gt;&lt;a href=&quot;#p3&quot;&gt;[3]&lt;/a&gt;&lt;a href=&quot;#p4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/co2_composite.png&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zmiany koncentracji dwutlenku węgla w ciągu ostatnich 800 tysięcy lat w oparciu o badania rdzeni lodowych z Antarktydy. Zaznaczono też poziom osiągnięty w 2015 roku.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Trzeba byłoby się cofnąć dopiero do pliocenu (2-3 miliony lat temu), aby natrafić na atmosferę zawierającą 400 ppm CO&lt;sub&gt;2&lt;/sub&gt; &lt;a href=&quot;#p5&quot;&gt;[5]&lt;/a&gt;. Co więcej, nawet jeśli weźmiemy pod uwagę okres znacznie dłuższy — liczony w dziesiątkach, a nawet setkach milionów lat — okaże się, że koncentracja dwutlenku węgla w atmosferze rzadko przekraczała 1000 ppm &lt;a href=&quot;#p6&quot;&gt;[6]&lt;/a&gt;&lt;a href=&quot;#p7&quot;&gt;[7]&lt;/a&gt;&lt;a href=&quot;#p8&quot;&gt;[8]&lt;/a&gt;. Jeśli ludzkość w dalszym ciągu będzie swobodnie spalać paliwa kopalne, tak jak za tym lobbuje prof. Jędrysek, możemy osiągnąć taki poziom CO&lt;sub&gt;2&lt;/sub&gt; w ciągu zaledwie stulecia.&lt;/p&gt;
-
-&lt;p&gt;O ile wypowiedzi prof. Jędryska na temat przeszłych zmian poziomu dwutlenku węgla można uznać za nieścisłe, to niestety wiele pozostałych wygłaszanych przez niego tez jest już kompletnie nieprawdziwa. Twierdzi on na przykład, że z analizy proxy tlenowych δ&lt;sup&gt;18&lt;/sup&gt;O wynika, iż&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;na przestrzeni ostatnich powiedzmy kilkudziesięciu milionów lat mamy stałe ocieplanie się głębokich wód oceanu, co łatwe jest do udokumentowania […] czapy lodowe kumulują w sobie lekki izotopowy tlen […] badając tylko te mikroskopijne organizmy i ich skład izotopowy widzimy że od kilkudziesięciu milionów lat mamy stale zmniejszającą się objętość czap lodowych. Cały czas mamy trend że tego lodu jest mniej.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;W pierwszej chwili myślałem, że prof. Jędrysek się przejęzyczył, i zamiast ocieplenia miał na myśli oziębienie, jednak w dalszej części wypowiedzi konsekwentnie powtarza tezę o &lt;em&gt;zmniejszającej się&lt;/em&gt; objętości czap lodowych.&lt;/p&gt;
-
-&lt;p&gt;W rzeczywistości jest bowiem dokładnie na odwrót, &lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Oczywiście jeśli ponownie zignorujemy ostatnie dekady, w których obserwujemy antropogeniczne ocieplanie się głębin oceanicznych oraz ubytek mas lądolodów Grenlandii i Antarktydy.&lt;/span&gt; bo od około 50 milionów lat proxy oparte o analizę składu izotopowego pancerzyków otwornic wskazują na &lt;em&gt;wzrost&lt;/em&gt; zawartości cięższego δ&lt;sup&gt;18&lt;/sup&gt;O w wodzie oceanicznej, czyli &lt;em&gt;oziębianie&lt;/em&gt; się głębokich wód oceanu, oraz &lt;em&gt;przyrost&lt;/em&gt; objętości czap lodowych: 34 miliony lat temu powstał lądolód na Antarktydzie; 3 miliony lat temu zaczął rosnąć lodowiec na Grenlandii.&lt;/p&gt;
-
-&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/zachos3.png&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zmiany zawartości δ&lt;sup&gt;18&lt;/sup&gt;O w wodzie morskiej na przestrzeni ostatnich 65 milionów lat. Wyższe wartości δ&lt;sup&gt;18&lt;/sup&gt;O odpowiadają niższej temperaturze wód głębinowych oceanów i/lub większej objętości lądolodów.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Podejrzewam, że prof. Jędrysek, przygotowując się do prezentacji, zinterpretował wyższe wartości δ&lt;sup&gt;18&lt;/sup&gt;O jako odpowiadające wyższym temperaturom, i dlatego wyszło mu ocieplenie zamiast oziębienia… tak czy owak, tak poważnej pomyłki nie spodziewałbym się po geologu występującym w roli eksperta od przeszłych zmian klimatu.&lt;/p&gt;
-
-&lt;p&gt;W trakcie prezentacji prof. Jędrysek odwołuje się do rekonstrukcji paleoklimatycznych których był współautorem &lt;a href=&quot;#p9&quot;&gt;[9]&lt;/a&gt;&lt;a href=&quot;#p10&quot;&gt;[10]&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Także ja pokażę swoje badania, tutaj mamy dość precyzyjne kalibracje do odtwarzania zmian klimatu w oparciu o profile torfowe, udaje się nawet wykalibrować to że można odtworzyć zmiany temperatury okresu wegetacyjnego nawet z dokładnością do plus minus 0,1 stopnia Celsjusza i tu są takie kalibracje pokazane.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nie podzielam optymizmu prof. Jędryska co do dokładności rekonstrukcji temperatur na podstawie δ&lt;sup&gt;13&lt;/sup&gt;C. Kalibracje, o których mówi, nie są skomplikowane — to iloraz średniego δ&lt;sup&gt;13&lt;/sup&gt;C z całych (datowanych na około 1400 lat) profili torfowych oraz współczesnych średnich temperatur sezonu wegetacyjnego pobliskich torfowisk, przy założeniu że w okresie objętym próbkowaniem temperatury zmieniały się synchronicznie, co tłumaczyło się na zmiany zawartości izotopu &lt;sup&gt;13&lt;/sup&gt;C. Nawet gdyby te założenia były spełnione (co prowadziłoby do sytuacji, w której krzywe δ&lt;sup&gt;13&lt;/sup&gt;C są identyczne w kształcie, tylko przesunięte o jakąś wartość), same błędy datowania radiowęglowego próbek&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Autorzy podają niepewność datowania na jako 1140±130 lat BP, zatem zakładając że jest to wartość błędu 1σ, szerokość 95% przedziału ufności wynosi około 500 lat dla najstarszej części profilu…&lt;/span&gt; powodowałoby że dokładność 0,1 stopnia jest nieosiągalna.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Okazuje się że w Polsce, tu mamy Szrenicę, Zieleniec, Suche Bagno — to północno-wschodnia Polska — to wszystko to co dzieję się teraz, te ocieplenia, mieszczą się ciągle w kategoriach zjawisk naturalnych które miały miejsce w ostatnim tysiącleciu.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Inne rekonstrukcje paleoklimatyczne sugerują odmienne wnioski &lt;a href=&quot;#p11&quot;&gt;[11]&lt;/a&gt;, ale nawet gdyby teza prof. Jędryska była zgodna z prawdą, to co z tego? Ziemia jest dużą planetą, i wciąż na jej powierzchni można znaleźć miejsca w których wzrost temperatury nie wykroczył poza ramy naturalnej zmienności ostatniego tysiąclecia czy dwóch.&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt; Zwłaszcza na wysokich szerokościach geograficznych półkuli północnej, gdzie wskutek działania cykli orbitalnych od kilku tysięcy lat spada nasłonecznienie letnie.&lt;/span&gt; Na razie, bo wraz ze wzrostem temperatur będzie to coraz trudniejsze, czego dowodem jest że w ostatnim czasie notujemy wielokrotnie więcej absolutnych rekordów ciepła niż zimna.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Gdybyśmy porównali przyrosty roczne pni drzew — i znowu [tu mamy] badania izotopowe, te precyzyjne kalibracje o których przed chwilą wspomniałem, i okazuje się że tu mamy potężne rozbieżności, powiedzmy statystyczny bałagan, i okazuje się że przyrosty roczne pni drzew świetnie jeśli chodzi o ich skład izotopowy reagują nie na temperaturę, ale na to jak duże są opady atmosferyczne od maja do lipca.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Przyrosty roczne pni drzew [dla] naszego klimatu nie nadają się do odtwarzania temperatury, nadają się do odtwarzania przede wszystkim zmian opadów atmosferycznych, torfy nadają się do odtwarzania temperatury. Większość interpretacji zmian klimatu ostatnich setek lat jest oparta właśnie o skład izotopów przyrostów rocznych pni drzew.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prof. Jędrysek znowu się myli. Większość rekonstrukcji dendrochronologicznych &lt;em&gt;nie&lt;/em&gt; opiera się o pomiary zawartości izotopu &lt;sup&gt;13&lt;/sup&gt;C w słojach drzew, tylko o analizę ich grubości (chronologie TRW) oraz gęstości drewna późnego (chronologie MXD), i jak najbardziej można pokazać że są one skorelowane z temperaturami okresu wegetacyjnego &lt;a href=&quot;#p12&quot;&gt;[12]&lt;/a&gt;&lt;a href=&quot;#p13&quot;&gt;[13]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Oczywiście nie należy wątpić w to że temperatura na Ziemi się podnosi, choćby mamy tu jeden z najstarszych rekordów w Krakowie, od około 1830 roku, to akurat średnia dla miesiąca sierpnia, i widzimy stały wzrost temperatury w sierpniu.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Tylko pytanie jest znowu takie: czym był Kraków w 1830 roku, 1850 roku. To była wtedy stosunkowo niewielka miejscowość, on podupadał, tam było kilkadziesiąt tysięcy ludzi, a obserwatorium które zorganizowano było na skraju miasta. Dziś to miasto jest pod względem wielkości chyba drugim miastem w Polsce, i to samo obserwatorium jest w centrum. A więc mamy efekt miejski, pytanie czy my nie mierzymy raczej rozrostu miasta w pewnym sensie, funkcji temperatury jako rozrostu miasta.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Jak to w nauce, dobrze jest mieć wątpliwości i zadawać pytania. Można też spróbować sprawdzić, czy przypadkiem nikt na te pytania już nie udzielił odpowiedzi.&lt;/p&gt;
-
-&lt;p&gt;Klimatolodzy oczywiście wiedzą o istnieniu efektu miejskiej wyspy ciepła, a także wielu innych czynników wpływajacych na odczyty rejestrowane przez przyrządy stacji meteorologicznych: zmiany praktyk obserwacyjnych, instrumentów, lokalizacji, czasów wykonywania pomiarów. Wykorzystywane przy badaniach historycznych zmian klimatu dane meteorologiczne są zatem &lt;em&gt;homogenizowane&lt;/em&gt;, co oznacza że wpływ tych czynników (niehomogeniczności) jest redukowany.&lt;span class=&quot;marginnote&quot;&gt;Nie napiszę, że usuwany całkowicie, bo to nie byłoby możliwe — tym niemniej, techniki statystyczne wykorzystywane przy homogenizacji można testować na danych syntetycznych, dzięki czemu wiemy że są skuteczne.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Oprócz pomiarów w stacjach meteorologicznych klimatolodzy dysponują także odczytami temperatury oceanów, a dla ostatnich 3-4 dekad sondaże atmosfery wykonane przez radiosondy i satelity, a także szeregiem pośrednich wskaźników takich jak zmiany fenologiczne zachowań zwierząt i cykli wegetacyjnych, regresja lodowców górskich i lądolodów, topnienie wiecznej zmarzliny, czy zmiany temperatury gruntu propagujące od powierzchni na coraz większe głębokości. Oczywiście, każda seria pomiarowa obarczona jest jakimiś niepewnościami — o czym więcej niżej — jednak realność globalnego ocieplenia nie powinna być przedmiotem sporów.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Następnie [mamy] dość nowe dane pokazujące, reinterpretujące dane satelitarne zbierane od kilkudziesięciu lat jeśli chodzi o precyzyjne pomiary temperatury. I okazało się że ta nowa interpetacja pokazuje w wersji 5.6 w porównaniu do wersji 7 jednego z modeli satelitarnych, mówi że globalna temperatura nie wzrosła w ciągu dekady o 0,14 stopnia tylko 0,11 (…) Oczywiście temperatura na świecie w jakimś stopniu się podnosi.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Z kontekstu oraz przytaczanych wartości wynika, że prof. Jędrysek cytuje tutaj trendy temperatur dolnej troposfery w analizie UAH w wersji 6.0 i 5.6. Różnice o których mówi wynikają ze zmienionej techniki analizy pomiarów promieniowania mikrofalowego emitowanego przez cząsteczki tlenu, na podstawie których wnioskowana jest temperatura danej warstwy atmosfery.&lt;sup class=&quot;sidenote-number&quot;&gt;4&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;4&lt;/sup&gt; Przy okazji warto zauważyć że funkcja wagowa dla dolnej troposfery jest inna w wersji 6.0. Naukowcy odpowiedzialni za analizę UAH &lt;a href=&quot;http://www.drroyspencer.com/2015/04/version-6-0-of-the-uah-temperature-dataset-released-new-lt-trend-0-11-cdecade/&quot;&gt;twierdzą&lt;/a&gt; że powinno mieć to niewielki wpływ na wartość trendów oraz wpływ błędów systematycznych, ale biorąc pod uwagę dotychczasową historię produktu UAH warto zachować w tej kwestii sceptycyzm…&lt;/span&gt; Warto więc pamiętać, że podobnie jak w przypadku serii instrumentalnej z Krakowa o której mówił wcześniej prof. Jędrysek mamy do czynienia z niepewnościami związanymi z wpływem czynników nieklimatycznych na wykonane obserwacje: degradacją instrumentów, błędami kalibracji czy dryfem orbit satelitów. Dlatego też nie należałoby wyciągać zbyt daleko idących wniosków z tego, że w jednej (z wielu) analizie danych satelitarnych trend temperatur zmienił się o 0,03 stopnia…&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Znowu nowe dane mamy takie że radiative forcing, czyli zdolność podgrzewania przez dwutlenek węgla atmosfery, jest w jakiś stopniu funkcją jego stężenia, czyli większa ilość dwutlenku węgla więcej podgrzewa atmosferę, tylko to okazuje się że jednak jest to skala logarytmiczna. Cóż to oznacza, otóż że 100% wzrost stężenia dwutlenku węgla w atmosferze daje tylko niewiele ponad 11% wzrost temperatury.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Logarytmiczna zależność wymuszenia radiacyjnego od koncentracji dwutlenku węgla nie jest “nowa”, bo klimatolodzy wiedzą o niej od kilkudziesięciu lat.&lt;sup class=&quot;sidenote-number&quot;&gt;5&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;5&lt;/sup&gt; Patrz np. wzór (1) w &lt;a href=&quot;#p14&quot;&gt;[14]&lt;/a&gt; z 1981 roku.&lt;/span&gt; Przytoczone przez prof. Jędryska liczby nie mają jednak sensu… bo względem czego liczony jest 11%? Jeśli jest to bezwzględna skala temperatur Kelvina (a tylko taka interpretacja miałaby sens fizyczny), to oznaczałoby to wzrost o 32 K, co jest wielkością absurdalnie dużą. W rzeczywistości, 100% wzrost koncentracji dwutlenku węgla (czyli podwojenie jego zawartości w atmosferze) skutkuje wzrostem temperatury o 1,5-4,5 K, czyli o około 1%.&lt;/p&gt;
-
-&lt;p&gt;Czy jest to ‘tylko’ 1%? Cóż, gdyby trzymać się tej samej konwencji, to w maksimum ostatniego zlodowacenia około 26 tysięcy lat temu, średnia temperatura globalna była tylko 1,5% niższa niż na początku XX wieku. Podniesienie temperatury ciała też o tylko 1% oznacza wysoką gorączkę, a o 2% poważnie zagraża ludzkiemu życiu. 40 metrów wzrostu poziomu wszechoceanu to tylko 1% zwiększenie jego objętości, i tak dalej. Jasne jest więc, że mówienie o procentach, bez uwzględniania fizycznego kontekstu wielkości do których się odnoszą, nie ma większego sensu.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ponado fizycy atmosferycy twierdzą, że brak jest jednoznacznych zależności fizycznych dla wszystkich gazów. Nie ma takich modeli które by dobrze to pokazywały i były niewątpliwe (?).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Trudno powiedzieć co dokładnie ma na myśli prof. Jędrysek i o jakich zależnościach mówi. Fizyka gazów cieplarnianych, transferu radiacyjnego, spektroskopia, czy optyka jest solidną częścią klimatologii i nie tylko — te same modele transferu radiacyjnego, które wykorzystywane są do obliczania zmian efektu cieplarnianego wskutek antropogenicznych emisji dwutlenku węgla, służą naukowcom innych specjalności, a także mają wiele zastosowań praktycznych.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Okazuje się że zdolność podgrzewania atmosfery przez metan jest 30-krotnie większa niż CO&lt;sub&gt;2&lt;/sub&gt;, a nie 21 razy. To wszystko ma wpływ na to w jaki sposób będziemy interpretować co się dzieje z naszą atmosferą.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prof. Jędrysek mówi tutaj o tzw. potencjale cieplarnianym (&lt;em&gt;Global Warming Potential&lt;/em&gt;, GWP), który jest wskaźnikiem umożliwiającym porównanie wysiłków redukcyjnych dotyczących różnych gazów. GWP faktycznie jest w przypadku metanu wyższy (GWP dla CO&lt;sub&gt;2&lt;/sub&gt; z definicji wynosi 1). Sam w sobie metan jako taki nie posiada większej zdolności podgrzewania atmosfery niż dwutlenek węgla, wyższy GWP wynika po prostu z tego, że jest go 200 razy mniej w atmosferze, zatem każda wyemitowana przez ludzkość tona tego gazu ma proporcjonalnie większy wpływ na skład atmosfery.&lt;/p&gt;
-
-&lt;p&gt;Wracając do podawanych przez prof. Jędryska wartości, pierwsza z nich (21) jest oszacowaniem &lt;a href=&quot;http://unfccc.int/ghg_data/items/3825.php&quot;&gt;sprzed 20 lat&lt;/a&gt;, nie powinno być zatem dziwne że nowsze wyniki badań się od nich nieco różnią.&lt;sup class=&quot;sidenote-number&quot;&gt;6&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;6&lt;/sup&gt; Głównie z powodu uwzględnienia pośrednich efektów takich jak zmiany zawartości statosferycznej pary wodnej i troposferycznego ozonu, wzrost stężenia CO&lt;sub&gt;2&lt;/sub&gt; spowodowany utleniem metanu, a także sprzężeniami zwrotnymi cyklu węglowego związanego z ociepleniem. 20-letnią ewolucję GWP metanu zainteresowany czytelnik może prześledzić w &lt;a href=&quot;http://www.grida.no/publications/other/ipcc_tar/?src=/climate/ipcc_tar/wg1/249.htm#61231&quot;&gt;trzecim&lt;/a&gt;, &lt;a href=&quot;https://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch2s2-10-3.html#2-10-3-1&quot;&gt;czwartym&lt;/a&gt; i &lt;a href=&quot;https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_Chapter08_FINAL.pdf&quot;&gt;piątym&lt;/a&gt; raporcie IPCC.&lt;/span&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Wiele rzeczy jest niedoszacowanych, a ponadto nie uwzględnia się dotychczas w tych modelach kompensacji asymilacyjnej, jeśli więcej CO&lt;sub&gt;2&lt;/sub&gt; jest, [to] jest w stanie więcej CO&lt;sub&gt;2&lt;/sub&gt; asymilować rozwijająca się roślinność.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prof. Jędrysek znowu mija się z prawdą. Większość współczesnych modeli klimatu (na przykład te biorące udział w projekcie &lt;a href=&quot;http://cmip-pcmdi.llnl.gov/cmip5/&quot;&gt;CMIP5&lt;/a&gt;) zawiera komponent odpowiedzialny za symulowanie roślinności lądowej, a zależność karboksylacji, przewodności szparkowej liści i zapotrzebowanie na wodę od stężenia CO&lt;sub&gt;2&lt;/sub&gt; — zwykle jakaś odmiana modelu Farquhara, von Caemmerera i Berry’ego — jest w nich jak najbardziej uwzględniana &lt;a href=&quot;#p15&quot;&gt;[15]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Tu są jedne z najstarszych a nawet najstarsze dane w których ja uczestniczyłem jako młody doktorant, badania, już po doktoracie, z Lublina. Tu mamy pokazane whania dobowe stężenia i składu izotopowego dwutlenku węgla, dość pionierskie badania w świecie jeśli chodzi o dobowe wahania, i tutaj jest ewidentnie pokazane, wahania dobowe, dynamika jest przeogromna, dwutlenek węgla niemal w połowie, w nocy jest asymilowany [sic!] i potem jest respirowany, oddawany. Dowodem na to są badania izotopowe, nie tylko same stężenia bo nie wiemy jaka jest przyczyna, ale badania izotopowe to pokazują, że jedyną przyczyną jest asymilacja, oddychanie lasu. W związku z tym, przy tak potężnej dynamice, zupełnie inaczej powinniśmy patrzyć na rolę gazów cieplarnianych.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Dobowe wahania koncentracji dwutlenku węgla nie są zagadką dzisiaj, i nie były nią nawet kiedy prof. Jędrysek był młodym doktorantem. Podstawową ich przyczyną jest stabilność warstwy granicznej w nocy, która powoduje że dwutlenek węgla respirowany przez rośliny i heterotrofy może akumulować się przy powierzchni Ziemi. Po wschodzie słońca włącza się konwekcja i powietrze znowu zaczyna się mieszać, co powoduje szybki spadek poziomu CO&lt;sub&gt;2&lt;/sub&gt;, na co jednocześnie nakłada się oczywiście też aktywność fotosyntetyczna roślin.&lt;/p&gt;
-
-&lt;p&gt;Wbrew temu jednak co sugeruje prof. Jędrysek, dobowe wahania poziomu dwutlenku węgla nie mają wpływu na jego rolę jako gazu cieplarnianego, z tego prostego powodu, że są ograniczone do najniższej warstwy troposfery. Wystarczy wznieść się kilkaset metrów nad powierzchnię by zaobserwować znaczne zmniejszenie albo wręcz zanik dobowej zmienności koncentracji CO&lt;sub&gt;2&lt;/sub&gt;. Dla bilansu radiacyjnego troposfery kilka kilometrów wyżej nie ma już ona kompletnie znaczenia.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zmiany koncentracji CO&lt;sub&gt;2&lt;/sub&gt; rejestrowane przez wieżę WLEF w lipcu 1999 roku w ramach projektu Global Greenhouse Gas Reference Network&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/co2_fig5a.png&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Następną rzeczą na którą należy zwrócić uwagę to rola hydratów gazowych czy hydratów metanu czyli metanu związanego z wodą oceaniczną na głębokości kilkuset metrów do kilku kilometrów. Stanowi [on] ogromny zasób węgla organicznego, i ponad połowy tego węgla organicznego jaki w ogóle na całym świecie znamy. Ten metan w wyniku jakiegokolwiek obniżania poziomu wód powoduje że ta górna część klaratów metanu po prostu uwalnia się do atmosfery […] i oczywiście mogą atmosferę podgrzewać. Po takim rozgrzaniu roztapiają się lodowce, atmosfera się ociepla, lodowce się roztapiają, podnosi się poziom wód, jak podnosi się poziom wód to metan znowu jest łapany, nie jest emitowany do atmosfery, w związku z tym mamy ochłodzenie i w ten sposób mamy jeden ze sposobów tłumaczenia cykli ochłodzenia Ziemi, na co oczywiście, co jest zdecydowanie najważniejsze, nakładają się cykle słoneczne.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Prof. Jędrysek nawiązuje tutaj do hipotezy “strzelby klaratowej” Jamesa Kenneta, w myśl której zmiany poziomu metanu w czasie glacjałów były efektem mniejszą stabilnością hydratów przy niższym (o około 100 metrów) poziomie morza. Badania składu izotopowego metanu z grenlandzkich rdzeni lodowych tę hipotezę jednak wykluczyły już jakiś czas temu &lt;a href=&quot;#p16&quot;&gt;[16]&lt;/a&gt;&lt;a href=&quot;#p17&quot;&gt;[17]&lt;/a&gt;&lt;a href=&quot;#p18&quot;&gt;[18]&lt;/a&gt;, a za źródła metanu uważa się tropikalne i borealne mokradła.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Gdybyśmy popatrzyli w ogóle na bilans gazów cieplarnianych do atmosfery… jeśli ktoś dzisiaj mówi że wie, jaki jest bilans, to tylko mówi, że wie. W mojej opinii jest taka sytuacja, że wielkość emisji ze stref ryftów kontynentalnych, ryftów oceanicznych które państwo mają tutaj pokazane głównie w formie takich smokersów, czyli głębokiego krążenia wód, nasycania się gazami, wypływania z dna oceanicznego na powierzchnię w strefie tysiąca, dwóch, nawet trzech tysięcy kilometrów od głównego ryftu oceanicznego, powoduje że emitowane są przeogromne ilości gazów, metanu, dwutlenku węgla, innych gazów cieplarnianych, których my naprawdę nie jesteśmy w stanie dokładnie powiedzieć ile. Błąd oszacowania, w mojej opinii, szacunków jest mniej więcej równy temu jaka jest wielkość emisji antropogenicznej dzisiaj.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Można złośliwie odpowiedzieć, że gdy prof. Jędrysek mówi że nie wie jaki jest bilans gazów cieplarnianych do atmosfery, to &lt;em&gt;naprawdę&lt;/em&gt; tego nie wie. Na pierwszy rzut oka łatwo jest schować się za ignorancją bliżej niesprecyzowanego kolektywu naukowego i postulować istnienie hipotetycznych źródeł dwutlenku węgla w miejscach, których nikt dokładnie nie zbadał. Jak za chwilę jednak zobaczymy, niepewność w oszacowaniach bilansu geologicznego cyklu węglowego jest kilka rzędów wielkości mniejsza niż utrzymuje Jędrysek.&lt;/p&gt;
-
-&lt;p&gt;Po pierwsze więc, potrafimy zmierzyć z dużą dokładnością zmiany zawartości dwutlenku węgla w atmosferze, wiemy też ile węgla, ropy i gazu jest wydobywanych i spalanych. &lt;a href=&quot;http://www.globalcarbonproject.org/carbonbudget/14/data.htm&quot;&gt;Z danych tych wynika&lt;/a&gt;, że emisja antropogeniczna CO&lt;sub&gt;2&lt;/sub&gt; jest dwukrotnie większa od obserwowanego wzrostu koncentracji tego gazu, co oznacza że pozostałe procesy sumarycznie CO&lt;sub&gt;2&lt;/sub&gt; z atmosfery &lt;em&gt;usuwają&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Po drugie, pomiary zawartości izotopu &lt;sup&gt;13&lt;/sup&gt;C w atmosferycznym CO&lt;sub&gt;2&lt;/sub&gt; oraz rozpuszczonym w oceanach węglu nieorganicznym są spójne z antropogenicznym inwentarzem paliw kopalnych i wykluczają jakiekolwiek znaczące źródła dwutlenku węgla pochodzącego z wulkanów czy stef ryftowych  —  gdyby takie źródła istniały, obserwowalibyśmy znacznie większy przyrost CO&lt;sub&gt;2&lt;/sub&gt; w atmosferze i/lub oceanach, oraz słabszy efekt Suessa &lt;a href=&quot;#p19&quot;&gt;[19]&lt;/a&gt;&lt;a href=&quot;#p20&quot;&gt;[20]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Po trzecie, rekonstrukcje zawartości dwutlenku węgla z rdzeni lodowych wskazują, że poziom dwutlenku węgla w atmosferze (a także, pośrednio, zawartość węgla w rezerwuarach lądowych oraz oceanicznych) był stabilny zarówno w relatywnie krótkiej, liczonej setkach i tysiącach lat skali czasowej, jak i w skali dłuższej niż cykle glacjalne, to znaczy liczonej w setkach tysięcy lat. Prosta arytmetyka wskazuje, że nadwyżka emisji nad pochłanianiem wielkości 10 miliardów ton węgla rocznie, czyli porównywalna z wielkością emisji antropogenicznej, po zaledwie 100 tysiącach lat spowodowałaby transfer CO&lt;sub&gt;2&lt;/sub&gt; do atmosfery w ilości ponad 1000 razy większej, niż wynosiła zawartość tego gazu w atmosferze. Nic takiego nie miało oczywiście miejsca, zapis geologiczny wyklucza też pojawianie się tak dużych ilości węgla w oceanach w ciągu ostatnich kilku setek tysięcy czy milionów lat. Szacunki uwzględniające zmiany równowagi chemicznej oceanów wskazują, że maksymalne niedomknięcie bilansu geologicznego cyklu węglowego wynosiło w ostatnich 610 tysięcy lat zaledwie 840 miliardów ton węgla, czyli średnio około 1,3 miliona ton węgla rocznie &lt;a href=&quot;#p21&quot;&gt;[21]&lt;/a&gt;. To prawie &lt;em&gt;dziesięć tysięcy&lt;/em&gt; razy mniej niż wartość sugerowana przez prof. Jędryska.&lt;/p&gt;
-
-&lt;p&gt;Po czwarte w końcu, wielkość emisji ze stref ryftów kontynentalnych jest możliwa do określenia pośrednimi metodami, poprzez pomiary strumienia izotopu helu &lt;sup&gt;3&lt;/sup&gt;He, i szacuje się ją na kilkudziesiąt milionów ton węgla rocznie &lt;a href=&quot;#p22&quot;&gt;[22]&lt;/a&gt;. Subdukcja osadów węglanowych powoduje usuwanie węgla w ilości szacowanej też na kilkadziesiąt milionów ton rocznie, i jak już wspomniałem wyżej oba strumienie węgla — z i do litosfery — domykają się z dokładnością do około 1 miliona ton rocznie. Nawet przy dużych niepewnościach daleko jest więc do wielkości postulowanych przez prof. Jędryska.&lt;/p&gt;
-
-&lt;h2 id=&quot;podsumowanie&quot;&gt;Podsumowanie&lt;/h2&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Ignorancja części polskiego środowiska geologicznego&lt;/span&gt;  w temacie globalnego ocieplenia nie przestaje mnie zadziwiać, zwłaszcza biorąc pod uwagę ogrom łatwo dostępnej literatury naukowej i wysiłek popularyzatorski licznych specjalistów.&lt;sup class=&quot;sidenote-number&quot;&gt;7&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;7&lt;/sup&gt; Przykładem przystępnego, skierowanego do niespecjalistów dokumentu nt. zmian klimatu może być &lt;a href=&quot;https://www.geolsoc.org.uk/~/media/shared/documents/policy/Climate Change Statement final   new format.pdf&quot;&gt;materiał&lt;/a&gt; &lt;a href=&quot;https://www.geolsoc.org.uk/~/media/shared/documents/policy/Climate Change Statement Addendum 2013 Final.pdf&quot;&gt;przygotowany&lt;/a&gt; przez Londyńskie Towarzystwo Geologiczne.&lt;/span&gt; Trudno to wytłumaczyć nawet tradycyjnie bliskimi związkami z przemysłem górniczym i zacietrzewieniem polityczno-ideologicznym, nakazującym patrzeć na każdego kto mówi o wpływie CO&lt;sub&gt;2&lt;/sub&gt; na klimat jak na wroga polskiego węgla, a przez implikację wroga Narodu. Z wypowiedzi prof. Jędryska wynika przecież jasno, że coś kiedyś, piąte przez dziesiąte, zasłyszał, a zdobyty podczas studiów i późniejszej pracy naukowej aparat pojęciowy powinien mu wystarczyć do zrozumienia fizycznych podstaw klimatologii. Jako organizator i specjalista z pokrewnej dziedziny mógłby przyczynić się do podniesienia poziomu wiedzy uczestników konferencji, a zamiast tego tylko utrwalił garść krążących od dawna mitów na temat globalnego ocieplenia, oraz stworzył kilka nowych.&lt;/p&gt;
-
-&lt;p&gt;Trochę wstyd, Panie Profesorze i Panie Pośle.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
-
-&lt;p&gt;&lt;a name=&quot;p1&quot;&gt;&lt;/a&gt;1. Caldeira, Kasting (1992) &lt;a href=&quot;http://www.nature.com/nature/journal/v360/n6406/abs/360721a0.html&quot;&gt;The life span of the biosphere revisited&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p2&quot;&gt;&lt;/a&gt;2. Bereiter, et al (2015) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2014GL061957/abstract&quot;&gt;Revision of the EPICA Dome C CO2 record from 800 to 600 kyr before present&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p3&quot;&gt;&lt;/a&gt;3. Siegenthaler, et al (2005) &lt;a href=&quot;http://www.sciencemag.org/content/310/5752/1313&quot;&gt;Stable Carbon Cycle–Climate Relationship During the Late Pleistocene&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p4&quot;&gt;&lt;/a&gt;4. Petit, et al (1999) &lt;a href=&quot;http://www.nature.com/nature/journal/v399/n6735/full/399429a0.html&quot;&gt;Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p5&quot;&gt;&lt;/a&gt;5. Martínez-Botí, et al (2015) &lt;a href=&quot;http://www.nature.com/nature/journal/v518/n7537/full/nature14145.html&quot;&gt;Plio-Pleistocene climate sensitivity evaluated using high-resolution CO&lt;sub&gt;2&lt;/sub&gt; records&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p6&quot;&gt;&lt;/a&gt;6. Breecker, Sharp, McFadden (2010) &lt;a href=&quot;http://www.pnas.org/content/107/2/576&quot;&gt;Atmospheric CO&lt;sub&gt;2&lt;/sub&gt; concentrations during ancient greenhouse climates were similar to those predicted for A.D. 2100&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p7&quot;&gt;&lt;/a&gt;7. Zhang, et al (2013) &lt;a href=&quot;http://rsta.royalsocietypublishing.org/content/371/2001/20130096&quot;&gt;A 40-million-year history of atmospheric CO&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p8&quot;&gt;&lt;/a&gt;8. Beerling, Royer (2011) &lt;a href=&quot;http://www.nature.com/ngeo/journal/v4/n7/full/ngeo1186.html&quot;&gt;Convergent Cenozoic CO&lt;sub&gt;2&lt;/sub&gt; history&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p9&quot;&gt;&lt;/a&gt;9. Jędrysek, et al (2003) &lt;a href=&quot;http://link.springer.com/article/10.1023%2FA%3A1023640903795&quot;&gt;Air-pollution Effect and Paleotemperature Scale versus δ13C Records in Tree Rings and in a Peat Core (Southern Poland)&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p10&quot;&gt;&lt;/a&gt;10. Skrzypek, Jędrysek (2005) &lt;a href=&quot;http://link.springer.com/chapter/10.1007/3-540-26531-7_7&quot;&gt;13C/12C Ratio in Peat Cores: Record of Past Climates&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p11&quot;&gt;&lt;/a&gt;11. Büntgen, et al (2013) &lt;a href=&quot;http://www.pnas.org/content/110/5/1773.full&quot;&gt;Filling the Eastern European gap in millennium-long temperature reconstructions&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p12&quot;&gt;&lt;/a&gt;12. Esper, et al (2014) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/jqs.2726/abstract&quot;&gt;Northern European summer temperature variations over the Common Era from integrated tree-ring density records&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p13&quot;&gt;&lt;/a&gt;13. Briffa, et al (2013) &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0277379113001406&quot;&gt;Reassessing the evidence for tree-growth and inferred temperature change during the Common Era in Yamalia, northwest Siberia&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p14&quot;&gt;&lt;/a&gt;14. Lacis, et al (1981) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/GL008i010p01035/full&quot;&gt;Greenhouse effect of trace gases, 1970-1980&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p15&quot;&gt;&lt;/a&gt;15. Sitch, et al (2008) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2486.2008.01626.x/abstract&quot;&gt;Evaluation of the terrestrial carbon cycle, future plant geography and climate-carbon cycle feedbacks using five Dynamic Global Vegetation Models (DGVMs)&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p16&quot;&gt;&lt;/a&gt;16. Bock, et al (2010) &lt;a href=&quot;http://www.sciencemag.org/content/328/5986/1686.abstract&quot;&gt;Hydrogen Isotopes Preclude Marine Hydrate CH4 Emissions at the Onset of Dansgaard-Oeschger Events&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p17&quot;&gt;&lt;/a&gt;17. Sowers (2006) &lt;a href=&quot;http://www.sciencemag.org/content/311/5762/838.abstract&quot;&gt;Late Quaternary Atmospheric CH&lt;sub&gt;4&lt;/sub&gt; Isotope Record Suggests Marine Clathrates Are Stable&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p18&quot;&gt;&lt;/a&gt;18. Möller, et al (2013) &lt;a href=&quot;http://www.nature.com/ngeo/journal/v6/n10/full/ngeo1922.html&quot;&gt;Independent variations of CH&lt;sub&gt;4&lt;/sub&gt; emissions and isotopic composition over the past 160,000 years&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p19&quot;&gt;&lt;/a&gt;19. Quay, et al (2003) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2001GB001817/full&quot;&gt;Changes in the 13C/12C of dissolved inorganic carbon in the ocean as a tracer of anthropogenic CO2 uptake&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p20&quot;&gt;&lt;/a&gt;20. Tagliabue, Bopp (2008) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2007GB003037/full&quot;&gt;Towards understanding global variability in ocean carbon-13&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p21&quot;&gt;&lt;/a&gt;21. Zeebe, Caldeira (2008) &lt;a href=&quot;http://www.nature.com/ngeo/journal/v1/n5/abs/ngeo185.html&quot;&gt;Close mass balance of long-term carbon fluxes from ice-core CO&lt;sub&gt;2&lt;/sub&gt; and ocean chemistry records&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;p22&quot;&gt;&lt;/a&gt;22. Marty, Jambon (1987) &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/0012821X87900471&quot;&gt;C&lt;sup&gt;3&lt;/sup&gt;He in volatile fluxes from the solid Earth: implications for carbon geodynamics&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 May 2015 22:00:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/15/w-sejmie-o-globalnym-ociepleniu</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/w-sejmie-o-globalnym-ociepleniu</guid>
-        
-        
-        <category>denializm</category>
         
       </item>
     
