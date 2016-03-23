@@ -5,9 +5,133 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Mar 2016 15:26:01 +0000</pubDate>
-    <lastBuildDate>Sat, 19 Mar 2016 15:26:01 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Mar 2016 08:39:44 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Mar 2016 08:39:44 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Fyfe et al. o spowolnieniu globalnego ocieplenia</title>
+        <description>&lt;p&gt;W swoim tekście o prawdzie naukowej i rzekomych oszustwach klimatologów prof. Turski wspomniał o opublikowanym niedawno w &lt;em&gt;Nature Climate Change&lt;/em&gt; artykule “Making sense of the early-2000s warming slowdown”. Artykuł ten, autorstwa kilkunastu naukowców z USA, Kanady, Wielkiej Brytanii, Australii i Japonii, jest po części podsumowaniem badań dotyczących przyczyn spowolnienia wzrostu temperatur w ostatnich kilkunastu latach, a po części próbą uporządkowania chaosu terminologicznego panującego w literaturze przedmiotu i polemiką z niektórymi pojawiającymi się w niej tezami.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Na początek obrazek.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/noaa_hadcrut.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Miesięczne anomalie temperatury globalnej w seriach obserwacyjnych Met Office i NOAA.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Wykresy przedstawiają zmiany temperatury planety w ujęciu miesięcznym, według analiz dwóch ośrodków klimatologicznych: amerykańskiej NOAA NCEI, oraz brytyjskiej Met Office. “Spowolnienie” (&lt;em&gt;hiatus&lt;/em&gt;, &lt;em&gt;slowdown&lt;/em&gt;, etc.) wokół którego toczy się dyskusja omawiana w artykule Fyfe et al. &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt; dotyczy okresu początku XXI wieku – choć precyzyjna definicja zależała od tego, jak kto sobie wybierał punkty początkowe i końcowe.&lt;/p&gt;
+
+&lt;p&gt;W szerszym kontekście, u źródeł dyskusji o “zatrzymanie globalnego ocieplenia” leży problem oszacowania czułości systemu klimatycznego na wymuszenia radiacyjne. Na przykład: o ile podniesie się średnia temperatura planety, jeśli zwiększymy dwukrotnie koncentrację dwutlenku węgla w atmosferze? I w jakim tempie ten wzrost temperatury nastąpi?&lt;/p&gt;
+
+&lt;p&gt;Ponieważ stan atmosfery jest z jednej strony zależny od warunków początkowych (czyli, mówiąc obrazowo: pogoda jest chaotyczna), a z drugiej silnie ograniczony warunkami brzegowymi (czyli: klimat jest przewidywalny), zachowanie takiego indeksu jak średnia globalna temperatura jest kombinacją sygnału i szumu. Więcej na ten temat pisałem niedawno &lt;a href=&quot;http://doskonaleszare.github.io/articles/16/powtorka-z-atrybucji/&quot;&gt;w blognotce o atrybucji globalnego ocieplenia&lt;/a&gt;, więc tutaj tylko przypomnę że sygnałem jest wieloletni trend, będący konsekwencją stopniowego wzmacniania efektu cieplarnianego, a szum to naturalna zmienność klimatyczna wynikająca z interakcji pomiędzy oceanami i amosferą.&lt;/p&gt;
+
+&lt;p&gt;Z tego też powodu nie spodziewamy się, że ocieplenie spowodowane wzrostem zawartości gazów cieplarnianych w atmosferze będzie przebiegać w jednostajnym tempie. Dla przykładu, 26 lat temu IPCC tak pisało o tym w swoim pierwszym raporcie &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Because of long-period couplings between different components of the climate system, for example between ocean and atmosphere, the Earth’s climate would still vary without being perturbed by any external influences. This natural variability could act to add to, or subtract from, any human-made warming, on a century time-scale this would be less than changes expected from greenhouse gas increases.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gdybyśmy zatem obserwowali ocieplający się klimat przez kilka, czy kilkanaście dedad, możemy oczekiwać że mniej więcej połowa krótkoterminowych trendów temperatury będzie miała niższą wartość niż trend długoterminowy, oraz że niektóre krótkoterminowe trendy będą miały wartość bliską zeru, albo nawet ujemną. Graficzny przykład syntetycznej serii o własnościach podobnych do indeksów temperatury globalnej pokazuję poniżej: linia czerwona to trend długoterminowy o wartości 0,75 °C na stulecie, linie niebieskie to trendy 15-letnie, z których około 12% ma wartości ujemne.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/sync_variability.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Oczywiście, im większa wariancja serii w stosunku do wartości trendu długoterminowego, i im krótszy rozpatrywany okres, tym większy rozrzut wartości trendów. Spowolnienie globalnego ocieplenia nie jest zatem istotne samo w sobie, tylko w odniesieniu do naszych &lt;em&gt;oczekiwań&lt;/em&gt;, dotyczących zarówno amplitudy naturalnej zmienności klimatycznej, jak i spodziewanego wzrostu temperatur wynikającego z wzrostu zawartości gazów cieplarnianych w atmosferze.&lt;/p&gt;
+
+&lt;p&gt;Oczekiwania te formułuujemy między innymi w oparciu o przewidywania modeli systemu ziemskiego, zwanych popularnie modelami klimatu. Jeden z typów symulacji polega na wystartowaniu modelu w stanie “przedindustrialnym” (odpowiadającym przełomowi XVIII i XIX wiek)u, po czym pozwala mu się swobodnie reagować, przez kolejnych kilkaset lat, na zmiany składu atmosfery, a także inne czynniki jak deforestacja i wymuszona ludzką działalnością zmiana pokrywy roślinnej planety, oraz takie naturalne zjawiska jak wybuchy wulkanów, wahania aktywności słonecznej czy powolne zmiany orbity Ziemi.&lt;/p&gt;
+
+&lt;p&gt;Ponieważ modele klimatu generują własną, syntetyczną pogodę, więc symulowane przez nie ocieplenie w XX i XXI wieku też nie przebiega w jednakowym tempie. Przypomnę obrazek który już kiedyś pokazywałem, demonstrujący obecności kilkunastoletnich okresów spowolnionego ocieplenia albo wręcz ochłodzenia, nałożonych na długoterminowy trend wzrostowy.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/csiro_vs_obs2016.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Kolor szary – 10 symulacji eksperymentu Hist + RCP 4.5 australijskiego modelu CSIRO-Mk3.6.0. Kolorem niebieskim zaznaczono te przebiegi modelu (pomiędzy rokiem 1994 a 2085), w których trend temperatur globalnych był niższy niż 0,10°C na dekadę przez co najmniej 16 lat. Kolor pomarańczowy to 5 serii analiz historycznych zmian temperatury globalnej: Met Office, NOAA NCEI, Cowtana i Waya, Berkeley Earth i NASA GISS.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Przy pomocy modeli klimatu możemy wielokrotnie, z nieznacznie zmienionymi warunkami początkowymi, zasymulować zmiany klimatu w XX i poczatku XXI wieku, po czym ocenić na ile nasz model zgodny jest z obserwacjami, to znaczy z jakim prawdopodobieństwem trendy &lt;em&gt;zaobserwowane&lt;/em&gt; mogą pochodzić z rozkładu wygenerowanego przez model.&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Nie różni się to zbytnio od zwykłych testów hipotez statystycznych, tyle że zamiast modelu statystycznego używamy modelu fizycznego do zbadania własności rozkładu.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Problem spowolnienia ocieplenia dotyczył jednak nie tylko zgodności pomiędzy przewidywaniami teoretycznymi a obserwacjami, ale przede wszystkim jego fizycznych przyczyn. Nawet jeśli modele klimatu generowałyby krótkoterminowe trendy temperatur o wartościach zbliżonych do zera, albo ujemnych, wciąż interesowałoby nas &lt;em&gt;dlaczego&lt;/em&gt; tak się dzieje. Odpowiedź “to tylko naturalna zmienność klimatu” przestała naukowcom wystarczać kilkanaście lat temu.&lt;/p&gt;
+
+&lt;p&gt;Tak się bowiem szczęśliwie złożyło, że akurat w tym czasie klimatolodzy uzyskali dostęp do narzędzi umożliwiających dokładniejsze zbadania tej kwestii: większe wiązki symulacji, pozwalające na lepszą charakteryzację zmienności klimatycznej; nowe typy eksperymentów numerycznych, tak zwanych prognoz dekadowych, w których modele są inicjalizowane ze stanu zbliżonego do rzeczywistego; oraz nowe dane obserwacyjne oceanów i atmosfery.&lt;/p&gt;
+
+&lt;p&gt;Jaki jest więc werdykt Johna Fyfe i jego współautorów, którzy w ciągu ostatnich kilku lat zajmowali się tym ciekawem problemem badawczym, i w sumie opublikowali kilkanaście artykułów dotyczących spowolnienia ocieplenia?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A large body of scientific evidence — amassed before and since the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC AR5) — indicates that the so-called surface warming slowdown, also sometimes referred to in the literature as the hiatus, &lt;strong&gt;was due to the combined effects of internal decadal variability and natural forcing (volcanic and solar) superimposed on human-caused warming&lt;/strong&gt;. Given the intense political and public scrutiny that global climate change now receives, it has been imperative for scientists to provide a timely explanation of the warming slowdown, and to place it in the context of ongoing anthropogenic warming. &lt;strong&gt;Despite recently voiced concerns, we believe this has largely been accomplished&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O niektórych z tych badań już kiedyś pisałem, więc tylko przypomnę najważniejsze z nich.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Kilka grup naukowców niezależnie wykazało &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;, że sposób konstrukcji najbardziej popularnych serii temperatury globalnej &lt;em&gt;zaniża&lt;/em&gt; rzeczywiste tempo ocieplenia. Główną tego przyczyną było niewystarczające pokrycie obserwacjami obszarów położonych na wysokich szerokościach geograficznych, które z powodu zjawiska “polarnego wzmocnienia” ocieplały się znacznie szybciej niż średnia globalna. Ocieplenie zaniżały też nieuwzględnione wcześniej zmiany metod pomiaru temperatury oceanów przez statki &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Ze względu na instytucjonalną inercję charakteryzującą każdą dziedzinę nauki, większość symulacji historycznej zmiany klimatu przeprowadzanych w ramach projektu CMIP5 kończyła się w roku 2005,&lt;sup class=&quot;sidenote-number&quot;&gt;4&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;4&lt;/sup&gt; Eksperymenty &lt;em&gt;historicalExt&lt;/em&gt; obejmujące okres do roku 2012 były opcjonalną częścią projektu CMIP5.&lt;/span&gt; więc późniejsze lata pochodzić musiały z prognoz opartych o scenariusze RCP. Jedną z tego konsekwencji było to, że ostatnią erupcją wulkaniczną w tych sumulacjach była Mt Pinatubo z 1991 roku, a aktywność słoneczna na trochę wyższym poziomie niż rzeczywisty. Oba czynniki skutkowały zawyżoną wartością wymuszeń radiacyjnych i w konsekwencji nieco szybszym tempem ocieplenia &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; Pomiary temperatur głębin oceanicznych przez boje programu Argo zademonstrowały, że w okresie spowolnienia ocieplenia na &lt;em&gt;powierzchni&lt;/em&gt; planety system klimatyczny wciąż akumulował energię &lt;a href=&quot;#przyp6&quot;&gt;[6]&lt;/a&gt;; udało się też wykazać, że wiąże się to z wzmocnioną cyrkulacją równoleżnikową atmosfery nad tropikalnym Pacyfikiem &lt;a href=&quot;#przyp7&quot;&gt;[7]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ten ostatni fakt oznaczał, że spowolnienie ocieplenia nie będzie trwało wiecznie. W styczniu 2014 roku magazyn &lt;em&gt;Nature&lt;/em&gt;, podsumowując dotychczasowy stan badań &lt;a href=&quot;http://www.nature.com/news/climate-change-the-case-of-the-missing-heat-1.14525&quot;&gt;zacytował&lt;/a&gt; między innymi prorocze słowa Kevina Trenbertha:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At present, strong tropical trade winds are pushing ever more warm water westward towards Indonesia, fuelling storms such as November’s Typhoon Haiyan, and nudging up sea levels in the western Pacific; they are now roughly 20 centimetres higher than those in the eastern Pacific. Sooner or later, the trend will inevitably reverse. “You can’t keep piling up warm water in the western Pacific,” Trenberth says. “At some point, the water will get so high that it just sloshes back.” And when that happens, if scientists are on the right track, the missing heat will reappear and temperatures will spike once again.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I to się właśnie zdarzyło rok temu, kiedy nadeszło El Niño którego skutki wciąż możemy obserwować.&lt;/p&gt;
+
+&lt;p&gt;Tyle część przeglądowa artykułu Fyfe et al, pora przejść do cześci polemicznej. W “Prawdzie naukowej” prof. Turski streszczał ją następująco:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Od wielu lat chłopcami do bicia byli ci badacze, którzy zwrócili uwagę na fakt, że globalne ocieplenie w ciągu kilkunastu ostatnich lat zwolniło tempo i to pomimo istotnego wzrostu emisji gazów cieplarnianych. Gigant badawczy NOAA (National Oceanic and Atmospheric Administration) w USA i naukowcy z nim związani nie szczędzili środków, by udowodnić, delikatnie mówiąc, nicość intelektualną tych, którzy o tym spowolnieniu ośmielali się mówić i pisać. Tuż przed ostatnim wystąpieniem prezydenta Obamy na konferencji klimatycznej w Paryżu czołowy ekspert NOAA opublikował artykuł miażdżący zwolenników spowolnienia. 26 lutego 2016 r. na łamach elektronicznego wydania najmodniejszego czasopisma naukowego Nature, w jego części Climate Change, ukazała się publikacja 11 autorów, w tym samego Michaela E. Manna, zatytułowana Próba zrozumienia spowolnienia ocieplenia w początkach lat 2000. Artykuł ten przyznaje rację sponiewieranym moralnie autorom tezy o spowolnieniu, przyznaje, że jest ono znaczące i że jego związek z emisją gazów cieplarnianych powinien być dogłębniej zbadany.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ze sformułowań użytych przez prof. Turskiego wynika że nie czytał żadnego z artykułów, które przywołuje, przypominam, jako dowód oszustw popełnianych przez klimatologów. Praca Fyfe et al. nie ukazała się na łamach tygodnika &lt;em&gt;Nature&lt;/em&gt;, tylko miesięcznika &lt;em&gt;Nature Climate Change&lt;/em&gt;, które jest osobnym czasopismem NPG, oddzielnie indeksowanym, i z własnym &lt;a href=&quot;http://www.nature.com/npg_/company_info/impact_factors.html&quot;&gt;impact factorem&lt;/a&gt;.&lt;sup class=&quot;sidenote-number&quot;&gt;5&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;5&lt;/sup&gt; Co łatwo odkryć jeśli się ma subskrypcję na &lt;em&gt;Nature&lt;/em&gt;, ale już nie na inne czasopisma NPG.&lt;/span&gt; Artykuł Karla et al. &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt; nie został opublikowany “tuż przed ostatnim wystąpieniem prezydenta Obamy na konferencji klimatycznej w Paryżu”, tylko pół roku wcześniej.&lt;sup class=&quot;sidenote-number&quot;&gt;6&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;6&lt;/sup&gt; A jego rękopis wysłano do &lt;em&gt;Science&lt;/em&gt; rok wcześniej.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Nie do końca rozumiem też, jakich “sponiewieranych moralnie autorów” ma na myśli prof. Turski, skoro, jak mowa w samym artykule Fyfe et al., ten problem badawczy był omawiany w literaturze naukowej od roku 2009, a jego bibliografia liczona jest w dziesiątkach artykułów.&lt;/p&gt;
+
+&lt;p&gt;Być może prof. Turski sugeruje, że “artykuł ten przyznaje rację” pseudonaukowej publicystyce, którą można było spotkać w prasie codziennej i masowych mediach, a w której utrzymywano, że “globalne ocieplenie skończyło się w roku 1998” (&lt;a href=&quot;http://www.telegraph.co.uk/comment/personal-view/3624242/There-IS-a-problem-with-global-warming...-it-stopped-in-1998.html&quot;&gt;2006&lt;/a&gt;, emerytowany geolog Bob Carter), że pierwszych oznak nadchodzącej epoki lodowej należy oczekiwać już w latach 2012-2015 (&lt;a href=&quot;http://www.polityka.pl/tygodnikpolityka/nauka/251186,1,idzie-zimno.read&quot;&gt;2008&lt;/a&gt;, emerytowany radiolog Zbigniew Jaworowski), albo że “do roku 2030 czeka nas globalne ochłodzenie” (&lt;a href=&quot;http://www.foxnews.com/tech/2010/05/19/global-cooling-scientists-warming.html&quot;&gt;2010&lt;/a&gt;, emerytowany geolog Don Easterbrook).&lt;sup class=&quot;sidenote-number&quot;&gt;7&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;7&lt;/sup&gt; Z tej trójki tylko Easterbrook dożył falsyfikacji swojej prognozy.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Jeśli tak, to w kwestii oceny tych twierdzeń nic się nie zmieniło: były one bzdurne 10 czy 6 lat temu, i wciąż pozostają bzdurami.&lt;sup class=&quot;sidenote-number&quot;&gt;8&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;8&lt;/sup&gt; Np. nawet już pomijając to, że absurdem było przedstawianie trendu 8-letniego jako dowodu na to że globalne ocieplenie się skończyło, w okresie o którym pisał Bob Carter jego wartość była dodatnia i wynosiła około 0,16 °C na dekadę.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Fyfe z kolegami czynią natomiast następujące dwie uwagi:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Polemizując z analizą Lewandowskiego, Risbey i Oreskes &lt;a href=&quot;#przyp8&quot;&gt;[8]&lt;/a&gt; wskazują, że nawet jeśli spowolnienie ocieplenia z początku XXI wieku jest podobne do wcześniejszych wahań dekadowych trendów temperatury, różni się od nich tym, że jego przyczyną jest przede wszystkim niewymuszona zmienność klimatu, a nie np. antropogeniczne aerozole siarczane, jak w latach 1950-tych i 1960-tych.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Z podobnych przyczyn wniosek Karla et al. &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;, że w latach 2000-2014 Ziemia ocieplała się w podobnym tempie co wcześniej w latach 1950-1999, mimo że prawdziwy z czysto statystycznego punktu widzenia, jest mylący tego względu, że oba okresy różnią się tempem przyrostu antropogenicznego wymuszenia radiacyjnego (a zatem i spodziewanego ocieplenia). Bardziej odpowiednim dla porównań byłby późniejszy okres 1972-2001, kiedy już wdrożono w krajach zachodnich programy ochrony jakości powietrza, wskutek czego ilość związków siarki uwalnianych do atmosfery przestała przyrastać, i wyraźniejszy stał się wpływ gazów cieplarnianych na klimat. Przy taki porównaniu, trend temperatur z początku XXI wieku jest wyraźnie niższy&lt;sup class=&quot;sidenote-number&quot;&gt;9&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;9&lt;/sup&gt; Ale nie “znacząco różny” w sensie statystycznym.&lt;/span&gt; od tego z trzech poprzedzających dekad, z powodów wymienionych powyżej.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/noaa2016.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zmiany średniej temperatury globalnej według danych NOAA NCEI. Kolorem szarym zaznaczono trendy 15-letnie, inne kolory dotyczą okresów wymienionych w tekście. Zaznaczono też prawdopodobny zakres wartości anomalii temperatury która zostanie osiągnięta w roku 2016.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Tam gdzie prof. Turski widzi oszustwa klimatologów, naukowcy na których się powołuje dostrzegają raczej ciekawy problem badawczy&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We do not believe that warming has ceased, but we consider the slowdown to be a recent and visible example of a basic science question that has been studied for at least twenty years: what are the signatures of (and the interactions between) internal decadal variability and the responses to external forcings, such as increasing GHGs or aerosols from volcanic eruptions?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;dodając, że badania nad “spowolnieniem” zwiększyła naszą wiedzę o naturalnej zmienności klimatycznej&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Research into the nature and causes of the slowdown has triggered improved understanding of observational biases, radiative forcing and internal variability. This has led to widespread recognition that&lt;br /&gt;
+modulation by internal variability is large enough to produce a significantly reduced rate of surface temperature increase for a decade or even more — particularly if internal variability is augmented by the externally driven cooling caused by a succession of volcanic eruptions. The legacy of this new understanding will certainly outlive the recent warming slowdown.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Niestety, osobnym, i nierozwiązanym jeszcze problemem, jest spowodowanie by osoby, które tak jak prof. Turski zabierają autorytatywnie głos w temacie globalnego ocieplenia, zechciały się najpierw z tym dorobkiem badawczym klimatologii zapoznać.&lt;/p&gt;
+
+&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Fyfe, et al. (2016), “Making sense of the early-2000s warming slowdown”, &lt;em&gt;Nature Climate Change&lt;/em&gt;  6, 224–228 (&lt;a href=&quot;http://www.meteo.psu.edu/holocene/public_html/Mann/articles/articles/FyfeEtAlNatureClimate16.pdf&quot;&gt;link&lt;/a&gt;).&lt;br /&gt;
+&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. IPCC (1990), “Policymakers Summary”, &lt;em&gt;Report prepared for Intergovernmental Panel on Climate Change by Working Group I&lt;/em&gt;, xxvii, (&lt;a href=&quot;https://www.ipcc.ch/ipccreports/far/wg_I/ipcc_far_wg_I_spm.pdf&quot;&gt;link&lt;/a&gt;).&lt;br /&gt;
+&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Simmons, et al. (2010), “Low-frequency variations in surface atmospheric humidity, temperature, and precipitation: Inferences from reanalyses and monthly gridded observational data sets”, &lt;em&gt;Journal of Geophysical Research: Atmospheres&lt;/em&gt; Volume 115, Issue D1, 16 (&lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2009JD012442/abstract&quot;&gt;link&lt;/a&gt;); Cowtan i Way (2014), “Coverage bias in the HadCRUT4 temperature series and its impact on recent temperature trends”, &lt;em&gt;Quarterly Journal of the Royal Meteorological Society&lt;/em&gt; Volume 140, Issue 683, 1935–1944 (&lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/qj.2297/abstract&quot;&gt;link&lt;/a&gt;).&lt;br /&gt;
+&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Karl, et al. (2015), “Possible artifacts of data biases in the recent global surface warming hiatus”, &lt;em&gt;Science&lt;/em&gt; Volume 348, Issue 6242, 1469–1472 (&lt;a href=&quot;http://science.sciencemag.org/content/348/6242/1469&quot;&gt;link&lt;/a&gt;).&lt;br /&gt;
+&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Schmidt, Shindell i Tsigaridis (2014), “Reconciling warming trends”, &lt;em&gt;Nature Geoscience&lt;/em&gt;, 7, no. 3, 158–16 (&lt;a href=&quot;http://www.nature.com/ngeo/journal/v7/n3/full/ngeo2105.html&quot;&gt;link&lt;/a&gt;).&lt;br /&gt;
+&lt;a name=&quot;przyp6&quot;&gt;&lt;/a&gt;6. Np. Roemmich, et al. (2015), “Unabated planetary warming and its ocean structure since 2006”, &lt;em&gt;Nature Climate Change&lt;/em&gt;  5, 240–245 (&lt;a href=&quot;http://www.nature.com/nclimate/journal/v5/n3/full/nclimate2513.html&quot;&gt;link&lt;/a&gt;); Wijffels, et al. (2016), “Ocean temperatures chronicle the ongoing warming of Earth”, &lt;em&gt;Nature Climate Change&lt;/em&gt; 6, 116–118 (&lt;a href=&quot;http://www.nature.com/nclimate/journal/v6/n2/full/nclimate2924.html&quot;&gt;link&lt;/a&gt;); Smith, et al. (2015), “Earth’s energy imbalance since 1960 in observations and CMIP5 models”, &lt;em&gt;Geophysical Research Letters&lt;/em&gt;  Volume 42, Issue 4, 1205–1213 (&lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2014GL062669/full&quot;&gt;link&lt;/a&gt;).&lt;br /&gt;
+&lt;a name=&quot;przyp7&quot;&gt;&lt;/a&gt;7. England, et al. (2014), “Recent intensification of wind-driven circulation in the Pacific and the ongoing warming hiatus”, &lt;em&gt;Nature Climate Change&lt;/em&gt; 4, 222–227 (&lt;a href=&quot;http://www.nature.com/nclimate/journal/v4/n3/abs/nclimate2106.html&quot;&gt;link&lt;/a&gt;).&lt;br /&gt;
+&lt;a name=&quot;przyp8&quot;&gt;&lt;/a&gt;8. Lewandowsky, Risbey i Oreskes (2015), “On the definition and identifiability of the alleged hiatus in global warming”, &lt;em&gt;Scientific Reports&lt;/em&gt;  5,  16784&lt;br /&gt;
+(&lt;a href=&quot;http://www.nature.com/articles/srep16784&quot;&gt;link&lt;/a&gt;).&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Mar 2016 09:00:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/16/fyfe-et-al-o-spowolnieniu-globalnego-ocieplenia</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/16/fyfe-et-al-o-spowolnieniu-globalnego-ocieplenia</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>Naukowe fałsze Turskiego</title>
@@ -23,7 +147,7 @@
 
 &lt;p&gt;Zaznaczę od razu, że nie zgadzam się z tak przedstawionym wizerunkiem upadku nauki i zaufania do niej, spowodowanej nieuczciwością uprawiających ją ludzi. Oczywiście, wzrostu liczby przypadków oszustw w nauce można się spodziewać choćby z tego względu, że ten obszar ludzkiej działalności w ciągu ostatniego półwiecza ogromnie się rozrósł, zarówno jeśli chodzi o wzrost liczby wyspecjalizowanych dziedzin nauki, samych naukowców, czy wyników badań mierzonych publikacjami. Co więcej, globalizacja nauki oraz powszechny dostęp do internetowych źródeł sprawiły, że znacznie łatwiej, i szybciej, jest znaleźć problemy związane z wynikami badań i ich interpretacją,&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Czasami zajmuje to tylko kilka dni albo wręcz godzin, jak to było w przypadku artykułu o &lt;a href=&quot;http://science.sciencemag.org/content/early/2010/12/01/science.1197258&quot;&gt;GFAJ-1&lt;/a&gt; sześć lat temu.&lt;/span&gt; a także odkryć plagiaty czy auto-plagiaty, kategorię przewin naukowych wcześniej ignorowaną, a obecnie całkiem powszechną nie tylko w polskim dziennikarstwie śledczym.&lt;/p&gt;
 
-&lt;p&gt;Warto tutaj jednak podkreślić dwie kwestie. Po pierwsze, naukowcy też ludzie, i też często popełniają błędy. Nawet niedorzeczna analiza statystyczna, absurdalna interpretacja wyników czy niezrozumiane cytowania nie są jeszcze powodem, by zarzucać komuś złą wolę czy oszustwo. Postęp naukowy jest możliwy między dzięki temu, że naukowcy nie boją się publikować wyników badań które mogą się okazać błędne, i to nawet wtedy, kiedy są &lt;em&gt;niemal pewni&lt;/em&gt;, że okażą się błędne.&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Nadświetlne neutrina z eksperymentu &lt;a href=&quot;http://press.cern/press-releases/2011/09/opera-experiment-reports-anomaly-flight-time-neutrinos-cern-gran-sasso&quot;&gt;OPERA&lt;/a&gt; mogą być tego dobrym przykładem.&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Warto tutaj jednak podkreślić dwie kwestie. Po pierwsze, naukowcy też ludzie, i też często popełniają błędy. Nawet niedorzeczna analiza statystyczna, absurdalna interpretacja wyników czy niezrozumiane cytowania nie są jeszcze powodem, by zarzucać komuś złą wolę czy oszustwo. Postęp naukowy jest możliwy między dzięki temu, że naukowcy nie boją się publikować wyników badań które mogą się okazać błędne, i to nawet wtedy, kiedy są &lt;em&gt;niemal pewni&lt;/em&gt;, że okażą się błędne.&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Nadświetlne neutrina z eksperymentu &lt;a href=&quot;http://press.cern/press-releases/2011/09/opera-experiment-reports-anomaly-flight-time-neutrinos-cern-gran-sasso&quot;&gt;OPERA&lt;/a&gt; mogą być tego dobrym przykładem.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Po drugie, nowoczesna nauka wypracowała mechanizmy, które umożliwiają oddzielenie ziarna od plew, i stopniową eliminację naukowych błędów, niepoprawnych teorii czy zwykłych oszustw. Sposobem najpopularniejszym, wymagającym minimum wysiłku, a zarazem bardzo skutecznym, jest po prostu ignorowanie kiepskich publikacji; tak że po kilku latach nie pamięta o nich nikt poza wciąż samo-cytującym się autorem i jego biednymi doktorantami. W przypadkach bardziej kontrowersyjnych, bardziej szkodliwych albo po prostu bardziej interesujących środowisko naukowe sięga po bardziej aktywne metody: powstają polemiki i kontr-polemiki, publikowane są corrigenda, decyzją autorów albo mocą decyzji edytorskiej błędne artykuły są wycofywane z czasopism naukowych. A jeśli zachodzi podejrzenie popełnienia przez naukowców oszustwa, istnieją odpowiednie instytucje których obowiązkiem jest przeprowadzenie dochodzenia i ukaranie winnych.&lt;/p&gt;
 
@@ -53,7 +177,7 @@
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;W 2006 roku tematem tym zajmował się &lt;a href=&quot;http://www.nap.edu/catalog/11676/surface-temperature-reconstructions-for-the-last-2000-years&quot;&gt;specjalny panel Amerykańskiej Akademii Nauk&lt;/a&gt;, orzekając że Michael Mann nie dopuścił się żadnych nieuczciwych czy oszukańczych praktyk (&lt;a href=&quot;http://www.nationalacademies.org/podcast/20060622.mp3&quot;&gt;nagranie z konferencji prasowej panelu NRC, około 50 minuta i 20 sekunda&lt;/a&gt;).&lt;/p&gt;
+    &lt;p&gt;W 2006 roku tematem tym zajmował się &lt;a href=&quot;http://www.nap.edu/catalog/11676/surface-temperature-reconstructions-for-the-last-2000-years&quot;&gt;specjalny panel Amerykańskiej Akademii Nauk&lt;/a&gt;, orzekając że Michael Mann nie dopuścił się żadnych nieuczciwych czy oszukańczych praktyk (&lt;a href=&quot;http://www.nationalacademies.org/podcast/20060622.mp3&quot;&gt;nagranie z konferencji prasowej panelu NRC, około 50 m. 20 s.&lt;/a&gt;).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;W 2010 roku dwie komisje Pennsylvania State University, uniwersytetu który był pracodawcą Manna, również oczyściły go z wszelkich zarzutów (raporty &lt;a href=&quot;http://www.research.psu.edu/orp/documents/Findings_Mann_Inquiry.pdf&quot;&gt;tutaj&lt;/a&gt; i &lt;a href=&quot;http://www.washingtonpost.com/wp-srv/politics/documents/final_report_penn.pdf&quot;&gt;tutaj&lt;/a&gt;).&lt;/p&gt;
@@ -788,75 +912,6 @@ dT = \frac{dT_{\rvert A}}{1-\alpha}&lt;br /&gt;
         <pubDate>Thu, 15 Oct 2015 23:00:00 +0000</pubDate>
         <link>http://doskonaleszare.github.io/articles/15/evans-i-pochodne-czastkowe</link>
         <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/evans-i-pochodne-czastkowe</guid>
-        
-        
-        <category>negacjonizm</category>
-        
-      </item>
-    
-      <item>
-        <title>Hołyst</title>
-        <description>&lt;p&gt;Z opóźnieniem odsłuchałem &lt;a href=&quot;http://audycje.tokfm.pl/odcinek/Prof-Robert-Holyst-i-prof-Szymon-Malinowski-spieraja-sie-o-globalne-ocieplenie/29237&quot;&gt;debaty o klimacie&lt;/a&gt; prof. Hołysta (Instytut Chemii Fizycznej PAN) z prof. Malinowskim (Zakład Fizyki Atmosfery UW) w programie red. Łasiczki (Tok FM). Nie mogę powiedzieć, bym dowiedział się z niej czegoś nowego lub ciekawego o klimacie czy globalnym ociepleniu, bo z obecnych w studiu dyskutantów jedyna osoba, która wiedziała coś na ten temat (prof. Malinowski), z trudem mogła dojść do głosu. Większość programu była tak naprawdę poświęcona &lt;em&gt;niewiedzy&lt;/em&gt; prof. Hołysta i red. Łasiczki.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Zostało to zresztą świadomie zracjonalizowane przez prof. Hołysta&lt;/span&gt; , który przedstawił się jako agnostyk globalnego ocieplenia, wymieniający wątpliwości i niepewności związanych z klimatem, bez których rozstrzygniecia nie da się określić roli czynników atropogenicznych. A wątpliwości wymienianych przez prof. Hołysta jest mnóstwo: co do przyczyn zmian koncentracji pary wodnej w atmosferze i jej udziale w efekcie cieplarnianym; emisji metanu z topnienia wiecznej zmarzliny; dwutlenku węgla ze spalania biomasy; niepewności w pomiarach nierównowagi radiacyjnej i pochłaniania ciepła przez oceany; czy cyrkulacji atmosferycznej na planetach w rezonansie orbitalnym ze Słońcem.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Chodzi mi tylko o to, że pokazuję że mogą być procesy, na przykład spowalniające ruch Ziemi, które będą systematycznie prowadziły do zmian klimatycznych. Może się zmieniać orbita, może się zmieniać aktywność Słońca […] jest parowanie oceanów. Ja teraz świadomie nie używam żadnych liczb, tylko podaję argumenty które należy sprawdzić.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;D’oh! Przecież mogła się zmienić orbita! &lt;em&gt;Że też nikt na to nie wpadł&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Dalszy przebieg rozmowy, i powtórzona przez prof. Hołysta anegdotka obwieszczanym w XIX wieku końcu nauki sugeruje, że on &lt;em&gt;naprawdę&lt;/em&gt; wierzy w to, że nikt przed nim nie zweryfikował pomysłów, które pojawiły się w jego genialnej głowie po drodze do studia radiowego. I że może klimatolodzy powinni wziąć się wreszcie do roboty, bo przecież kilka teorii dotyczących przyczyn globalnego ocieplenia prof. Hołyst podsunął im na tacy.&lt;/p&gt;
-
-&lt;p&gt;A tak poważnie, to oczekiwałbym że rzetelny naukowiec, jeśli ma wątpliwości co do ustaleń z obcej mu dziedziny, to w pierwszej kolejności skonsultuje się ze specjalistami, przeczyta kilka podręczników, albo sprawdzi podstawową literaturę przedmiotu. Może się bowiem okazać, że te wątpliwości wynikają z jego własnej ignorancji, i nijak się mają do rzeczywistego stanu badań.&lt;/p&gt;
-
-&lt;p&gt;Weźmy dla przykładu pierwszą podniesioną wątpliwość:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ja zacznę może od faktu. Najważniejszym gazem cieplarnianym jest woda [sic], prawda? Prawda. Tuż przed audycją zadałem pytanie naszemu ekspertowi, Szymonowi [Malinowskiemu], i dowiedziałem się że ilość pary wodnej w powietrzu wzrosła o półtora procenta [sic] od roku 1970tego. […] Ta para wodna w atmosferze bierze się z procesu parowania, i tu przekazuję informacje z takich ostatnich badań, otóż parowanie niezwykle silnie zależy od tego jakie wieją wiatry, i bardzo łatwo jest zaburzyć równowagę pomiędzy wodą w stanie ciekłym, głównie oceanami, a ilością pary wodnej w powietrzu, i to można zrobić w miarę szybko. I teraz pytanie jest następujące: być może, są jakieś procesy klimatyczne, które powodują, że zmieniło się tempo parowania wody, i to jest główna przyczyna tego, że lokalnie teraz widzimy podniesienie temperatury, a za trzydzieści lat te same procesy doprowadzą do tego że para wodna w powietrzu skondensuje, spadnie na ziemię, i będzie zimno.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nie będzie.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Wiemy&lt;/em&gt; co jest główną przyczyną ocieplenia. Wiemy, jaki wpływ na skład atmosfery mają antropogeniczne emisje dwutlenku węgla, potrafimy obliczyć wynikające z nich zmiany przepływu promieniowania podczerwonego przez atmosferę, i potrafimy oszacować konsekwencje klimatyczne z wystarczajcą dokładnością, by przypisać czynnikom antropogenicznym co najmniej połowę ocieplenia od roku 1950. Co więcej, jednym z przewidywań teorii antropogenicznego globalnego ocieplenia, sformułowanym jeszcze pod koniec XIX wieku &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, jest towarzyszący ociepleniu wzrost zawartości pary wodnej w atmosferze, działający jednocześnie jak dodatnie sprzężenie zwrotne.&lt;/p&gt;
-
-&lt;p&gt;Gdyby to inne, nienazwane przez prof. Hołysta “procesy klimatyczne” wymuszały, poprzez zmiany zawartości pary wodnej w atmosferze, zmiany temperatury, prowadziłoby to do jeszcze większej zagadki: dlaczego dwutlenek węgla &lt;em&gt;nie powoduje&lt;/em&gt; ocieplenia, mimo że zgodnie z obowiązującą fizyką &lt;em&gt;powinien&lt;/em&gt; je powodować? A jeśli powoduje ocieplenie, dlaczego nie obserwujemy znacznie większej zmiany temperatury: tej wywołanej przez klimatyczne krasnoludki prof. Hołysta, oraz dodatkowo tej spowodowanej wzrostem zawartości dwutlenku węgla?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/tpw.png&quot; /&gt;Zmiany zawartości pary wodnej w atmosferze nad oceanami w latach 1988-2015. Źródło danych: RSS.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Jeszcze większym nonsensem jest teza, że “bardzo łatwo” można zaburzyć równowagę pomiędzy wodą w oceanach i atmosferą. Dane obserwacyjne demonstrują, że jest wręcz przeciwnie, a ilość pary wodnej w atmosferze jest wartością bardzo stabilną. Policzmy: dobowy globalny &lt;em&gt;opad&lt;/em&gt; wynosi około 2,8 kg/m&lt;sup&gt;2&lt;/sup&gt; &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, zatem suma opadu dla całego globu wynosi 520 tys. km&lt;sup&gt;3&lt;/sup&gt; rocznie.&lt;br /&gt;
-Z drugiej strony, całkowita zawartość pary wodnej w atmosferze w cyklu rocznym oscyluje pomiędzy 23 a 26 kg/m&lt;sup&gt;2&lt;/sup&gt; &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;, wahania międzyroczne są rzędu 0,2 kg/m&lt;sup&gt;2&lt;/sup&gt;, a trend długoletni wynosi około 0,34 kg/m&lt;sup&gt;2&lt;/sup&gt;, czyli 173 km&lt;sup&gt;3&lt;/sup&gt; na dekadę &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Liczby te pokazują, że strumienie parowania i opadów bilansują się w niemal idealny sposób (z dokładnością do 0,003%), a “zaburzyć równowagę pomiędzy wodą w stanie ciekłym, głównie oceanami, a ilością pary wodnej w powietrzu” jest &lt;em&gt;bardzo trudno&lt;/em&gt;. Dlatego, jak tłumaczył w programie prof. Malinowski (a czego nie mogli zrozumieć zarówno red. Łasiczka, jak i prof. Hołyst), nie jest tak naprawdę ważne ile wody paruje, bo i tak tyle samo spadnie w postaci opadów atmosferycznych.&lt;/p&gt;
-
-&lt;p&gt;Kolejnym nieporozumieniem jest sugestia prof. Hołysta, że większa zawartość pary wodnej w atmosferze musi wynikać ze zwiększonego parowania. W rzeczywistości, ponieważ obie wielkości zależą od różnych procesów, jedno nie implikuje drugiego. Przykładowo, &lt;a href=&quot;http://doskonaleszare.blox.pl/2014/02/Fizyka-deszczu.html&quot;&gt;jak już kiedyś wyjaśniałem&lt;/a&gt;, zwiększenie zawartości dwutlenku w atmosferze powoduje bezpośrednio zmniejszenie opadów (a więc i parowania) poprzez zmianę bilansu radiacyjnego na powierzchni planety i u szczytu atmosfery; zatem w sytuacji w której jednocześnie zwiększamy koncentrację dwutlenku węgla oraz kompensujemy część wzrostu temperatury przy pomocy aerozolu zmieniającego ilość docierającego światła słonecznego, możliwe jest osiągnięcie stanu z cieplejszą i bardziej wilgotną atmosferą, i jednocześnie mniejszymi opadami &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Literatura naukowa na temat cyklu hydrologicznego i jego czułości na wymuszenia radiacyjne jest zresztą bardzo bogata, i podejrzewam że gdyby prof. Hołyst tylko chciał, mógłby sam znaleźć odpowiedź na swoje pytania i zrozumieć, dlaczego jego pomysły, na które wpadł w przerwie na reklamy, są łagodnie rzecz ujmując niedorzeczne.&lt;/p&gt;
-
-&lt;p&gt;Ale to wymagałoby jakiegoś wysiłku. O wiele łatwiej jest występować w roli agnostyka, i rozkładać bezradnie ręce w obliczu skomplikowanego wszechświata. Nie wiemy! Nic nie wiemy! I nigdy się nie dowiemy!&lt;/p&gt;
-
-&lt;p&gt;Ktoś bardziej cyniczny mógłby podejrzewać, że postawa epistemologiczna prof. Hołysta nie wynika tylko z przerośniętego ego oraz ciężkiego Krugera-Dunninga, a była świadomym zastosowaniem &lt;a href=&quot;https://en.wikipedia.org/wiki/Bullshit#Bullshit_asymmetry_principle&quot;&gt;prawa Brandoliniego&lt;/a&gt;. W końcu, szansa na to że ktoś na żywo, z pamięci, będzie potrafił odnieść się do wszystkich losowo podnoszonych wątpliwości (bo co ma wspólnego zmiana tempa obrotu Ziemi z globalnym ociepleniem?) jest niewielka… A jeśli ekspert czegoś nie wie i musi się do tego przyznać, wygrywamy.&lt;/p&gt;
-
-&lt;p&gt;Jeśli jednak jakimś cudem wie, możemy podbić stawkę zgłaszając kolejne wątpliwości, jeszcze bardziej nonsensowne.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O ile potrafimy opisać układy w stanie równowagi, i takimi równaniami posługują się również klimatolodzy, to absolutnie nie mamy zielonego pojęcia jak funkcjonują układy dalekie od równowagi, takie jak atmosfera.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Odnalezienie w swoim otoczeniu urządzeń wykorzystujących nierównowagowe procesy termodynamiczne zostawiam jako ćwiczenie dla czytelnika.&lt;/p&gt;
-
-&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Arrhenius (1897) &lt;a href=&quot;http://www.jstor.org/stable/40670917&quot;&gt;On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Np. Rodell, et al. (2015) &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00555.1&quot;&gt;The Observed State of the Water Cycle in the Early 21st Century&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Vonder Haar, et al. (2012) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2012GL052094/full&quot;&gt;Weather and climate analyses using improved global water vapor observations&lt;/a&gt;, Trenberth i Smith (2005) &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-3299.1&quot;&gt;The Mass of the Atmosphere: A Constraint on Global Analyses&lt;/a&gt;, Berrisford, et al (2011) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/qj.864/pdf&quot;&gt;Atmospheric conservation properties in ERA-Interim&lt;/a&gt;, Wang, et al. (2006) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2006JD007529/full&quot;&gt;A near-global, 2-hourly data set of atmospheric precipitable water from ground-based GPS measurements&lt;/a&gt;, Grossi, et al (2015) &lt;a href=&quot;http://www.atmos-meas-tech.net/8/1111/2015/amt-8-1111-2015.pdf&quot;&gt;Total column water vapour measurements from GOME-2 MetOp-A and MetOp-B&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Policzone jako jedno odchylenie standardowe i trend liniowy z serii TPW RSS wersja 7.&lt;br /&gt;
-&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Np. Wu, et al. (2013) &lt;a href=&quot;http://www.nature.com/nclimate/journal/v3/n9/full/nclimate1932.html&quot;&gt;Anthropogenic impact on Earth’s hydrological cycle&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 26 Sep 2015 12:00:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/15/holyst</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/holyst</guid>
         
         
         <category>negacjonizm</category>
