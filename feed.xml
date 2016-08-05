@@ -5,13 +5,13 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Aug 2016 20:34:36 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Aug 2016 20:34:36 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Aug 2016 20:45:07 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Aug 2016 20:45:07 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Na Antarktydzie jednak ubywa lodu</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://doskonaleszare.github.io/articles/15/czy-na-antarktydzie-przybywa-lodu/&quot;&gt;Pod koniec ubiegłego roku omawiałem&lt;/a&gt; nową analizę bilansu masy lądolodu Antarktydy w oparciu o satelitarne pomiary radarowe. Zgodnie z tą analizą, w okresie 2003–2008 na Antarktydzie miało &lt;em&gt;przybywać&lt;/em&gt; lodu w tempie średnio 82±25 gigaton rocznie; i jak wtedy pisałem, wniosek ten stał w sprzeczności z wieloma innymi badaniami, opartymi o altimetrię lidarową, pomiary grawimetryczne oraz modelowania akumulacji, przepływu, ablacji i cielenia się lodowców.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://doskonaleszare.github.io/articles/15/czy-na-antarktydzie-przybywa-lodu/&quot;&gt;Pod koniec ubiegłego roku omawiałem&lt;/a&gt; nową analizę bilansu masy lądolodu Antarktydy w oparciu o pomiary satelitarne. Zgodnie z tą analizą, w okresie 2003–2008 na Antarktydzie miało &lt;em&gt;przybywać&lt;/em&gt; lodu w tempie średnio 82±25 gigaton rocznie; i jak wtedy pisałem, wniosek ten stał w sprzeczności z wieloma innymi badaniami, opartymi o altimetrię lidarową, pomiary grawimetryczne oraz modelowania akumulacji, przepływu, ablacji i cielenia się lodowców.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -56,11 +56,11 @@
   &lt;p&gt;If we accept the net IC-bias [inter-campaign bias] corrections of Zwally 2015 and their subsequent elevation change results, then we must assume: (1) that two CryoSat-2 studies of EAIS elevation changes have errors of three to ten times their stated uncertainties; (2) that all other studies of recent Antarctic mass balance (Fig. 1 [poniżej]) are in error; (3) that EAIS balance velocities based on accumulation models, which currently approximate observed velocities well, are wrong by a large margin; (4) that field studies dedicated to the determination of surface height change over the Subglacial Lake Vostok area did not detect ~20 cm (or greater) increases between 2001 and 2013 (4 x their reported uncertainty); (5) that the assessment of subglacial lake hydrostatic equilibrium is in error; (6) that all other studies of IC-biases are wrong by a considerable margin.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Źródło: Luke Trusel.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/fig1trusel.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zgadnij, które wyniki znacząco różnią się od pozostałych. Źródło: Luke Trusel.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/fig1trusel.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Zacytowałem ten fragment w całości, bo ładnie ilustruje pojęcie tzw. &lt;em&gt;balance of evidence&lt;/em&gt;. W naukach przyrodniczych rzadko zdarza się, by wyniki obserwacji czy jakiegoś eksperymentu były tak jednoznaczne, by wystarczały do obalenia dotychczasowej teorii, zwłaszcza jeśli potwierdzają ją dziesiątki innych obserwacji i eksperymentów. Bardziej prawdopodobne jest, że błąd popełnił naukowiec odpowiedzialny za wynik kompletnie sprzeczny z dotychczasowym stanem wiedzy, czy to podczas konstrukcji samego eksperymentu, czy to jego interpretacji. Nie znaczy to oczywiście, że rewolucje naukowe się &lt;em&gt;w ogóle&lt;/em&gt; nie zdarzają, a nowatorskie teorie nie okazują się &lt;em&gt;czasami&lt;/em&gt; poprawne; jednak w tym konkretnym przypadku, artykuł Zwally’ego i in., oparty o pomiary wykonane wadliwym instrumentem ICESat i nowatorską (a jak przekonują Scambos i Shuman, nieprawidłową) ich kalibrację, nie sprawił że wszystkie inne badania, wskazujące na ubytek lodu na Antarktydzie, zostały magicznie wymazane z annałów nauki.&lt;/p&gt;
 
-&lt;p&gt;Co więcej, jak pisałem pół roku temu, nawet gdyby wyniki Zwally’ego i in. wzbudziły jakieś nierozstrzygalne kontrowersje co do tego czy lodu na Antarktydzie ubywało w &lt;em&gt;poprzedniej&lt;/em&gt; dekadzie, co do ubytku tego lodu w chwili &lt;em&gt;obecnej&lt;/em&gt; takich wątpliwości nie ma.&lt;/p&gt;
+&lt;p&gt;Co więcej, jak pisałem pół roku temu, nawet gdyby wyniki Zwally’ego i in. wzbudziły jakieś nierozstrzygalne kontrowersje co do tego czy lodu na Antarktydzie ubywało w &lt;em&gt;poprzedniej&lt;/em&gt; dekadzie, co do ubytku tego lodu w chwili &lt;em&gt;obecnej&lt;/em&gt; takich wątpliwości już nie ma.&lt;/p&gt;
 
 &lt;hr /&gt;
 
