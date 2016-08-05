@@ -5,9 +5,80 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Apr 2016 12:03:30 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Apr 2016 12:03:30 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Aug 2016 20:34:36 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Aug 2016 20:34:36 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Na Antarktydzie jednak ubywa lodu</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://doskonaleszare.github.io/articles/15/czy-na-antarktydzie-przybywa-lodu/&quot;&gt;Pod koniec ubiegłego roku omawiałem&lt;/a&gt; nową analizę bilansu masy lądolodu Antarktydy w oparciu o satelitarne pomiary radarowe. Zgodnie z tą analizą, w okresie 2003–2008 na Antarktydzie miało &lt;em&gt;przybywać&lt;/em&gt; lodu w tempie średnio 82±25 gigaton rocznie; i jak wtedy pisałem, wniosek ten stał w sprzeczności z wieloma innymi badaniami, opartymi o altimetrię lidarową, pomiary grawimetryczne oraz modelowania akumulacji, przepływu, ablacji i cielenia się lodowców.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Jak bardzo wyniki te odstawały od innych&lt;/span&gt;  można było zobaczyć miesiąc później, podczas jesiennego konkresu Amerykańskiej Unii Geofizycznej, gdzie na specjalnej sesji poświęconej pomiarom lądolodów Andrew Shepherd z University of Leeds, Erik Ilvins z NASA/JPL i Thorsten Markus z NASA/GSFC omawiali nowe pomiary lądolodu Antarktydy:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YVgopH84MIo?t=12m46s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Na slajdzie pokazywanym w 13 minucie wynik Zwally’ego i in. (&lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, określany przez niektórych jako &lt;a href=&quot;http://zmianynaziemi.pl/wiadomosc/ipcc-wyznawcy-globalnego-ocieplenia-mylili-sie-masa-lodu-antarktydzie-nie-maleje-ale-stale&quot;&gt;“prawdziwy cios dla wyznawców religii globalnego ocieplenia”&lt;/a&gt;) to czerwony prostokąt, jedyny który wystaje w całości ponad zerem w pierwszej dekadzie XXI wieku. Trzydzieściu kilka innych analiz pokazuje w tym samym, albo podobnym okresie, ujemny bilans masy.&lt;/p&gt;
+
+&lt;p&gt;Nie powinno więc być specjalnym zaskoczeniem, że najnowsza praca naukowa poświęcona temu zagadnieniu, “Spatial and temporal Antarctic Ice Sheet mass trends, glacio-isostatic adjustment, and surface processes from a joint inversion of satellite altimeter, gravity, and GPS data”, opublikowana niedawno w &lt;em&gt;JGR:ES&lt;/em&gt; &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, też wskazuje że lądolodu Antarktydy ubywa. W odróżnieniu od nagłośnionego w mediach artykułu Zwally’ego et al., który opierał swoje wnioski &lt;em&gt;wyłącznie&lt;/em&gt; o satelitarne pomiary wysokości lądolodu, międzynarodowa grupa naukowców z Albą Martin-Espanol jako główną autorką wykorzystała kilka różnych zestawów obserwacji (altimetrii, grawimetrii i pomiarów GPS prędkości lądolodu), z których, metodą hierarchicznej estymacji bayesowskiej, wyliczono zmiany przepływu i akumulacji lodu w przestrzeni i czasie. Zgodnie z tymi szacunkami, w okresie 2003–2013 ubytek masy Antarktydy wynosił 84±22 miliardów ton rocznie; w okresie wcześniejszym, porównywalnym z analizą grupy Zwally’ego, ubytek był co prawda mniejszy (31±22 miliardów ton na rok), ale wciąż oznaczał że Antarktyda traci lód, a nie przyrasta.&lt;/p&gt;
+
+&lt;p&gt;Jak zauważają autorzy, różnica ta wynika ze znacznie różniących się oszacowań przepływu lodu w Antarktydze Wschodniej&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The dominant process driving their [Zwally’ego i in.] positive mass balance is the dynamic thickening of EAIS (136±50 Gt yr&lt;sup&gt;−1&lt;/sup&gt;). Our estimate of the ice dynamics component in this region is an order of magnitude smaller that their estimates (12±10 Gt yr&lt;sup&gt;−1&lt;/sup&gt;).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Powstrzymują się jednak od spekulacji, co może być przyczyną tej różnicy.&lt;/p&gt;
+
+&lt;p&gt;Takim taktem nie wykazali się natomiast Ted Scambos z NSIDC i Christopher Shuman z NASA GSFC, którzy do &lt;em&gt;Journal of Glaciology&lt;/em&gt; wysłali komentarz &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt; do artykułu Zwally’ego i in. Jak wiecie (albo i nie), w środowisku naukowym ukazanie się komentarza do artykułu oznacza zwykle, że oryginalna publikacja zawierała wnioski w najlepszym razie kontrowersyjne, oparte o przesłanki jeśli nie błędne, to przynajmniej poddające się innej interpretacji. Nie przesądzając, kto ma rację w naukowym sporze, istnienie komentarzy do jakiegoś artykułu pokazuje, że nie wszyscy specjaliści z tej samej dziedziny kupują tezy jego autorów (choć oczywiście może się okazać, że i tak mieli oni rację).&lt;/p&gt;
+
+&lt;p&gt;“Mass gains of the Antarctic ice sheet exceed losses” Zwally’ego doczekał się dwóch komentarzy, z których ten autorstwa Scambosa i Shumana jest chyba ciekawszy, bo napisany przez naukowców którzy pracowali z danymi używanymi przez Zwally’ego i in. (Christopher Shuman był przez kilka lat w projekcie ICESat). Lista zarzutów które formułują w swoim komentarzu jest długa, więc pozwolę sobie streścić najważniejsze ich argumenty:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pomiary satelity ICESat, które wykorzystali Zwally i in., są obarczone dużymi, nieskorygowanymi błędami systematycznymi. Główny przyrząd satelity, wysokościomierz GLAS, miał trzy redundantne lasery, z których każdy miał pracować przynajmniej 18 miesięcy, zapewniając minimum 3 lata ciągłej pracy instrumentu. Pierwszy laser zawiódł jednak już po 37 dniach, i satelitę trzeba było przeprogramować tak, by obserwacje prowadził w trzech (a potem dwóch) 33-dniowych okresach rocznie. Ze względu na degradację laserów, konieczna stała się wzajemna kalibracja prowadzonych w kolejnych fazach obserwacyjnych. Scambos i Shuman dowodzą, że kalibracja zastosowana przez Zwally’ego i in. znacznie różni się od tych stosowanych przez wszystkie inne grupy pracujące na &lt;em&gt;tych samych&lt;/em&gt; danych, i powoduje dodanie niewielkiego trendu przyrostu mierzonej przez GLAS wysokości. Ironią losu jest to, że za ten niewielki trend może odpowiadać… globalne ocieplenie, bo kalibracja użyta przez Zwally’ego opierała się o pomiary różnic wysokości pływającego paku lodowego Arktyki, który w ostatnich dwóch dekadach stawał się coraz cieńszy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Niezależnie od kalibracji, degradacja laserów GLAS miała jeszcze jeden skutek. Przy pomiarach wysokości powierzchni o wysokim albedo, w przejrzystej i stosunkowo cienkiej atmosferze — czyli dokładnie w takich warunkach, jakie panowały podczas kampanii obserwacyjnych prowadzonych w polarne dni nad lądolodem Antarktydy Wschodniej, wystającym dwa-trzy kilometry nad poziom morza — występował efekt nazwany wysyceniem czujnika, który powodował zwiększenie wartości zmierzonej do powierzchni odległości. Wraz ze słabnięciem mocy lasera efekt wysycenia przestał występować, powodując zmniejszenie zmierzonej odległości, a zatem pozorne zwiększenie wysokości lądolodu. Oba wspomniane efekty w zupełności wystarczają by wytłumaczyć “przyrost” Antarktydy Wschodniej.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ponieważ trudno jest wytłumaczyć tak duży przyrost lądolodu Antarktydy Wschodniej zwiększonymi opadami śniegu, Zwally i in. utrzymywali że jego przyczyną było spowolnienie przepływu lodowca względem stanu równowagowego. Jak pokazują Scambos i Shuman, hipoteza ta jest sprzeczna z pomiarami prędkości lądolodu, oraz świeżych pomiarów wysokości lądolodu satelity CryoSat-2.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Scambos i Shuman wskazują też na sprzeczność wyników Zwally’ego i in., z pomiarami wykonanymi &lt;em&gt;in situ&lt;/em&gt; przez grupę Andreasa Richtera w rejonie jeziora Wostok. Tam gdzie według Zwally’ego lądolód miał przyrosnąć o 20 centymetrów, Richter zmierzył w tym samym okresie zmiany o rząd wielkości mniejsze, i sprzeczności tej Zwally nie potrafił w przekonujący sposób wytłumaczyć, inaczej niż dyskredytując pomiary Richtera jako wykonane niestarannie, i postulując że gęstość śniegu i firnu była w tym miejscu inna niż zmierzono. Punkt ten doczekał się zresztą osobnego komentarza ze strony grupy Richtera &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;, w którym zarzuty Zwally’ego w odniesieniu do ich własnych badań zostały obalone.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Kończąc swoją polemikę Scambos i Shuman pokazują, jak nieprawdopodobne jest, by lądolód Antarktydy przyrastał w ostatnich latach:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If we accept the net IC-bias [inter-campaign bias] corrections of Zwally 2015 and their subsequent elevation change results, then we must assume: (1) that two CryoSat-2 studies of EAIS elevation changes have errors of three to ten times their stated uncertainties; (2) that all other studies of recent Antarctic mass balance (Fig. 1 [poniżej]) are in error; (3) that EAIS balance velocities based on accumulation models, which currently approximate observed velocities well, are wrong by a large margin; (4) that field studies dedicated to the determination of surface height change over the Subglacial Lake Vostok area did not detect ~20 cm (or greater) increases between 2001 and 2013 (4 x their reported uncertainty); (5) that the assessment of subglacial lake hydrostatic equilibrium is in error; (6) that all other studies of IC-biases are wrong by a considerable margin.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Źródło: Luke Trusel.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/fig1trusel.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zacytowałem ten fragment w całości, bo ładnie ilustruje pojęcie tzw. &lt;em&gt;balance of evidence&lt;/em&gt;. W naukach przyrodniczych rzadko zdarza się, by wyniki obserwacji czy jakiegoś eksperymentu były tak jednoznaczne, by wystarczały do obalenia dotychczasowej teorii, zwłaszcza jeśli potwierdzają ją dziesiątki innych obserwacji i eksperymentów. Bardziej prawdopodobne jest, że błąd popełnił naukowiec odpowiedzialny za wynik kompletnie sprzeczny z dotychczasowym stanem wiedzy, czy to podczas konstrukcji samego eksperymentu, czy to jego interpretacji. Nie znaczy to oczywiście, że rewolucje naukowe się &lt;em&gt;w ogóle&lt;/em&gt; nie zdarzają, a nowatorskie teorie nie okazują się &lt;em&gt;czasami&lt;/em&gt; poprawne; jednak w tym konkretnym przypadku, artykuł Zwally’ego i in., oparty o pomiary wykonane wadliwym instrumentem ICESat i nowatorską (a jak przekonują Scambos i Shuman, nieprawidłową) ich kalibrację, nie sprawił że wszystkie inne badania, wskazujące na ubytek lodu na Antarktydzie, zostały magicznie wymazane z annałów nauki.&lt;/p&gt;
+
+&lt;p&gt;Co więcej, jak pisałem pół roku temu, nawet gdyby wyniki Zwally’ego i in. wzbudziły jakieś nierozstrzygalne kontrowersje co do tego czy lodu na Antarktydzie ubywało w &lt;em&gt;poprzedniej&lt;/em&gt; dekadzie, co do ubytku tego lodu w chwili &lt;em&gt;obecnej&lt;/em&gt; takich wątpliwości nie ma.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Zwally, et al (2015) &lt;a href=&quot;http://www.ingentaconnect.com/content/igsoc/jog/pre-prints/content-ings_jog_15j071&quot;&gt;Mass gains of the Antarctic ice sheet exceed losses&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Martín‐Español, et al (2016) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2015JF003550/full&quot;&gt;Spatial and temporal Antarctic Ice Sheet mass trends, glacio-isostatic adjustment, and surface processes from a joint inversion of satellite altimeter, gravity, and GPS data&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Scambos T. i Shuman Ch. (2016) &lt;a href=&quot;http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;amp;aid=10407160&amp;amp;fulltextType=LT&amp;amp;fileId=S0022143016000599&quot;&gt;Comment on Comment on Zwally and others (2015) Mass gains of the Antarctic ice sheet exceed losses&lt;/a&gt;. &lt;br /&gt;
+&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Richter, et al (2016) &lt;a href=&quot;http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;amp;aid=10407150&amp;amp;fulltextType=LT&amp;amp;fileId=S0022143016000605&quot;&gt;Comment on Comment on Zwally and others (2015) Mass gains of the Antarctic ice sheet exceed losses&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 05 Aug 2016 22:30:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/16/na-antarktydzie-ubywa-lodu</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/16/na-antarktydzie-ubywa-lodu</guid>
+        
+        
+        <category>clisci</category>
+        
+      </item>
     
       <item>
         <title>2016 - prognozy</title>
@@ -786,47 +857,6 @@ W tej metodzie bilans masy obliczany jest na podstawie wielkości strumieni dost
         
         
         <category>clisci</category>
-        
-      </item>
-    
-      <item>
-        <title>Jeszcze o parowaniu</title>
-        <description>&lt;p&gt;Tym razem przełomowego odkrycia dokonali polscy naukowcy.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Grupa prof. Hołysta z Instytutu Chemii Fizycznej&lt;/span&gt;  opublikowała &lt;a href=&quot;http://pubs.rsc.org/en/content/articlelanding/2015/sm/c5sm01508a&quot;&gt;artykuł&lt;/a&gt; z dziedziny dynamiki molekularnej, opisujący wyniki symulacji procesu parowania. Jak to zwykle się robi, publikacji towarzyszy informacja prasowa, wypuszczona w &lt;a href=&quot;http://ichf.edu.pl/press/2015/10/IChF151022a_PL.pdf&quot;&gt;języku polskim&lt;/a&gt; i &lt;a href=&quot;http://ichf.edu.pl/press/2015/10/IChF151022a_EN.pdf&quot;&gt;angielskim&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Informacja ta kończy się takim oto kwiatkiem:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Odkrycie naukowców z IChF PAN ma ogromne znaczenie m.in. dla zrozumienia rzeczywistych mechanizmów odpowiedzialnych za globalne ocieplenie. Wbrew potocznemu przekonaniu, gazem cieplarnianym najobficiej występującym w atmosferze naszej planety nie jest dwutlenek węgla, lecz para wodna. Wiadomo jednocześnie, że prędkości przepływów mas powietrza nad oceanami mogą znacznie przekraczać 100 km na godzinę, a zatem z pewnością wpływają na szybkość parowania. Dotychczasowe oceny tempa parowania oceanów muszą więc być obarczone błędami, co z pewnością rzutuje na dokładność przewidywań współczesnych modeli ziemskiego klimatu.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tezy te skomentował już &lt;a href=&quot;https://www.facebook.com/naukaoklimacie/posts/977249809002229&quot;&gt;prof. Malinowski&lt;/a&gt;, mój komentarz jest w zasadzie taki sam, ale bardziej dosadny: odkrycie naukowców z IChF PAN nie ma &lt;em&gt;żadnego&lt;/em&gt; znaczenia dla “zrozumienia rzeczywistych mechanizmach odpowiedzialnych za globalne ocieplenie”; klimatolodzy doskonale zdają sobie sprawę z roli pary wodnej w systemie klimatycznym; dotychczasowe oceny tempa parowania oceanów &lt;em&gt;nie są&lt;/em&gt; oparte o wyliczenia z równania Hertza-Knudsena; a współczesne modele klimatu &lt;em&gt;nie używają&lt;/em&gt; równania Hertza-Knudsena do parametryzowania parowania z powierzchni oceanów &lt;a href=&quot;przyp1&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Domyślam się że te “rzeczywiste mechanizmy odpowiedzialne za globalne ocieplenie” to aluzja do przedstawionego &lt;a href=&quot;http://doskonaleszare.github.io/articles/15/holyst/&quot;&gt;niedawno pomysłu prof. Hołysta&lt;/a&gt;, zgodnie z którym jakieś nieznane czynniki powodują zwiększone parowanie, większą koncentrację pary wodnej w atmosferze, i w konsekwencji wzrost temperatury. I o ile dziwiło mnie, że swoimi pomysłami prof. Hołyst postanowił się podzielić z publicznością, można byłoby jeszcze od biedy uznać to za swobodne spekulacje, do których ma prawo każdy, nawet naukowiec wypowiadający się na antenie polskiego radia.&lt;/p&gt;
-
-&lt;p&gt;Tym razem jednak, w notkach prasowych wypuszczonych w świat przez IChF, autorzy (bo zakładam, że nie pisał ich żaden biedny stażysta) dopisują do swojego artykułu konkluzje, które wcale z niego nie wynikają, i wygłaszają &lt;em&gt;ex cathedra&lt;/em&gt; (“&lt;em&gt;muszą&lt;/em&gt; więc”, “co &lt;em&gt;z pewnościa&lt;/em&gt; rzutuje”…) bzdury na temat o którym niewiele wiedzą, z pełną świadomością że ich słowa zostaną powtórzone przez media i serwisy prasowe (m. in. &lt;a href=&quot;http://naukawpolsce.pap.pl/aktualnosci/news,407035,parowanie-do-poprawki--a-wraz-z-nim-globalne-ocieplenie.html&quot;&gt;PAP&lt;/a&gt;, &lt;a href=&quot;http://www.eurekalert.org/pub_releases/2015-10/iopc-efr102215.php&quot;&gt;EurekAlert&lt;/a&gt;, &lt;a href=&quot;http://www.sciencedaily.com/releases/2015/10/151022103535.htm&quot;&gt;ScienceDaily&lt;/a&gt;, trafiły nawet do &lt;a href=&quot;http://tvnmeteo.tvn24.pl/informacje-pogoda/ciekawostki,49/parowanie-do-poprawki-przelomowe-odkrycie-polskich-naukowcow,183448,1,0.html&quot;&gt;TVN&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;A przecież odkrycie Hołysta, Litniewskiego i Jakubczaka jest interesujące samo w sobie, i jego wagi nie umniejsza to, że &lt;em&gt;nie ma&lt;/em&gt; ono bezpośrednich związków z globalnym ociepleniem.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. W każdym znanym mi modelu fizyka warstwy przyziemnej atmosfery posiada mniej więcej następującą parametryzację parowania:&lt;/p&gt;
-
-&lt;p&gt;\begin{equation}&lt;br /&gt;
-F_\psi = \rho C_\psi \lvert v \rvert (\psi_1 - \psi_S)&lt;br /&gt;
-\end{equation}&lt;/p&gt;
-
-&lt;p&gt;gdzie &lt;script type=&quot;math/tex&quot;&gt;\rho&lt;/script&gt; to gęstość powietrza, &lt;script type=&quot;math/tex&quot;&gt;v&lt;/script&gt; to wektor prędkości poziomej najniższej warstwy atmosfery modelu, &lt;script type=&quot;math/tex&quot;&gt;(\psi_1 - \psi_S)&lt;/script&gt; to różnica w wilgotności pomiędzy powierzchnią oceanu a powietrzem znajdującym się bezpośrednio nad nim, a &lt;script type=&quot;math/tex&quot;&gt;C_\psi&lt;/script&gt; to współczynnik transportu który można wyznaczyć &lt;a href=&quot;http://www.igf.fuw.edu.pl/wyklady/fwga/wyklad07.pdf&quot;&gt;z Monina-Obuchowa&lt;/a&gt;. Przykładem może być np. NCAR Community Atmosphere Model (&lt;a href=&quot;http://www.cesm.ucar.edu/models/atm-cam/docs/cam2.0/description/node90.html&quot;&gt;tutaj w wersji 2&lt;/a&gt;, ale ten kawałek fizyki modelu się akurat nie zmienił)&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 Oct 2015 14:00:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/15/jeszcze-o-parowaniu</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/jeszcze-o-parowaniu</guid>
-        
-        
-        <category>negacjonizm</category>
         
       </item>
     
