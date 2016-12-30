@@ -5,9 +5,66 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Aug 2016 20:45:07 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Aug 2016 20:45:07 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Dec 2016 19:54:41 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Dec 2016 19:54:41 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Globalne ocieplenie w 2016 roku</title>
+        <description>&lt;p&gt;Koniec grudnia to tradycyjnie czas podsumowań, wykorzystam zatem tę okazję do reaktywowania bloga i krótkiego omówienia kontekstu związanego z najcieplejszym rokiem w historii obserwacji.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Najważniejszą, i być może nową dla niektórych niedowiarków wiadomością&lt;/span&gt;  jest oczywiście to, że globalne ocieplenie wciąż, niestety, postępuje. W ubiegłym roku emisja dwutlenku węgla ze spalania węgla, ropy i gazu ziemnego wyniosła około 36 miliardów ton, a ze względu na trwające El Niño większa niż w ostatnich latach była też emisja z wylesiania, co w połączeniu z mniejszym niż zwykle pochłanianiem dwulenku węgla przez lądową biosferę skutkowało rekordowo wysokim tempem przyrostu koncentracji tego gazu w atmosferze &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Emisje antropogeniczne dwutlenku węgla: ze spalania węgla, ropy i gazu ziemnego oraz produkcji cementu (czarny), oraz wylesiania i użytkowania gruntów (brązowy).&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/s33_FF_emissions_and_LandUse_change.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;W efekcie, przez cały rok 2016 średnia globalna koncentracja CO₂ pozostawała powyżej granicy 400 ppm. Poprzednim razem, gdy zawartość dwutlenku węgla w atmosferze była na podobnym poziomie — a miało to miejsce kilka milionów lat temu, w pliocenie — Ziemia była planetą o cieplejszym klimacie, z zieloną Grenlandią i poziomem wszechoceanu wyższym o 20-30 metrów &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/co2_composite_2016b.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zmiany koncentracji dwutlenku węgla w atmosferze odtworzone z rdzeni lodowych.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Mechanizm, dzięki któremu wzrost zawartości dwutlenku węgla powoduje globalną zmianę klimatu, jest od dawna dobrze poznany. CO₂ to gaz cieplarniany, a jego wyższa koncentracja powoduje zwiększenie absorpcji promieniowania podczerwonego i wzmocnienie efektu cieplarnianego, przy obecnej koncentracji (403 ppm) o około 1,95 ± 0,2 W/m² w porównaniu do tysiącleci przed rozpoczęciem epoki przemysłowej &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;. Wzmocniony efekt cieplarniany (nie tylko przez dwutlenek węgla, ale też i inne gazy cieplarniane&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Metan, podtlenek azotu oraz freony, w sumie dodatkowy 1 W/m².&lt;/span&gt;) oznacza, że ucieczka ciepła z powierzchni i dolnych warstw atmosfery planety w przestrzeń kosmiczną jest utrudniona, zatem więcej energii (w postaci promieniowania słonecznego) dociera do Ziemi, niż ją opuszcza (jako promieniowanie długofalowe — tzn. podczerwień).&lt;/p&gt;
+
+&lt;p&gt;Powstała w ten sposób &lt;em&gt;nierównowaga radiacyjna&lt;/em&gt; powoduje gromadzenie się energii w systemie klimatycznym i ocieplenie planety. Wzrost temperatury atmosfery, zgodnie z prawem Stefana-Boltzmanna, sprawia że emituje ona więcej promieniowania podczerwonego, ułatwiając ucieczkę ciepła w kosmos. Jednocześnie, cieplejsza atmosfera zawiera więcej pary wodnej, która również wzmacnia efekt cieplarniany, powodując dalszy wzrost temperatury &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Średnie zmiany zawartości pary wodnej w atmosferze (60°S-60°N).&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/tpw2016.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O tym, że Ziemia naprawdę otrzymuje od Słońca więcej energii niż wypromieniowuje w kosmos, można przekonać się mierząc temperaturę głębin oceanicznych. Pomiary takie, wykonane przez 3800 automatycznych boi oceanicznych międzynarodowego projektu Argo, wskazują że w ciągu ostatniej dekady Ziemia pochłaniała średnio 0,72 ± 0,09 W/m² &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jednocześnie wiemy, że przyczyną nierównowagi radiacyjnej nie jest wzrost aktywności słonecznej: ilość promieniowania słonecznego też mierzymy z dużą precyzją, a starannie skalibrowane ze sobą obserwacje prowadzone przez kilka generacji satelitów wskazują, że Słońce świeci obecnie nieco słabiej, niż w latach dziewięćdziesiątych i osiemdziesiątych &lt;a href=&quot;#przyp6&quot;&gt;[6]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Rekonstrukcja zmian irradiancji słonecznej w oparciu o pomiary satelitarne z ostatnich 36 lat.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/TSI_Composite201612.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ocieplenie mierzone jest również na powierzchni planety. Wartość średniej globalnej temperatury, obliczana przez kilka niezależnych ośrodków zajmujących się badaniem klimatu, osiągnęła w 2016 roku najwyższą w historii obserwacji wartość; bijąc w ten sposób ustanowiony w poprzednim roku rekord, który z kolei pobił rekord ustawiony rok wcześniej &lt;a href=&quot;#przyp7&quot;&gt;[7]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zmiany średniej temperatury globalnej w analize NASA GISS.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/gistemp2016b.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Taka sekwencja rekordów jest skutkiem nałożenia się na siebie długoterminowego trendu ocieplenia — spowodowanego wzrastającą koncentracją gazów cieplarnianych — oraz naturalnej zmienności klimatycznej, przede wszystkim atmosferyczno-oceanicznej oscylacji ENSO, której ciepła faza, zwana El Niño, rozpoczęła się wiosną 2015 roku. W krótkich, kilku-kilkunastoletnich skalach czasowych naturalna zmienność klimatu może wzmacniać, albo osłabiać wzrost temperatury planety spowodowany emisją gazów cieplarnianych, jednakże w dłuższych okresach antropogeniczne ocieplenie dominuje.&lt;/p&gt;
+
+&lt;p&gt;Z tego też powodu średnia roczna temperatura globalna jest w 2016 roku około 0,3°C powyżej poziomu z 1998 i 0,6°C powyżej poziomu z 1987 roku. Oba lata były w swoim czasie najcieplejsze w historii obserwacji, w obu przypadkach następowały po silnym El Niño, i oba rekordy zostały w ciągu ostatnich dekad wielokrotnie pobite.&lt;/p&gt;
+
+&lt;p&gt;Rok 2016 przyniósł też, mam nadzieję, śmierć popularnego wśród denialistów klimatycznych mitu, że “od roku 1998 średnia roczna temperatura na naszym globie spada” (Rafał Ziemkiewicz), “od prawie 20 lat powierzchnia Ziemi się nie ociepla” (Agnieszka Kołakowska), “temperatura od stycznia 1997 nie rośnie” (Andrzej Szczęśniak), albo że “po 2000 r. następuje stabilizacja, a nawet lekkie obniżenie temperatury globalnej” (to prof. Leszek Marks). Nie powinno być wielkim zaskoczeniem, że w konfrontacji pobożnych życzeń z prawami fizyki ponownie wygrały te ostatnie.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Le Quéré, et al (2016): &lt;a href=&quot;http://www.globalcarbonproject.org/carbonbudget/index.htm&quot;&gt;Global Carbon Budget 2016&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Miller, et al (2012): &lt;a href=&quot;http://geology.gsapubs.org/content/40/5/407.short&quot;&gt;High tide of the warm Pliocene: Implications of global sea level for Antarctic deglaciation&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Etminan, et al (2016): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2016GL071930/full&quot;&gt;Radiative forcing of carbon dioxide, methane, and nitrous oxide: A significant revision of the methane radiative forcing&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Gordon, et al (2013): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2013JD020184/full&quot;&gt;An observationally based constraint on the water-vapor feedback&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Desbruyères, et al (2016a): &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-16-0396.1&quot;&gt;Global and Full-depth Ocean Temperature Trends during the early 21st century from Argo and Repeat Hydrography&lt;/a&gt;, Desbruyères, et al (2016b): &lt;a href=&quot;http://link.springer.com/article/10.1007/s40641-016-0037-7&quot;&gt;Observational Advances in Estimates of Oceanic Heating&lt;/a&gt;, Desbruyères, et al (2016c): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2016GL070413/full&quot;&gt;Deep and abyssal ocean warming from 35 years of repeat hydrography&lt;/a&gt;&lt;br /&gt;
+&lt;a name=&quot;przyp6&quot;&gt;&lt;/a&gt;6. Dewitte, Nevens (2016): &lt;a href=&quot;http://iopscience.iop.org/article/10.3847/0004-637X/830/1/25&quot;&gt;The Total Solar Irradiance Climate Data Record&lt;/a&gt;, Coddington, et al (2016): &lt;a href=&quot;http://journals.ametsoc.org/doi/full/10.1175/BAMS-D-14-00265.1&quot;&gt;A Solar Irradiance Climate Data Record&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp7&quot;&gt;&lt;/a&gt;7. World Meteorological Organisation (2016): &lt;a href=&quot;https://public.wmo.int/en/media/press-release/provisional-wmo-statement-status-of-global-climate-2016&quot;&gt;Provisional WMO Statement on the Status of the Global Climate in 2016&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Dec 2016 21:00:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/16/globalne-ocieplenie-w-2016-roku</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/16/globalne-ocieplenie-w-2016-roku</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>Na Antarktydzie jednak ubywa lodu</title>
@@ -776,87 +833,6 @@ f) co oznacza również, że “neutralność węglowa” energetyki będzie mus
         
         
         <category>polityka</category>
-        
-      </item>
-    
-      <item>
-        <title>Czy na Antarktydzie przybywa lodu?</title>
-        <description>&lt;p&gt;Nie.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Jak pewnie zauważyliście&lt;/span&gt;  internety ekscytują się nowym artykułem Zwally’ego et al &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt; zawierającym reanalizę szacunków bilansu masy lądolodu Antarktydy. Jak to zwykle bywa, najbardziej absurdalne wnioski &lt;a href=&quot;http://www.mpolska24.pl/post/10019/jakie-globalne-ocieplenie&quot;&gt;wyciągają&lt;/a&gt; z niego &lt;a href=&quot;http://www.wprost.pl/ar/524320/Na-Antarktydzie-jestS-coraz-wiecej-lodu/?preview=2015724495&quot;&gt;osoby&lt;/a&gt;, które samego artykułu nie czytały, więc warto dodać kilka słów na temat kontekstu badań oraz ich interpretacji.&lt;/p&gt;
-
-&lt;p&gt;Zacznijmy od rzeczy najbardziej oczywistej: Zwally et al. nie piszą, że na Antarktydzie przybywa lodu. Nie &lt;em&gt;przybywa&lt;/em&gt;, w czasie teraźniejszym, bo artykuł dotyczy danych z dwóch &lt;em&gt;przeszłych&lt;/em&gt; okresów: 1992-2001, oraz 2003-2008. Dlaczego akurat tych, i dlaczego nie zawiera nowszych danych? Głównym powodem jest to, że Jay Zwally najpierw współpracował z ESA przy analizie danych z satelitów ERS-1/2, a potem został szefem zespołu ICESat w NASA, a satelity te zbierały dane właśnie w tych okresach.&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Ściślej rzecz ujmując, ERS-2 wykonywał pomiary do roku 2010, jednak Zwally już w tym projekcie nie uczestniczył. O wynikach tych pomiarów więcej można przeczytać niżej.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Interwały zostały wcześniej &lt;a href=&quot;http://imbie.org/wp-content/uploads/2012/11/Time-Periods.png&quot;&gt;wybrane&lt;/a&gt; w projekcie &lt;a href=&quot;http://imbie.org/&quot;&gt;IMBIE&lt;/a&gt; (&lt;em&gt;Ice sheet Mass Balance Inter-comparison Exercise&lt;/em&gt;) jako obejmujący okres w którym możliwe jest porównanie szacunków bilansu masy lądolodów Antarktydy i Grenlandii uzyskanych różnymi metodami, tj.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Altimetria lidarowa i radarowa&lt;/strong&gt;&lt;br /&gt;
-W metodzie tej mierzy się, przy pomocy lasera albo radaru, zmiany wysokości lądolodu pod przelatującym satelitą, z czego następnie wylicza się zmiany jego objętości, a ze zmian objętości zmiany masy. Pomiary przy pomocy lasera przeprowadzał wspomniany już ICSat, radaru używaly europejskie satelity ERS-1, ERS-2, Envisat i CryoSat-2.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Pomiary grawimetryczne&lt;/strong&gt;&lt;br /&gt;
-Czyli pomiary satelitarne (wykonywane przez parę GRACE) lokalnych zmian pola grawitacyjnego Ziemi, wynikające z przyrostu albo ubytku masy w danym miejscu. Metodą tą można mierzyć różne ciekawe rzeczy, np. zmiany poziomu wód gruntowych wywołane &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1029/2012GL053055/abstract&quot;&gt;zwiększonymi opadami&lt;/a&gt; albo suszą; zmiany masy oceanów; albo zmiany masy lądolodów.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Modelowanie przepływu&lt;/strong&gt;&lt;br /&gt;
-W tej metodzie bilans masy obliczany jest na podstawie wielkości strumieni dostarczających i odprowadzających lód do lądolodu: ilości padającego śniegu, ablacji powierzchni, prędkości przepływu i tempa cielenia się lodowca.&lt;/p&gt;
-
-&lt;p&gt;Każda z tych metod ma swoje zalety i ograniczenia, a celem IMBIE było porównanie wyników uzyskanych przez różne zespoły, dla tych samych okresów oraz domen przestrzennych. Wyniki opublikowano w roku 2012 w czasopiśmie &lt;em&gt;Science&lt;/em&gt; &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, w artykule którego Zwally był jednym z autorów.&lt;/p&gt;
-
-&lt;p&gt;Artykuł nosił tytuł “A Reconciled Estimate of Ice-Sheet Mass Balance”, trochę na wyrost, bo jak zauważyli autorzy w przypadku lądolodu Antarktydy Wschodniej rozrzut wyników był spory: z modelowania przepływu wynikał niewielki ubytek (-30±76 Gt/rok)&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; W dalszej części notki będę konsekwentnie używał wartości ujemnych dla ujemnego bilansu masy, nawet jeśli mowa o “ubytku”, więc proszę tego nie interpretować jako podwójnego zaprzeczenia.&lt;/span&gt;, grawimetria i altimetria radarowa wskazywała na niewielki przyrost (+35±40 i +22±39 Gt/rok, odpowiednio), a altimetria laserowa na znaczący przyrost masy lodowca (+109±57 Gt/rok). Ponieważ metody były (mniej więcej) niezależne, w końcowym bilansie IMBIE uznano że ICESat przeszacowywał przyrost masy we wschodniej Antarktydzie, i jest on w rzeczywistości mniejszy, choć ze sporą niepewnością (+24±36 Gt/rok), z zastrzeżeniem że&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;For the EAIS, our mass change estimates exhibit an unsatisfactory spread, with results from the IOM and LA techniques falling consistently lower and higher than the mean value we have derived (table S2). Although the average signal of EAIS imbalance is relatively small, such a large divergence is a matter of concern; improvements of the ancillary data sets that support satellite observations would be of considerable benefit in this region.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Co istotne, wszystkie metody wskazywały też na spory ubytek masy lądolodu Zachodniej Antarktydy (WAIS), średnio -67±21 Gt/rok. Sumarycznie (uwzględniając lodowce Półwyspu Antarktycznego), według analizy IMBIE, Antarktyda miała zatem ujemny bilans masy, wynoszący około -72±43 Gt/rok (+21±81 Gt/rok według samej altimetrii laserowej). Dla porównania, Grenlandia w tej samej analizie miała ubytek lądolodu wynoszący -232±23 Gt/rok (-185±24 Gt/rok wg. metody altimetrii laserowej).&lt;/p&gt;
-
-&lt;p&gt;Świeżo opublikowany artykuł Zwally’ego to powtórna analiza tych samych danych, z altimetrii radarowej (1992-2001) oraz laserowej (2003-2008), uwzględniając kilka poprawek metodologicznych wprowadzonych już po roku 2012 (m. in. kalibrację ICESat pomiarami radarowymi wykonanymi dla Arktyki przez Envisat). I choć WAIS oraz Półwysep Antarktyczny wciąż traci lód, a Antarktyda Wschodnia wciąż przyrasta, ubytek jest mniejszy (-25±15 i -29±2 Gt/rok), a przyrost większy (136±28 Gt/rok) niż w analizie IMBIE (nawet ograniczonej do samej altimetrii laserowej), przy znacznie zmniejszonych niepewnościach.&lt;/p&gt;
-
-&lt;p&gt;Mamy więc do czynienia z sytuacją, w której różne metody pomiarowe dają różne wyniki. Oczywiście istnieje silna pokusa (zwłaszcza dla mediów), by za poprawny uznać wynik “najnowszy”, jednak poniżej przedstawię powody, dla których jestem (i nie tylko ja) sceptycznie nastawiony do analizy Zwally’ego et al.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Najnowsze pomiary grawimetryczne wciąż wskazują na ciągły ubytek masy Antarktydy &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt; &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt; &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Pomiary radarowe CryoSat-2 pokazują ujemny bilans masy Antarktydy &lt;a href=&quot;#przyp6&quot;&gt;[6]&lt;/a&gt; &lt;a href=&quot;#przyp7&quot;&gt;[7]&lt;/a&gt;. Dotyczy to co prawda późniejszego okresu niż ten o którym piszą Zwally et al (bo CryoSat-2 zbiera dane dopiero od 2010 roku), ale nawet gdyby wziąć oba wyniki za dobrą monetę, oznaczałoby to znaczne zmniejszenie przyrostu lodowca na Antarktydzie Wschodniej, co przeczy jednej z głównych konkluzji Zwally et al o jego przyczynach i stabilności.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Przy okazji, inna reanaliza danych ICESat (zrobiona przy okazji &lt;a href=&quot;#przyp6&quot;&gt;[6]&lt;/a&gt;) też pokazuje na ubytek lądolodu na Antarktydzie.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tak jak i najnowsze szacunki przepływu lądolodu &lt;a href=&quot;#przyp8&quot;&gt;[8]&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Na koniec zostaje jeszcze zagadka bilansu poziomu wszechoceanu. 82 Gt przyrostu lądolodu rocznie odpowiada -0,23 zamiast +0,20 mm/rok, co oznaczałoby że w okresie 2003-2008 0,43 mm/rok wzrostu poziomu wszechoceanu (prawie 20% całości, albo 2,4 mm/rok w tych latach &lt;a href=&quot;#przyp9&quot;&gt;[9]&lt;/a&gt;) pochodziło skądinąd: lądolodu Grenlandii i/lub szybciej ocieplających się oceanów.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Podsumowując, różnice pomiędzy szacunkami Zwally’ego et al i innych zespołów są trudne do wytłumaczenia, i nie ma przekonującego powodu by za wiarygodne uznać akurat szacunki tego pierwszego. Podejrzewam nawet, że kontrowersji tych nie da się już &lt;em&gt;nigdy&lt;/em&gt; rozstrzygnąć, bo nie mamy możliwości &lt;em&gt;powtórzenia&lt;/em&gt; przeprowadzanych w przeszłości pomiarów, a nowe pokolenia naukowców skoncentrują się na analizie nowych danych z nowych instrumentów, zamiast reanalizować stare.&lt;/p&gt;
-
-&lt;p&gt;O ile jednak można mieć wątpliwości co do bilansu masy antarktycznego lądolodu w &lt;em&gt;poprzedniej&lt;/em&gt; dekadzie, nie ma podstaw by twierdzić że na Antarktydzie przybywa lodu &lt;em&gt;obecnie&lt;/em&gt;, w sytuacji gdy przeczą temu pomiary GRACE i CryoSat-2.&lt;/p&gt;
-
-&lt;p&gt;Swoją drogą, jest coś ironicznego w tym, że ta sama NASA, która zwykle jest uważana za część lewackiego &lt;a href=&quot;http://www.mpolska24.pl/post/10019/jakie-globalne-ocieplenie&quot;&gt;“lobby broniącego koncepcji zmiany klimatu”&lt;/a&gt;, staje się wiarygodną instytucją, jeśli tylko komuś wydaje się że “teorie globalnego ocieplenia zostały podane w wątpliwość”. Zbliża się jesienny kongres Amerykańskiego Towarzystwa Geofizycznego, w czasie którego różne jednostki badawcze NASA prezentować będą wyniki badań związanych ze zmianami klimatu. Jestem pewien, że negacjoniści globalnego ocieplenia będą je cytować z równie wielkim zacięciem.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Zwally, et al (2015) &lt;a href=&quot;http://www.ingentaconnect.com/content/igsoc/jog/pre-prints/content-ings_jog_15j071&quot;&gt;Mass gains of the Antarctic ice sheet exceed losses&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Shepherd, et al (2012) &lt;a href=&quot;http://www.sciencemag.org/content/338/6111/1183&quot;&gt;A Reconciled Estimate of Ice-Sheet Mass Balance&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Harig i Simons (2015) &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0012821X15000564&quot;&gt;Accelerated West Antarctic ice mass loss continues to outpace East Antarctic gains&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Sasgen, et al (2013) &lt;a href=&quot;http://www.the-cryosphere.net/7/1499/2013/tc-7-1499-2013.html&quot;&gt;Antarctic ice-mass balance 2003 to 2012: regional reanalysis of GRACE satellite gravimetry measurements with improved estimate of glacial-isostatic adjustment based on GPS uplift rates&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Velicogna, Wahr (2013) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/grl.50527/abstract&quot;&gt;Time-variable gravity observations of ice sheet mass balance: Precision and limitations of the GRACE satellite data&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp6&quot;&gt;&lt;/a&gt;6. Helm, Humbert, Miller (2014) &lt;a href=&quot;http://www.the-cryosphere.net/8/1539/2014/tc-8-1539-2014.html&quot;&gt;Elevation and elevation change of Greenland and Antarctica derived from CryoSat-2&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp7&quot;&gt;&lt;/a&gt;7. McMillan, et al (2014) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2014GL060111/abstract&quot;&gt;Increased ice losses from Antarctica detected by CryoSat-2&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp8&quot;&gt;&lt;/a&gt;8. Mouginot, Scheuchl, Rignot (AGU 2015) &lt;a href=&quot;https://agu.confex.com/agu/fm15/meetingapp.cgi/Paper/76972&quot;&gt;Antarctic mass budget from 1975-2015 using InSAR, Landsat and RACMO-2&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp9&quot;&gt;&lt;/a&gt;9. Cazenave, et al (2009) &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0921818108001343&quot;&gt;Sea level budget over 2003–2008: A reevaluation from GRACE space gravimetry, satellite altimetry and Argo&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Nov 2015 20:00:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/15/czy-na-antarktydzie-przybywa-lodu</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/czy-na-antarktydzie-przybywa-lodu</guid>
-        
-        
-        <category>clisci</category>
         
       </item>
     
