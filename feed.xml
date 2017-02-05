@@ -5,9 +5,135 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Jan 2017 16:46:39 +0000</pubDate>
-    <lastBuildDate>Sat, 14 Jan 2017 16:46:39 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Feb 2017 19:41:01 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Feb 2017 19:41:01 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Dzień świstaka</title>
+        <description>&lt;p&gt;Prowadzę tego bloga już 8 lat, i nigdy nie przestaje mnie zadziwiać naiwność negacjonistów globalnego ocieplenia.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Te same osoby, które odrzucają ustalenia nauki – bo to spisek ONZ, bo klimatolodzy oszukują, bo dane sfałszowane&lt;/span&gt;  – bez chwili zastanowienia akceptują “alternatywne fakty”, których jedynym źródłem jest śmieszny obrazek w internecie, krótki filmik z żółtymi napisami, albo sensacyjny artykuł z niemądrego tabloidu.&lt;/p&gt;
+
+&lt;p&gt;Miałem trochę inne plany na niedzielę, niż prostowanie głupot z brytyjskiej prasy codziennej, ale widzę że artykuł &lt;a href=&quot;https://archive.is/Lpqb7#selection-971.0-971.352&quot;&gt;How world leaders were duped into investing billions over manipulated global warming data&lt;/a&gt; zdążył już zostać podchwycony przez niektórych dziennikarzy.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/wroblewski.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Poniżej skomentuję więc kilka głównych tez padających w artykule Davida Rose’a, który jest źródłem dla red. Wróblewskiego. Nie odnoszę się do każdego akapitu (i tak zajęło mi to już zbyt dużo czasu), jeśli więc macie jakieś dodatkowe pytania albo uważacie że trzeba coś jeszcze wyjaśnić, piszcie w komentarzach, na maila albo twitterze.&lt;/p&gt;
+
+&lt;p&gt;Ok, no to jedziemy.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Mail on Sunday today reveals astonishing evidence that the organisation that is the world’s leading source of climate data rushed to publish a landmark paper that exaggerated global warming and was timed to influence the historic Paris Agreement on climate change. A high-level whistleblower has told this newspaper that America’s National Oceanic and Atmospheric Administration (NOAA) breached its own rules on scientific integrity when it published the sensational but flawed report, aimed at making the maximum possible impact on world leaders including Barack Obama and David Cameron at the UN climate conference in Paris in 2015.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Artykuł Karla i in. &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt; został wysłany do &lt;em&gt;Science&lt;/em&gt; na rok przed konferencją COP21 w Paryżu, i choć możliwe że nie mam wystarczająco bujnej wyobraźni, trudno mi uwierzyć, iż robienie wrażenia na Obamie i Cameronie było główną motywacją naukowców z NOAA. W 2014 roku oficjalnie opublikowana została nowa wersja analizy temperatur oceanów ERSST &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, oraz pierwsza wersja nowej bazy danych ISTI &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;, zawierających wyniki pomiarów z lądowych stacji meteorologicznych.&lt;/p&gt;
+
+&lt;p&gt;Obie inicjatywy naukowe (zainicjowane kilka lat wcześniej) pozostały przez negacjonistów klimatycznych niezauważone, i dopiero kiedy Tom Karl z kolegami udzielił odpowiedzi na (dość oczywiste) pytanie: “co się stanie jeśli połączymy jedne dane z drugimi”, osoby którym uzyskana odpowiedź (“trend temperatur globalnych w latach 1998-2012 będzie wyższy”) się nie podobała, zaczęły krzyczeć o rzekomym oszustwie.&lt;/p&gt;
+
+&lt;p&gt;Wiarygodności kuriozalnym oskarżeniom &lt;em&gt;Daily Mail&lt;/em&gt; ma przydawać emerytowany naukowiec z NOAA, John Bates:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;But the whistleblower, Dr John Bates, a top NOAA scientist with an impeccable reputation, has shown The Mail on Sunday irrefutable evidence that the paper was based on misleading, ‘unverified’ data. It was never subjected to NOAA’s rigorous internal evaluation process – which Dr Bates devised. His vehement objections to the publication of the faulty data were overridden by his NOAA superiors in what he describes as a ‘blatant attempt to intensify the impact’ of what became known as the Pausebuster paper.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dłuższą wersję tej historii, opowiedzianą przez Batesa, można przeczytać na blogu &lt;a href=&quot;https://judithcurry.com/2017/02/04/climate-scientists-versus-climate-data/&quot;&gt;Judith Curry&lt;/a&gt;. Do głównych tez Batesa odniosę się szczegółowo poniżej, na razie odnotuję tylko, że na blogu Curry &lt;em&gt;jedynym&lt;/em&gt; udokumentowanym zarzutem Batesa jest to, iż dane towarzyszące artykułowi Karla nie zostały zarchiwizowane &lt;em&gt;dokładnie&lt;/em&gt; według biurokratycznego standardu, który wymyślił i wdrożył w NOAA sam Bates &lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; A nie zostały zarchiwizowane według tego standardu, bo analiza Karla i jego kolegów nie była “produktem” w takim sensie, w jakim są inne analizy publikowane przez NOAA, i których publikacja niesie ze sobą określone zobowiązania prawne ze strony instytucji udostępniającej dane.&lt;/span&gt;. W artykule &lt;em&gt;Daily Mail&lt;/em&gt; padają już cięższe oskarżenia – że dane analizowano w niepoprawny sposób, albo wręcz, tak jak twierdzi red. Wróblewski, że “klimatolodzy fałszowali dane”.&lt;/p&gt;
+
+&lt;p&gt;Jest to, oczywiście, kłamstwo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NOAA’s 2015 ‘Pausebuster’ paper was based on two new temperature sets of data – one containing measurements of temperatures at the planet’s surface on land, the other at the surface of the seas. Both datasets were flawed. This newspaper has learnt that NOAA has now decided that the sea dataset will have to be replaced and substantially revised just 18 months after it was issued, because it used unreliable methods which overstated the speed of warming. The revised data will show both lower temperatures and a slower rate in the recent warming trend.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To zwykła manipulacja autora &lt;em&gt;Daily Mail&lt;/em&gt;. Prace nad wersją czwartą analizy ERSST trwały do końca 2013 roku, nie jest więc niczym dziwnym, że odpowiedzialni za nią naukowcy w międzyczasie zaczęli pracować nad kolejnymi jej ulepszeniami (poprzednie iteracje opublikowane zostały w 2003, 2004 i 2008 roku), uwzględniając między innymi nowe źródła danych (np. boje ARGO). Według wstępnych szacunków, w wersji 5 trend 2000-2015 będzie około 10% niższy niż w wersji 4 (użytej przez Karla i in.), ale wciąż o 50% wyższy niż w wersji 3 (która według &lt;em&gt;Daily Mail&lt;/em&gt; i Batesa jest “poprawna”).&lt;/p&gt;
+
+&lt;p&gt;Oczywiście, nieopublikowana jeszcze wersja piąta ERSST też nie będzie ostatnim słowem klimatologów w temacie pomiarów ocieplenia oceanów, i możliwe że w kolejnych wersjach trend temperatur w tym samym okresie może być nieco wyższy albo niższy. &lt;em&gt;Daily Mail&lt;/em&gt; najwyraźniej nie rozumie, że ulepszanie metod statystycznych i uwzględnianie nowych danych to kwintesencja nauki, a nie dowód oszustwa.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The land temperature dataset used by the study was afflicted by devastating bugs in its software that rendered its findings ‘unstable’. The paper relied on a preliminary, ‘alpha’ version of the data which was never approved or verified. A final, approved version has still not been issued. None of the data on which the paper was based was properly ‘archived’ – a mandatory requirement meant to ensure that raw data and the software used to process it is accessible to other scientists, so they can verify NOAA results.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Trudno zrozumieć, co autor &lt;em&gt;Daily Mail&lt;/em&gt; tutaj ma na myśli. Zarówno baza danych &lt;a href=&quot;ftp://ftp.ncdc.noaa.gov/pub/data/globaldatabank/monthly/stage3/&quot;&gt;ISTI&lt;/a&gt;, jak i &lt;a href=&quot;ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/documentation/GHCNM-v4-ATBD-20161114.pdf&quot;&gt;algorytm homogenizacji&lt;/a&gt; użyty przez Karla i in. zostały opublikowane, a bugi w oprogramowaniu wraz z wpływem (znikomym, swoją drogą) jaki miały na wyniki zostały &lt;a href=&quot;ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/techreports/Technical%20Report%20GHCNM%20No15-01.pdf&quot;&gt;udokumentowane&lt;/a&gt;. Daily Mail pisze że dane nie zostały “właściwie” zarchwizowane, co uniemożliwia innym naukowcom zweryfikowanie wyników NOAA. Tymczasem dane towarzyszące publikacji Karla i in. są od momentu publikacji &lt;a href=&quot;ftp://ftp.ncdc.noaa.gov/pub/data/scpub201506/NewAnalysis/&quot;&gt;dostępne na serwerze NOAA&lt;/a&gt;, a innym naukowcom udało się z powodzeniem je zweryfikować &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;W dalszej części artykułu &lt;em&gt;Daily Mail&lt;/em&gt; powtarza już dosłownie techniczne zarzuty Batesa (choć ponownie warto zauważyć, że nie pojawiają się one na blogu Curry).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The sea dataset used by Thomas Karl and his colleagues – known as Extended Reconstructed Sea Surface Temperatures version 4, or ERSSTv4, tripled the warming trend over the sea during the years 2000 to 2014 from just 0.036C per decade – as stated in version 3 – to 0.099C per decade. Individual measurements in some parts of the globe had increased by about 0.1C and this resulted in the dramatic increase of the overall global trend published by the Pausebuster paper. But Dr Bates said this increase in temperatures was achieved by dubious means. Its key error was an upwards ‘adjustment’ of readings from fixed and floating buoys, which are generally reliable, to bring them into line with readings from a much more doubtful source – water taken in by ships. This, Dr Bates explained, has long been known to be questionable: ships are themselves sources of heat, readings will vary from ship to ship, and the depth of water intake will vary according to how heavily a ship is laden – so affecting temperature readings. Dr Bates said: ‘They had good data from buoys. And they threw it out and “corrected” it by using the bad data from ships. You never change good data to agree with bad, but that’s what they did – so as to make it look as if the sea was warmer.’ ERSSTv4 ‘adjusted’ buoy readings up by 0.12C. It also ignored data from satellites that measure the temperature of the lower atmosphere, which are also considered reliable. Dr Bates said he gave the paper’s co-authors ‘a hard time’ about this, ‘and they never really justified what they were doing.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Fragment ten świadczy o kompletnym niezrozumieniu procesu homogenizacji zastosowanym przez autorów analizy ERSST, i jeśli Bates zgłaszał te zastrzeżenia kolegom, nie dziwię się że go grzecznie zignorowali.&lt;/p&gt;
+
+&lt;p&gt;Po pierwsze, jest prawdą że średnia temperatura wody zmierzona przez statki jest o około 0,1°C wyższa niż temperatura mierzona przez dryfujące boje. W ciągu ostatnich 30 lat udział pomiarów wykonywanych przez boje zwiększył się z 10% do 90% (a udział statków zmniejszył się z 90% do 10%), więc konsekwencją tego procesu jest sztuczne “ochłodzenie” widziane w szeregach czasowych temperatury. A ponieważ klimatologów interesują zmiany klimatu, a nie zmiany w ilości statków pływających po oceanach, takie błędy systematyczne powinny być korygowane. W poprzedniej, trzeciej wersji ERSST tej korekty nie było, wprowadzono ją w wersji czwartej, co doprowadziło do wzrostu trendu temperatur, który tak oburza negacjonistów globalnego ocieplenia.&lt;/p&gt;
+
+&lt;p&gt;Po drugie, łatwo jest zrozumieć, że dla wartości trendu nie ma znaczenia czy poprawka zbliża “złe” dane do “dobrych”, czy “dobre” do “złych”. Analiza ERSST dotyczy bowiem &lt;em&gt;zmian&lt;/em&gt; temperatury oceanów w czasie, a wartość trendu nie zależy od wartości stałej, którą do niego dodamy. Z powodów praktycznych (pomiary dokonywane przez boje są bardziej homogeniczne, więc poprawkę łatwiej jest zastosować) wybrano ten drugi wariant, ale gdyby zdecydowano się na poprawkę w odwrotnym kierunku, wynik byłby taki sam.&lt;/p&gt;
+
+&lt;p&gt;Po trzecie, nieprawdą jest, że “dobre” dane mierzone przez boje wyrzucono. Wręcz przeciwnie, metodologia konstrukcji analizy ERSST daje większą wagę obserwacjom obciążonym mniejszym błędem.&lt;/p&gt;
+
+&lt;p&gt;Po czwarte, analiza ERSST “ignoruje” satelitarne pomiary temperatury troposfery, bo nie jest analizą temperatury troposfery, tylko powierzchni oceanów. Być może chodzi o to, że ERSST nie używa pomiarów z radiometrów AVHRR - jednak były ku temu bardzo dobre powody [&lt;a href=&quot;#przyp5&quot;&gt;5&lt;/a&gt;].&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now, some of those same authors have produced the pending, revised new version of the sea dataset – ERSSTv5. A draft of a document that explains the methods used to generate version 5, and which has been seen by this newspaper, indicates the new version will reverse the flaws in version 4, changing the buoy adjustments and including some satellite data and measurements from a special high-tech floating buoy network known as Argo. As a result, it is certain to show reductions in both absolute temperatures and recent global warming.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Znajduję wysoce ironicznym to, że &lt;em&gt;Daily Mail&lt;/em&gt; krytykuje Karla za używanie rzekomo “niezweryfikowanych” danych ISTI, i jednocześnie powołuje się na nieukończoną jeszcze, piątą wersję analizy ERSST. Jak jednak napisałem wyżej, nie jest niczym dziwnym że będzie ona trochę różnić się metodologią, źródłami danych (jaki byłby sens przygotowania nowej wersji, gdyby było inaczej!), a zatem i wyniki mogą być nieco inne.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The second dataset used by the Pausebuster paper was a new version of NOAA’s land records, known as the Global Historical Climatology Network (GHCN), an analysis over time of temperature readings from about 4,000 weather stations spread across the globe. This new version found past temperatures had been cooler than previously thought, and recent ones higher – so that the warming trend looked steeper. For the period 2000 to 2014, the paper increased the rate of warming on land from 0.15C to 0.164C per decade. In the weeks after the Pausebuster paper was published, Dr Bates conducted a one-man investigation into this. His findings were extraordinary. Not only had Mr Karl and his colleagues failed to follow any of the formal procedures required to approve and archive their data, they had used a ‘highly experimental early run’ of a programme that tried to combine two previously separate sets of records. This had undergone the critical process known as ‘pairwise homogeneity adjustment’, a method of spotting ‘rogue’ readings from individual weather stations by comparing them with others nearby. However, this process requires extensive, careful checking which was only just beginning, so that the data was not ready for operational use. Now, more than two years after the Pausebuster paper was submitted to Science, the new version of GHCN is still undergoing testing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Przyznam, że nie rozumiem na czym polega zbrodnia klimatologów. Że użyli &lt;em&gt;najnowszej&lt;/em&gt; bazy danych pomiarów temperatur, a nie wersji GHCN sprzed kilku lat, co prawda zawierającej 4 razy mniej stacji meteorologicznych, ale &lt;em&gt;poprawnie zarchiwizowanej&lt;/em&gt; i &lt;em&gt;formalnie zaakceptowanej&lt;/em&gt; przez biurokratów z NOAA? Że nie stworzyli produktu “gotowego do operacyjnego użytku”? Oczywiście, że nie stworzyli, przecież pisali artykuł do &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Moreover, the GHCN software was afflicted by serious bugs. They caused it to become so ‘unstable’ that every time the raw temperature readings were run through the computer, it gave different results. The new, bug-free version of GHCN has still not been approved and issued. It is, Dr Bates said, ‘significantly different’ from that used by Mr Karl and his co-authors.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Bug-free version” jakiegokolwiek złożonego oprogramowania nie istnieje, i zapewniam czytelników że w nowej (czwartej) wersji GHCN &lt;em&gt;też&lt;/em&gt; znajdą się błędy. Rzekoma niereplikowalność wyników, o której pisze Bates, wynika natomiast z czego innego - każda duża baza danych taka jak GHCN czy ISTI jest często aktualizowana, a nowe wartości mogą zmienić kryteria oceny, które są używane przez algorytm homogenizacji do wykrywania błędów systematycznych.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dr Bates revealed that the failure to archive and make available fully documented data not only violated NOAA rules, but also those set down by Science. Before he retired last year, he continued to raise the issue internally. Then came the final bombshell. Dr Bates said: ‘I learned that the computer used to process the software had suffered a complete failure.’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To bardzo dziwny zarzut. Według &lt;a href=&quot;http://www.sciencemag.org/authors/science-editorial-policies#datadep&quot;&gt;oficjalnych instrukcji&lt;/a&gt; tygodnika &lt;em&gt;Science&lt;/em&gt;, dane klimatyczne towarzyszące artykułom w nim publikowanym powinne być “zarchwizowane w repozytorium klimatycznym NOAA albo &lt;em&gt;innej publicznej bazie danych&lt;/em&gt;” (wyróżnienie moje). Karl i koledzy dane zarchiwizowali w postaci plików tekstowych na serwerze FTP, co redaktorom &lt;em&gt;Science&lt;/em&gt; wystarczyło, i wiele osób (ze mną włącznie) nie miało najmniejszych problemów z dostępem i przetwarzaniem tych danych. To, że nie spełniały wyśrubowanych standardów wdrażanych przez Batesa w NOAA w niczym nam nie przeszkadzało.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The reason for the failure is unknown, but it means the Pausebuster paper can never be replicated or verified by other scientists.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Powtórzę - to kłamstwo, jak zademonstrował Hausfather i in. &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;O tym, że dziennikarz &lt;em&gt;Daily Mail&lt;/em&gt; nie ma pojęcia o temacie, najlepiej świadczy poniższy wykres&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/dailymail.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;podpisany&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The misleading ‘pausebuster chart’: The red line shows the current NOAA world temperature graph – which relies on the ‘adjusted’ and unreliable sea data cited in the flawed ‘Pausebuster’ paper. The blue line is the UK Met Office’s independently tested and verified ‘HadCRUT4’ record – showing lower monthly readings and a shallower recent warming trend.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;W rzeczywistości pozycja “zera” na tym wykresie jest dość arbitralna (średnia globalna temperatura oceanów jest znana ze znacznie mniejszą dokładnością, niż jej &lt;em&gt;zmiany&lt;/em&gt;), a to że linia czerwona jest nad linią niebieską jest w dużej mierze dziełem przypadku, i nie ma nic wspólnego z wyborami metodologicznymi dokonanymi przez naukowców odpowiedzialnych za analizę ERSST. Jeśli narysujemy obe krzywe tak, by odnosiły się do wspólnego okresu referencyjnego (1961-1990), zobaczymy że jest pomiędzy nimi bardzo duża zgodność.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/noaaukmo.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jest prawdą, że trend odpowiadający linii niebieskiej (NOAA) jest wyższy niż trend linii czarnej (HadCRUT4), ale jak już wspomniałem wyżej, są bardzo dobre powody by uważać, że to ta pierwsza analiza jest bliżej prawdy. Nawiasem mówiąc, klimatolodzy z Met Office, którzy odpowiadają za analizę HadCRUT4, &lt;a href=&quot;https://diagrammonkey.wordpress.com/2017/01/09/some-thoughts-on-hausfather-et-al/&quot;&gt;też tak uważają&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Karl, et al (2016): &lt;a href=&quot;http://science.sciencemag.org/content/348/6242/1469&quot;&gt;Possible artifacts of data biases in the recent global surface warming hiatus&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Huang, et al (2014): &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00006.1&quot;&gt;Extended Reconstructed Sea Surface Temperature Version 4 (ERSST.v4). Part I: Upgrades and Intercomparisons&lt;/a&gt;.&lt;br /&gt;
+&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Rennie, et al (2014): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/gdj3.8/full&quot;&gt;The international surface temperature initiative global land surface databank: monthly temperature data release description and methods&lt;/a&gt;&lt;br /&gt;
+&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Hausfather, et al (2017): &lt;a href=&quot;http://advances.sciencemag.org/content/3/1/e1601207&quot;&gt;Assessing recent warming using instrumentally homogeneous sea surface temperature records&lt;/a&gt;&lt;br /&gt;
+&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Huang, et al (2016): &lt;a href=&quot;http://journals.ametsoc.org/doi/full/10.1175/JTECH-D-14-00121.1&quot;&gt;Bias Adjustment of AVHRR SST and Its Impacts on Two SST Analyses&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Feb 2017 13:00:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/17/dzien-swistaka</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/17/dzien-swistaka</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>Globalne ocieplenie w 2016 roku</title>
@@ -678,161 +804,6 @@ modulation by internal variability is large enough to produce a significantly re
         
         
         <category>climsci</category>
-        
-      </item>
-    
-      <item>
-        <title>Porozumienie paryskie</title>
-        <description>&lt;p&gt;Kilka słów komentarza do porozumienia klimatycznego podpisanego kilka dni temu w Paryżu.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Zacznę od zamierzchłej historii&lt;/span&gt; . Według przyjętej w 1992 i zaakceptowanej również przez Polskę Konwencji Ramowej ws. Zmian klimatu wszystkie strony konwencji powinny działac w celu&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;osiągnięcia stabilizacji koncentracji w atmosferze gazów cieplarnianych na takim poziomie, który zapobiegnie niebezpiecznym antropogenicznym oddziaływaniom na system klimatyczny&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ustalenie, co to dokładnie znaczy, zajęło kilkanaście lat, i dopiero w 2009 roku w Kopenhadze strony Konwencji zaakceptowały stanowisko mówiące, że niebezpiecznym oddziaływaniem na system klimatyczny byłoby podniesienie średniej temperatury globalnej o dwa stopnie Celsjusza ponad poziom przedindustrialny. O historii negocjacji celu 2°C można napisać grubą książkę (i faktycznie takie książki już napisano, krótkie streszczenie zainteresowany czytelnik może znaleźć w artykule Randallsa &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;), jednak kryjącą się za nim logikę można sprowadzić do obserwacji poczynionych przez prof. Williama Nordhausa jeszcze w latach siedemdziesiątych &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;If there were global temperatures more than 2 or 3 above the current average temperature, this would take the climate outside of the range of observations which have been made over the last several hundred thousand years.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Jak już &lt;a href=&quot;http://doskonaleszare.blox.pl/2013/11/Matematyka-mitygacji.html&quot;&gt;wyjasniałem przy okazji COP19&lt;/a&gt;, badania klimatologiczne ostatniej dekady doprowadziły do sformułowania koncepcji tak zwanego “budżetu węglowego”, zgodnie z którą, ze względu na interakcję sprzężeń zwrotnych związanych z ocieplającym się klimatem, wzrost średniej temperatury globalnej w skali kilku stuleci jest mniej więcej liniowo zależny od &lt;em&gt;sumy&lt;/em&gt; emisji dwutlenku węgla w tym okresie &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;. Zależność tę pokazuje poniższy wykres z ostatniego raportu IPCC:&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zależność pomiędzy sumą emisji dwutlenku węgla a wzrostem temperatury nad poziom przedindustrialny. W okresie 1850-2011 suma emisji szacowana była na około pół biliona ton węgla (lewy dolny róg). Źródło: IPCC AR5 TS.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/c_vs_temp.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Według szacunkow naukowców, czułość klimatu na skumulowaną emisję dwutlenku węgla zawiera się pomiędzy 0,8 a 2,5°C na każdy bilion ton węgla wprowadzonego do atmosfery (czyli 3,67 bilionów ton CO&lt;sub&gt;2&lt;/sub&gt;). Znając te widełki, oraz ilość dwutlenku węgla wyemitowanego od początku epoki przemysłowej, można obliczyć ile nam jeszcze budżetu węglowego zostało do wykorzystania. Nie jest trudno wykazać, że pole manewru jest niewielkie, a jeśli uwzględnimy &lt;em&gt;przyszłe&lt;/em&gt; emisje z już &lt;em&gt;istniejącej&lt;/em&gt; infrastruktury, kurczy się ono niemal do zera. Obok “budżetu węglowego” do słownika negocjatorów klimatycznych weszło więc też pojęcie “przepaści emisyjnej” (&lt;em&gt;emission gap&lt;/em&gt;), czyli konfliktu pomiędzy tym, co wszystkie kraje deklarują że &lt;em&gt;chciałyby&lt;/em&gt; osiągnąć (ograniczyć ocieplenie do 2°C), a tym co faktycznie robią (a raczej: czego nie robią) aby ten cel osiągnąć.&lt;/p&gt;
-
-&lt;p&gt;6 lat później, zgodnie z harmonogramem ustalonym w Kopenhadze, mamy globalne porozumienie klimatyczne. Z kilku powodów uważam je za całkiem zręcznie sformułowane: jest ono wystarczająco słabe, by udało się przekonać do jego akceptacji wszystkie strony, i jednocześnie wystarczająco silne, by mogło stać się podstawą zmiany globalnego systemu energetycznego, poprzez 5-letni cykl deklaracji i weryfikacji dobrowolnych celów redukcyjnych zgłaszanych przez &lt;em&gt;wszystkie&lt;/em&gt; państwa świata. I choć można było marzyć o umowie międzynarodowej zawierającej wiążące prawnie zobowiązania redukcyjne, z góry wiadomo było że nie przejdzie ona ratyfikacji w amerykańskim senacie, w którym nie brakuje konserwatywnych polityków święcie przekonanych o tym, że globalne ocieplenie to komunistyczny spisek.&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Według administracji Baracka Obamy zgłoszony na COP21 cel redukcyjny USA nie wymaga podejmowania działań innych niż te, które wynikają z obowiązującego prawa, zatem porozumienie paryskie nie będzie wymagać ratyfikacji senackiej.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Problem “przepaści emisyjnej” jednak nie zniknął, i od ładnych kilku lat coraz głośniejsze stawały się opinie że celu dwóch stopni nie da się osiągnąć bez masowego użycia NETs, &lt;em&gt;negative emissions technologies&lt;/em&gt;, czyli technologii usuwających dwutlenek węgla z atmosfery, albo zwiększających efektywność naturalnych procesów prowadzących do tego samego celu. Schematycznie pokazane są one na rysunku poniżej (d, e, f, g, h)&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Technologie ujemnych emisji, według Smith et al 2015, Global Carbon Project 2015.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/s26_SmithNCC15_Fig1.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Warto tutaj podkreślić kilka rzeczy.&lt;/p&gt;
-
-&lt;p&gt;Po pierwsze, mowa tutaj o technologiach, które w najlepszym razie były do tej pory wypróbowywane w laboratoriach albo wdrażane w niewielkich, eksperymentalnych procesach przemysłowych. Aby mogły one odegrać znaczącą rolę w walce z globalnym ociepleniem, muszą zostać zastosowane na trudno wyobrażalną, globalną skalę. Przykładowo, technologia BECCS (która polega na tym że palimy w elektrowniach biomasą, a CO&lt;sub&gt;2&lt;/sub&gt; wychwytujemy i składujemy pod ziemią) usuwająca zaledwie &lt;em&gt;jedną trzecią&lt;/em&gt; obecnych emisji CO&lt;sub&gt;2&lt;/sub&gt;, wymagałyby upraw o powierzchni mniej więcej połowy Europy &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Po drugie, technologie te mają być używane &lt;em&gt;w dodatku&lt;/em&gt; do redukcji emisji gazów cieplarnianych, a nie &lt;em&gt;zamiast&lt;/em&gt; niej, by umożliwić zmniejszenie koncentracji gazów cieplarnianych zanim system klimatyczny zdąży na nią zareagować. W tych scenariuszach emisji, które są spójne z ograniczeniem ocieplenia do dwóch stopni, w ostatnich dwóch-trzech dekadach XXI wieku ludzkość aktywnie usuwa dwutlenek węgla z atmosfery, bo nawet po osiągnięciu równowagi pomiędzy &lt;em&gt;antropogeniczną&lt;/em&gt; emisją i absorpcją, &lt;em&gt;naturalne&lt;/em&gt; procesy nie są w stanie zmniejszyć jego zawartości wystarczająco szybko.&lt;/p&gt;
-
-&lt;p&gt;Po trzecie, technologie ujemnych emisji dotyczą dwutlenku węgla, co jak zaraz zobaczymy ma pewne znaczenie w kontekście tekstu porozumienia paryskiego.&lt;/p&gt;
-
-&lt;h2 id=&quot;polska-na-cop21&quot;&gt;Polska na COP21&lt;/h2&gt;
-&lt;p&gt;Nie muszę chyba tłumaczyć, że dla Polski termin konferencji wypadł w ciekawym momencie, choć szczerze mówiąc nie spodziewałem się, że wydarzenia krajowe niemal kompletnie ją przesłonią. Nie zdziwiło mnie natomiast, że im bliżej konferencji, tym bardziej łagodniały wypowiedzi środowiska mającego brać udział w negocjowaniu porozumienia, i że na koniec okazało się, iż nie tylko wszystkie elementy porozumienia okazały się być zgodne z celami Polski, ale wręcz bez Polski nie udałoby się tego porozumienia osiągnąć. Podobnie jak jej poprzednicy, delegacja rządowa szybko zrozumiała, że pokrzykiwaniem o &lt;em&gt;antypaństwowej herezji&lt;/em&gt; albo straszeniem wetem niewiele da się załatwić, a powrót do buńczucznych deklaracji z okresu kampanii wyborczej tylko ośmieszyłby Polskę przed zgromadzonymi na COP21 przedstawicielami całego świata.&lt;/p&gt;
-
-&lt;p&gt;Niestety, była też druga przyczyna odtrąbienia przez polską delegację sukcesu, i przyczyna ta budzi we mnie już nie tyle &lt;em&gt;schadenfreude&lt;/em&gt;, co lekkie przerażenie.&lt;/p&gt;
-
-&lt;p&gt;Polska delegacja pojechała na COP21 kompletnie nieprzygotowana, i nie do końca wiedziała, co negocjuje.&lt;/p&gt;
-
-&lt;h2 id=&quot;trzy-polskie-postulaty&quot;&gt;Trzy polskie postulaty&lt;/h2&gt;
-&lt;p&gt;Ze zdumieniem dowiedziałem się z &lt;a href=&quot;https://www.youtube.com/watch?v=BBJONqt2zk8&quot;&gt;konferencji prasowej polskiej delegacji&lt;/a&gt;, że miała ona trzy główne postulaty:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;W Paryżu przedstawiłam trzy postulaty Polski. Pierwszy to, aby porozumienie zostało podpisane przez wszystkie państwa świata, żeby nie było to tylko porozumienie które zostaje uzgodnione na poziomie Unii Europejskiej i państw europejskich (…) bo to największe gospodarki – Chiny, Rosja, Stany Zjednoczone, muszą teraz zrobić najwięcej – tłumaczyła Szydło. – Drugi postulat to, aby w porozumieniu zawrzeć właśnie takie zapisy, które uznają specyfikę rozwoju poszczególnych gospodarek (…) aby wprowadzając rozwiązania, które mają polepszać klimat na świecie, nie uderzano w gospodarki poszczególnych państw – podkreślała szefowa rządu. Trzecim postulatem o którym mówiła Szydło była kwestia lasów i zalesiania nowych terenów. – Polska wskazuje to jako rozwiązanie polepszające klimat i rozwiązuje problem nadmiernej redukcji dwutlenku węgla. Z satysfakcją stwierdzam, że wszystkie postulaty zostały przyjęte w Paryżu i zawarte w porozumieniu – dodała.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Równie dobrze Polska mogłaby jechać do Paryża z postulatem, by porozumienie zawierało przecinki, i potem z satysfakcją odnotować, że przecinki się w tekście znalazły.&lt;/p&gt;
-
-&lt;p&gt;Pierwszy postulat Polski został wynegocjowany jeszcze w 2011 roku w Durbanie, jako &lt;a href=&quot;http://unfccc.int/resource/docs/2011/cop17/eng/09a01.pdf&quot;&gt;punkt 2 decyzji 1/CP.17&lt;/a&gt;. Od kilku lat wiadomo było, że na COP21 wynegocjowane zostanie &lt;em&gt;jakieś&lt;/em&gt; porozumienie, i że porozumienie to odnosić się będzie do &lt;em&gt;wszystkich&lt;/em&gt; stron. Gdyby ktoś o tym zapomniał, sekretariat ONZ przypominał o tym zaraz na początku każdej kolejnej wersji umowy, gdzie umieszczana była taka oto preambuła&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Recalling decision 1/CP.17, whereby the Conference of the Parties to the Convention decided to adopt a protocol, another legal instrument or an agreed outcome with legal force under the Convention &lt;em&gt;applicable to all Parties&lt;/em&gt; at its twenty-first session;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Drugi postulat Polski, by porozumienie uwzględniało specyfikę rozwoju poszczególnych gospodarek, wynegocjowano jeszcze w 1992 roku. To słynna zasada CBDRRC (&lt;em&gt;common but differentiated responsibilities and respective capabilities&lt;/em&gt;) z &lt;a href=&quot;http://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/conveng.pdf&quot;&gt;trzeciego artykułu konwencji klimatycznej&lt;/a&gt;, do której dodano rok temu &lt;a href=&quot;http://unfccc.int/resource/docs/2014/cop20/eng/l14.pdf&quot;&gt;w Limie&lt;/a&gt; frazę mówiącą o &lt;em&gt;different national circumstances&lt;/em&gt;. Choć polska delegacja zdaje się być przekonana, że zasadę CBDRRC wprowadzono by chronić “specyfikę polskiego miksu energetycznego”, w rzeczywistości jej celem jest ochrona interesów ubogich krajów rozwijających się, których udział w dotychczasowym budżecie węglowym jest niewielki.&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Porozumienie stwierdza też wprost, że “[d]eveloped country Parties shall continue taking the lead by undertaking economy-wide absolute emission reduction targets”, oraz “[emission]  peaking will take longer for developing country Parties”.&lt;/span&gt; I jakby to boleśnie dla polskiej delegacji nie zabrzmiało, Polska takim biednym krajem nie jest.&lt;/p&gt;
-
-&lt;p&gt;Trzeci postulat Polski jest jeszcze dziwniejszy, bo minister Szyszko zdaje się sugerować, że to jego zasługą jest włączenie wzmianek o lasach do porozumienia paryskiego. Tezę tę zmasakrowali już &lt;a href=&quot;http://kulturaliberalna.pl/2015/12/11/szulecka-szczyt-klimatyczny-paryz-polska/&quot;&gt;Julia Szulecka i Kacper Szulecki&lt;/a&gt;, więc tylko streszczając: “kwestia lasów i zalesiania” &lt;a href=&quot;http://unfccc.int/land_use_and_climate_change/lulucf/items/1084.php&quot;&gt;jest obecna w konwencji klimatycznej od 1992 roku&lt;/a&gt;, &lt;a href=&quot;http://unfccc.int/land_use_and_climate_change/lulucf/items/4129.php&quot;&gt;jest obecna w protokole Kioto&lt;/a&gt;, również w drugim okresie rozliczeniowym (do którego Polska, lider polityki klimatycznej, nie przystąpiła), a każdy inwentarz emisji wysyłany do ONZ przez Polskę zawierał bilans aktywności związanych z sektorem leśnictwa.&lt;/p&gt;
-
-&lt;p&gt;Co więc nowego znalazło się w porozumieniu paryskim? Ano, artykuł piąty, który mówi&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Parties should take action to conserve and enhance, as appropriate, sinks and reservoirs of greenhouse gases as referred to in Article 4, paragraph 1(d), of the Convention, including forests.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Parties are encouraged to take action to implement and support, including through results-based payments, &lt;em&gt;the existing framework&lt;/em&gt; as set out in &lt;em&gt;related guidance and decisions already agreed under the Convention&lt;/em&gt; for: policy approaches and positive incentives for activities relating to reducing emissions from deforestation and forest degradation, and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries; and alternative policy approaches, such as joint mitigation and adaptation approaches for the integral and sustainable management of forests, while reaffirming the importance of incentivizing, as appropriate, non-carbon benefits associated with such approaches.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Punkt pierwszy odnosi się do postanowień konwencji klimatycznej z 1992 roku. Punkt drugi mówi o programie REDD+, &lt;a href=&quot;http://unfccc.int/land_use_and_climate_change/redd/items/8180.php&quot;&gt;przyjętym przez strony dwa lata temu na COP19 w Warszawie&lt;/a&gt;, którego celem jest powstrzymanie wycinki lasów tropikalnych. Włączenie implementacji tego programu do globalnego porozumienia klimatycznego jest oczywiście sporym sukcesem i cieszę się, że docenia to również minister Szyszko, tym bardziej że kilka lat temu w &lt;a href=&quot;http://www.stefczyk.info/publicystyka/opinie/list-otwarty-prof-szyszko-do-premiera,4850747928&quot;&gt;ostrych słowach krytykował decyzje Polski&lt;/a&gt; (jako członka Unii Europejskiej), by w tym programie brać udział.&lt;/p&gt;
-
-&lt;p&gt;Nie ma to jednak nic wspólnego z powtarzanymi przez ministra od lat postulatami, by Unia Europejska pozwoliła Polsce offsetować emisje przemysłowe objęte systemem ETS przy pomocy jednostek pochłaniania. Na wszelki wypadek, gdyby min. Szyszko chciał i tutaj obwieszczać przyszłe sukcesy, przypominam że Unia Europejska zgodziła się już na włączenie leśnictwa w ramy pakietu klimatycznego po roku 2020 (&lt;a href=&quot;http://eur-lex.europa.eu/legal-content/PL/TXT/HTML/?uri=CELEX:52014DC0015&amp;amp;from=EN&quot;&gt;punkt 4.2. z COM/2014/015&lt;/a&gt;).&lt;/p&gt;
-
-&lt;h2 id=&quot;keczup-i-keczap&quot;&gt;Keczup i keczap&lt;/h2&gt;
-&lt;p&gt;Podobno największym sukcesem polskiej delegacji było &lt;a href=&quot;http://www.euractiv.com/sections/climate-environment/poland-drives-rewrite-eu-decarbonisation-stance-cop21-320338&quot;&gt;“wykreślenie dekarbonizacji”&lt;/a&gt; z tekstu porozumienia. Nie wiem na ile to prawda, oficjalnego potwierdzenia ze strony polskiej delegacji nie widziałem; a od samego początku negocjacji termin “dekarbonizacja” była &lt;a href=&quot;http://unfccc.int/files/meetings/paris_nov_2015/in-session/application/pdf/_adp_compilation_3dec15.pdf&quot;&gt;jednym z kilkunastu możliwych wariantów&lt;/a&gt; subtelnie różniących się znaczeniem i implikacjami&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;a) [a peaking of global greenhouse gas emissions as soon as possible[, recognizing that peaking requires deeper cuts of emissions of developed countries and will be longer for developing countries]]&lt;br /&gt;
-b) [rapid reductions thereafter [in accordance with best available science] to at least a X [-Y] per cent reduction in global [greenhouse gas emissions][CO2[e]] compared to 20XX levels by 2050]];&lt;br /&gt;
-c) [achieving zero global GHG emissions by 2060-2080]&lt;br /&gt;
-d) [a long-term low emissions transformation] [toward [climate neutrality] [decarbonization] [over the course of this century] [as soon as possible after mid-century];&lt;br /&gt;
-e) [equitable distribution of a global carbon budget based on historical responsibilities and [climate] justice]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ostatecznie przyjęto cel w formie innej niż wymienione&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Parties aim to reach global peaking of greenhouse gas emissions as soon as possible, recognizing that peaking will take longer for developing country Parties, and to undertake rapid reductions thereafter in accordance with best available science, so as to achieve a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases in the second half of this century, on the basis of equity, and in the context of sustainable development and efforts to eradicate poverty.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;aczkolwiek znaczeniem odpowiadające najbardziej wariantowi c).&lt;/p&gt;
-
-&lt;p&gt;Choć samo używanie terminu “dekarbonizacja” urosło ostatnio do rangi antypaństwowej herezji, był on problematyczny i dla poprzedniej ekipy rządzącej. Jeśli jest jakaś jedna idea łącząca &lt;em&gt;prawie&lt;/em&gt; wszystkie siły polityczne w Polsce, to jest to święta wiara w to, że Polska węglem stoi, że węgiel jest naszym czarnym złotem, i że bez poparcia sektora górniczego nie da się w Polsce wygrać żadnych wyborów. W odróżnieniu od ówczesnej opozycji, która mogła zrzucać winę za wszystkie bolączki polskiego górnictwa na klimatyczne regulacje unijne (przypomnę tylko zakończoną kompletnym fiaskiem akcję &lt;a href=&quot;http://www.radiomaryja.pl/informacje/stop-pakietowi-klimatycznemu&quot;&gt;Stop Pakietowi&lt;/a&gt;, której proponenci straszyli katastrofą gospodarczą po roku 2012), poprzednia ekipa musiała robić dobrą minę do złej gry. Udawano więc, że nie ma sprzeczności pomiędzy deklaracjami redukcji emisji dwutlenku węgla, a deklaracjami braku redukcji konsumpcji węgla. Magicznym rozwiązaniem tego paradoksu miały być “czyste technologie węglowe”.&lt;/p&gt;
-
-&lt;p&gt;Z jakichś powodów polscy politycy i eksperci energetyczni skutecznie wypierali podstawowe fakty związane z fizyką i chemią: że ograniczenie ilości produkowanego CO&lt;sub&gt;2&lt;/sub&gt; oznaczać może tylko dwie rzeczy: albo utlenianie mniejszej ilości węgla, albo wyłapywanie i magazynowanie CO&lt;sub&gt;2&lt;/sub&gt;. Zwiększanie efektywności bloków elektrowni, podziemne zgazowanie węgla, IGCC, i wszystkie inne technologie zmniejszające emisyjność energetyki węglowej są tak samo “dekarbonizujące”, jak budowa paneli słonecznych, bo oznaczają że potrzebujemy &lt;em&gt;mniej&lt;/em&gt; węgla by wyprodukować jedną MWh. Oczywiście, osobnym problemem jest to, że nie musi to być nawet &lt;em&gt;polski&lt;/em&gt; węgiel, ale o tym więcej napiszę niżej.&lt;/p&gt;
-
-&lt;p&gt;Tylko technologie wychwytywania dwutlenku węgla, czyli CCS, pozwalają na zmniejszenie emisji CO&lt;sub&gt;2&lt;/sub&gt; bez zmniejszania konsumpcji węgla. Pomijając już jednak fakt, że obecnie technologie te znajdują się mniej więcej na takim samym etapie rozwoju, co energetyka termojądrowa, wdrożenie CCS w skali większej niż kilkanaście procent emisji dużych instalacji przemysłowych jest po prostu fizycznie niewykonalne.&lt;/p&gt;
-
-&lt;p&gt;Iluzję, że da się zredukować emisje bez redukcji konsumpcji węgla, potrzymywano jednak do końca. Zamiast niepopularnej “dekarbonizacji” Polska podobno &lt;a href=&quot;http://www.energypost.eu/paris-climate-agreement-eu-chooses-transformation-decarbonisation&quot;&gt;wprowadziła&lt;/a&gt; do &lt;a href=&quot;http://www.consilium.europa.eu/en/press/press-releases/2015/09/18-counclusions-un-climate-change-conference-paris-2015/&quot;&gt;stanowiska negocjacyjnego UE&lt;/a&gt; “neutralność klimatyczną” (podobno, bo wygląda na to że walczono raczej o &lt;a href=&quot;http://www.rp.pl/Wegiel/309219770-Szansa-dla-polskiego-wegla.html&quot;&gt;“neutralność węglową”&lt;/a&gt;), i tę samą strategię PR-ową, z braków lepszych pomysłów, kontynuował już nowy rząd.&lt;/p&gt;
-
-&lt;p&gt;Jak dla mnie wygląda to jednak tak, że strzelił sobie niechcący w stopę. Co bowiem implikuje cel wyznaczony jako&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;to achieve a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases in the second half of this century&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;?&lt;/p&gt;
-
-&lt;p&gt;Podejrzewam, że znaczenie tej frazy będzie przez wiele lat dyskutowane tak jak zasada CBDRRC, jednak z tego co widziałem dominuje pogląd że&lt;br /&gt;
-a) “a balance” oznacza, że emisje (“sources”) mają być równoważone przez pochłanianie (“sinks”);&lt;br /&gt;
-b) “anthropogenic” odnosi się zarówno do “sources” jak i “sinks”;&lt;br /&gt;
-c) chodzi o wszystkie gazy cieplarniane o długim okresie przebywania w atmosferze (CO&lt;sub&gt;2&lt;/sub&gt;, CH&lt;sub&gt;4&lt;/sub&gt;, N&lt;sub&gt;2&lt;/sub&gt;O, HFCs, PFCs, SF&lt;sub&gt;6&lt;/sub&gt;, NF&lt;sub&gt;3&lt;/sub&gt;);&lt;br /&gt;
-d) zbilansowanie antropogenicznej emisji innych niż CO&lt;sub&gt;2&lt;/sub&gt; gazów cieplarnianych będzie możliwe tylko poprzez zwiększone pochłanianie CO&lt;sub&gt;2&lt;/sub&gt;;&lt;br /&gt;
-e) co oznacza, że “neutralność węglowa” będzie musiała zostać osiągnięta wcześniej, niż cel porozumienia paryskiego;&lt;br /&gt;
-f) co oznacza również, że “neutralność węglowa” energetyki będzie musiała zostać osiągnięta wcześniej, niż wszystkich emitentów CO&lt;sub&gt;2&lt;/sub&gt;.&lt;/p&gt;
-
-&lt;p&gt;Przykładowo, emisja gazów cieplarnianych przez Polskę w roku 2013 wynosiła, &lt;a href=&quot;http://unfccc.int/national_reports/annex_i_ghg_inventories/national_inventories_submissions/items/8812.php&quot;&gt;według najświeższego inwentarza emisji KOBiZE&lt;/a&gt;, 395 milionów ton CO&lt;sub&gt;2&lt;/sub&gt;, wyłączając leśnictwo i zarządzając gruntami. Emisja samego CO&lt;sub&gt;2&lt;/sub&gt; wynosiła 323 mln. ton CO&lt;sub&gt;2&lt;/sub&gt;eq wyłączając leśnictwo i zarządzanie gruntami, oraz 285 mln. ton CO&lt;sub&gt;2&lt;/sub&gt; z uwzględnieniem tych kategorii. Gdybyśmy chcieli osiągnąć równowagę o której mówi porozumienie paryskie, musielibyśmy zmniejszyć emisję CO&lt;sub&gt;2&lt;/sub&gt; do zera i &lt;em&gt;dwukrotnie zwiększyć&lt;/em&gt; pochłanianie (obecnie 38 mln. ton CO&lt;sub&gt;2&lt;/sub&gt;eq), by zbilansować 72 mln. ton CO&lt;sub&gt;2&lt;/sub&gt;eq z emisji gazów cieplarnianych innych niż CO&lt;sub&gt;2&lt;/sub&gt;. Zbilansowanie emisji &lt;em&gt;wszystkich&lt;/em&gt; gazów cieplarnianych wymagałoby &lt;em&gt;dziesięciokrotnego&lt;/em&gt; zwiększenia pochłaniania przez lasy i gospodarkę gruntami. &lt;em&gt;Good luck with that&lt;/em&gt;.&lt;/p&gt;
-
-&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/poland_emissions.png&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Emisje wszystkich gazów cieplarnianych, samego dwutlenku węgla oraz udział emisji z leśnictwa i gospodarki gruntami (LULUCF). Dane 1988-2013 pochodzą z rejestru KOBiZE, szacunki historyczne według CDIAC (kolor czarny i szary przerywany, przeskalowane według zależności z 1988-2013).&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Wbrew pobożnym życzeniom polskiej delegacji, przyjęte porozumienie oznacza więc dekarbonizację energetyki, rozumianą jako eliminację większości procesów utleniających węgiel i węglowodory, i to w ciągu najbliższych 50 lat. A jeśli ktoś myśli, że skoro obecnie polskie górnictwo ma problem z konkurowaniem z importowanym węglem przy jego obecnej, &lt;em&gt;niewielkiej&lt;/em&gt; nadprodukcji, to będzie sobie radziło lepiej przy głębokiej redukcji globalnej konsumpcji, to gratuluję optymizmu.&lt;/p&gt;
-
-&lt;h2 id=&quot;co-dalej&quot;&gt;Co dalej?&lt;/h2&gt;
-&lt;p&gt;Na poziomie deklaracji polityka klimatyczna obecnego rządu niewiele różni się od tej uprawianej przez poprzedników, obawiam się więc, że w najbliższym czasie będziemy karmieni tymi samymi wymówkami, które słyszeliśmy &lt;em&gt;od lat kilkunastu&lt;/em&gt;: że Polska jest liderem redukcji emisji, i że nie da się zmienić miksu energetycznego &lt;em&gt;z dnia na dzień&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Różnica polega na tym, że kończy się nam czas, i to zarówno w sensie globalnej redukcji emisji, zobowiązań unijnych, jak i możliwości działania modelu surowco-energetycznego, który Polska odziedziczyła po najlepszych latach PRLu. Nie spodziewam się, by polskie górnictwo dogoniło konkurencyjnością górnictwo chińskie czy australijskie; by ceny węgla powróciły do poziomów sprzed kilku lat; albo by znalezienie finansowania dla inwestycji w energetykę konwencjonalną było w przyszłości łatwiejsze. Obawiam się więc, że problemy które ignorujemy dzisiaj, nie staną się łatwiejsze do rozwiązania jutro, za rok ani za lat pięć. Oczywiście, za lat pięć to może być już problem kogo innego.&lt;/p&gt;
-
-&lt;p&gt;Wracając do porozumienia paryskiego: nie zdziwiłbym się, gdyby Polska pomimo jego akceptacji odmówiła ratyfikacji, tak jak odbyło się to w przypadku przedłużenia Protokołu z Kioto. Z tego co zdążyłem się zorientować, obecna ekipa rządząca nie słynie z konsekwencji, a tym bardziej poszanowania procedur, więc za rok czy dwa mogłoby się okazać, że w opinii decydentów  &lt;br /&gt;
-&lt;a href=&quot;http://www.prezydent.pl/download/gfx/prezydent/pl/defaultaktualnosci/5426/2/1/komunikat_poprawka_dauhanska_24.10.2015.rtf&quot;&gt;skutki porozumienia paryskiego nie zostały dostatecznie wyjaśnione&lt;/a&gt;, a dopóki nie zostaną wyjaśnione, ratyfikowane być nie może.&lt;/p&gt;
-
-&lt;p&gt;Obym się mylił.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Randalls S. (2010) &lt;a href=&quot;http://onlinelibrary.wiley.com/enhanced/doi/10.1002/wcc.62&quot;&gt;History of the 2°C climate target&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Nordhaus W. (1977) &lt;a href=&quot;http://cowles.yale.edu/sites/default/files/files/pub/d04/d0443.pdf&quot;&gt;Strategies for the Control of Carbon Dioxide&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Np. Gillett, et al (2013) &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-12-00476.1&quot;&gt;Constraining the Ratio of Global Warming to Cumulative CO&lt;sub&gt;2&lt;/sub&gt; Emissions Using CMIP5 Simulations&lt;/a&gt;, IPCC AR5.&lt;br /&gt;
-&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Smith, et al (2015) &lt;a href=&quot;http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2870.html&quot;&gt;Biophysical and economic limits to negative CO&lt;sub&gt;2&lt;/sub&gt; emissions&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Dec 2015 23:00:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/15/porozumienie-paryskie</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/15/porozumienie-paryskie</guid>
-        
-        
-        <category>polityka</category>
         
       </item>
     
