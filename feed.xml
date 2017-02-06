@@ -5,8 +5,8 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Feb 2017 10:03:35 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Feb 2017 10:03:35 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2017 10:39:07 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Feb 2017 10:39:07 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -97,13 +97,21 @@
 
 &lt;p&gt;Fragment ten świadczy o kompletnym niezrozumieniu procesu homogenizacji zastosowanym przez autorów analizy ERSST, i jeśli Bates zgłaszał te zastrzeżenia kolegom, nie dziwię się że go grzecznie zignorowali.&lt;/p&gt;
 
-&lt;p&gt;Po pierwsze, jest prawdą że średnia temperatura wody zmierzona przez statki jest o około 0,1°C wyższa niż temperatura mierzona przez dryfujące boje. W ciągu ostatnich 30 lat udział pomiarów wykonywanych przez boje zwiększył się z 10% do 90% (a udział statków zmniejszył się z 90% do 10%), więc konsekwencją tego procesu jest sztuczne “ochłodzenie” widziane w szeregach czasowych temperatury. A ponieważ klimatologów interesują zmiany klimatu, a nie zmiany w ilości statków pływających po oceanach, takie błędy systematyczne powinny być korygowane. W poprzedniej, trzeciej wersji ERSST tej korekty nie było, wprowadzono ją w wersji czwartej, co doprowadziło do wzrostu trendu temperatur, który tak oburza negacjonistów globalnego ocieplenia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Po pierwsze&lt;/strong&gt;, jest prawdą że średnia temperatura wody zmierzona przez statki jest o około 0,1°C wyższa niż temperatura mierzona przez dryfujące boje. W ciągu ostatnich 30 lat udział pomiarów wykonywanych przez boje zwiększył się z 10% do 90% (a udział statków zmniejszył się z 90% do 10%), więc konsekwencją tego procesu jest sztuczne “ochłodzenie” widziane w szeregach czasowych temperatury. A ponieważ klimatologów interesują zmiany klimatu, a nie zmiany liczby statków pływających po oceanach, takie błędy systematyczne powinny być korygowane.&lt;/p&gt;
 
-&lt;p&gt;Po drugie, łatwo jest zrozumieć, że dla wartości trendu nie ma znaczenia czy poprawka zbliża “złe” dane do “dobrych”, czy “dobre” do “złych”. Analiza ERSST dotyczy bowiem &lt;em&gt;zmian&lt;/em&gt; temperatury oceanów w czasie, a wartość trendu nie zależy od wartości stałej, którą do niego dodamy. Z powodów praktycznych (pomiary dokonywane przez boje są bardziej homogeniczne, więc poprawkę łatwiej jest zastosować) wybrano ten drugi wariant, ale gdyby zdecydowano się na poprawkę w odwrotnym kierunku, wynik byłby taki sam.&lt;/p&gt;
+&lt;p&gt;Naukowcy z NOAA wiedzieli o tym fakcie od dawna. Przykładowo, 10 lat temu, w artykule &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt; dokumentującym &lt;em&gt;trzecią&lt;/em&gt; wersję analizy ERSST pisali:&lt;/p&gt;
 
-&lt;p&gt;Po trzecie, nieprawdą jest, że “dobre” dane mierzone przez boje wyrzucono. Wręcz przeciwnie, metodologia konstrukcji analizy ERSST daje większą wagę obserwacjom obciążonym mniejszym błędem.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In addition to biases in satellite data, there are other data biases. The most important additional data bias may be the ship–buoy bias (Kent and Taylor 2006; Rayner et al. 2006). This relative bias is important because of the growing number of buoy SSTs since the mid-1980s (e.g., Reynolds et al. 2002). Before 1985 most in situ SSTs are ship measurements. Where both ship and buoy observations are available, the ships are typically about 0.1°C warmer. However, the bias is not constant in either space or time where both data types are available. In addition, before the mid-1980s there are few buoy observations so directly analyzing the bias from data over the full reconstruction period is not possible.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Po czwarte, analiza ERSST “ignoruje” satelitarne pomiary temperatury troposfery, bo nie jest analizą temperatury troposfery, tylko powierzchni oceanów. Być może chodzi o to, że ERSST nie używa pomiarów z radiometrów AVHRR – jednak były ku temu bardzo dobre powody &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;W wersji trzeciej nie udało się zatem jeszcze tej korekty wprowadzić, i uczyniono to dopiero w wersji czwartej, doprowadzając do wzrostu trendu temperatur, który tak oburza negacjonistów globalnego ocieplenia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Po drugie&lt;/strong&gt;, łatwo jest zrozumieć, że dla wartości trendu nie ma znaczenia czy poprawka zbliża “złe” dane do “dobrych”, czy “dobre” do “złych”. Analiza ERSST dotyczy bowiem &lt;em&gt;zmian&lt;/em&gt; temperatury oceanów w czasie, a wartość trendu nie zależy od wartości stałej, którą do niego dodamy. Z powodów praktycznych (pomiary dokonywane przez boje są bardziej homogeniczne, więc poprawkę łatwiej jest zastosować) wybrano ten drugi wariant, ale gdyby zdecydowano się na poprawkę w odwrotnym kierunku, wynik byłby taki sam.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Po trzecie&lt;/strong&gt;, nieprawdą jest, że “dobre” dane mierzone przez boje wyrzucono. Wręcz przeciwnie, metodologia konstrukcji analizy ERSST daje większą wagę obserwacjom obciążonym mniejszym błędem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Po czwarte&lt;/strong&gt;, analiza ERSST “ignoruje” satelitarne pomiary temperatury troposfery, bo nie jest analizą temperatury troposfery, tylko powierzchni oceanów. Być może chodzi o to, że ERSST nie używa pomiarów z radiometrów AVHRR – jednak były ku temu bardzo dobre powody &lt;a href=&quot;#przyp6&quot;&gt;[6]&lt;/a&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Now, some of those same authors have produced the pending, revised new version of the sea dataset – ERSSTv5. A draft of a document that explains the methods used to generate version 5, and which has been seen by this newspaper, indicates the new version will reverse the flaws in version 4, changing the buoy adjustments and including some satellite data and measurements from a special high-tech floating buoy network known as Argo. As a result, it is certain to show reductions in both absolute temperatures and recent global warming.&lt;/p&gt;
@@ -174,7 +182,8 @@
 &lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Huang, et al (2014): &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00006.1&quot;&gt;Extended Reconstructed Sea Surface Temperature Version 4 (ERSST.v4). Part I: Upgrades and Intercomparisons&lt;/a&gt;.&lt;br /&gt;
 &lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Rennie, et al (2014): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/gdj3.8/full&quot;&gt;The international surface temperature initiative global land surface databank: monthly temperature data release description and methods&lt;/a&gt;&lt;br /&gt;
 &lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Hausfather, et al (2017): &lt;a href=&quot;http://advances.sciencemag.org/content/3/1/e1601207&quot;&gt;Assessing recent warming using instrumentally homogeneous sea surface temperature records&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Huang, et al (2016): &lt;a href=&quot;http://journals.ametsoc.org/doi/full/10.1175/JTECH-D-14-00121.1&quot;&gt;Bias Adjustment of AVHRR SST and Its Impacts on Two SST Analyses&lt;/a&gt;&lt;/p&gt;
+&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Smith, et al (2008): &lt;a href=&quot;http://journals.ametsoc.org/doi/full/10.1175/2007JCLI2100.1&quot;&gt;Improvements to NOAA’s Historical Merged Land–Ocean Surface Temperature Analysis (1880–2006)&lt;/a&gt;&lt;br /&gt;
+&lt;a name=&quot;przyp6&quot;&gt;&lt;/a&gt;6. Huang, et al (2016): &lt;a href=&quot;http://journals.ametsoc.org/doi/full/10.1175/JTECH-D-14-00121.1&quot;&gt;Bias Adjustment of AVHRR SST and Its Impacts on Two SST Analyses&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Feb 2017 13:00:00 +0000</pubDate>
         <link>http://doskonaleszare.github.io/articles/17/dzien-swistaka</link>
