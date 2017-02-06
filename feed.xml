@@ -5,8 +5,8 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Feb 2017 12:18:25 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Feb 2017 12:18:25 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2017 12:21:49 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Feb 2017 12:21:49 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -163,7 +163,7 @@
   &lt;p&gt;We show that &lt;strong&gt;ERSST version 4 trends generally agree with largely independent, near-global, and instrumentally homogeneous SST measurements from floating buoys, Argo floats, and radiometer-based satellite measurements&lt;/strong&gt; that have been developed and deployed during the past two decades. We find &lt;strong&gt;a large cooling bias in ERSST version 3b&lt;/strong&gt; and smaller but significant cooling biases in HadSST3 and COBE-SST from 2003 to the present, with respect to most series examined. These results suggest that reported rates of &lt;strong&gt;SST warming in recent years have been underestimated&lt;/strong&gt; in these three data sets.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Porównanie nowej (ERSSTv4 – kolor szary) i starej (ERSSTv3b – linia przerywana) wersji analizy temperatur oceanów NOAA, oraz niezależnych pomiarów satelitarnych Europejskiej Agencji Kosmicznej (CCI – niebieski) i serii temperatur stworzonej wyłącznie z danych zmierzonych przez boje oceanograficzne (czerwony). Źródło: &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Hausfather.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Porównanie nowej (ERSSTv4 – kolor szary) i starej (ERSSTv3b – linia przerywana) wersji analizy temperatur oceanów NOAA, oraz niezależnych pomiarów satelitarnych Europejskiej Agencji Kosmicznej (CCI – niebieski) i serii temperatur stworzonej wyłącznie z danych zmierzonych przez boje oceanograficzne (czerwony). Źródło: &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Hausfather.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Dodam, że ten rodzaj weryfikacji wyników jakiegoś badania jest pod względem naukowym bardziej przydatny, niż zapuszczenie tego samego programu na tych samych danych. W tym ostatnim przypadku demonstrujemy co najwyżej, że udało nam się odtworzyć środowisko obliczeniowe w którym uzyskano jakiś wynik, i nic nam to nie mówi o jego poprawności.&lt;/p&gt;
 
