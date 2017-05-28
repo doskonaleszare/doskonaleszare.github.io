@@ -5,9 +5,73 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Feb 2017 22:02:35 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2017 22:02:35 +0000</lastBuildDate>
+    <pubDate>Sun, 28 May 2017 12:31:18 +0000</pubDate>
+    <lastBuildDate>Sun, 28 May 2017 12:31:18 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>(Nie)rozwiązane problemy klimatologii: 1. Ile dokładnie wynosi czułość równowagowa klimatu?</title>
+        <description>&lt;p&gt;IPCC rozpoczeło oficjalnie prace nad kolejnym, szóstym raportem podsumowującym stan wiedzy naukowej na temat zmian klimatu; i choć ich efekt zobaczymy dopiero w roku 2021, warto zastanowić się, jakie nowe ustalenia mają szansę znaleźć się w tym, albo i kolejnych raportach. Poniżej więc skompilowałem krótką, nie do końca poważną listę problemów klimatologii, które wciąż pozostają aktywnym przedmiotem badań naukowych. Od razu zaznaczę, że nie są to problemy “nierozwiązane” w tym sensie, że nic na ten temat nie wiemy; w niektórych przypadkach zresztą ich rozwiązanie zostało niedawno znalezione.&lt;/p&gt;
+
+&lt;p&gt;Lista wygląda następująco:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Ile dokładnie wynosi czułość równowagowa klimatu?&lt;/li&gt;
+  &lt;li&gt;Jak silne jest wymuszenie radiacyjne antropogenicznego aerozolu?&lt;/li&gt;
+  &lt;li&gt;Od czego zależy stabilność lądolodów Antarktydy Zachodniej i Wschodniej (oraz jak wygląda ich obecny bilans masy)?&lt;/li&gt;
+  &lt;li&gt;Jak zmieniał się klimat w ciągu ostatnich 2000 lat?&lt;/li&gt;
+  &lt;li&gt;Jakie procesy powodowały oscylacje Dansgaarda-Oeschgera oraz zdarzenia Heinricha?&lt;/li&gt;
+  &lt;li&gt;Co spowodowało PETM i inne hipertermiczne epizody eocenu?&lt;/li&gt;
+  &lt;li&gt;Czy stan permamentnego El Niño kiedykolwiek istniał (albo ma szanse zaistnieć)?&lt;/li&gt;
+  &lt;li&gt;Jak rozwiązać paradoks słabego Słońca?&lt;/li&gt;
+  &lt;li&gt;Czy system klimatyczny maksymalizuje produkcję entropii?&lt;/li&gt;
+  &lt;li&gt;Jak zmieniała się temperatura powierzchni Ziemi w pierwszej połowie XX wieku i co było przyczyną tych zmian?&lt;/li&gt;
+  &lt;li&gt;Jak zmieniała się temperatura górnych warstw atmosfery w ostatnich kilku dekadach?&lt;/li&gt;
+  &lt;li&gt;Co spowodowało spowolnienie wzrostu temperatur powierzchni Ziemi na początku XXI wieku?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Każdemu problemowi planuję poświęcić osobne LPU.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Ile &lt;em&gt;dokładnie&lt;/em&gt; wynosi czułość równowagowa klimatu?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jest to jedno z tych naukowych pytań, które wpierw zaistniało w głowach teoretyków, a kilkadziesiąt lat później okazało się, że odpowiedź na nie może być warta dosłownie biliony dolarów. Choć łatwo je sformułować, i choć na zbadanie otaczających je zagadnień poświęcono dużo czasu i pieniędzy, wciąż nie jesteśmy dużo bliżej “prawdziwej” odpowiedzi niż 30 czy 40 lat temu.&lt;/p&gt;
+
+&lt;p&gt;Pytanie brzmi następująco: załóżmy, że mamy planetę taką jak Ziemia, z globalnym klimatem nie odbiegającym zbytnio od stanu współczesnego (albo przedindustrialnego).&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Zależność czułości klimatu od stanu bazowego to cały osobny problem badawczy; można oczekiwać że planeta całkowicie pozbawiona pokrywy lodowej będzie miała inną czułość niż taka, w której lodowce i lądolody jeszcze występują.&lt;/span&gt; O ile podniesie się średnia globalna temperatura, jeśli zwiększymy zawartość dwutlenku węgla w atmosferze dwukrotnie?&lt;/p&gt;
+
+&lt;p&gt;Od mniej więcej 40 lat wiadomo, że odpowiedź brzmi: “o mniej więcej 3 stopnie Celsjusza, plus minus półtora stopnia”, jednak precyzja tego oszacowania pozostawia wiele do życzenia – gdybyśmy znali dokładną odpowiedź, moglibyśmy lepiej zaplanować działania zmierzające do redukcji gazów cieplarnianych, oraz adaptacji do przyszłych zmian klimatu. Jeśli mamy szczęście i czułość jest mniejsza, moglibyśmy opóźnić mitygację globalnego ocieplenia i wyemitować więcej dwutlenku węgla. Jeśli natomiast mamy pecha, a czułość klimatu leży w okolicach górnych widełek, nawet najbardziej ambitne plany mogą się okazać niewystarczające.&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Realiści w tym momencie całkiem słusznie mogą wytknąć, że obecne najbardziej ambitne plany wystarczą tylko pod warunkiem, że czułość klimatu nie jest wyższa niż 2°C na podwojenie, a w drugiej połowie XXI wieku wdrożymy na dużą skalę technologie pochłaniania CO&lt;sub&gt;2&lt;/sub&gt; z powietrza.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Ponieważ nie możemy sobie pozwolić na przeprowadzenie eksperymentu na prawdziwej planecie, można sobie wyobrazić dwa sposoby rozwiązania tego problemu. Pierwszy polega na analizie danych paleoklimatycznych z odległej przeszłości geologicznej Ziemi, w których koncentracja CO&lt;sub&gt;2&lt;/sub&gt; w atmosferze była wyższa (albo niższa) niż obecnie, a klimat cieplejszy (lub chłodniejszy); drugi opiera się o modelowanie klimatu i eksperymenty numeryczne. I choć obie metody prowadzą do spójnych wyników (tzn. wspomnianego zakresu 1,5-4,5 stopnia Celsjusza na podwojenie CO&lt;sub&gt;2&lt;/sub&gt;), złożoność systemu klimatycznego nie pozwoliła jak dotąd na zmniejszenie niepewności, którymi obciążone są nasze szacunki.&lt;/p&gt;
+
+&lt;p&gt;Podejście z perspektywy paleoklimatycznej ograniczone jest tym, że niemożliwe jest znalezienie &lt;em&gt;dokładnej&lt;/em&gt; analogii współczesnej Ziemi (minus poziom dwutlenku węgla) w przeszłości geologicznej naszej planety: zawsze istnieć będą inne różnice (rozkład kontynentów, topografii, batymetrii, inna jasność Słońca, inna pokrywa roślinna lądów, obecność lądolodów), które utrudniają obliczenie czułości klimatu dla jednego tylko czynnika.&lt;/p&gt;
+
+&lt;p&gt;Skomplikowanie systemu klimatycznego utrudnia też, oczywiście, modelowanie: aby obliczyć czułość klimatu trzeba policzyć wpływ dwutlenku węgla, pary wodnej, chmur, zmiany albeda, cyrkulacji atmosferycznej i oceanicznej, reakcję ekosystemów lądowych i morskich, i jeszcze kilka innych rzeczy. Każdy z komponentów systemu klimatycznego wprowadza dodatkową niepewność, czego skutkiem jest duży rozrzut przewidywanych przez modele wartości czułości.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Różne szacunki czułości klimatycznej na podstawie badań z ostatniej dekady. Zakres 1,5-4,5°C został wyróżniony szarym kolorem. Źródło: IPCC AR5 WG1.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/FigBox12.2-1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Perspektywy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Obecny stan badań nie wskazuje, by ten problem mógł zostać rozwiązany w ciągu najbliższej dekady: wymagałoby to przełomu w paleoklimatologii i modelowaniu, który się po prostu nie zdarzył. Najnowsza generacja modeli klimatu – która szerzej zadebiutuje w raporcie IPCC – będzie najprawdopodobniej przewidywać podobny rozrzut wartości czułości, co modele sprzed 10 czy 20 lat. Zakładając, że przyszłe superkomputery, oraz architektura globalnych modeli opartą o nowe rdzenie dynamiczne, umożliwią zejście z rozdzielczością poziomą pozwalającą na porzucenie co bardziej uciążliwych parametryzacji i symulowanie pewnych zjawisk wprost,&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt; Tzn. konwekcji i chmur.&lt;/span&gt; można spodziewać się jakichś wyników dopiero pod koniec lat dwudziestych.&lt;/p&gt;
+
+&lt;p&gt;Znaczne postępy zostały natomiast poczynione w temacie tego, &lt;em&gt;dlaczego&lt;/em&gt; tak trudno ustalić wartość czułości klimatu, i skąd biorą się różnice pomiędzy szacunkami wyliczonymi różnymi metodami. W szczególności, rozumiemy już, dlaczego jednowymiarowe modele bilansu cieplnego dawały niższe wyniki, niż te uzyskane przy pomocy bardziej skomplikowanych modeli, oraz oparte o dane paleoklimatyczne.&lt;/p&gt;
+
+&lt;h2 id=&quot;literatura&quot;&gt;Literatura&lt;/h2&gt;
+
+&lt;p&gt;National Research Council (1979): &lt;a href=&quot;https://www.nap.edu/catalog/12181/carbon-dioxide-and-climate-a-scientific-assessment&quot;&gt;Carbon Dioxide and Climate: A Scientific Assessment&lt;/a&gt;, doi: 10.17226/12181.&lt;br /&gt;
+PALEOSENS (2012): &lt;a href=&quot;http://www.nature.com/nature/journal/v491/n7426/full/nature11574.html&quot;&gt;Making sense of palaeoclimate sensitivity&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; 491, 683–691, doi:10.1038/nature11574.&lt;br /&gt;
+Friedrich, et al (2016): &lt;a href=&quot;http://advances.sciencemag.org/content/2/11/e1501923.full&quot;&gt;Nonlinear climate sensitivity and its implications for future greenhouse warming&lt;/a&gt;, &lt;em&gt;Science Advances&lt;/em&gt; 2, no. 11, e1501923, doi: 10.1126/sciadv.1501923.&lt;br /&gt;
+Armour (2017): &lt;a href=&quot;https://www.nature.com/nclimate/journal/v7/n5/full/nclimate3278.html&quot;&gt;Energy budget constraints on climate sensitivity in light of inconstant climate feedbacks&lt;/a&gt;, &lt;em&gt;Nature Climate Change&lt;/em&gt; 7, 331–335, doi:10.1038/nclimate3278.&lt;br /&gt;
+Richardson, et al (2016): &lt;a href=&quot;http://www.nature.com/nclimate/journal/v6/n10/full/nclimate3066.html&quot;&gt;Reconciled climate response estimates from climate models and the energy budget of Earth&lt;/a&gt;, &lt;em&gt;Nature Climate Change&lt;/em&gt; 6, 931–935, doi:10.1038/nclimate3066.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 May 2017 14:30:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/17/ile-wynosi-czulosc-klimatu</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/17/ile-wynosi-czulosc-klimatu</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>SZOK! Znany dziennikarz okłamał czytelników, nie uwierzycie w jakiej sprawie</title>
@@ -46,6 +110,8 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;Wciąż czekamy na doprecyzowanie, ile lat powinien trwać proces &lt;em&gt;peer review&lt;/em&gt; jednego krótkiego artykułu, aby nie prowokować oskarżeń o &lt;a href=&quot;https://twitter.com/tomaawroblewski/status/828127561104359424&quot;&gt;“fałszowanie danych przed szczytem w Paryżu”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aktualizacja (12/02)&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Feb 2017 22:30:00 +0000</pubDate>
         <link>http://doskonaleszare.github.io/articles/17/szok-i-niedowierzanie</link>
@@ -789,85 +855,6 @@ modulation by internal variability is large enough to produce a significantly re
         
         
         <category>varia</category>
-        
-      </item>
-    
-      <item>
-        <title>Geologia o globalnym ociepleniu</title>
-        <description>&lt;p&gt;Wierni czytelnicy niniejszego bloga zapewne podzielają moje wrażenie, że wśród negacjonistów globalnego ocieplenia występuje nadreprezentacja geologów. Nie wiem, na ile ta nadreprezentacja jest rzeczywistym efektem, a na ile wynika z tego, że w temacie zmian klimatu opinia publiczna z automatu uznawała geologów za wyjątkowo kompetentnych, a wypowiedzi naukowców innych specjalności nie były tak nagłaśniane. Przypomnijmy sobie kuriozalne &lt;em&gt;Stanowisko Komitetu Nauk Geologicznych PAN&lt;/em&gt; sprzed 7 lat, którego treść po dzień dzisiejszy jest używane jako ostateczny argument przeciwko globalnemu ociepleniu, i które często było utożsamiane z głosem całego polskiego środowiska naukowego.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Nie chciałbym jednak&lt;/span&gt; , by czytelnicy odnieśli wrażenie, że teoria antropogenicznego globalnego ocieplenia jest powszechnie kontestowana przez geologów, czy to w Polsce, czy na świecie. W rzeczywistości jest na odwrót: udział antropogenicznych emisji dwutlenku węgla i innych gazów cieplarnianych jako dominującej przyczyny współcześnie obserwowanej zmiany klimatu jest w środowisku geologów akceptowana właśnie dlatego, że ma sens również w świetle historii geologicznej Ziemi. Nie da się bowiem zrozumieć przebiegu i przyczyn &lt;em&gt;przeszłych&lt;/em&gt; zmian klimatu, bez zrozumienia roli gazów cieplarnianych, obiegu węgla w przyrodzie (oraz innych cykli geochemicznych) w regulacji klimatu planety.&lt;/p&gt;
-
-&lt;p&gt;Tym bardziej dziwi więc negowanie globalnego ocieplenia przez &lt;em&gt;niektórych&lt;/em&gt; geologów. O ile ignorancję w temacie fizyki atmosfery, współczesnej klimatologii czy oceanografii fizycznej można byłoby jeszcze zrozumieć, to przecież muszą oni być świadomi stanu badań &lt;em&gt;w ich własnej dziedzinie&lt;/em&gt;, i wiedzieć o akceptacji konsensusu naukowego dotyczącego globalnego ocieplenia również przez paleoklimatologów i geologów. Wyparcie tych informacji wymaga sporego wysiłku i niezłej gimnastyki umysłowej, czego świadkami możemi być w najnowszym numerze &lt;em&gt;Przeglądu Geologicznego&lt;/em&gt;, biuletynu Państwowego Instytutu Geologicznego.&lt;/p&gt;
-
-&lt;p&gt;W ramach &lt;a href=&quot;http://www.pgi.gov.pl/pl/wydawnictwa/czasopisma/przeglad-geologiczny/6833-przeglad-geologiczny-2016-01-tom-64.html&quot;&gt;bloku tematycznego&lt;/a&gt; poświęconego zmianom klimatu w kenozoiku &lt;em&gt;Przegląd Geologiczny&lt;/em&gt; opublikował bowiem obok siebie artykuły zarówno bardzo dobre, jak “Czynniki zmian klimatycznych w środkowym i górnym plejstocenie” Bartosza Kotrysa&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Który doktoryzował się z rekonstrukcji paleotemperaturowych Oceanu Południowego.&lt;/span&gt; czy “Paleogen i neogen – czas dynamicznych zmian klimatycznych” Słodkowskiej i Kasińskiego, słabiutkie “Zmiany klimatu w holocenie” Leszka Marksa, oraz kuriozalne “Globalne ocieplenie jako fenomen kulturowy” Mirosława Rutkowskiego.&lt;/p&gt;
-
-&lt;p&gt;Do artykułu Marksa odniosę się, jak czas pozwoli, w przyszłości (z tego co widzę, powtarza on w większości tezy ze swojego starszego &lt;a href=&quot;http://www.jednaziemia.pl/planeta-dzieje/43-dzieje/zmiany-klimatu/3847-holocen-ostatnie-11700-lat.html&quot;&gt;artykułu popularnonaukowego&lt;/a&gt;, do którego polemikę można znaleźć na &lt;a href=&quot;http://naukaoklimacie.pl/aktualnosci/profesor-leszek-marks-i-skrocony-holocen-104&quot;&gt;NoK&lt;/a&gt;). Natomiast niezależnie od treści tych tez i ich (nie)poprawności, artykuł jest słaby przede wszystkim dlatego, że zamiast robić porządny przegląd aktualnej literatury przedmiotu Marks upycha w nim, dość nieudolnie, nierecenzowaną twórczość własną.&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Oraz &lt;em&gt;recenzowaną&lt;/em&gt; twórczość własną.&lt;/span&gt; Na ubogiej liście cytowanej literatury (19 pozycji, w tym jedno &lt;em&gt;corrigendum&lt;/em&gt; i 2 artykuły z Marksem jako współautorem) jedna trzecia to publikacje sprzed 50 albo i więcej lat; a większość “ciekawszych” twierdzeń autora nie jest uźródłowiona w żaden sposób.&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt; Co mnie nie dziwi, bo są po prostu nieprawdziwe.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;“Globalne ocieplenie jako fenomen kulturowy” Mirosława Rutkowskiego to już zupełnie inna kategoria. Autor – były (patrz komentarze pod artykułem) rzecznik prasowy Państwowego Instytutu Geologicznego – powstanowił przedstawić w nim przekształcenie się teorii antropogenicznego globalnego ocieplenia “w paradygmat naukowy i obiekt czci niemal religijnej”, tudzież “hipotezy naukowej w dogmat” (nie jestem pewien, czy Rutkowskiemu nie pomieszały się znaczenia terminów “dogmat” i “paradygmat”). Niestety, ponieważ tekst Rutkowskiego przypisów i źródeł nie zawiera &lt;em&gt;w ogóle&lt;/em&gt;, odważne twierdzenia autora trzeba byłoby przyjmować na wiarę. Gdyby, oczywiście, nie były kompletnym nonsensem.&lt;/p&gt;
-
-&lt;p&gt;Rutkowski zaczyna od przedstawienia “wieści internetowej” wyjaśniającej teorię antropogenicznego globalnego ocieplenia jako “niewinny podstęp” klimatologów rozczarowanych “nierównym podziałem dotacji dla naukowców zajmujących się badaniem atmosfery”. Co prawda Rutkowski zastrzega, że ta teoria spiskowa ma “zapewne niewiele” wspólnego z rzeczywistą historią rozwoju nauki, ale z drugiej strony “w każdej legendzie jest ziarno prawdy”, więc on osobiście “pochopnie” by jej nie odrzucał. A tak w ogóle to “pewnie nigdy się nie dowiemy” jak było naprawdę, gdyż opisywane wydarzenia miały miejsce w, uwaga, latach sześćdziesiątych ubiegłego wieku. Po czym na kolejnych kilku stronach Rutkowski przedstawia własną opowieść o tym, jak &lt;em&gt;grupy lewicujących intelektualistów&lt;/em&gt; do spółki z hipisami, masowymi mediami, politykami i wielkim biznesem dokonały “indoktrynacji opinii publicznej” i zakończyły “rzetelną dyskusję naukową nad przyczynami zmian klimatu”.&lt;/p&gt;
-
-&lt;p&gt;Sprostowanie wszystkich bzdur zawartych w artykule Rutkowskiego wymagałoby napisania całej książki, i takie ksiażki zresztą powstały &lt;a href=&quot;#p1&quot;&gt;[1]&lt;/a&gt;. Historia badań nad klimatem i atmosferą jest doskonale znana i udokumentowana, wciąż żyją niektórzy jej bohaterowie,&lt;sup class=&quot;sidenote-number&quot;&gt;4&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;4&lt;/sup&gt; Np. Syukuro Manabe.&lt;/span&gt; i nie jest trudno sprawdzić, że narracja przedstawiona przez Rutkowskiego nie trzyma się kupy &lt;a href=&quot;#p2&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Uwagę moją szczególnie przykuła ostatnia część artykułu, dająca wgląd w stan umysłu niektórych polskich geologów i doświadczanego przez nich syndromu oblężonej twierdzy:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Naukowcy o specjalnościach innych niż fizyka atmosfery początkowo nieufnie podchodzili do apeli klimatologów ostrzegających przed zgubnym wpływem emisji dwutlenku węgla na światowy klimat. Oporni byli zwłaszcza geolodzy, mający w pamięci całe dzieje Ziemi, urozmaicane niezliczonymi zmianami klimatu, w tym cyklicznymi zlodowaceniami, odbywającymi się kompletnie bez udziału człowieka i jego trującego przemysłu. Nacisk fizyków, wspieranych przez media, polityków i biznes, był jednak zbyt silny. Kolejno padały bastiony niedowiarków. Organizacje geofizyczne, geologiczne i przyrodnicze zgłaszały swój akces do grona wierzących. Często odbywało się to na szczeblu zarządów, bez zawracania sobie głowy opiniami szeregowych członków. Sceptyków, atakowanych bezlitośnie przez zwolenników nowego dogmatu z biegiem czasu ubywało.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ironia losu polega na tym, że geolodzy przyjęli teorię wpływu koncentracji gazów cieplarnianych na klimat &lt;em&gt;z entuzjazmem&lt;/em&gt;. Nie wystarczało im bowiem samo stwierdzenie tego, że w przeszłości Ziemia doświadczała “niezliczonych zmian klimatu”. Geolodzy chcieli też wiedzieć, &lt;em&gt;dlaczego&lt;/em&gt; ich doświadczała, a zmiany koncentracji dwutlenku węgla były jednym z proponowanych mechanizmów który mógłby wyjaśniać zmiany klimatyczne zachodzące w przeszłości. W opublikowanym w 1899 roku artykule “An Attempt to Frame a Working Hypothesis of the Cause of Glacial Periods on an Atmospheric Basis” amerykański geolog Thomas Chrowder Chamberlin opisywał tę teorię w następujący sposób:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;These sources of fluctuation are definitely correlated with the elevation and extension of the land, on the one hand, and the extension of the sea and the reduction of the land, on the other. During an extensive elevation of the land, silicates are converted into carbonates at an increased rate and the limestones and dolomites are dissolved and carried to the sea more rapidly, both processes involving an acceleration of the consumption of carbon dioxide. Correlated with this extension of the land is a reduction of the sea area attended especially by a lessening of the area of the continental shelves which are the habitat of the chief lime-secreting life, while the area available for pelagic surface life is also lessened. Reduction in the lime-secreting life retards the incidental process of freeing carbonic acid and returning it to the atmosphere. The result is a reduction of temperature which in turn increases the ability of the ocean to absorb carbon dioxide and reduces the dissociation of the second equivalent of carbon dioxide, thus further reducing the returning process and increasing the capacity of the ocean to hold carbon dioxide notwithstanding the reduction of the partial pressure in the atmosphere. The reciprocating processes are thus temporarily affected in opposite directions so as to conjoin their results.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In periods of sea extension and of land reduction (base-level periods in particular), the habitat of shallow water lime-secreting life is concurrently extended, giving to the agencies that set carbon dioxide free accelerated activity, which is further aided by the consequent rising temperature which reduces the absorptive power of the ocean and increases dissociation. At the sametime, the area of the land being diminished, a low consumption of carbon dioxide both in original decomposition of the silicates and in the solution of the limestones and dolomites obtains. Thus the reciprocating agencies again conjoin, but now to increase the carbon dioxide of the air.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Musiało upłynąć niemal sto lat, by możliwe stało się wyjaśnienie zmian obiegu węgla w plejstocenie i wcześniejszych okresach, oraz ich związek ze zmianami klimatycznymi, jednak opóźnienie to wynikało nie z “oporu geologów”, ale niedostępności danych umożliwiających weryfikację stawianych hipotez. Dopiero lata 80-te przyniosły odwierty z lodowców Grenlandii i Antarktydy, które ostatecznie umożliwiły poznanie wahań stężenia dwutlenku węgla i innych gazów cieplarnianych w czasie epok lodowych; a wiercenia oceaniczne i nowe techniki rekonstrukcji izotopowych dały nam wgląd w przebieg historii klimatycznej Ziemi w ciągu ostatnich kilkudziesięciu milionów lat.&lt;/p&gt;
-
-&lt;p&gt;Wbrew sugestiom Rutkowskiego, rola dwutlenku węgla w systemie klimatycznym jest obecnie powszechnie akceptowana zarówna na “szczeblu zarządów”, jak i wśród “szeregowych członków” organizacji geofizycznych i geologicznych. Nie trzeba szukać daleko, by znaleźć dobre tego przykłady: w tym samym numerze &lt;em&gt;Przeglądu geologicznego&lt;/em&gt; Słodkowska i Kasiński piszą o maksimum termicznym przełomu paleocenu i eocenu spowodowanym “uwolnieniem do oceanów i atmosfery dużej ilości gazów cieplarnianych”, o optimum klimatycznym miocenu wywołanym “wzrostem poziomu CO&lt;sub&gt;2&lt;/sub&gt;”, a o roli dwutlenku węgla w cyklach glacjalnych-interglacjalnych plejstocenu piszą w swoich artykułach Anna Hrynowiecka i Bartosz Kotrys. Jak i w innych dziedzinach nauk o Ziemi, konsensus geologów na ten temat nie jest efektem urojonego przez Rutkowskiego “nacisku fizyków wspieranych przez media, polityków i biznes”, lecz wynika z dogłębnej analizy aktualnego stanu badań, dostępnych naukowych dowodów oraz spójności teorii z obserwacjami i zapisem geologicznym.&lt;/p&gt;
-
-&lt;p&gt;Problem w tym, że tego stanu badań Rutkowski niestety nie zna. Widać to w końcówce artykułu, gdzie straszy nadchodzącą epoką lodową:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;W latach 70. XX w. powszechne było przekonanie o nieuchronności nadejścia kolejnego zlodowacenia, kończącego obecny interglacjał, tak sprzyjający rozwojowi ludzkości. O zbliżającym się okresie glacjalnym później jakby zapomniano. Fenomen ten można porównać do znanego z psychologii zjawiska wypierania ze świadomości nieprzyjemnych zdarzeń, czasem tak skutecznego, że nawet próby ich przypominania spotykają się ze zdecydowanym oporem pacjenta. Geolog mógłby w tym miejscu postawić naiwne pytanie: A jeśli kolejne zlodowacenie jednak nadejdzie? Przecież główne parametry systemu nie zmieniły się zasadniczo w czasie holocenu. Ten sam jest układ kontynentów, prądów morskich, nachylenie osi ziemskiej, orbita, podobne są fluktuacje aktywności Słońca i wahania składu atmosfery. Co powiedzą rzecznicy teorii o antropegenicznych przyczynach zmiany klimatu jeśli czapy lodowe zaczną się rozrastać? Przepraszamy, model wymaga korekty?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;O ile w latach 70-tych klimatolodzy zdawali sobie sprawę, że nadejście kolejnego zlodowacenia, jest “nieuchronne” w absolutnym sensie tego słowa, wiedzieli też że zajście tego zdarzenia w ciągu kolejnych kilkuset lat jest mało prawdopodobne. Co więcej, zdawali sobie też sprawę, że emisja dwutlenku węgla przez ludzi może znacznie przedłużyć obecny interglacjał. Raport z 1974 roku specjalnego panelu poświęconego badaniom obecnego integlacjału &lt;a href=&quot;#p3&quot;&gt;[3]&lt;/a&gt; tak odnosił się do tej kwestii&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The uncertainty of the situation as to the direction of future climate change is compounded by the potential interference of human activities with the natural mechanism or mechanisms of climatic change. Present indications are that this interference will be more likely to prolong the present interglacial than to abort it prematurely.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Podobne tezy znaleźć można w większym raporcie Amerykańskiej Akademii Nauk z 1975 &lt;a href=&quot;#p4&quot;&gt;[4]&lt;/a&gt;, który naszkicował kierunki i priorytety badań klimatologicznych na kolejnych kilka dekad. Dzięki tym badaniom &lt;a href=&quot;#p5&quot;&gt;[5]&lt;/a&gt; możemy dzisiaj udzielić odpowiedzi na “naiwne pytanie” zadane przez Rutkowskiego: kolejne zlodowacenie nie nadejdzie przez kolejnych &lt;em&gt;kilkadziesiąt tysięcy lat&lt;/em&gt;, gdyż tak jak podejrzewali naukowcy w latach siedemdziesiątych, antropogeniczne emisje gazów cieplarnianych spowodowały podniesienie ich koncentracji powyżej poziomu który mógłby dopuszczać zainicjowanie glacjału. Ten jeden główny parametr systemu zmienił się zasadniczo nie tylko w odniesieniu do holocenu, ale okresu obejmującego ostatnie kilka milionów lat.&lt;/p&gt;
-
-&lt;p&gt;Nie sądzę więc, by rzecznicy teorii o antropegenicznych przyczynach zmiany klimatu musieli w przyszłości okazję przepraszać za prawa fizyki.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;przypisy-i-cytowana-literatura&quot;&gt;Przypisy i cytowana literatura&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;p1&quot;&gt;&lt;/a&gt;1. Polecam zwłaszcza &lt;em&gt;A Vast Machine&lt;/em&gt; Edwardsa, &lt;em&gt;Weather by Numbers&lt;/em&gt; Harpera oraz &lt;em&gt;Fixing the Sky&lt;/em&gt; Fleminga, oraz &lt;em&gt;Earth’s Climate Evolution&lt;/em&gt; Summerhayesa, a z rzeczy mniej popularnych &lt;em&gt;The Emergence of Numerical Weather Prediction&lt;/em&gt; Lyncha oraz monografie &lt;em&gt;General Circulation Model Development: Past, Present, and Future&lt;/em&gt; i &lt;em&gt;The Development of Atmospheric General Circulation Models&lt;/em&gt;.&lt;br /&gt;
-&lt;a name=&quot;p2&quot;&gt;&lt;/a&gt;2. Przykładowo, Rutkowski utrzymuje iż w połowie lat 60-tych ubiegłego wieku “rewelacje klimatologów” (dotyczące możliwego ocieplenia wywołanego emisją gazów cieplarnianych) wywołały “olbrzymie zainteresowanie” i “niezwykle silny” oddźwięk medialny. Oczekiwałbym w tym miejscu jakieś egzamplifikacji tej tezy, jednak zamiast tego Rutkowski przywołuje raport “Restoring the Quality of Our Environment” z 1965 roku zespołu doradców Lyndona Johnsona, który o “oddźwięku medialnym” nie mówi nam nic, i gdzie globalne ocieplenie było tylko jednym z kilkunastu problemów związanych z zanieczyszczaniem środowiska, w dodatku, ze względu na odległe w czasie skutki, wcale nie najbardziej eksponowanym.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://query.nytimes.com/search/sitesearch/#/carbon+dioxide+climate/from19500101to19801231/&quot;&gt;Szybka kwerenda archiwum&lt;/a&gt; jednego z najbardziej poczytnych amerykańskich dzienników, &lt;em&gt;The New York Times&lt;/em&gt;, z lat 1950-1980 pod kątem współwystąpień terminów “carbon dioxide” i “climate” w kontekscie emisji przemysłowych demonstruje, że choć teoria antropogenicznego globalnego ocieplenia pojawiła się w mediach już w latach pięćdziesiątych (kiedy opisywano odkrycie Gilberta Plassa i badania Międzynarodowego Roku Geofizyki 1957-58), prawdziwe zainteresowanie przyszło dopiero w drugiej połowie lat siedemdziesiątych, wraz z wysypem raportów różnych insytutcji naukowych poświęconych energetyce i klimatowi; nie miało to więc nic wspólnego z ruchem hippisowskim ani kulturą alternatywną, jak utrzymuje Rutkowski. Wcześniejsze pojedyncze wzmianki o globalnym ociepleniu w &lt;em&gt;NYT&lt;/em&gt; wynikały zresztą z tego, że gazeta ta miała bardzo dobry dział naukowy, a jeden z jego redaktorów, Walter Sullivan, był autentycznie zainteresowany tematami związanymi z geofizyką.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Wzmianki o antropogenicznym globalnym ociepleniu w &lt;em&gt;The New York Times&lt;/em&gt; w latach 1950-1980.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/nyt.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;p3&quot;&gt;&lt;/a&gt;3. Interdepartmental Committee for Atmospheric Sciences, Federal Council for Science and Technology, National Science Foundation (1974) “Report of the Ad Hoc Panel on the Present Interglacial”.&lt;br /&gt;
-&lt;a name=&quot;p4&quot;&gt;&lt;/a&gt;4. United States Committee for the Global Atmospheric Research Program (1975) “Understanding Climatic Change: A Program for Action”.&lt;br /&gt;
-&lt;a name=&quot;p5&quot;&gt;&lt;/a&gt;5. Ganopolski A., et al. (2016), “Critical insolation–CO&lt;sub&gt;2&lt;/sub&gt; relation for diagnosing past and future glacial inception”, &lt;em&gt;Nature&lt;/em&gt; 529 (200-203); Berger A., et al. (2015), “Interglacials	of the last 800,000 years”, &lt;em&gt;Reviews of Geophysics&lt;/em&gt;; Tzedakis P. C., et al. (2012), “Can we predict the duration of an interglacial?”, &lt;em&gt;Climate of the Past&lt;/em&gt; 8 (1473-1485); Calov R., et al. (2009), “Mechanisms and time scales of glacial inception simulated with an Earth system model of intermediate complexity”, &lt;em&gt;Climate of the Past&lt;/em&gt; 5 (245-258); Archer D. i A. Ganopolski (2005), “A movable trigger: Fossil fuel CO&lt;sub&gt;2&lt;/sub&gt; and the onset of the next glaciation”, &lt;em&gt;Geochemistry Geophysics Geosystems&lt;/em&gt; 6; Berger A. i M. F. Loutre (2002), “An exceptionally long interglacial ahead?””, &lt;em&gt;Science&lt;/em&gt; 297 (5585);&lt;/p&gt;
-</description>
-        <pubDate>Sun, 31 Jan 2016 17:00:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/16/geologia-i-globalne-ocieplenie</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/16/geologia-i-globalne-ocieplenie</guid>
-        
-        
-        <category>climsci</category>
         
       </item>
     
