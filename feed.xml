@@ -5,9 +5,76 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 28 May 2017 12:31:18 +0000</pubDate>
-    <lastBuildDate>Sun, 28 May 2017 12:31:18 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2017 12:03:26 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2017 12:03:26 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>(Nie)rozwiązane problemy klimatologii: 2. Jak silne jest wymuszenie radiacyjne antropogenicznego aerozolu?</title>
+        <description>&lt;p&gt;Zagadnienia związane z antropogenicznymi aerozolami zasłużyły w ostatnim raporcie IPCC na osobny rozdział, i są ku temu bardzo dobre powody: ich wpływ na klimat to jedno z największych źródeł niepewności, zarówno jeśli chodzi o atrybucję (czyli określenie przyczyn &lt;em&gt;przeszłych&lt;/em&gt; zmian klimatu), jak i prognozy przyszłego globalnego ocieplenia. Co więcej, to od naszego zrozumienia właściwości aerozoli będzie zależeć skuteczność niektórych metod geoinżynierii, jeśli kiedykolwiek zostaniemy zmuszeni jej użyć.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Aerozolem fizycy atmosfery nazywają zawiesinę płynnych bądź stałych cząstek w powietrzu (z wyłączeniem chmur, które techniczne też składają się z wodnego aerozolu), o wymiarach od ułamka do kilkunastu mikrometrów, różnym kształcie i składzie, które z reguły rozpraszają światło słoneczne,&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; Z ważnym wyjątkiem sadzy (BC, &lt;em&gt;black carbon&lt;/em&gt;).&lt;/span&gt; skutkując ochłodzeniem klimatu (ujemnym wymuszeniem radiacyjnym).&lt;/p&gt;
+
+&lt;p&gt;Przykładem naturalnych aerozoli może być sól morska, pustynny pył, drobiny kwasu siarkowego, albo sadza. Aerozole emitowane są też przez źródła antropogeniczne, przede wszystkim przy spalaniu paliw kopalnych oraz biomasy (na przykład wypalaniu lasów równikowych). Na poziomie morza widocznym gołym okiem efektem mogą być niektóre rodzaje smogu, ale skutki emisji antropogenicznych aerozoli nie ograniczają się tylko do problemów zdrowotnych: oprócz tego zmieniają one własności optyczne atmosfery.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Przykład naturalnego aerozolu – saharyjski pył nad Półwyspem Iberyjskim. Źródło: NASA.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/iberianpeninsula_amo_2016052_lrg.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Najłatwiej zdefiniować bezpośredni wpływ aerozolu: jest to zmiana ilości docierającego do dolnych warstw atmosfery i powierzchni Ziemi promieniowania słonecznego, spowodowana jego rozpraszaniem i pochłanianiem przez zawieszone w powietrzu cząsteczki zanieczyszczeń (co nie znaczy, że oszacowanie tego wpływu jest proste). Mechanizmów &lt;em&gt;pośredniego&lt;/em&gt; działania aerozolu na klimat jest natomiast znacznie więcej: jednym z pierwszych jaki opisano (40 lat temu!) był tak zwany efektem Twomeya, który prowadzi do zwiększenia albeda chmur; inne postulowane efekty dotyczą zmiany długości życia chmur, ich wysokości, czy intensywności opadów. Całościowo, spodziewamy się że różne rodzaje antropogenicznych aerozoli chłodzą klimat, niwelując w pewnym stopniu ocieplenie wywołane wzrostem koncentracji gazów cieplarnianych w atmosferze: czyli, używając terminologii klimatologów, odpowiadają za ujemne wymuszenie radiacyjne.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Mechanizmy interakcji pomiędzy aerozolem a chmurami. Źródło: Rosenfeld et al (2014), &lt;em&gt;Science&lt;/em&gt;.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/aerosols.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dokładne oszacowanie wpływu antropogenicznego aerozolu na klimat jest jednak bardzo trudne. Mówimy tutaj o modelowaniu zjawiska, które zachodzi w skalach przestrzennych obejmujących spory zakres rzędów wielkości: od pojedynczych mikrometrów, aż do kilkunastu kilometrów; zatem realistyczne odwzorowanie zachowania aerozolu wymaga uwzględnienia reakcji chemicznych zachodzących w atmosferze i prowadzących do powstawania aerozolu, interakcji pomiędzy jego cząsteczkami, powstawanie zarodków kondensacji wody i lodu, ich wzrost, tworzenie kropel chmurowych, które z kolei tworzą krople deszczu; do tego należy dodać dynamikę oraz termodynamikę, rządzące ruchem i zmianami temperatury powietrza w chmurze i jej okolicach. A ponieważ aerozole wpływają również na wielkoskalową cyrkulację atmosfery, symulacje te trzeba przeprowadzać dla całego globu. W praktyce, obliczenia takie, przy pomocy najlepszych modeli przeprowadza się “offline”, w krótkich symulacjach o dużej rozdzielczości i niewielkiej domenie przestrzennej, a globalne modele klimatu muszą, ze względu na ogromną złożoność obliczeniową, stosować uproszczone parametryzacje.&lt;/p&gt;
+
+&lt;p&gt;W odróżnieniu od gazów cieplarnianych, które w atmosferze przebywają długo i są w niej dobrze wymieszane, koncentracja aerozoli jest bardzo niejednorodna, i zależy od źródeł emisji oraz cyrkulacji atmosferycznej. Nie jest to więc tak naprawdę “globalne” wymuszenie radiacyjne, co jest zresztą jednym z powodów ograniczonej użyteczności oszacowania równowagowej czułości klimatu w oparciu o zerowymiarowe modele bilansu cieplnego. Tradycyjny podział na wymuszenia radiacyjna i sprzężenia zwrotne (jak zmiana albeda powierzchni, albo zmiany koncentracji pary wodnej) w odniesieniu do aerozoli też okazuje się być niezbyt pomocny, i od ostatniego raportu IPCC praktycznie wszystkie grupy badawcze zaadoptowały bardziej skomplikowany paradygmat, który uwzględnia zjawiska niebędące bezpośrednią konsekwencją zmian temperatury. Dodatkowo, nie znamy dokładnie “bazowego”, przedindustrialnego poziomu zawartości różnych typów aerozoli w atmosferze, co uniemożliwia precyzyjne oszacowanie ich &lt;em&gt;zmiany&lt;/em&gt;, a zatem i wymuszenia radiacyjnego.&lt;/p&gt;
+
+&lt;p&gt;Niepewność co do wpływu aerozoli, jak wspomniałem na początku, ma znacznie przy atrybucji wpływu ludzkiej działalności na klimat w ostatnich kilkudziesięciu latach,&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Mniejsze, jeśli chcemy, jak to zrobiono np. w piątym raporcie IPCC, dokonać atrybucji &lt;em&gt;całkowitego&lt;/em&gt; wpływu człowieka na klimat – cząstkowe niepewności związane z antropogenicznym aerozolem oraz gazami cieplarnianymi są ze sobą skorelowane, więc ich sumaryczny efekt da się obliczyć z lepszą dokładnością niż każdego z osobna.&lt;/span&gt; oraz przy prognozowaniu przyszłych zmian klimatu. Oczekujemy mianowicie, że jeśli w przyszłości zredukujemy konsumpcję paliw kopalnych, “przy okazji” załatwimy też problem smogu i innych zanieczyszczeń atmosfery, które do tej pory częściowo maskowały wpływ gazów cieplarnianych. Skutkiem może być zatem dodatkowe ocieplenie, którego wielkość zależy od nieznanej dokładnie wartości wymuszenia radiacyjnego aerozolu.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Oszacowania wartości wymuszeń radiacyjnych różnych czynników antropogenicznych i naturalnych. Źródło: IPCC WG1 AR5.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/FigSPM-05.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Perspektywy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Można powiedzieć, że w przypadku aerozoli ciągle jesteśmy jeszcze na etapie katalogowania źródeł niepewności oraz określania zakresu naszej niewiedzy. Na szczęście wiadomo, jakich obserwacji potrzebujemy, i jakie zjawiska musimy umieć modelować, nawet jeśli nie potrafimy tego dokonać &lt;em&gt;jeszcze teraz&lt;/em&gt; (ani w najbliższej przyszłości).&lt;/p&gt;
+
+&lt;p&gt;Na froncie obserwacyjnym wciąż mamy oczywiście sieć automatycznych stacji AERONET, która od 20 lat zbiera pomiary grubości optycznej aerozolu; do tego dochodzą wyspecjalizowane, choć nieliczne, obserwatoria, takie jak przenośna instalacja ARM amerykańskiego Departamentu Energii; oraz instrumenty zainstalowane na samolotach takich jak ER-2 czy FAAM. Z przestrzeni kosmicznej pomiary właściwości aerozolu chmur prowadzą wyspecjalizowane satelity takie jak CloudSat, Sentiel, CALIPSO, czy planowany na przyszły rok EarthCARE. Ponieważ różne typy pomiarów i obserwacji mają różne ograniczenia, najwięcej dowiedzieć się można z wielkoskalowych “eksperymentów atmosferycznych”, to znaczy kampanii obserwacyjnych prowadzonych jednocześnie na tym samym obszarze przez samoloty, statki, satelity i placówki naziemne. W ostatnim czasie prowadzono kilka takich projektów: brytyjski CLARIFY, amerykańskie LASIC (DoE) i ORACLES (NASA).&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Samolot NASA ER-2, czyli cywilna wersja słynnego samolotu zwiadowczego U-2S, jedna z kilku platform obserwacyjnych wykorzystywanych do pobierania próbek aerozolu oraz zdalnego badania ich właściwości. Źródło: NASA.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/256065main_ED06-0117-24_full.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Więcej danych pozwala na walidację modeli aerozoli, co z kolei umożliwia konstrukcję lepszych modeli klimatu. Nie spodziewam się, by w symulacjach globalnych modeli udało się znacząco zredukować niepewności&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt; W sensie &lt;em&gt;model spread&lt;/em&gt;. Wymuszenie radiacyjne aerozolu (tzn. ERF) modeli uczestniczących w CMIP5 w okresie 1850-2000 mierzyło od −0.35 do −1.60 W m⁻².&lt;/span&gt; w przeciągu następnych kilku lat. Przyczyna tego jest prosta: lepsze modele to bardziej skomplikowane modele, a zwiększenie komplikacji oznacza, że każdy nowy, parametryzowany proces – czy to mikrofizyki chmur, czy chemii troposferycznej – będzie wnosił do wyników dodatkowe błędy. Sporo czasu i wysiłku klimatolodzy wkładają zatem w zbadanie źródeł tych błędów, oraz przyczyn różnic pomiędzy modelami klimatu stworzonymi przez różne grupy naukowców z całego świata. W nadchodzącej szóstej fazie projektu benchmarkowania modeli klimatu CMIP6 symulacjom aerozoli poświęconych będzie kilka osobnych projektów. Jak jednak wspomniałem wcześniej, ze względu na fundamentalne ograniczenia związane z dostępną mocą obliczeniową, globalne modele klimatu zawsze będą zapóźnione w stosunku do najlepszej dostępnej teorii. Jeśli jednak w ciągu najbliższych kilku lat nastąpi jakiś przełom w zrozumieniu wpływu aerozolu na klimat, będzie on oparty o obserwacje (i jakąś sprytną ich analizę).&lt;/p&gt;
+
+&lt;h2 id=&quot;literatura&quot;&gt;Literatura&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Artykuły przeglądowe&lt;/strong&gt;&lt;br /&gt;
+Rosenfeld D., et al (2014): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2013RG000441/abstract&quot;&gt;“Global observations of aerosol-cloud-precipitation-climate interactions”&lt;/a&gt;, &lt;em&gt;Reviews in Geophysics&lt;/em&gt;, vol. 52, issue 4, 750–808.&lt;br /&gt;
+Rosenfeld D., et al (2014): &lt;a href=&quot;http://science.sciencemag.org/content/343/6169/379&quot;&gt;“Climate Effects of Aerosol-Cloud Interactions”&lt;/a&gt;, &lt;em&gt;Science&lt;/em&gt;, vol. 343, issue 6169, 379–380.&lt;br /&gt;
+Quaas J. (2015): &lt;a href=&quot;https://link.springer.com/article/10.1007/s40641-015-0028-0&quot;&gt;“Approaches to Observe Anthropogenic Aerosol-Cloud Interactions”&lt;/a&gt;, &lt;em&gt;Current Climate Change Reports&lt;/em&gt;, vol. 1, issue 4, 297–304.&lt;br /&gt;
+Seinfeld J. H., et al (2016): &lt;a href=&quot;http://www.pnas.org/content/113/21/5781.abstract&quot;&gt;“Improving our fundamental understanding of the role of aerosol−cloud interactions in the climate system”&lt;/a&gt;, &lt;em&gt;PNAS&lt;/em&gt;, vol. 113, no. 21.&lt;br /&gt;
+Chien Wang (2013): &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0169809512004231&quot;&gt;“Impact of anthropogenic absorbing aerosols on clouds and precipitation: A review of recent progresses”&lt;/a&gt;, &lt;em&gt;Atmospheric Research&lt;/em&gt; 122, 237–249.&lt;br /&gt;
+Fan J., et al (2016): &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JAS-D-16-0037.1&quot;&gt;“Review of Aerosol–Cloud Interactions: Mechanisms, Significance, and Challenge”&lt;/a&gt;, &lt;em&gt;Journal of the Atmospheric Sciences&lt;/em&gt;, vol. 73, no. 11.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pozostałe&lt;/strong&gt;&lt;br /&gt;
+Feingold G., et al (2016): &lt;a href=&quot;http://www.pnas.org/content/113/21/5812.abstract&quot;&gt;“New approaches to quantifying aerosol influence on the cloud radiative effect”&lt;/a&gt;, &lt;em&gt;PNAS&lt;/em&gt;, vol. 113, no. 21.&lt;br /&gt;
+Myhre G., et al (2013): &lt;a href=&quot;http://www.atmos-chem-phys.net/13/1853/2013/acp-13-1853-2013.html&quot;&gt;“Radiative forcing of the direct aerosol effect from AeroCom Phase II simulations”&lt;/a&gt;, &lt;em&gt;Atmospheric Chemistry and Physics&lt;/em&gt;, 13, 1853–1877.&lt;br /&gt;
+Mann G.W., et al (2014): &lt;a href=&quot;http://www.atmos-chem-phys.net/14/4679/2014/&quot;&gt;“Intercomparison and evaluation of global aerosol microphysical properties among AeroCom models of a range of complexity”&lt;/a&gt;, &lt;em&gt;Atmospheric Chemistry and Physics&lt;/em&gt;, 14, 4679–4713.&lt;br /&gt;
+Pincus R., Forster P. M., Stevens B. (2016): &lt;a href=&quot;http://www.geosci-model-dev.net/9/3447/2016/&quot;&gt;“The Radiative Forcing Model Intercomparison Project (RFMIP): experimental protocol for CMIP6”&lt;/a&gt;, &lt;em&gt;Geoscientific Model Development&lt;/em&gt;, 9, 3447–3460.&lt;br /&gt;
+Collins W., et al (2017): &lt;a href=&quot;http://www.geosci-model-dev.net/10/585/2017/&quot;&gt;“AerChemMIP: quantifying the effects of chemistry and aerosols in CMIP6”&lt;/a&gt;, &lt;em&gt;Geoscientific Model Development&lt;/em&gt;, 10, 585–607.&lt;br /&gt;
+Gryspeerdt E., et al (2017): &lt;a href=&quot;http://www.pnas.org/content/114/19/4899.abstract&quot;&gt;“Constraining the instantaneous aerosol influence on cloud albedo”&lt;/a&gt;, &lt;em&gt;PNAS&lt;/em&gt;, vol. 114, no. 19.&lt;br /&gt;
+Heald C. L., et al (2014): &lt;a href=&quot;http://www.atmos-chem-phys.net/14/5513/2014/&quot;&gt;“Contrasting the direct radiative effect and direct radiative forcing of aerosols”&lt;/a&gt;, &lt;em&gt;Atmospheric Chemistry and Physics&lt;/em&gt;, 14, 5513–5527.&lt;br /&gt;
+Heyn I., et al (2017): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2016GL071975/full&quot;&gt;“Assessment of simulated aerosol effective radiative forcings in the terrestrial spectrum”&lt;/a&gt;, &lt;em&gt;Geophysical Research Letters&lt;/em&gt;, vol. 33, issue 2, 1001–1007.&lt;br /&gt;
+Myhre G., et al (2017): &lt;a href=&quot;http://www.atmos-chem-phys.net/17/2709/2017/&quot;&gt;“Multi-model simulations of aerosol and ozone radiative forcing due to anthropogenic emission changes during the period 1990–2015”&lt;/a&gt;, &lt;em&gt;Atmospheric Chemistry and Physics&lt;/em&gt;, 17, 2709–2720.&lt;br /&gt;
+Stevens B. (2015): &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00656.1&quot;&gt;“Rethinking the Lower Bound on Aerosol Radiative Forcing”&lt;/a&gt;, &lt;em&gt;Journal of Climate&lt;/em&gt;, vol. 28, no. 12.&lt;br /&gt;
+Gryspeerdt E., Quaas J., Bellouin N. (2016): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2015JD023744/full&quot;&gt;“Constraining the aerosol influence on cloud fraction”&lt;/a&gt;, &lt;em&gt;Journal of Geophysical Research: Atmospheres&lt;/em&gt;, vol. 121, issue 7, 3566–3583.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 12 Jun 2017 14:00:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/17/jak-silnie-chlodza-klimat-aerozole</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/17/jak-silnie-chlodza-klimat-aerozole</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>(Nie)rozwiązane problemy klimatologii: 1. Ile dokładnie wynosi czułość równowagowa klimatu?</title>
@@ -62,7 +129,11 @@
 PALEOSENS (2012): &lt;a href=&quot;http://www.nature.com/nature/journal/v491/n7426/full/nature11574.html&quot;&gt;Making sense of palaeoclimate sensitivity&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; 491, 683–691, doi:10.1038/nature11574.&lt;br /&gt;
 Friedrich, et al (2016): &lt;a href=&quot;http://advances.sciencemag.org/content/2/11/e1501923.full&quot;&gt;Nonlinear climate sensitivity and its implications for future greenhouse warming&lt;/a&gt;, &lt;em&gt;Science Advances&lt;/em&gt; 2, no. 11, e1501923, doi: 10.1126/sciadv.1501923.&lt;br /&gt;
 Armour (2017): &lt;a href=&quot;https://www.nature.com/nclimate/journal/v7/n5/full/nclimate3278.html&quot;&gt;Energy budget constraints on climate sensitivity in light of inconstant climate feedbacks&lt;/a&gt;, &lt;em&gt;Nature Climate Change&lt;/em&gt; 7, 331–335, doi:10.1038/nclimate3278.&lt;br /&gt;
-Richardson, et al (2016): &lt;a href=&quot;http://www.nature.com/nclimate/journal/v6/n10/full/nclimate3066.html&quot;&gt;Reconciled climate response estimates from climate models and the energy budget of Earth&lt;/a&gt;, &lt;em&gt;Nature Climate Change&lt;/em&gt; 6, 931–935, doi:10.1038/nclimate3066.&lt;/p&gt;
+Richardson, et al (2016): &lt;a href=&quot;http://www.nature.com/nclimate/journal/v6/n10/full/nclimate3066.html&quot;&gt;Reconciled climate response estimates from climate models and the energy budget of Earth&lt;/a&gt;, &lt;em&gt;Nature Climate Change&lt;/em&gt; 6, 931–935, doi:10.1038/nclimate3066.&lt;br /&gt;
+Masters T. (2013): &lt;a href=&quot;https://link.springer.com/article/10.1007/s00382-013-1770-4&quot;&gt;Observational estimate of climate sensitivity from changes in the rate of ocean heat uptake and comparison to CMIP5 models&lt;/a&gt;, &lt;em&gt;Climate Dynamics&lt;/em&gt; 42, 7, 2173-2181.&lt;br /&gt;
+Forster P. M. (2016): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2016EF000376/full&quot;&gt;Inference of Climate Sensitivity from Analysis of Earth&lt;code&gt;s Energy Budget](http://www.annualreviews.org/doi/abs/10.1146/annurev-earth-060614-105156), _Annual Review of Earth and Planetary Sciences_, vol. 44, 85-106.
+Royer D. (2016): [Climate Sensitivity in the Geologic Past](http://www.annualreviews.org/doi/10.1146/annurev-earth-100815-024150), _Annual Review of Earth and Planetary Sciences_, vol. 44, 277-293.
+Stevens B., et al (2016): [Prospects for narrowing bounds on Earth&lt;/code&gt;s equilibrium climate sensitivity&lt;/a&gt;, _Earth&lt;code&gt;s Future&lt;/code&gt;, vol. 4, issue 11.&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 May 2017 14:30:00 +0000</pubDate>
         <link>http://doskonaleszare.github.io/articles/17/ile-wynosi-czulosc-klimatu</link>
@@ -812,49 +883,6 @@ modulation by internal variability is large enough to produce a significantly re
         
         
         <category>clisci</category>
-        
-      </item>
-    
-      <item>
-        <title>B09B</title>
-        <description>&lt;p&gt;Mimo że upłynęło prawie 30 lat, góra lodowa B9 wciąż sieje śmierć i zniszczenie na Oceanie Południowym.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Mapa Antarktydy z zaznaczonymi lodowcami szelfowymi. Szelf Rossa jest widoczny na dole, lodowiec Mertza, w okolicach którego znajduje się obecnie B09B, jest widoczny w prawym dolnym rogu. Źródło: NASA/JPL-Caltech/UC Irvine/Columbia University.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/755402main_earth20130613b-full.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;B9 oderwała się od lodowca szelfowego Rossa — spływającej do oceanu tafli lodu o długości 800 kilometrów — w październiku 1987 roku &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;. Miała wtedy trochę ponad 150 kilometrów długości i 35 km szerokości, i była jedną z największych zaobserwowanych (choć nie największą) górą lodową.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zdjęcie wykonane przez satelitę Landsat-4 28 listopada 1987 roku, niedługo po oderwaniu się B9. Źródło: U.S. Geological Survey.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/LT40351161987332XXX09_REFL.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Przez pierwszych kilkanaście miesięcy B9 dryfowała po Morzu Rossa, pokonując średnio kilka kilometrów dziennie.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Podróż B9 przez Morze Rossa. Źródło: Keys, et al. (1990).&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/B9_1.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;W sierpniu 1989 opuściła Morze Rossa i popłynęła dalej na zachód, ulegając po drodze powolnemu rozpadowi. W połowie 1992 roku największy fragment oryginalnej góry, oznaczony kodem B09B (o wymiarach 100x30km), dotarł do Wybrzeża Jerzego V, i tam już utknął na 17 lat.&lt;/p&gt;
-
-&lt;p&gt;Ponownie świat usłyszał o  B09B w 2010 roku, kiedy uwolniła się z mielizny, przepłynęła kolejne 100 kilometrów, i staranowała jęzor lodowcowy Mertza, &lt;a href=&quot;http://visibleearth.nasa.gov/view.php?id=42819&quot;&gt;odrywając jego spory kawałek&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Geometria zderzenia B09B z lodowcem Mertza. Czerwony: lokalizacja przed zderzeniem, niebieski: obecna lokalizacja B09B (CB - &lt;em&gt;Commonwealth Bay&lt;/em&gt;). Źródło: Tamura, et al. (2012).&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/ncomms1820-f1.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;W swojej nowej lokalizacji B09B przyczyniła się do zagłady dużej kolonii pingwinów &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, oraz przeszkodziła w obchodach stuletniej &lt;a href=&quot;http://news.discovery.com/adventure/b9b-iceberg-blocking-antarctic-celebrations-111221.htm&quot;&gt;rocznicy Australijskiej Ekspedycji Antarktycznej&lt;/a&gt;. Naukowcy podejrzewają też, że zaburza formowanie się Antarktycznych Wód Dennych (AABW), będzie miała zatem wpływ na globalną cyrkulację termohalinową i klimat w kolejnych dekadach &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Całkiem nieźle jak na jedną kostkę lodu.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/155237915&quot; width=&quot;750&quot; height=&quot;464&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/155237915&quot;&gt;Timelapse B09B&lt;/a&gt; z ostatnich kilku lat, na podstawie zdjęć MODIS wykonanych przez satelitę Aqua od 4 kwietnia 2012 do 12 lutego 2016 roku. Czarne klatki  odpowiadają okresom nocy polarnej na półkuli południowej, kiedy powierzchnia ziemi jest słabo oświetlona.&lt;/p&gt;
-
-&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Keys, et al. (1990) &lt;a href=&quot;http://journals.cambridge.org/article_S0954102090000335&quot;&gt;The calving and drift of iceberg B-9 in the Ross Sea, Antarctica&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Wilson, et al. (2016) &lt;a href=&quot;http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;amp;aid=10171606&amp;amp;fulltextType=RA&amp;amp;fileId=S0954102015000644&quot;&gt;The impact of the giant iceberg B09B on population size and breeding success of Adélie penguins in Commonwealth Bay, Antarctica&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;3. Tamura, et al. (2012) &lt;a href=&quot;http://www.nature.com/ncomms/journal/v3/n5/full/ncomms1820.html&quot;&gt;Potential regime shift in decreased sea ice production after the Mertz Glacier calving&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Feb 2016 13:00:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/16/B9</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/16/B9</guid>
-        
-        
-        <category>varia</category>
         
       </item>
     
