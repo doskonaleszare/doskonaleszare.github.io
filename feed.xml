@@ -5,9 +5,55 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Jun 2017 12:03:26 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Jun 2017 12:03:26 +0000</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2017 19:16:02 +0000</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2017 19:16:02 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Globalne ocieplenie skończyło się w 2016 roku</title>
+        <description>&lt;p&gt;Jak może pamiętacie, wśród najczęściej powtarzanych mitów klimatycznych był ten mówiący, że globalne ocieplenie się skończyło.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Początkowo mit ten opierał się o klasyczny &lt;em&gt;cherry picking&lt;/em&gt; krótkiego trendu średniej temperatury globalnej, z punktem początkowym odpowiadającym silnemu El Niño sezonu 1997/1998 (przykładem może być &lt;a href=&quot;http://archive.is/juGJk&quot;&gt;ten artykuł&lt;/a&gt;); potem denialiści klimatyczni zaczęli go rozszerzać o zasłyszane z drugiej ręki, acz niekoniecznie zrozumiene doniesienia o rzeczywistych problemach naukowych w klimatologii, jak niezgodność satelitarnych szacunków bilansu cieplnego planety i pomiarów entalpii oceanów &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, czy “empiryczne” próby określenia czułuści klimatu &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;; na koniec mit ten — podobnie jak wiele innych powielanych powszechnie banialuków &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt; — utracił jakiekolwiek umocowanie w rzeczywistości, choć niestety wciąż pozostał popularny.&lt;/p&gt;
+
+&lt;p&gt;Po wyjątkowo silnym El Niño 2015/2016 i serii rekordów globalnych temperatur (2014, pobity w 2015, pobity w 2016) możemy się zatem spodziewać powtórki z rozrywki. Uprzedzając więc sensacyjne doniesienia z następnej dekady, dzisiaj przyjrzymy się, jak prawdopodobne jest że globalne ocieplenie znowu się “zatrzymało”, tym razem w 2016 roku.&lt;/p&gt;
+
+&lt;p&gt;Załóżmy, że w ciągu następnych kilkunastu lat wzrost średniej temperatury globalnej będzie następować w tym samym tempie, co w latach 1970-2016, czyli 0,18°C na dekadę &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;. Zmienność międzyroczną szeregu możemy modelować jako zwykły szum gaussowski &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt;, co pozwala nam wygenerować w łatwy sposób syntetyczne serie przyszłych zmian temperatury, i policzyć trendy liniowe od 2016 roku. Szczegółowe wyniki zależeć będą oczywiście od wybranego zestawu danych — poniżej zamieszczam więc analizy trzech serii: GISTEMP z NASA, HadCRUT z Met Office, oraz dane Cowtana i Waya.&lt;/p&gt;
+
+&lt;p&gt;Jeśli “zatrzymanie globalnego ocieplenia” zdefiniujemy jako okres, w którym trend liniowy średniej globalnej temperatury jest mniejszy lub równy zeru, szansa że stan taki utrzyma się dłużej niż dekadę jest niewielka – tylko 7-26% dla okresu 2016-2026, i poniżej 3% dla okresu 2016-2029.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/gistemp_tr_2017.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Panel lewy: zmiany średniej globalnej temperatury w okresie 1970-2017 (kolor czarny), trend wieloletni w tym okresie (czerwony), przykładowe prognozowane realizacje z 10 tys.-elementowej wiązki (szary i niebieski). Panel środkowy: rozkład trendów temperatur w przyszłym okresie, z zaznaczonym trendem wieloletnim (czerwony) oraz przykładowym przyszłym trendem z panelu lewego (niebieski). Panel prawy: rozkład p-wartości dla trendów. Analiza powtórzona 4-krotnie dla trendów różnej długości. Dane obserwacyjne: GISTEMP.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Jeśli “zatrzymanie globalnego ocieplenia” zdefiniujemy jako okres, w którym trend liniowy nie jest istotny statystycznie (p &amp;lt;= 0.05), sytuacji takiej można spodziewać się do końca przyszłej dekady. Dopiero po roku 2030 &lt;em&gt;niemal każdy&lt;/em&gt; trend policzony od 2016 roku będzie w istotny sposób różnił się od zera.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/hc_tr_2017.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Jak wyżej, ale dane HadCRUT.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Jeśli natomiast “zatrzymanie globalnego ocieplenia” zdefiniujemy jako okres, w którym trend liniowy będzie numerycznie niższy niż trend w okresie poprzedzającym, to stan taki potrwać może i do połowy lat trzydziestych.&lt;/p&gt;
+
+&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/cw_tr_2017.png&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Jak wyżej, ale dane z analizy Cowtana i Waya.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Oczywiście, w każdym przypadku “zatrzymanie” jest efektem przypadku, a trend wieloletni pozostaje niezmieniony. W rzeczywistym świecie też  spodziewamy się, że będzie on zbliżony do tego z ubiegłych dekad — nawet w najbardziej optymistycznych scenariuszach redukcja emisji gazów cieplarnianych nie spowolni znacząco wzrostu temperatury przed rokiem 2040.&lt;/p&gt;
+
+&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1) Loeb, N.G., et al (2012): &lt;a href=&quot;https://www.nature.com/articles/ngeo1375&quot;&gt;“Observed changes in top-of-the-atmosphere radiation and upper-ocean heating consistent within uncertainty”&lt;/a&gt;, &lt;em&gt;Nature Geoscience&lt;/em&gt; 5, 110–113.&lt;br /&gt;
+&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2) Marvel, K., et al (2016): &lt;a href=&quot;https://www.nature.com/articles/nclimate2888&quot;&gt;“Implications for climate sensitivity from the response to individual forcings”&lt;/a&gt;, &lt;em&gt;Nature Climate Change&lt;/em&gt; 6, 386–389.&lt;br /&gt;
+&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3) “Jeden wulkan podczas wybuchu emituje więcej CO₂ niż ludzkość przez X lat” jest doskonałym przykładem takiego kompletnie fałszywego mitu.&lt;br /&gt;
+&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4) Gdyby takie tempo utrzymało się do 2100 roku, skutkowałoby wzrostem o 2,5 stopnia ponad poziom przedindustrialny.&lt;br /&gt;
+&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5) Przy średnich rocznych autokorelacja już praktycznie znika.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Dec 2017 19:30:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/17/globalne-ocieplenie-skonczylo-sie-w-2016-roku</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/17/globalne-ocieplenie-skonczylo-sie-w-2016-roku</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>(Nie)rozwiązane problemy klimatologii: 2. Jak silne jest wymuszenie radiacyjne antropogenicznego aerozolu?</title>
@@ -776,113 +822,6 @@ modulation by internal variability is large enough to produce a significantly re
         
         
         <category>denializm</category>
-        
-      </item>
-    
-      <item>
-        <title>Powtórka z atrybucji</title>
-        <description>&lt;p&gt;Jest taka dziedzina nauki, w której większość przewidywań teoretycznych opiera się o symulacje modeli numerycznych; gdzie ich laboratoryjna weryfikacja jest utrudniona albo wręcz niemożliwa; gdzie obserwacje opisywanych przez teorię, naturalnie występujących fenomenów, wymagają nakładów liczonych w setkach milionów dolarów; gdzie surowe dane, między innymi zmierzone przez satelity, są skażone bardzo poważnymi błędami systematycznymi i wymagają homogenizacji; gdzie niektóre zespoły generują fałszywe obserwacje i próbują je potem opublikować, a samotni naukowcy na darmo walczą z konsensualną większością; i gdzie przez pół wieku nie udało się bezpośrednio zweryfikować jednego z głównych przewidywań tej teorii.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Jak się pewnie domyślacie, powyższy opis dotyczy relatywistycznej fizyki grawitacji &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, jednak instytucjonalne podobieństwo do klimatologii nie jest wcale takie powierzchowne. Klimatologia jest przecież poddziedziną geofizyki, która jest poddziedziną planetologii, która z kolei jest poddziedziną astrofizyki. Naukowcy zajmujący się gwiazdami neutronowymi, aktywnymi jądrami galaktyk, formowaniem odległych układów słonecznych, czy w końcu zmianami klimatu na Ziemi, spotykają problemy podobnej natury, i rozwiązują je przy pomocy podobnych narzędzi. Czasami były to nawet &lt;em&gt;te same&lt;/em&gt; narzędzia, i ci sami naukowcy, jak Karl Schwarzschild i Subrahmanyan Chandrasekhar, którzy stworzyli podwaliny pod teorią transferu radiacyjnego &lt;em&gt;oraz&lt;/em&gt; czarnych dziur.&lt;/p&gt;
-
-&lt;p&gt;Z jakiegoś powodu łatwiej jest nam jednak uwierzyć w zmierzenie zmian długości ramienia interferometru liczącą &lt;script type=&quot;math/tex&quot;&gt;10^{-18} m&lt;/script&gt;, spowodowane zderzeniem dwóch astrofizycznych obiektów odległych o 410 megaparseków od Ziemi, a jeszcze dalej od naszej codziennej intuicji; niż w to że można wykryć antropogeniczną zmianę klimatu wyrażającą się globalnym ociepleniem o niemal jeden stopnień Celsjusa.&lt;/p&gt;
-
-&lt;p&gt;Po ogłoszeniu detekcji GW150914 &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt; nie czytałem w polskiej prasie felietonów o globalnym szwindlu i wyłudzaniu grantów przez kolaborację LIGO; nikt nie marudził, że wyniki są niereplikowalne, bo europejski detektor Virgo był wyłączony, a IceCube i ANTARES nie wykryły powiązanej ze zderzeniem emisji neutrin; nie widziałem sceptyków argumentujących, że skoro Joseph Weber pomylił się ogłaszając odkrycie fal grawitacyjnych 50 lat temu, więc może &lt;em&gt;i tym razem naukowcy się mylą&lt;/em&gt;; albo internetowych mądrali zastanawiających się, czy na pewno uwzględniono fakt że oprócz fal grawitacyjnych interferometr LIGO może mierzyć wibracje ziemskiego pochodzenia.&lt;/p&gt;
-
-&lt;p&gt;Chciałbym więc wykorzystać ten chwilowy przypływ wiary w możliwości i osiągnięcia nauki do przedyskutowania problemu znanego w literaturze klimatologicznej jako &lt;em&gt;detekcja i atrybucja&lt;/em&gt;: czyli wykrycia, że jakieś zdarzenie miało miejsce, i ustalenia, co było jego przyczyną. Żeby było łatwiej, będę pisać o globalnym ociepleniu, rozumianym jako uśrednione w dużych skalach przestrzennych, długoterminowe zmiany temperatury; detekcja i atrybucja może się jednak odnosić do innych parametrów (np. opadów, wysokości tropopauzy, pozycji ITCZ, czy pokrywy lodu pływającego).&lt;/p&gt;
-
-&lt;p&gt;Zacznijmy od prostej obserwacji, że jeśli jakieś zdarzenie &lt;em&gt;miało&lt;/em&gt; miejsce, to nie mogło &lt;em&gt;nie mieć&lt;/em&gt; miejsca, i &lt;em&gt;vice versa&lt;/em&gt;. Innymi słowy, pomijając dziwne kwantowe historie, nie mamy możliwości bezpośredniego porównania dwóch alternatywnych wersji historii: rzeczywistej z taką, w której do globalnego ocieplenia nie doszło, albo w której zderzenie czarnych dziur które wygenerowało sygnał GW150914 nie zostało zarejestrowane 14 września 2015 roku przez LIGO. Oznacza to, że musimy mieć &lt;em&gt;oczekiwania&lt;/em&gt; odnośnie tego, jak wyglądałyby obserwacje w obecności sygnału, który chcemy wykryć, oraz jeśli tego sygnału w ogóle nie ma, i oczekiwania te muszą zostać sformalizowane w postaci jakiegoś modelu (statystycznego).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Detekcja&lt;/strong&gt; polegać będzie na odróżnieniu tego sygnału od szumu, &lt;strong&gt;atrybucja&lt;/strong&gt; na sprawdzeniu, jaki mechanizm odpowiada za wygenerowanie sygnału.&lt;/p&gt;
-
-&lt;h2 id=&quot;detekcja-zmian-klimatu&quot;&gt;Detekcja zmian klimatu&lt;/h2&gt;
-
-&lt;p&gt;W przypadku zmian klimatu (nie tylko antropogenicznych), przypadkiem referencyjnym, albo hipotezą zerową którą chcielibyśmy odrzucić, jest oczywiście brak zmiany klimatu. Precyzyjniej, klimatolodzy mówią tutaj o &lt;em&gt;niewymuszonej zmienności klimatycznej&lt;/em&gt;, bo nawet gdyby skład atmosfery się nie zmieniał, aktywność słoneczna pozostawała stabilna, wulkany przestały wybuchać, a orbita Ziemi zmieniać, oczekiwalibyśmy niewielkich wahań stanu atmosfery wskutek chaotycznych interakcji pomiędzy oceanami a atmosferę.&lt;/p&gt;
-
-&lt;p&gt;Spodziewamy się jednak, że wskutek tychże wahań średnia temperatura globalna nie będzie się za bardzo zmieniać. W pierwszym przybliżeniu wynika to z prawa zachowania energii: jej ilość uciekająca z planety w postaci promieniowania długofalowego jest zależna od temperatury, a założyliśmy, że ilość energii docierającej do szczytu atmosfery nie będzie się zmieniać (bo warunki brzegowe pozostają niezmienne). Średnio, wzrost temperatury globalnej skutkować będzie zwiększoną emisją, a zatem schłodzeniem radiacyjnym planety, i na odwrót: spadek temperatury oznacza zmniejszenie efektywności chłodzenia radiacyjnego, i akumulację energii w układzie.&lt;/p&gt;
-
-&lt;p&gt;Ten rodzaj sprzężenia ujemnego zwykło w klimatologii nazywać się sprzężeniem Plancka, i nakłada ono silne ograniczenie na to jak może zmieniać się średnia temperatura globalna niewymuszonego systemu klimatycznego, oraz jak taki system może reagować na wymuszenia radiacyjne. O tym, że takie sprzężenie istnieje i stabilizuje klimat planety, można przekonać się wyglądając za okno: jak dotąd, w ciągu ostatnich kilkaset milionów lat Ziemia nie zmieniła się ani w lodową kulę, ani nie utraciła całej wody w katastrofie cieplarnianej.&lt;/p&gt;
-
-&lt;p&gt;Szumem, w którym klimatolodzy szukają sygnału globalnego ocieplenia, są więc wahania średniej globalnej temperatury niewymuszonego systemu klimatycznego, oraz niepewności związane z oszacowaniem wartości tejże średniej. Statystyczne właściwości tego szumy można oszacować na podstawie obserwacji, oraz symulacji z użyciem modeli klimatu. W obu przypadkach otrzymujemy podobną odpowiedź: w skali 50 i więcej lat, średnia globalna temperatura Ziemi nie powinna zmieniać się, w 95% przypadków, o więcej niż 0,2°C.&lt;/p&gt;
-
-&lt;h2 id=&quot;detekcja-fal-grawitacyjnych&quot;&gt;Detekcja fal grawitacyjnych&lt;/h2&gt;
-
-&lt;p&gt;Jeśli chodzi o LIGO to szumem jest, no cóż, po prostu szum: &lt;a href=&quot;https://en.wikipedia.org/wiki/Shot_noise&quot;&gt;emisji laserowej&lt;/a&gt;, wibracje oprzyrządowania, promieniowanie kosmiczne, szum związany z absorpcją promieniowania lasera przez wirujące lustra interferometru, wstrząsy sejsmiczne, czy wariacje ciśnienia ultra-wysokiej próżni wewnątrz tuneli detektora. Własności statystyczne szumu różnego pochodzenia można oszacować na podstawie teorii i obserwacji, jeśli więc prawdopodobieństwo uzyskania jakiejś obserwacji jako losowego szumu jest mało prawdopodobne, zaobserwowane zdarzenie jest uważane za sygnał.&lt;/p&gt;
-
-&lt;p&gt;Aby analogia pomiędzy detekcją zmiany klimatu a detekcją fal grawitacyjnych była pełniejsza, kategorię szumu w tym drugim przypadku trzeba byłoby zapewne ograniczyć wyłącznie do szumu związanego z instrumentami pomiarowymi (jak gaussowski &lt;em&gt;shot noise&lt;/em&gt;), a pozostałe źródła (&lt;em&gt;transient noise&lt;/em&gt;) uznać za analogię do “wymuszonej zmiany klimatu”. Podział ten nie do końca odpowiada rzeczywistym technikom używanym przez LIGO, gdzie pierwszy etap detekcji (“online burst search”) niemal w czasie rzeczywistym&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; W przypadku GW150914, z zaledwie trzyminutowym opóźnieniem.&lt;/span&gt; eliminuje w zasadzie wszystkie zdarzenia które nie wygenerowały fali o podobnym przebiegu w &lt;em&gt;obu&lt;/em&gt; detektorach, a drugi etap to już właściwa atrybucja.&lt;/p&gt;
-
-&lt;h2 id=&quot;snr&quot;&gt;SNR&lt;/h2&gt;
-
-&lt;p&gt;W praktyce szum prawie zawsze dominuje (gdyby było inaczej, wszystkie interesujące odkrycia dokonane byłyby już dawno temu), trzeba więc się trochę postarać by dostrzec nawet silny sygnał.&lt;/p&gt;
-
-&lt;p&gt;Przykładowo, pomiary temperatury w stacjach meteorologicznych wykonywane są kilka razy dziennie, z dobową amplitudą wynoszącą kilka czy kilkanaście stopni Celsjusza, i z amplitudą sezonową sięgającą, w ekstremalnych przypadkach, kilkudziesięciu stopni. Wykrycie wzrostu temperatury o wartości ułamka czy nawet kilku °C nie byłoby więc zawsze gwarantowane, i są miejsca na Ziemi, gdzie jeszcze nie da się zaobserwować &lt;em&gt;lokalnego&lt;/em&gt; ocieplenia. Z pomocą przychodzi statystyka i prawo wielkich liczb: pole temperatury (a tak naprawdę anomalii temperatury) ma wystarczająco dużo stopni swobody, by &lt;em&gt;średnia globalna&lt;/em&gt; miała stosunkowo mała zmienność, i wystarczająco mało stopni swobody, by lokalne wartości pola dało się określić przy pomocy niedoskonałych, ale nadpróbkowanych, obserwacji.&lt;/p&gt;
-
-&lt;p&gt;Innymi słowy, uśredniając tysiące obserwacji nie tylko uśredniamy lokalną pogodę w globalny klimat, ale redukujemy wpływ niepewności pomiarowych (niepewności te można też zmniejszyć homogenizując obserwacje, ale to już inna historia).&lt;/p&gt;
-
-&lt;p&gt;Ktoś mógłby słusznie zauważyć, że jest to strategia dość prymitywna, i jeśli obecnie działa, to dlatego że sygnał związany z antropogeniczną zmianą klimatu jest na tyle silny, że da się go znaleźć nawet prostymi metodami. Gdyby sygnał był słabszy - a tak jest w przypadku ocieplenia pierwszej połowy XX wieku, albo zmian innych parametrów systemu klimatycznego - redukowanie sygnału do zero-wymirowego punktu, średniej globalnej, może nie być najbardziej optymalną metodą, i pozbawiać nas informacji która wystarczyłaby do jego skutecznej detekcji.&lt;/p&gt;
-
-&lt;p&gt;W praktyce szuka się więc sygnału w przestrzeni wielowymiarowej, i to w tej jego części, w której jest mniej szumu. Przykładowo, jeśli weźmiemy dwuwymiarową mapę temperatury powierzchni planety, i sprawdzimy jak się lokalnie zmienia w okresie kilkunastu lat, łatwo można dostrzec że najmniejsza zmienność temperatur występuje w tropikach. Nawet jeśli spodziewany sygnał - wzrost temperatury - na wyższych szerokościach geograficznych ma większą amplitudę, stosunek sygnału do szumu może być, i zwykle jest, lepszy na niższych szerokościach geograficznych (oddzielną kwestią jest to, czy mamy z tego rejonu wystarczająco dobre obserwacje umożliwiające detekcję).&lt;/p&gt;
-
-&lt;p&gt;Szum dominuje też pomiary wykonane przez detektor LIGO. Tak naprawdę przez pięć sezonów obserwacji, od 2002 do 2005 roku, LIGO mierzyło &lt;em&gt;wyłącznie&lt;/em&gt; szum, a ulepszenie detektora w 2010 roku nie poprawiło jego czułości w stopniu wystarczającym, by dało się wykryć sygnał związany z falami grawitacyjnymi. Dopiero kolejny &lt;em&gt;upgrade&lt;/em&gt;, zakończony w 2015 roku, poprawił kilkanaście razy czułość interferometru, i sprawił że pierwsza detekcja przyszła niemal od razu po włączeniu maszyny, a właściwie podczas ostatniej, ósmej fazy testów, &lt;em&gt;przed&lt;/em&gt; rozpoczęciem właściwego sezonu obserwacyjnego. Jak pisał kilka tygodni wcześniej &lt;a href=&quot;http://stuver.blogspot.co.uk/2015/07/first-science-data-with-advanced-ligo.html&quot;&gt;jeden z członków zespołu&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The purpose of those early engineering runs was to test out the ability of our data analysis systems to handle the large amount of data we will collect. As parts of aLIGO were installed, we replaced the simulated data from that component with real data. ER8 was our first test of all of the instrument without anything being simulated. While the purpose of this data is to test the stability of the whole system and to find other small bugs, we are still running all of our data analysis methods over the collected data. We don’t expect to find a gravitational wave in this data, but if we have compelling reason to believe that we really did see something we will certainly pursue it as a real detection. Don’t get too excited, though, since there are no indications that we collected a gravitational wave.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Obecna czułość LIGO jest tak duża, że można się spodziewać, iż od oficjalnego rozpoczęcia obserwacji 17 września 2015 roku (które było tylko “przykrywką” dla weryfikacji sygnału zarejestrowanego trzy dni wcześniej) fale grawitacyjne wykrywa kilka razy w miesiąc, a do kolejnej detekcji doszło już 12 października.&lt;/p&gt;
-
-&lt;p&gt;Nawet jednak przy obecnej czułości LIGO sygnał fal grawitacyjnych może łatwo zginąć w szumie, i żeby temu zapobiec detektor podłączony jest do tysięcy czujników (sejsmometrów, akcelerometrów, mikrofonów, termometrów, magnetometrów…) które mierzą parametry otoczenia i umożliwiają wychwycenie zdarzeń zaburzających pracę interferometru i odrzucenie (“zawetowanie”) segmentów danych zebranych w tym czasie. Dodatkowo, ponieważ LIGO ma dwa główne interferometry oddzielone od siebie o 3000 kilometrów (10 ms czasu podróży światła, a więc i fal grawitacyjnych), stosunkowo łatwo można wychwycić nieskorelowany szum &lt;em&gt;nieznanego&lt;/em&gt; pochodzenia.&lt;/p&gt;
-
-&lt;p&gt;Piszę o tym nie tylko dlatego, że jest to całkiem interesujący temat, ale również dlatego, że w środowisku negacjonistów globalnego ocieplenia powszechna jest feteszyzacja &lt;em&gt;surowych danych&lt;/em&gt;, a jakakolwiek analiza statystyczna jest traktowana z dużą podejrzliwością.&lt;/p&gt;
-
-&lt;p&gt;Tymczasem w przypadku LIGO “surowy” sygnał wygląda tak, jak na panelu po lewej:&lt;/p&gt;
-
-&lt;div&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/ligo_filtered.png&quot; /&gt;&lt;/div&gt;
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Sygnał GW150914 zmierzony przez interferometr w Hanford.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;I dopiero po wyfiltrowaniu częstotliwości związanych z szumem &lt;em&gt;wiadomego&lt;/em&gt; pochodzenia pojawia się właściwy sygnał fal grawitacyjnych, o amplitudzie mniej więcej 1000 razy mniejszej.&lt;/p&gt;
-
-&lt;h2 id=&quot;atrybucja&quot;&gt;Atrybucja&lt;/h2&gt;
-
-&lt;p&gt;Wiemy już mniej więcej, jak wykryć sygnał wśrod szumu. Skąd jednak wiadomo, jakie zjawisko wygenerowało sygnał? Można sobie przecież wyobrazić - i argument taki bardzo często jest podnoszony przez laików - że globalne ocieplenie jest spowodowane czymś innym niż wzrost koncentracji gazów cieplarnianych, na przykład wzrostem aktywności słonecznej, albo zmianą kształtu orbity Ziemi. Analogicznie ktoś mógłby kwestionować detekcję fal grawitacyjnych. W końcu nikt nie widział na własne oczy żadnej czarnej dziury czy gwiazdy neutronowej, a tym bardziej nie był świadkiem ich zderzenia. Skąd naukowcy wiedzą, jak wyglądają wygenerowane wtedy fale grawitacyjne, i w jaki sposób odróżnić je można od, na przykład, trzęsienia ziemi albo uderzenia pioruna?&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Jak dowiedziałem się z lektury jednego z artykułów grupy LIGO, w każdej sekundzie gdzieś na Ziemi uderza 60 błyskawic, i w rachunku błędów trzeba było je uwzględnić.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Potrzebny jest do tego model, umożliwiający sformułowanie teoretycznych przewidywań związanych z obserwowalnymi efektami zjawiska, które chcemy wykryć. Zarówno w przypadku klimatu, jak i fal grawitacyjnych powstałych przy zderzeniu dwóch masywnych obiektów, analityczne rozwiązanie problemu nie wchodzi w rachubę, powszechnie używane są więc modele numeryczne, rozwiązujące układy zdyskretyzowanych cząstkowych równań różniczkowych. Sposób w jaki używa się tychże modeli przy atrybucji jest jednak trochę inny.&lt;/p&gt;
-
-&lt;p&gt;Obserwacji systemu klimatycznego mamy bowiem znacznie więcej, niż czarnych dziur. Wiemy mniej więcej, jak zmieniały się wymuszenia radiacyjne w ostatnich dwóch stuleciach: zmiany koncentracji dwutlenku węgla czy metanu potrafimy zrekonstruować z rdzeni lodowych, a od połowy ubiegłego wieku mamy już ich bezpośrednie pomiary; podobnie jest ze zmianami aktywności słonecznej, zmianami albeda wskutek wylesiania i zmianami gospodarki gruntów, i tak dalej. Wystarczy wrzucić te dane do modelu klimatu, i będzie on potrafił, w oparciu o znane nam prawa fizyki, obliczyć sygnał wynikający ze zmiany tychże wymuszeń radiacyjnych, zarówno każdego z osobna jak i wszystkich razem.&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;3&lt;/sup&gt; Przy czym o ile zwykle do atrybucji zmian klimatu używa się “dużych” modeli, &lt;em&gt;Earth System Models&lt;/em&gt;, ta sama zasada działałaby w przypadku prostszych modeli analitycznych.&lt;/span&gt; A ponieważ wyliczona z teorii amplituda ocieplenia związana ze wzrostem koncentracji dwutlenku węgla i gazów cieplarnianych zgadza się z wielkością obserwowanego ocieplenia; a zmiany temperatur wywołane przez alternatywne czynniki się z obserwacjami nie zgadzają, stąd też klimatolodzy mogą z dużym prawdopodobieństwem przypisać większość globalnego ocieplenia z ostatnich 50-60 lat czynnikom antropogenicznym &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zmiany temperatury globalnej w 500-letniej symulacji niewymuszonej zmienności klimatycznej (czarny), trzech symulacjach “historycznych” globalnego ocieplenia modelu NorESM1-M (źółty), oraz według obserwacji (czerwony, dane Met Office). Symulacje historyczne (1850-2005) zostały przedłużone o 11 lat symulacji przyszłych zmian klimatu wiązek RCP45, RCP60 i RCP85.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/noresm_pictrl2.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;W przypadku fal grawitacyjnych powstałych przy zderzeniu dwóch masywnych obiektów opisująca je teoria powstała sto lat temu, ale dobre modele numeryczne opisujące przebieg całego zjawiska pojawiły się dopiero w ostatniej dekadzie. Ponieważ LIGO nasłuchuje fal grawitacyjnych “na ślepo”, parametry modelu opisującego dane zderzenie są &lt;em&gt;dopasowywane&lt;/em&gt; do obserwacji: ze skompilowanej wcześniej bazy danych około 250 tysięcy zderzeń różnego typu wybrany został sygnał najlepiej pasujący do tego, który faktycznie zmierzono. Oczywiście, znana nam fizyka zna tylko jeden rodzaj obiektów o masie kilkadziesiąt razy większej od Słońca, które mogą krążyć wokół siebie na orbitach o okresie liczonym w setnych częściach sekundy.&lt;/p&gt;
-
-&lt;p&gt;Kiedy więc następnym razem jakiś sceptyk klimatyczny wyśmieje pomysł używania modeli numerycznych celem udowodnienia przyczyny globalnego ocieplenia, spytajcie się go co sądzi o odkryciu fal grawitacyjnych.&lt;/p&gt;
-
-&lt;h2 id=&quot;lektura-dodatkowa&quot;&gt;Lektura dodatkowa&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. &lt;strong&gt;Satelity i homogenizacja:&lt;/strong&gt; Mam na myśli analizę rezultatów &lt;em&gt;Gravity Probe B&lt;/em&gt; streszczoną &lt;a href=&quot;http://iopscience.iop.org/article/10.1088/0264-9381/32/22/224001/meta&quot;&gt;tutaj&lt;/a&gt;. Krótkie &lt;a href=&quot;http://cqgplus.com/2015/11/17/gravity-probe-b-the-simplest-data-analysis-ever/&quot;&gt;podsumowanie&lt;/a&gt; z jednego z współautorów:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Our simple pre-launch data analysis that could be run quickly in Matlab on a single desktop computer was converted into a sprawling code that took about a week to run on a 44-core computer cluster. In the end, a 20% estimate of the frame dragging effect, consistent with GR, resulted. This was not the 1% measurement that we were hoping for, but it is still one of the best and most convincing measurements of frame-dragging to date.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Fałszerstwa:&lt;/strong&gt; tak naprawdę “fałszerstwa”, bo chodzi o ślepe testy w których w tajemnicy przed zespołem wstrzykiwano symulowane sygnały wyglądające dokładnie tak, jak powinny wyglądać fale grawitacyjne. Jedna z takich symulacji, &lt;a href=&quot;http://www.ligo.org/scientists/GW100916/index.php&quot;&gt;zarejestrowana 16 września 2010 roku&lt;/a&gt;, zaskutkowała przygotowaniem trzech artykułów i konferencji prasowej, i dopiero w marcu następnego roku kilkaset osób z kolaboracji LIGO i Virgo dowiedziało się, po otworzeniu “tajnej” koperty z listą ślepych testów, że rzekoma detekcja fal grawitacyjnych była jednym z nich.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Walka z konsensusem:&lt;/strong&gt; smutna historia Josepha Webera i jego odkrycia fal grawitacyjnych w latach sześćdziesiątych, została opowiedziana w wielu miejscach, ja szczególnie polecam &lt;em&gt;Gravity’s Shadow&lt;/em&gt; Harry’ego Collinsa.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Abbot, et al. (2016): &lt;a href=&quot;http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102#fulltext&quot;&gt;Observation of Gravitational Waves from a Binary Black Hole Merger&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Sposób detekcji sygnału przez LIGO opisany jest w &lt;a href=&quot;http://arxiv.org/pdf/1602.03843v1.pdf&quot;&gt;Observing gravitational-wave transient GW150914 with minimal assumptions&lt;/a&gt;, dopasowanie parametrów modelu w &lt;a href=&quot;http://arxiv.org/pdf/1602.03839v1.pdf&quot;&gt;GW150914: First results from the search for binary black hole coalescence with Advanced LIGO&lt;/a&gt; oraz &lt;a href=&quot;https://dcc.ligo.org/public/0122/P1500218/012/GW150914_parameter_estimation_v13.pdf&quot;&gt;Properties of the binary black hole merger GW150914&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Oszacowania częstości zdarzeń generujących fale grawitacyjne można znaleźć w &lt;a href=&quot;https://dcc.ligo.org/public/0122/P1500217/014/LIGO-P1500217_GW150914_Rates.pdf&quot;&gt;The rate of binary black hole mergers inferred from advanced LIGO observations surrounding GW150914&lt;/a&gt;, modelowanie niepewności w &lt;a href=&quot;https://dcc.ligo.org/public/0122/P1500238/022/P1500238_GW150914_noise_characterization.pdf&quot;&gt;Characterization of transient noise in Advanced LIGO relevant to gravitational wave signal GW150914&lt;/a&gt; oraz starym raporcie Rainera Weissa z 1972 roku &lt;a href=&quot;http://arcturus.ligo.caltech.edu/docs/public/P/P720002-01/P720002-01.pdf&quot;&gt;Electromagnetically Coupled Broadband Gravitational Antenna&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Teorię stojącą za atrybucją zmian klimatu można znaleźć u Hasselmann (1993) &lt;a href=&quot;http://journals.ametsoc.org/doi/pdf/10.1175/1520-0442%281993%29006%3C1957%3AOFFTDO%3E2.0.CO%3B2&quot;&gt;Optimal fingerprints for the detection of time-dependent climate change&lt;/a&gt;, przykłady jej zastosowania w Jones, et al. (2013) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50239/full&quot;&gt;Attribution of observed historical near‒surface temperature variations to anthropogenic and natural causes using CMIP5 simulations&lt;/a&gt;. Przykładem atrybucji w oparciu o prostsze modele może być Imbers, et al. (2013) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/jgrd.50296/full&quot;&gt;Testing the robustness of the anthropogenic climate change detection statements using different empirical models&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 28 Feb 2016 22:30:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/16/powtorka-z-atrybucji</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/16/powtorka-z-atrybucji</guid>
-        
-        
-        <category>clisci</category>
         
       </item>
     
