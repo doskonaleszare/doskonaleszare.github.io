@@ -5,9 +5,56 @@
     <description>Blog o klimacie</description>
     <link>http://doskonaleszare.github.io/</link>
     <atom:link href="http://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jan 2018 21:14:17 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Jan 2018 21:14:17 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Oct 2018 21:16:46 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Oct 2018 21:16:46 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Jeden stopień i pół</title>
+        <description>&lt;p&gt;W dniu jutrzejszym (a tak naprawdę za kilka godzin, bo w strefie czasowej Korei Południowej) zostanie opublikowany SR15 IPCC, czyli specjalny raport Międzyrządowego Zespołu ds. Zmian Klimatu na temat “skutków globalnego ocieplenia o jeden i pół stopnia ponad poziom przeindustrialny i związanych z nim scenariuszy emisji gazów cieplarnianych”. O jego zawartości będziecie mogli zapewne przeczytać w wielu miejscach, ja dzisiaj natomiast chciałbym przybliżyć proces i okoliczności, które doprowadziły do powstania tego raportu.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Podstawą wszystkich międzynarodowych negocjacji klimatycznych które toczyły się w ostatnim półwieczu jest artykuł drugi Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu (UNFCCC) z 1992 roku, który ustala cel&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ustabilizowania koncentracji gazów cieplarnianych w atmosferze na poziomie, który zapobiegałby niebezpiecznej antropogenicznej ingerencji w system klimatyczny.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Wynikała z tego konieczność redukcji emisji gazów cieplarnianych do poziomu bliskiego zeru&lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, choć nie wiadomo było jeszcze, jakie ryzyka związane są z “niebezpieczną” ingerencją w system klimatyczny, jakich skutków globalnego ocieplenia chcielibyśmy uniknąć, i w jakiej skali czasowej należałoby przeprowadzić cięcia emisji. Poszukiwaniem odpowiedzi na te pytania miał się zająć utworzony kilka lat wcześniej specjalny zespół, czyli IPCC.&lt;/p&gt;
+
+&lt;p&gt;IPCC jako instytucja może oznaczać trzy różne rzeczy. Pierwsza wynika ze znaczenia literki “I” na początku skrótu: IPCC jest organizacją ”międzyrządową”, to znaczy jej członkami są rządy (niemal) wszystkich państw świata. Delegaci tych rządów spotykają się na sesjach plenarnych, gdzie podejmują decyzje o tym czym IPCC się będzie zajmować, oraz wysłuchują sprawozdań z przebiegu dotychczasowych prac IPCC. Najważniejsze sesje plenarne dotyczą akceptacji raportów IPCC, o czym dokładniej napiszę za chwilę.&lt;/p&gt;
+
+&lt;p&gt;Poza sesjami plenarnymi IPCC istnieje jako kilkudziesięcioosobowa instytucja z siedzibą w Genewie i budżetem wysokości jednej dziesiątej budżetu IPN-u. To drugi, czysto biurokratyczny aspekt istnienia zespołu, którego zadaniem jest organizacja i koordynowanie działań w ramach zadań zleconych na sesjach plenarnych, przede wszystkim przygotowywaniem raportów podsumowujących stan badań nad klimatem.&lt;/p&gt;
+
+&lt;p&gt;To właśnie raporty IPCC są najbardziej znanym efektem działalności tej organizacji, i jest pewną ironią losu że odpowiedzialni za nie naukowcy (autorzy i recenzenci) są z IPCC raczej luźno związani, a ogromna praca związana z przygotowywaniem raportów jest wykonywana na zasadzie wolontariatu. W praktyce raporty IPCC są “tylko” przeglądem literatury naukowej — przystępną syntezą kolektywnej wiedzy ludzkości na temat zmian klimatu, ich przyczyn i skutków, opracowaną w oparciu o wyniki badań naukowych przez najlepszych specjalistów na świecie. “Dużych” raportów IPCC (znanych jako AR, &lt;em&gt;Assessment Reports&lt;/em&gt;) ukazało się do tej pory pięć, a obecnie trwają prace nad szóstym, który zostanie opublikowany w 2021 roku.&lt;/p&gt;
+
+&lt;p&gt;Raport specjalny, który ukaże się w poniedziałek, został zamówiony przez uczestników paryskiej konferencji klimatycznej (COP21) trzy lata temu, na której postanowiono powstrzymać globalne ocieplenie na poziomie poniżej dwóch stopni Celsjusza ponad poziom przedindustrialny, oraz “podjąć działania” by ograniczyć wzrost średniej globalnej temperatury na poziomie półtora stopnia Celsjusza. Ten drugi, znacznie ambitniejszy (lub jak kto woli, bardziej nierealistyczny) cel został wprowadzony do tekstu porozumienia dzięki wieloletnim staraniom Sojuszu Małych Państw Wyspiarskich (AOSIS), będącego koalicją 39 państw &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt; stanowiących w sumie 5% ludzkiej populacji planety. Sojusz argumentował, że wzrost poziomu wszechoceanu będący skutkiem globalnego ocieplenia nawet o 2 stopnie Celsjusza wystarczy, aby poważnie zagrozić istnieniu jego państw członkowskich, zatem społeczność międzynarodowa powinna zadeklarować jeszcze większe cięcia emisji gazów cieplarnianych, niż do tej pory. Zadaniem IPCC miało być sprawdzenie, w oparciu o dostępną literaturę naukową, jak wyglądałyby różnice w skutkach globalnego ocieplenia o 1,5°C i 2°C, oraz co należałoby zrobić, aby zatrzymać wzrost temperatury na tym niższym poziomie.&lt;/p&gt;
+
+&lt;p&gt;Procedura przygotowania SR15 wyglądała podobnie jak każdego innego raportu IPCC, choć ze względu na ograniczony zakres tematyczny, tempo prac mogło być znacznie szybsze niż zwykle &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;, choć z uwzględnieniem wszystkich procedur, z których słynie IPCC. W szczególności, raport przeszedł dwie rundy zewnętrznych recenzji (w których uczestniczyć mógł, w praktyce, każdy chętny), a jego treść została formalnie zaakceptowana na pięciodniowej sesji plenarnej IPCC, która zakończyła się w sobotę.&lt;/p&gt;
+
+&lt;p&gt;Ten ostatni proces akceptacji jest jednym z najbardziej kontrowersyjnych aspektów działalności IPCC, warto więc poświęcić mu kilka słów. Raporty piszą naukowcy — eksperci od danego tematu czy zagadnienia, poruszanego w rozdziale za który są odpowiedzialni — po czym na sesji plenarnej IPCC następuje prezentacja ich ustaleń, z którymi muszą się zapoznać delegaci-przedstawiciele rządów. Tak zwane “streszczenie dla decydentów” (SPM), czyli krótki dokument zawierający najważniejsze wnioski raportu, jest akceptowane przez delegatów zdanie po zdaniu, a jakiekolwiek wątpliwości co do źródeł, naukowego uzasadnienia, czy użytego słownictwa są wyjaśniane przez obecnych na miejscu naukowców. Choć można sobie wyobrazić sytuację, w której jakieś państwo wetuje ustalenia IPCC albo próbuje je znacząco zmienić, w praktyce nigdy do tego nie doszło — najlepszą obroną IPCC jest w takiej sytuacji pełna transparentność, a ponieważ wraz z publikacją zaakceptowanego tekstu raportu ukazują się też wersje wcześniejsze, oraz komentarze recenzentów i przedstawicieli rządów (i odpowiedzi autorów IPCC do tych komentarzy), łatwo byłoby zidentyfikować fragmenty, które uległy z powodów politycznych przekłamaniu.&lt;/p&gt;
+
+&lt;p&gt;Z drugiej strony, sam fakt formalnej akceptacji ustaleń nauki przez niemal wszystkie państwa świata jest nie do przecenienia dzisiaj, w erze “alternatywnych faktów” i “postprawdy”. Nawet politycy, którzy chętnie wygadują głupoty na temat zmian klimatu, pokornieją w konfrontacji z bardzo cierpliwymi naukowcami IPCC, i trudniej jest im później powtarzać, że globalne ocieplenie wymyśliło “paru cwaniaków”; również teza o “chińskim spisku”, w sytuacji gdy wnioski raportu IPCC przyjęło 195 krajów świata, tak jakby traci na wiarygodności.&lt;/p&gt;
+
+&lt;p&gt;W przypadku SR15 najwięcej kontrowersji, jak można się spodziewać, przyciągnie problem “ujemnych emisji”. Od dawna wiadomo, że zatrzymanie globalnego ocieplenia poniżej 2°C będzie wymagało szybkiej redukcji emisji gazów cieplarnianych, tym szybszej, im później ją rozpoczniemy. Osiągnięcie celu 1,5°C wymagałoby albo rozpoczęcia cięcia emisji 20 lat temu, albo szybkiej i głębokiej dekarbonizacji globalnego systemu energetycznego, albo założenia, że nasi potomkowie poradzą sobie z problemem wdrażając technologię wychwytywania dwutlenku węgla z powietrza na globalną skalę. Rozwiązanie pierwsze jest niemożliwe z przyczyn fizycznych, drugie jest nieakceptowalne z przyczyn politycznych, zatem nie powinno nikogo dziwić że ostatnia opcja zdobyła dużą popularność, jako jedyna wykonywalny, przynajmniej na papierze, scenariusz w którym osiągany jest cel półtora stopnia. O tym jednak więcej będziecie mogli przeczytać w samym raporcie już za kilka godzin.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. W owych szczęśliwych, acz naiwnych czasach wczesnych lat 90-tych, terminy takie jak BECCS, CDR i “ujemne emisje” nie weszły jeszcze do słownika negocjatorów i naukowców zajmujących się długoterminową mitygacją zmian klimatu).&lt;br /&gt;
+&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Nie wszystkie są małe, i nie wszystkie leżą na wyspach.&lt;br /&gt;
+&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. COP21 zakończył się na początku grudnia 2015, akceptacja przez IPCC decyzji o przygotowaniu SR15 miała miejsce w kwietniu 2016, zdefiniowanie co w raporcie miało się znaleźć trwało do października, wybór autorów zakończono w styczniu 2017 roku; zatem w praktyce przygotowanie raportu zajęło mniej niż półtora roku. Dla porównania, decyzja o przygotowaniu szóstego raportu IPCC została podjęta w 2015 roku, a prace nad nim mają się zakończyć w 2021 roku.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Oct 2018 23:00:00 +0000</pubDate>
+        <link>http://doskonaleszare.github.io/articles/18/jeden-stopien-i-pol</link>
+        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/18/jeden-stopien-i-pol</guid>
+        
+        
+        <category>polityka</category>
+        
+      </item>
     
       <item>
         <title>Wszystko, co prof. Świrski mógłby wiedzieć o średniej temperaturze globalnej</title>
@@ -756,77 +803,6 @@ Stevens B., et al (2016): [Prospects for narrowing bounds on Earth&lt;/code&gt;s
         
         
         <category>climsci</category>
-        
-      </item>
-    
-      <item>
-        <title>Na Antarktydzie jednak ubywa lodu</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://doskonaleszare.github.io/articles/15/czy-na-antarktydzie-przybywa-lodu/&quot;&gt;Pod koniec ubiegłego roku omawiałem&lt;/a&gt; nową analizę bilansu masy lądolodu Antarktydy w oparciu o pomiary satelitarne. Zgodnie z tą analizą, w okresie 2003–2008 na Antarktydzie miało &lt;em&gt;przybywać&lt;/em&gt; lodu w tempie średnio 82±25 gigaton rocznie; i jak wtedy pisałem, wniosek ten stał w sprzeczności z wieloma innymi badaniami, opartymi o altimetrię lidarową, pomiary grawimetryczne oraz modelowania akumulacji, przepływu, ablacji i cielenia się lodowców.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Jak bardzo wyniki te odstawały od innych&lt;/span&gt;  można było zobaczyć miesiąc później, podczas jesiennego konkresu Amerykańskiej Unii Geofizycznej, gdzie na specjalnej sesji poświęconej pomiarom lądolodów Andrew Shepherd z University of Leeds, Erik Ilvins z NASA/JPL i Thorsten Markus z NASA/GSFC omawiali nowe pomiary lądolodu Antarktydy:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YVgopH84MIo?t=12m46s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Na slajdzie pokazywanym w 13 minucie wynik Zwally’ego i in. (&lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, określany przez niektórych jako &lt;a href=&quot;http://zmianynaziemi.pl/wiadomosc/ipcc-wyznawcy-globalnego-ocieplenia-mylili-sie-masa-lodu-antarktydzie-nie-maleje-ale-stale&quot;&gt;“prawdziwy cios dla wyznawców religii globalnego ocieplenia”&lt;/a&gt;) to czerwony prostokąt, jedyny który wystaje w całości ponad zerem w pierwszej dekadzie XXI wieku. Trzydzieściu kilka innych analiz pokazuje w tym samym, albo podobnym okresie, ujemny bilans masy.&lt;/p&gt;
-
-&lt;p&gt;Nie powinno więc być specjalnym zaskoczeniem, że najnowsza praca naukowa poświęcona temu zagadnieniu, “Spatial and temporal Antarctic Ice Sheet mass trends, glacio-isostatic adjustment, and surface processes from a joint inversion of satellite altimeter, gravity, and GPS data”, opublikowana niedawno w &lt;em&gt;JGR:ES&lt;/em&gt; &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, też wskazuje że lądolodu Antarktydy ubywa. W odróżnieniu od nagłośnionego w mediach artykułu Zwally’ego et al., który opierał swoje wnioski &lt;em&gt;wyłącznie&lt;/em&gt; o satelitarne pomiary wysokości lądolodu, międzynarodowa grupa naukowców z Albą Martin-Espanol jako główną autorką wykorzystała kilka różnych zestawów obserwacji (altimetrii, grawimetrii i pomiarów GPS prędkości lądolodu), z których, metodą hierarchicznej estymacji bayesowskiej, wyliczono zmiany przepływu i akumulacji lodu w przestrzeni i czasie. Zgodnie z tymi szacunkami, w okresie 2003–2013 ubytek masy Antarktydy wynosił 84±22 miliardów ton rocznie; w okresie wcześniejszym, porównywalnym z analizą grupy Zwally’ego, ubytek był co prawda mniejszy (31±22 miliardów ton na rok), ale wciąż oznaczał że Antarktyda traci lód, a nie przyrasta.&lt;/p&gt;
-
-&lt;p&gt;Jak zauważają autorzy, różnica ta wynika ze znacznie różniących się oszacowań przepływu lodu w Antarktydze Wschodniej&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The dominant process driving their [Zwally’ego i in.] positive mass balance is the dynamic thickening of EAIS (136±50 Gt yr&lt;sup&gt;−1&lt;/sup&gt;). Our estimate of the ice dynamics component in this region is an order of magnitude smaller that their estimates (12±10 Gt yr&lt;sup&gt;−1&lt;/sup&gt;).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Powstrzymują się jednak od spekulacji, co może być przyczyną tej różnicy.&lt;/p&gt;
-
-&lt;p&gt;Takim taktem nie wykazali się natomiast Ted Scambos z NSIDC i Christopher Shuman z NASA GSFC, którzy do &lt;em&gt;Journal of Glaciology&lt;/em&gt; wysłali komentarz &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt; do artykułu Zwally’ego i in. Jak wiecie (albo i nie), w środowisku naukowym ukazanie się komentarza do artykułu oznacza zwykle, że oryginalna publikacja zawierała wnioski w najlepszym razie kontrowersyjne, oparte o przesłanki jeśli nie błędne, to przynajmniej poddające się innej interpretacji. Nie przesądzając, kto ma rację w naukowym sporze, istnienie komentarzy do jakiegoś artykułu pokazuje, że nie wszyscy specjaliści z tej samej dziedziny kupują tezy jego autorów (choć oczywiście może się okazać, że i tak mieli oni rację).&lt;/p&gt;
-
-&lt;p&gt;“Mass gains of the Antarctic ice sheet exceed losses” Zwally’ego doczekał się dwóch komentarzy, z których ten autorstwa Scambosa i Shumana jest chyba ciekawszy, bo napisany przez naukowców którzy pracowali z danymi używanymi przez Zwally’ego i in. (Christopher Shuman był przez kilka lat w projekcie ICESat). Lista zarzutów które formułują w swoim komentarzu jest długa, więc pozwolę sobie streścić najważniejsze ich argumenty:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Pomiary satelity ICESat, które wykorzystali Zwally i in., są obarczone dużymi, nieskorygowanymi błędami systematycznymi. Główny przyrząd satelity, wysokościomierz GLAS, miał trzy redundantne lasery, z których każdy miał pracować przynajmniej 18 miesięcy, zapewniając minimum 3 lata ciągłej pracy instrumentu. Pierwszy laser zawiódł jednak już po 37 dniach, i satelitę trzeba było przeprogramować tak, by obserwacje prowadził w trzech (a potem dwóch) 33-dniowych okresach rocznie. Ze względu na degradację laserów, konieczna stała się wzajemna kalibracja prowadzonych w kolejnych fazach obserwacyjnych. Scambos i Shuman dowodzą, że kalibracja zastosowana przez Zwally’ego i in. znacznie różni się od tych stosowanych przez wszystkie inne grupy pracujące na &lt;em&gt;tych samych&lt;/em&gt; danych, i powoduje dodanie niewielkiego trendu przyrostu mierzonej przez GLAS wysokości. Ironią losu jest to, że za ten niewielki trend może odpowiadać… globalne ocieplenie, bo kalibracja użyta przez Zwally’ego opierała się o pomiary różnic wysokości pływającego paku lodowego Arktyki, który w ostatnich dwóch dekadach stawał się coraz cieńszy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Niezależnie od kalibracji, degradacja laserów GLAS miała jeszcze jeden skutek. Przy pomiarach wysokości powierzchni o wysokim albedo, w przejrzystej i stosunkowo cienkiej atmosferze — czyli dokładnie w takich warunkach, jakie panowały podczas kampanii obserwacyjnych prowadzonych w polarne dni nad lądolodem Antarktydy Wschodniej, wystającym dwa-trzy kilometry nad poziom morza — występował efekt nazwany wysyceniem czujnika, który powodował zwiększenie wartości zmierzonej do powierzchni odległości. Wraz ze słabnięciem mocy lasera efekt wysycenia przestał występować, powodując zmniejszenie zmierzonej odległości, a zatem pozorne zwiększenie wysokości lądolodu. Oba wspomniane efekty w zupełności wystarczają by wytłumaczyć “przyrost” Antarktydy Wschodniej.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ponieważ trudno jest wytłumaczyć tak duży przyrost lądolodu Antarktydy Wschodniej zwiększonymi opadami śniegu, Zwally i in. utrzymywali że jego przyczyną było spowolnienie przepływu lodowca względem stanu równowagowego. Jak pokazują Scambos i Shuman, hipoteza ta jest sprzeczna z pomiarami prędkości lądolodu, oraz świeżych pomiarów wysokości lądolodu satelity CryoSat-2.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Scambos i Shuman wskazują też na sprzeczność wyników Zwally’ego i in., z pomiarami wykonanymi &lt;em&gt;in situ&lt;/em&gt; przez grupę Andreasa Richtera w rejonie jeziora Wostok. Tam gdzie według Zwally’ego lądolód miał przyrosnąć o 20 centymetrów, Richter zmierzył w tym samym okresie zmiany o rząd wielkości mniejsze, i sprzeczności tej Zwally nie potrafił w przekonujący sposób wytłumaczyć, inaczej niż dyskredytując pomiary Richtera jako wykonane niestarannie, i postulując że gęstość śniegu i firnu była w tym miejscu inna niż zmierzono. Punkt ten doczekał się zresztą osobnego komentarza ze strony grupy Richtera &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;, w którym zarzuty Zwally’ego w odniesieniu do ich własnych badań zostały obalone.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Kończąc swoją polemikę Scambos i Shuman pokazują, jak nieprawdopodobne jest, by lądolód Antarktydy przyrastał w ostatnich latach:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;If we accept the net IC-bias [inter-campaign bias] corrections of Zwally 2015 and their subsequent elevation change results, then we must assume: (1) that two CryoSat-2 studies of EAIS elevation changes have errors of three to ten times their stated uncertainties; (2) that all other studies of recent Antarctic mass balance (Fig. 1 [poniżej]) are in error; (3) that EAIS balance velocities based on accumulation models, which currently approximate observed velocities well, are wrong by a large margin; (4) that field studies dedicated to the determination of surface height change over the Subglacial Lake Vostok area did not detect ~20 cm (or greater) increases between 2001 and 2013 (4 x their reported uncertainty); (5) that the assessment of subglacial lake hydrostatic equilibrium is in error; (6) that all other studies of IC-biases are wrong by a considerable margin.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Zgadnij, które wyniki znacząco różnią się od pozostałych. Źródło: Luke Trusel.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/fig1trusel.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Zacytowałem ten fragment w całości, bo ładnie ilustruje pojęcie tzw. &lt;em&gt;balance of evidence&lt;/em&gt;. W naukach przyrodniczych rzadko zdarza się, by wyniki obserwacji czy jakiegoś eksperymentu były tak jednoznaczne, by wystarczały do obalenia dotychczasowej teorii, zwłaszcza jeśli potwierdzają ją dziesiątki innych obserwacji i eksperymentów. Bardziej prawdopodobne jest, że błąd popełnił naukowiec odpowiedzialny za wynik kompletnie sprzeczny z dotychczasowym stanem wiedzy, czy to podczas konstrukcji samego eksperymentu, czy to jego interpretacji. Nie znaczy to oczywiście, że rewolucje naukowe się &lt;em&gt;w ogóle&lt;/em&gt; nie zdarzają, a nowatorskie teorie nie okazują się &lt;em&gt;czasami&lt;/em&gt; poprawne; jednak w tym konkretnym przypadku, artykuł Zwally’ego i in., oparty o pomiary wykonane wadliwym instrumentem ICESat i nowatorską (a jak przekonują Scambos i Shuman, nieprawidłową) ich kalibrację, nie sprawił że wszystkie inne badania, wskazujące na ubytek lodu na Antarktydzie, zostały magicznie wymazane z annałów nauki.&lt;/p&gt;
-
-&lt;p&gt;Co więcej, jak pisałem pół roku temu, nawet gdyby wyniki Zwally’ego i in. wzbudziły jakieś nierozstrzygalne kontrowersje co do tego czy lodu na Antarktydzie ubywało w &lt;em&gt;poprzedniej&lt;/em&gt; dekadzie, co do ubytku tego lodu w chwili &lt;em&gt;obecnej&lt;/em&gt; takich wątpliwości już nie ma.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Zwally, et al (2015) &lt;a href=&quot;http://www.ingentaconnect.com/content/igsoc/jog/pre-prints/content-ings_jog_15j071&quot;&gt;Mass gains of the Antarctic ice sheet exceed losses&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Martín‐Español, et al (2016) &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/2015JF003550/full&quot;&gt;Spatial and temporal Antarctic Ice Sheet mass trends, glacio-isostatic adjustment, and surface processes from a joint inversion of satellite altimeter, gravity, and GPS data&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Scambos T. i Shuman Ch. (2016) &lt;a href=&quot;http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;amp;aid=10407160&amp;amp;fulltextType=LT&amp;amp;fileId=S0022143016000599&quot;&gt;Comment on Comment on Zwally and others (2015) Mass gains of the Antarctic ice sheet exceed losses&lt;/a&gt;. &lt;br /&gt;
-&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Richter, et al (2016) &lt;a href=&quot;http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;amp;aid=10407150&amp;amp;fulltextType=LT&amp;amp;fileId=S0022143016000605&quot;&gt;Comment on Comment on Zwally and others (2015) Mass gains of the Antarctic ice sheet exceed losses&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 05 Aug 2016 22:30:00 +0000</pubDate>
-        <link>http://doskonaleszare.github.io/articles/16/na-antarktydzie-ubywa-lodu</link>
-        <guid isPermaLink="true">http://doskonaleszare.github.io/articles/16/na-antarktydzie-ubywa-lodu</guid>
-        
-        
-        <category>clisci</category>
         
       </item>
     
