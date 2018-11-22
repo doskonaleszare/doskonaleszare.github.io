@@ -5,9 +5,65 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Nov 2018 12:02:01 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 12:02:01 +0000</lastBuildDate>
+    <pubDate>Thu, 22 Nov 2018 07:57:31 +0000</pubDate>
+    <lastBuildDate>Thu, 22 Nov 2018 07:57:31 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Geekweek i Antarktyda</title>
+        <description>&lt;p&gt;Globalny strumień geotermalny – ilość ciepła uciekającego z głębi planety przez jej powierzchnię – wynosi około 47 TW albo 92 mW/m². Jest to 2600 razy mniej niż ilość energii słonecznej docierającej do powierzchni Ziemi, i 20 razy mniej niż antropogeniczne wzmocnienie efektu cieplarnianego, wywołane emisjami dwutlenku węgla.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Jego źródłem&lt;/span&gt;  jest ciepło pochodzące z okresu formowania się planet Układu Słonecznego oraz rozpad pierwiastków radioaktywnych znajdujących się w skorupie i płaszczu Ziemi; w długich skalach czasowych jest to więc źródło bardzo stabilne. Jak pokazuje mapka poniżej (z artykułu Daviesa i Daviesa &lt;a href=&quot;#przypis1&quot;&gt;[1]&lt;/a&gt;), opracowana na podstawie pomiarów z dziesiątków tysięcy odwiertów, rozkład przestrzenny strumienia geotermalnego nie jest jednorodny: mniej ciepła ucieka przez kontynenty, niż przez dno oceanów (gdzie skorupa jest cieńsza), a szczególnie duże wartości strumień geotermalny osiąga w okolicach stref ryftowych.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Mapa strumienia geotermalnego.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/geothermal_heat_flux.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Antarktyda i Grenlandia są przedstawione jako miejsca, gdzie strumień geotermalny osiąga wyjątkowo wysokie wartości. Jest to konsekwencją dużych niepewności pomiarowych wynikających z trudności wykonywania pomiarów kilka kilometrów pod powierzchnią lądolodu, i w efekcie szacunki dotyczące tych miejsc oparte są głównie o dane pośrednie, oraz modelowanie uwzględniające lokalną geologię. Te niepewności oznaczają też oczywiście, że niespodzianki są nieuniknione.&lt;/p&gt;
+
+&lt;p&gt;Taką niespodziankę opisuje artykuł “Anomalously high geothermal flux near the South Pole” &lt;a href=&quot;#przypis2&quot;&gt;[2]&lt;/a&gt;, opublikowany kilka dni temu w &lt;em&gt;Scientific Reports&lt;/em&gt;. Autorzy analizowali odczyty radarowe dokonane w ramach projektu PolarGAP (nazwa pochodzi od tego, że bieguny są zwykle “ślepą plamką” satelitów na orbitach polarnych, więc w tym przypadku pomiarów dokonywano z pokładu samolotów), które pozwoliły na zrekonstruowanie pionowej struktury – stratygrafii – lądolodu Antarktydy w okolicy bieguna południowego. W kilku miejscach naukowcy wykryli, że jest ona zaburzona w sposób, który sugeruje topnienie dolnej (spągowej) warstwy lądolodu, tuż nad skałą macierzystą. Modelując przepływ ciepła w lodzie można oszacować, jaka wartość lokalnego strumienia geotermalnego jest wymagana do jego stopienia, z szacunków tych wyszło 120±20 mW/m², więcej niż można byłoby się spodziewać po lokalnej geologii tego obszaru. Autorzy proponują kilka hipotez dotyczących źródła ciepła, zauważają też, że jedną z praktycznych implikacji tego odkrycia jest to, że rejon bieguna południowego może nie nadawać się do poszukiwań &lt;a href=&quot;http://doskonaleszare.github.io/articles/15/blekitny-lod/&quot;&gt;bardzo starego lodu&lt;/a&gt;, którego próbki pozwoliłby na rekonstrukcję warunków klimatycznych na Antarktydzie milion i więcej lat temu.&lt;/p&gt;
+
+&lt;p&gt;Może zauważyliście, że jak dotąd ani słowem nie wspomniałem nic o globalnym ociepleniu. Nie jest to przypadek, bo artykuł też o nim nic nie mówi. Jedyna aluzja pojawia się w sekcji “Discussion”, przy odnośniku do artykułu o mechanizmach regulujących funkcjonowanie strumieni lodowych &lt;a href=&quot;#przypis3&quot;&gt;[3]&lt;/a&gt;. Na wszelki wypadek autorzy podkreślili ten fakt &lt;a href=&quot;https://www.bas.ac.uk/media-post/discovery-of-high-geothermal-heat-at-south-pole/&quot;&gt;w notce prasowej&lt;/a&gt;, tak by nikt nie miał wątpliwości, że anomalnie wysoka wartość strumienia geotermalnego nie wyjaśnia zmian lądolodu Antarktydy &lt;a href=&quot;http://doskonaleszare.github.io/articles/16/na-antarktydzie-ubywa-lodu/&quot;&gt;mierzonych w ostatnich dekadach&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The process of melting we observe has probably been going on for thousands or maybe even millions of years and isn’t directly contributing to ice sheet change. However, in the future the extra water at the ice sheet bed may make this region more sensitive to external factors such as climate change.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nie powstrzymało to redaktorów polskiego serwisu &lt;em&gt;Geekweek&lt;/em&gt;, który postanowił odkrycie przybliżyć swoim czytelnikom &lt;a href=&quot;http://www.geekweek.pl/news/2018-11-21/tajemnicze-zrodlo-ciepla-pod-lodami-antarktydy-ma-wplyw-na-globalny-klimat/&quot;&gt;w artykule&lt;/a&gt; pod frapującym tytułem “Tajemnicze źródło ciepła pod lodami Antarktydy ma wpływ na globalny klimat”. Większość przedstawionych w nim twierdzeń jest całkowicie wyssana z palca, zaczynając od samego tytułu, bo przecież &lt;em&gt;lokalna&lt;/em&gt; anomalia geotermalna o wartości 120 miliwatów na metr kwadratowy ma na &lt;em&gt;globalny klimat&lt;/em&gt; wpływ znikomy.&lt;/p&gt;
+
+&lt;p&gt;Dalej jest jeszcze gorzej, bo według serwisu &lt;em&gt;Geekweek&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Naukowcy odkryli pod lodami Antarktydy zagadkowe źródło ciepła, które ma gigantyczny wpływ na topnienie lodu, a to może podważać teorię o szybko postępującym globalnym ociepleniu. Najbardziej widocznym i namacalnym efektem globalnego ocieplenia ma być szybsze topnienie lodu na obszarach Arktyki i Antarktydzie, tymczasem w obu przypadkach źródłem tego zjawiska wcale nie musi być działalność człowieka, tylko naturalne procesy determinowane przez samo wnętrze naszej planety, na co my nie mamy żadnego wpływu.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Najbardziej widocznym efektem globalnego ocieplenia jest wzrost temperatury &lt;em&gt;powierzchni&lt;/em&gt; planety, który jest mierzony wieloma niezależnymi metodami, nie wiem więc jakim cudem topnienie lądolodu trzy kilometry pod biegunem południowym miałoby te pomiary &lt;em&gt;podważyć&lt;/em&gt;, tym bardziej że proces ten, jak podkreślają sami naukowcy, trwa od tysięcy albo milionów lat, i nie ma związku z &lt;em&gt;obecnymi&lt;/em&gt; zmianami grubości lądolodu?&lt;/p&gt;
+
+&lt;p&gt;Zmyśleniem redaktorów z &lt;em&gt;Geekweek&lt;/em&gt; jest też następująca teza&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Międzynarodowy zespół naukowy ma w planach zorganizować bardziej dokładne badania tajemniczego zjawiska występującego na tym kontynencie, bo niewątpliwie fałszuje ono dane historyczne uzyskiwane z badań rdzeni lodowych, więc może ono odmienić naszą dotychczasową wiedzę na temat postępujących zamian klimatycznych i skali udziału w nich działalności ludzkiej.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“Tajemnicze zjawisko” nie może mieć wpływu na dane uzyskane z rdzeni lodowych z tego prostego powodu, że żadne odwierty w tej lokalizacji nie były &lt;em&gt;jeszcze&lt;/em&gt; przeprowadzane. Najbliższy długi rdzeń,  Wostok, został pozyskany z miejsca odległego o około tysiąc kilometrów, i akurat w tym przypadku od dawna było wiadomo, że pod lodem znajduje się zbiornik ciekłej wody, odkryty pomiarami radarowymi w 1974 roku. W przypadku innych rdzeni też oczywiście był przeprowadzany radarowy rekonesans, bo glacjolodzy nie są idiotami i nie chcieliby spędzić kilku sezonów na końcu świata tylko po to, by na koniec odkryć że próbki lodu do niczego się nie nadają. Nie było i nie ma więc obaw, że nasza wiedza na temat zmian klimatu została “niewątpliwie zafałszowana”, jak wymyślili to sobie na Geekweeku.&lt;/p&gt;
+
+&lt;p&gt;Zdaję sobię sprawę, że dział popularno-naukowy Geekweeka z założenia ma mieć poziom Pudelka, więc wszystkie odkrycia o których piszą będą “przełomem” i “odmienią naszą dotychczasową wiedzę”. Podpowiem redaktorom serwisu, że można ten cel osiągnąć wybierając na temat artykułów odkrycia naukowe, które rzeczywiście takie &lt;em&gt;są&lt;/em&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&quot;przypis1&quot;&gt;&lt;/a&gt;1. Davies J. H. i D. R. Davies (2010): &lt;a href=&quot;https://www.solid-earth.net/1/5/2010/&quot;&gt;Earth’s Surface Heat Flux&lt;/a&gt;, &lt;em&gt;Solid Earth&lt;/em&gt; 1, 5-24, 2010.&lt;br /&gt;
+&lt;a name=&quot;przypis2&quot;&gt;&lt;/a&gt;2. Jordan T.A, et al (2018): &lt;a href=&quot;https://www.nature.com/articles/s41598-018-35182-0&quot;&gt;Anomalously high geothermal flux near the South Pole&lt;/a&gt;, &lt;em&gt;Scientific Reports&lt;/em&gt; 8.&lt;br /&gt;
+&lt;a name=&quot;przypis3&quot;&gt;&lt;/a&gt;3. Langley K., et al (2014): &lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-glaciology/article/onset-of-fast-ice-flow-in-recovery-ice-stream-east-antarctica-a-comparison-of-potential-causes/&quot;&gt;Onset of fast ice flow in Recovery Ice Stream, East Antarctica: a comparison of potential causes&lt;/a&gt;, &lt;em&gt;Journal of Glaciology&lt;/em&gt; 60, Issue 223, pp. 1007-1014.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Nov 2018 09:00:00 +0000</pubDate>
+        <link>https://doskonaleszare.github.io/articles/18/geekweek-i-antarktyda</link>
+        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/18/geekweek-i-antarktyda</guid>
+        
+        
+        <category>climsci</category>
+        
+      </item>
     
       <item>
         <title>Nauka o klimacie - recenzja</title>
@@ -539,235 +595,6 @@ Stevens B., et al (2016): [Prospects for narrowing bounds on Earth&lt;/code&gt;s
         <pubDate>Tue, 07 Feb 2017 22:30:00 +0000</pubDate>
         <link>https://doskonaleszare.github.io/articles/17/szok-i-niedowierzanie</link>
         <guid isPermaLink="true">https://doskonaleszare.github.io/articles/17/szok-i-niedowierzanie</guid>
-        
-        
-        <category>climsci</category>
-        
-      </item>
-    
-      <item>
-        <title>Dzień świstaka</title>
-        <description>&lt;p&gt;Prowadzę tego bloga już 8 lat, i nigdy nie przestaje mnie zadziwiać naiwność negacjonistów globalnego ocieplenia.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Te same osoby, które odrzucają ustalenia nauki – bo to spisek ONZ, bo klimatolodzy oszukują, bo dane sfałszowane&lt;/span&gt;  – bez chwili zastanowienia akceptują “alternatywne fakty”, których jedynym źródłem jest śmieszny obrazek w internecie, krótki filmik z żółtymi napisami, albo sensacyjny artykuł z niemądrego tabloidu.&lt;/p&gt;
-
-&lt;p&gt;Miałem trochę inne plany na niedzielę, niż prostowanie głupot z brytyjskiej prasy codziennej, ale widzę że artykuł &lt;a href=&quot;https://archive.is/Lpqb7#selection-971.0-971.352&quot;&gt;“How world leaders were duped into investing billions over manipulated global warming data”&lt;/a&gt; zdążył już zostać podchwycony przez niektórych dziennikarzy.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/wroblewski.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Poniżej skomentuję więc kilka głównych tez padających w artykule Davida Rose’a, który jest źródłem dla red. Wróblewskiego. Nie odnoszę się do każdego akapitu (i tak zajęło mi to już zbyt dużo czasu), jeśli więc macie jakieś dodatkowe pytania albo uważacie że trzeba coś jeszcze wyjaśnić, piszcie w komentarzach, na maila albo twitterze.&lt;/p&gt;
-
-&lt;p&gt;Ok, no to jedziemy.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The Mail on Sunday today reveals astonishing evidence that the organisation that is the world’s leading source of climate data rushed to publish a landmark paper that exaggerated global warming and was timed to influence the historic Paris Agreement on climate change.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A high-level whistleblower has told this newspaper that America’s National Oceanic and Atmospheric Administration (NOAA) breached its own rules on scientific integrity when it published the sensational but flawed report, aimed at making the maximum possible impact on world leaders including Barack Obama and David Cameron at the UN climate conference in Paris in 2015.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Artykuł Karla i in. &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt; został wysłany do &lt;em&gt;Science&lt;/em&gt; na &lt;strong&gt;rok&lt;/strong&gt; przed konferencją COP21 w Paryżu, i choć możliwe że nie mam wystarczająco bujnej wyobraźni, trudno mi uwierzyć, iż robienie wrażenia na Obamie i Cameronie było główną motywacją naukowców z NOAA. W rzeczywistości, chronologia tego konkretnego projektu ma proste uzasadnienie: w 2014 roku oficjalnie opublikowana została nowa wersja analizy temperatur oceanów ERSST &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, oraz pierwsza wersja nowej bazy danych ISTI &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;, zawierających wyniki pomiarów z lądowych stacji meteorologicznych.&lt;/p&gt;
-
-&lt;p&gt;Obie inicjatywy naukowe (zainicjowane kilka lat wcześniej) pozostały przez negacjonistów klimatycznych niezauważone, i dopiero kiedy Tom Karl z kolegami udzielił odpowiedzi na (dość oczywiste) pytanie: “co się stanie jeśli połączymy jedne dane z drugimi”, negacjoniści klimatyczni zaczęli krzyczeć o rzekomym oszustwie. Z powodów ideologicznych nie spodobała im się bowiem uzyskana odpowiedź: “trend temperatur globalnych w latach 1998-2012 będzie wyższy niż we wcześniejszej analizie”.&lt;/p&gt;
-
-&lt;p&gt;Wiarygodności kuriozalnym oskarżeniom &lt;em&gt;Daily Mail&lt;/em&gt; ma przydawać emerytowany naukowiec z NOAA, John Bates:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;But the whistleblower, Dr John Bates, a top NOAA scientist with an impeccable reputation, has shown The Mail on Sunday irrefutable evidence that the paper was based on misleading, ‘unverified’ data.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It was never subjected to NOAA’s rigorous internal evaluation process – which Dr Bates devised.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;His vehement objections to the publication of the faulty data were overridden by his NOAA superiors in what he describes as a ‘blatant attempt to intensify the impact’ of what became known as the Pausebuster paper.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Dłuższą wersję tej historii, opowiedzianą przez Batesa, można przeczytać na blogu &lt;a href=&quot;https://judithcurry.com/2017/02/04/climate-scientists-versus-climate-data/&quot;&gt;Judith Curry&lt;/a&gt;. Do głównych tez Batesa odniosę się szczegółowo poniżej, na razie odnotuję tylko, że na blogu Curry &lt;em&gt;jedynym&lt;/em&gt; udokumentowanym zarzutem Batesa jest to, iż dane towarzyszące artykułowi Karla nie zostały zarchiwizowane &lt;em&gt;dokładnie&lt;/em&gt; według biurokratycznego standardu, który wymyślił i wdrożył w NOAA sam Bates &lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;1&lt;/sup&gt; A nie zostały zarchiwizowane według tego standardu, bo analiza Karla i jego kolegów nie była “produktem” w takim sensie, w jakim są inne analizy publikowane przez NOAA, i których publikacja niesie ze sobą określone zobowiązania prawne ze strony instytucji udostępniającej dane.&lt;/span&gt;. W artykule &lt;em&gt;Daily Mail&lt;/em&gt; padają już cięższe oskarżenia – że dane analizowano w niepoprawny sposób, albo wręcz, tak jak twierdzi red. Wróblewski, że “klimatolodzy fałszowali dane”.&lt;/p&gt;
-
-&lt;p&gt;Jest to, oczywiście, kłamstwo.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;NOAA’s 2015 ‘Pausebuster’ paper was based on two new temperature sets of data – one containing measurements of temperatures at the planet’s surface on land, the other at the surface of the seas.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Both datasets were flawed. This newspaper has learnt that NOAA has now decided that the sea dataset will have to be replaced and substantially revised just 18 months after it was issued, because it used unreliable methods which overstated the speed of warming. The revised data will show both lower temperatures and a slower rate in the recent warming trend.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To zwykła manipulacja autora &lt;em&gt;Daily Mail&lt;/em&gt;. Prace nad wersją czwartą analizy ERSST trwały do końca 2013 roku, nie jest więc niczym dziwnym, że odpowiedzialni za nią naukowcy w ciągu ostatnich 3 lat zaczęli prace nad kolejnymi jej ulepszeniami (poprzednie iteracje opublikowane zostały w 2003, 2004 i 2008 roku), uwzględniając między innymi nowe źródła danych (np. boje ARGO). Według wstępnych szacunków, w wersji 5 trend 2000-2015 będzie około 10% niższy niż w wersji 4 (użytej przez Karla i in.), ale wciąż o 50% wyższy niż w wersji 3 (która według &lt;em&gt;Daily Mail&lt;/em&gt; i Batesa jest “poprawna”).&lt;/p&gt;
-
-&lt;p&gt;Oczywiście, nieopublikowana jeszcze wersja piąta ERSST też nie będzie ostatnim słowem klimatologów w temacie pomiarów ocieplenia oceanów, i możliwe że w kolejnych wersjach trend temperatur w tym samym okresie może być nieco wyższy albo niższy. &lt;em&gt;Daily Mail&lt;/em&gt; najwyraźniej nie rozumie, że ulepszanie metod statystycznych i uwzględnianie nowych danych to kwintesencja nauki, a nie dowód oszustwa.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The land temperature dataset used by the study was afflicted by devastating bugs in its software that rendered its findings ‘unstable’.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The paper relied on a preliminary, ‘alpha’ version of the data which was never approved or verified.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A final, approved version has still not been issued. None of the data on which the paper was based was properly ‘archived’ – a mandatory requirement meant to ensure that raw data and the software used to process it is accessible to other scientists, so they can verify NOAA results.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Trudno zrozumieć, co autor &lt;em&gt;Daily Mail&lt;/em&gt; tutaj ma na myśli. Zarówno baza danych &lt;a href=&quot;ftp://ftp.ncdc.noaa.gov/pub/data/globaldatabank/monthly/stage3/&quot;&gt;ISTI&lt;/a&gt;, jak i &lt;a href=&quot;ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v4/documentation/GHCNM-v4-ATBD-20161114.pdf&quot;&gt;algorytm homogenizacji&lt;/a&gt; użyty przez Karla i in. zostały opublikowane, a bugi w oprogramowaniu wraz z wpływem (znikomym, swoją drogą) jaki miały na wyniki zostały &lt;a href=&quot;ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/v3/techreports/Technical%20Report%20GHCNM%20No15-01.pdf&quot;&gt;udokumentowane&lt;/a&gt;. &lt;em&gt;Daily Mail&lt;/em&gt; wraz z Batesem oskarża klimatologów, że dane nie zostały “właściwie” zarchiwizowane, co uniemożliwia innym naukowcom zweryfikowanie wyników NOAA. Tymczasem dane towarzyszące publikacji Karla i in. są od momentu publikacji &lt;a href=&quot;ftp://ftp.ncdc.noaa.gov/pub/data/scpub201506/NewAnalysis/&quot;&gt;dostępne na serwerze NOAA&lt;/a&gt;, a innym naukowcom udało się z powodzeniem je zweryfikować &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;W dalszej części artykułu &lt;em&gt;Daily Mail&lt;/em&gt; powtarza już dosłownie techniczne zarzuty Batesa (choć ponownie warto zauważyć, że nie pojawiają się one na blogu Curry).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The sea dataset used by Thomas Karl and his colleagues – known as Extended Reconstructed Sea Surface Temperatures version 4, or ERSSTv4, tripled the warming trend over the sea during the years 2000 to 2014 from just 0.036C per decade – as stated in version 3 – to 0.099C per decade. Individual measurements in some parts of the globe had increased by about 0.1C and this resulted in the dramatic increase of the overall global trend published by the Pausebuster paper. But Dr Bates said this increase in temperatures was achieved by dubious means. Its key error was an upwards ‘adjustment’ of readings from fixed and floating buoys, which are generally reliable, to bring them into line with readings from a much more doubtful source – water taken in by ships. This, Dr Bates explained, has long been known to be questionable: ships are themselves sources of heat, readings will vary from ship to ship, and the depth of water intake will vary according to how heavily a ship is laden – so affecting temperature readings.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Dr Bates said: ‘They had good data from buoys. And they threw it out and “corrected” it by using the bad data from ships. You never change good data to agree with bad, but that’s what they did – so as to make it look as if the sea was warmer.’&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;ERSSTv4 ‘adjusted’ buoy readings up by 0.12C. It also ignored data from satellites that measure the temperature of the lower atmosphere, which are also considered reliable. Dr Bates said he gave the paper’s co-authors ‘a hard time’ about this, ‘and they never really justified what they were doing.’&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Fragment ten świadczy o kompletnym niezrozumieniu procesu homogenizacji zastosowanym przez autorów analizy ERSST, i jeśli Bates zgłaszał te zastrzeżenia kolegom, nie dziwię się że go grzecznie zignorowali.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Po pierwsze&lt;/strong&gt;, jest prawdą że średnia temperatura wody zmierzona przez statki jest o około 0,1°C wyższa niż temperatura mierzona przez dryfujące boje. W ciągu ostatnich 30 lat udział pomiarów wykonywanych przez boje zwiększył się z 10% do 90% (a udział statków zmniejszył się z 90% do 10%), więc konsekwencją tego procesu jest sztuczne “ochłodzenie” widziane w szeregach czasowych temperatury. A ponieważ klimatologów interesują zmiany klimatu, a nie zmiany liczby statków pływających po oceanach, takie błędy systematyczne powinny być korygowane.&lt;/p&gt;
-
-&lt;p&gt;Naukowcy z NOAA wiedzieli o tym fakcie od dawna. Przykładowo, 10 lat temu, w artykule &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt; dokumentującym &lt;em&gt;trzecią&lt;/em&gt; wersję analizy ERSST pisali:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In addition to biases in satellite data, there are other data biases. The most important additional data bias may be the ship–buoy bias (Kent and Taylor 2006; Rayner et al. 2006). This relative bias is important because of the growing number of buoy SSTs since the mid-1980s (e.g., Reynolds et al. 2002). Before 1985 most in situ SSTs are ship measurements. Where both ship and buoy observations are available, the ships are typically about 0.1°C warmer. However, the bias is not constant in either space or time where both data types are available. In addition, before the mid-1980s there are few buoy observations so directly analyzing the bias from data over the full reconstruction period is not possible.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;W wersji trzeciej nie udało się zatem jeszcze tej korekty wprowadzić, i uczyniono to dopiero w wersji czwartej, doprowadzając do wzrostu trendu temperatur, który tak oburza negacjonistów globalnego ocieplenia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Po drugie&lt;/strong&gt;, łatwo jest zrozumieć, że dla wartości trendu nie ma znaczenia czy poprawka zbliża “złe” dane do “dobrych”, czy “dobre” do “złych”. Analiza ERSST dotyczy bowiem &lt;em&gt;zmian&lt;/em&gt; temperatury oceanów w czasie, a wartość trendu nie zależy od wartości stałej, którą do niego dodamy. Z powodów praktycznych (pomiary dokonywane przez boje są bardziej homogeniczne, więc poprawkę łatwiej jest zastosować) wybrano ten drugi wariant, ale gdyby zdecydowano się na poprawkę w odwrotnym kierunku, wynik byłby taki sam.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Po trzecie&lt;/strong&gt;, nieprawdą jest, że “dobre” dane mierzone przez boje wyrzucono. Wręcz przeciwnie, metodologia konstrukcji analizy ERSST daje większą wagę obserwacjom obciążonym mniejszym błędem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Po czwarte&lt;/strong&gt;, analiza ERSST “ignoruje” satelitarne pomiary temperatury troposfery, bo nie jest analizą temperatury troposfery, tylko powierzchni oceanów. Być może chodzi o to, że ERSST nie używa pomiarów z radiometrów AVHRR – jednak były ku temu bardzo dobre powody &lt;a href=&quot;#przyp6&quot;&gt;[6]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Now, some of those same authors have produced the pending, revised new version of the sea dataset – ERSSTv5. A draft of a document that explains the methods used to generate version 5, and which has been seen by this newspaper, indicates the new version will reverse the flaws in version 4, changing the buoy adjustments and including some satellite data and measurements from a special high-tech floating buoy network known as Argo. As a result, it is certain to show reductions in both absolute temperatures and recent global warming.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Znajduję wysoce ironicznym to, że &lt;em&gt;Daily Mail&lt;/em&gt; krytykuje Karla za używanie rzekomo “niezweryfikowanych” danych ISTI, i jednocześnie powołuje się na nieukończoną jeszcze, piątą wersję analizy ERSST. Jak jednak napisałem wyżej, nie jest niczym dziwnym że będzie ona trochę różnić się metodologią, źródłami danych (jaki byłby sens przygotowania nowej wersji, gdyby było inaczej!), a zatem i wyniki mogą być nieco inne.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The second dataset used by the Pausebuster paper was a new version of NOAA’s land records, known as the Global Historical Climatology Network (GHCN), an analysis over time of temperature readings from about 4,000 weather stations spread across the globe.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This new version found past temperatures had been cooler than previously thought, and recent ones higher – so that the warming trend looked steeper. For the period 2000 to 2014, the paper increased the rate of warming on land from 0.15C to 0.164C per decade.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In the weeks after the Pausebuster paper was published, Dr Bates conducted a one-man investigation into this. His findings were extraordinary. Not only had Mr Karl and his colleagues failed to follow any of the formal procedures required to approve and archive their data, they had used a ‘highly experimental early run’ of a programme that tried to combine two previously separate sets of records.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This had undergone the critical process known as ‘pairwise homogeneity adjustment’, a method of spotting ‘rogue’ readings from individual weather stations by comparing them with others nearby.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;However, this process requires extensive, careful checking which was only just beginning, so that the data was not ready for operational use. Now, more than two years after the Pausebuster paper was submitted to Science, the new version of GHCN is still undergoing testing.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Przyznam, że nie rozumiem na czym polega zbrodnia klimatologów. Że użyli &lt;em&gt;najnowszej&lt;/em&gt; bazy danych pomiarów temperatur, a nie wersji GHCN sprzed kilku lat, co prawda zawierającej 4 razy mniej stacji meteorologicznych, ale &lt;em&gt;poprawnie zarchiwizowanej&lt;/em&gt; i &lt;em&gt;formalnie zaakceptowanej&lt;/em&gt; przez biurokratów z NOAA? Że nie stworzyli produktu “gotowego do operacyjnego użytku”? Oczywiście, że nie stworzyli, przecież pisali artykuł do &lt;em&gt;Science&lt;/em&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Moreover, the GHCN software was afflicted by serious bugs. They caused it to become so ‘unstable’ that every time the raw temperature readings were run through the computer, it gave different results. The new, bug-free version of GHCN has still not been approved and issued. It is, Dr Bates said, ‘significantly different’ from that used by Mr Karl and his co-authors.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;“Bug-free version” jakiegokolwiek złożonego oprogramowania nie istnieje, i zapewniam czytelników że w nowej (czwartej) wersji GHCN &lt;em&gt;też&lt;/em&gt; znajdą się błędy. Rzekoma niereplikowalność wyników, o której pisze Bates, wynika natomiast z czego innego - każda duża baza danych taka jak GHCN czy ISTI jest często aktualizowana, a nowe wartości mogą zmienić kryteria oceny, które są używane przez algorytm homogenizacji do wykrywania błędów systematycznych.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Dr Bates revealed that the failure to archive and make available fully documented data not only violated NOAA rules, but also those set down by Science. Before he retired last year, he continued to raise the issue internally.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To bardzo dziwny zarzut. Według &lt;a href=&quot;http://www.sciencemag.org/authors/science-editorial-policies#datadep&quot;&gt;oficjalnych instrukcji&lt;/a&gt; tygodnika &lt;em&gt;Science&lt;/em&gt;, dane klimatyczne towarzyszące artykułom w nim publikowanym powinne być “zarchiwizowane w repozytorium klimatycznym NOAA albo &lt;em&gt;innej publicznej bazie danych&lt;/em&gt;” (wyróżnienie moje). Karl i koledzy dane zarchiwizowali w postaci plików tekstowych na serwerze FTP, co redaktorom &lt;em&gt;Science&lt;/em&gt; wystarczyło,&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; Dzisiaj (6 lutego) Jeremy Berg, redaktor naczelny &lt;em&gt;Science&lt;/em&gt;, &lt;a href=&quot;https://twitter.com/RozPidcock/status/828611257771184128&quot;&gt;potwierdził&lt;/a&gt;, że wbrew twierdzeniom Batesa i &lt;em&gt;Daily Mail&lt;/em&gt;, dane towarzyszące artykułowi Karla i in. zostały zarchwizowane w sposób zgodny z regułami wyznaczonymi przez tygodnik. Zaprzeczył jednocześnie, by proces recenzencki tego artykułu był w jakiś sposób przyspieszony – wręcz przeciwnie, trwał nawet dłużej (niemal 6 miesięcy) niż przeciętnie. Z korespondencji pomiędzy Jeremy Bergiem a Davidem Rose wynika, że dziennikarz &lt;em&gt;Daily Mail&lt;/em&gt; wiedział &lt;em&gt;przed&lt;/em&gt; publikacją artykułu, iż zasady archiwizacji danych tygodnika &lt;em&gt;Science&lt;/em&gt; nie zostały złamane, jednak nie powstrzymało go to przed napisaniem nieprawdy.&lt;/span&gt; i wiele osób (ze mną włącznie) nie miało najmniejszych problemów z dostępem i przetwarzaniem tych danych. To, że nie spełniały wyśrubowanych standardów wdrażanych przez Batesa w NOAA w niczym nam nie przeszkadzało.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Then came the final bombshell. Dr Bates said: ‘I learned that the computer used to process the software had suffered a complete failure.’ The reason for the failure is unknown, but it means the Pausebuster paper can never be replicated or verified by other scientists.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Powtórzę - to kłamstwo. Jak pokazali Hausfather i in. &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;, analiza klimatologów z NOAA zgadza się z wynikami uzyskanymi na podstawie niezależnych pomiarów (m. in. pływaków Argo i satelitów):&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We show that &lt;strong&gt;ERSST version 4 trends generally agree with largely independent, near-global, and instrumentally homogeneous SST measurements from floating buoys, Argo floats, and radiometer-based satellite measurements&lt;/strong&gt; that have been developed and deployed during the past two decades. We find &lt;strong&gt;a large cooling bias in ERSST version 3b&lt;/strong&gt; and smaller but significant cooling biases in HadSST3 and COBE-SST from 2003 to the present, with respect to most series examined. These results suggest that reported rates of &lt;strong&gt;SST warming in recent years have been underestimated&lt;/strong&gt; in these three data sets.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Porównanie nowej (ERSSTv4 – kolor szary) i starej (ERSSTv3b – linia przerywana) wersji analizy temperatur oceanów NOAA, oraz niezależnych pomiarów satelitarnych Europejskiej Agencji Kosmicznej (CCI – niebieski) i serii temperatur stworzonej wyłącznie z danych zmierzonych przez boje oceanograficzne (czerwony). Źródło: &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/Hausfather.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Dodam, że ten rodzaj weryfikacji wyników jakiegoś badania jest pod względem naukowym bardziej przydatny, niż zapuszczenie tego samego programu na tych samych danych. W tym ostatnim przypadku demonstrujemy co najwyżej, że udało nam się odtworzyć środowisko obliczeniowe w którym uzyskano jakiś wynik, i nic nam to nie mówi o jego poprawności.&lt;/p&gt;
-
-&lt;p&gt;I na koniec, o tym, że dziennikarz &lt;em&gt;Daily Mail&lt;/em&gt; nie ma pojęcia o temacie, najlepiej świadczy poniższy wykres&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/dailymail.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;podpisany&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The misleading ‘pausebuster chart’: The red line shows the current NOAA world temperature graph – which relies on the ‘adjusted’ and unreliable sea data cited in the flawed ‘Pausebuster’ paper. The blue line is the UK Met Office’s independently tested and verified ‘HadCRUT4’ record – showing lower monthly readings and a shallower recent warming trend.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;W rzeczywistości pozycja “zera” na tym wykresie jest dość arbitralna (średnia globalna temperatura oceanów jest znana ze znacznie mniejszą dokładnością, niż jej &lt;em&gt;zmiany&lt;/em&gt;), a to że linia czerwona jest nad linią niebieską jest efektem tego, że dziennikarz Daily Mail narysował anomalie używające różnych okresów bazowych: 1961-1990 w przypadku Met Office, 1901-2000 w przypadku NOAA. Ponieważ ten drugi okres (obejmujący cały XX wiek) był nieco chłodniejszy niż pierwszy (obejmujący tylko trzy dekady z drugiej połowy XX wieku), anomalie temperatur liczone względem tego okresu też będą wyższe. Nie ma to oczywiście nic wspólnego z wyborami metodologicznymi dokonanymi przez naukowców odpowiedzialnych za analizę ERSST.&lt;/p&gt;
-
-&lt;p&gt;Jeśli narysujemy obe krzywe tak, by odnosiły się do wspólnego okresu referencyjnego (1961-1990), zobaczymy że jest pomiędzy nimi bardzo duża zgodność.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/dailymailpl.gif&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Jest prawdą, że trend odpowiadający linii niebieskiej (NOAA) jest &lt;em&gt;nieco&lt;/em&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt;&lt;span class=&quot;sidenote&quot;&gt;&lt;sup class=&quot;sidenote-number&quot;&gt;2&lt;/sup&gt; 0,16°C i 0,13°C stopnia na dekadę w pokazanym okresie, czyli różnica wynosi tylko 13%.&lt;/span&gt; wyższy niż trend linii czarnej (HadCRUT4), ale jak już wspomniałem wyżej, są bardzo dobre powody by uważać, że to ta pierwsza analiza jest bliżej prawdy. Nawiasem mówiąc, klimatolodzy z Met Office, którzy odpowiadają za analizę HadCRUT4, &lt;a href=&quot;https://diagrammonkey.wordpress.com/2017/01/09/some-thoughts-on-hausfather-et-al/&quot;&gt;też tak uważają&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dodatkowy kontekst&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;W ciągu ostatnich 24 godzin ukazało się kilka dobrych artykułów debunkujących oskarżenia &lt;em&gt;Daily Mail&lt;/em&gt;. Chciałbym zwrócić szczególną uwagę na dwa z nich: &lt;a href=&quot;http://icarus-maynooth.blogspot.co.uk/2017/02/on-mail-on-sunday-article-on-karl-et-al.html&quot;&gt;bloga Petera Thorne’a&lt;/a&gt;, jednego z głównych naukowców projektu ISTI, oraz &lt;a href=&quot;https://arstechnica.com/science/2017/02/article-names-whistleblower-who-told-congress-that-noaa-manipulated-data/&quot;&gt;artykuł opublikowany w serwisie Ars Technica&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Według Petera Thorna, meteorolog będący głównym źródłem cytowanym w &lt;em&gt;Daily Mail&lt;/em&gt; nie uczestniczył na żadnym etapie w przygotowywaniu analizy ERSST, co może wyjaśniać błędy i przekłamania pojawiające się w jego wypowiedziach:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The ‘whistle blower’ is John Bates who was not involved in any aspect of the work. NOAA’s process is very stove-piped such that beyond seminars there is little dissemination of information across groups. John Bates never participated in any of the numerous technical meetings on the land or marine data I have participated in at NOAA NCEI either in person or remotely. This shows in his reputed (I am taking the journalist at their word that these are directly attributable quotes) mis-representation of the processes that actually occured. In some cases these mis-representations are publically verifiable.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Według artykułu &lt;em&gt;Ars Technica&lt;/em&gt;, Bates próbował wdrażać w całej NOAA te same procedury, które stosowane były przy tworzeniu oprogramowania dla satelitów, co spotkało się z oporem jego kolegów:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ars talked with Thomas Peterson, a co-author on the Karl paper who has since retired. Peterson provided some useful context for understanding Bates’ allegations. The satellites that Bates worked with were expensive hardware that couldn’t be fixed if anything went wrong after they were launched. The engineering of the software running those satellites sensibly involved testing and re-testing and re-testing again to ensure no surprises would pop up once it was too late.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Bates expected the same approach from his surface temperature counterparts, but Peterson explained that their work with weather station data was not nearly so high-stakes—problems could easily be fixed on the fly. The engineering-style process NOAA was using for endlessly double-checking the software for all dataset updates could drag on for quite a long time—years, in fact—and Bates opposed any attempt to speed this up. Peterson and other scientists were naturally anxious to incorporate changes they knew were scientifically important.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Bates alleges that the Karl paper was “rushed” for political reasons, but Peterson said the reality was that NOAA was well behind the times, waiting to include known improvements like additional recording stations in the rapidly warming Arctic. “I had been arguing for years that we were putting out data that did not reflect our understanding of how the temperature was actually warming—[for] literally years we slowed down to try to account for some of these processing things that we had to do,” Peterson said. (At the time of the Karl paper, NOAA’s dataset showed less warming in recent years than other datasets, like NASA’s.)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Bates also claims that there were bugs in the land station database software that were ignored in the Karl paper. But according to Peterson, the slight day-to-day variability seen in the software’s output was simply the result of the fact that new data was added every day. Stations that straddled statistical cut-offs might fall on one side of the dividing line today, and on the other side tomorrow. There was nothing wrong with the software, they realized. It was just silly to re-run it every single day.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Dodatkowo, 5 lat temu Karl zdegradował Batesa, usuwając go z kierowniczego stanowiska w NOAA.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;There may also be something beyond simple “engineers vs. scientists” tension behind Bates’ decision to go public with his allegations. Two former NOAA staffers confirmed to Ars that Tom Karl essentially demoted John Bates in 2012, when Karl was Director of NOAA’s National Centers for Environmental Information. Bates had held the title of Supervisory Meteorologist and Chief of the Remote Sensing Applications Division, but Karl removed him from that position partly due to a failure to maintain professionalism with colleagues, assigning him to a position in which he would no longer supervise other staff. It was apparently no secret that the demotion did not sit well with Bates.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Co może wyjaśniać, dlaczego ostatnią rzeczą, którą zrobił Bates przed odejściem na emeryturę, było nasłanie na Karla donosu do &lt;a href=&quot;https://science.house.gov/sites/republicans.science.house.gov/files/documents/11-18-15%20CLS%20to%20Pritzker.pdf&quot;&gt;republikańskich polityków&lt;/a&gt;. Kiedy nie przyniosło to spodziewanych skutków, poszedł do brytyjskiego brukowca.&lt;/p&gt;
-
-&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Karl, et al (2016): &lt;a href=&quot;http://science.sciencemag.org/content/348/6242/1469&quot;&gt;Possible artifacts of data biases in the recent global surface warming hiatus&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Huang, et al (2014): &lt;a href=&quot;http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-14-00006.1&quot;&gt;Extended Reconstructed Sea Surface Temperature Version 4 (ERSST.v4). Part I: Upgrades and Intercomparisons&lt;/a&gt;.&lt;br /&gt;
-&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Rennie, et al (2014): &lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/gdj3.8/full&quot;&gt;The international surface temperature initiative global land surface databank: monthly temperature data release description and methods&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Hausfather, et al (2017): &lt;a href=&quot;http://advances.sciencemag.org/content/3/1/e1601207&quot;&gt;Assessing recent warming using instrumentally homogeneous sea surface temperature records&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Smith, et al (2008): &lt;a href=&quot;http://journals.ametsoc.org/doi/full/10.1175/2007JCLI2100.1&quot;&gt;Improvements to NOAA’s Historical Merged Land–Ocean Surface Temperature Analysis (1880–2006)&lt;/a&gt;&lt;br /&gt;
-&lt;a name=&quot;przyp6&quot;&gt;&lt;/a&gt;6. Huang, et al (2016): &lt;a href=&quot;http://journals.ametsoc.org/doi/full/10.1175/JTECH-D-14-00121.1&quot;&gt;Bias Adjustment of AVHRR SST and Its Impacts on Two SST Analyses&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 05 Feb 2017 13:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/17/dzien-swistaka</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/17/dzien-swistaka</guid>
         
         
         <category>climsci</category>
