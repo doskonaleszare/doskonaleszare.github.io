@@ -5,8 +5,8 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Dec 2018 00:07:33 +0000</pubDate>
-    <lastBuildDate>Wed, 26 Dec 2018 00:07:33 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Dec 2018 00:45:45 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Dec 2018 00:45:45 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -73,13 +73,13 @@
 
 &lt;p&gt;&lt;strong&gt;Podsumowanie&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Nie są to wszystkie problemy związane z porównywaniem obecnych zmian klimatu z tymi z odległej przeszłości; jak ktoś jest bardziej zainteresowany tym tematem, może sięgnąć do ostatniego raportu IPCC (rozdział V “Information from Paleoclimate Archives”), przeczytać przeglądówkę PALEOSENS &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt; albo któryś z artykułów cytowanych powyżej. Podsumujmy jednak to, co już wiemy: u Karonia po jednej stronie mamy 12°C, po drugiej 0,6°C.&lt;/p&gt;
+&lt;p&gt;Nie są to wszystkie problemy związane z porównywaniem obecnych zmian klimatu z tymi z odległej przeszłości (pominąłem problem tzw. “state dependence”, odróżnienia wymuszeń od sprzężeń, różnicy pomiędzy ECS i ESS…); jak ktoś jest bardziej zainteresowany tym tematem, może sięgnąć do ostatniego raportu IPCC (rozdział V “Information from Paleoclimate Archives”), przeczytać przeglądówkę PALEOSENS &lt;a href=&quot;#przyp5&quot;&gt;[5]&lt;/a&gt; albo któryś z artykułów cytowanych powyżej. Podsumujmy jednak to, co już wiemy: u Karonia po jednej stronie mamy 12°C, po drugiej 0,6°C.&lt;/p&gt;
 
-&lt;p&gt;Punkt pierwszy, prawidłowe przeskalowanie temperatur z Wostoka, redukuje pierwszą wartość o połowę, do 6°C.&lt;/p&gt;
+&lt;p&gt;Punkt pierwszy, prawidłowe przeskalowanie temperatur z Wostoka, redukuje pierwszą wartość o mniej więcej połowę, do 6°C.&lt;/p&gt;
 
 &lt;p&gt;Punkt drugi, uwzględnienie logarytmicznej zależności wymuszenia radiacyjnego CO₂ od koncentracji, zmniejsza ją z 6°C do 3,9°C. Jednocześnie prawidłowe uwzględnienie okresu, w którym koncentracja CO₂  wzrosła o 100 ppm, zwiększa też drugą wartość z 0,6°C do 0,8°C.&lt;/p&gt;
 
-&lt;p&gt;Punkt trzeci, włączenie innych wymuszeń radiacyjnych, zmniejsza pierwszą wartość z 3,9°C do 1,4°C.&lt;/p&gt;
+&lt;p&gt;Punkt trzeci, włączenie innych wymuszeń radiacyjnych, ponownie zmniejsza pierwszą wartość o (trochę ponad) połowę. Używając oszacowań z &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, wychodzi 1,4°C.&lt;/p&gt;
 
 &lt;p&gt;Punkt czwarty, doliczenie przyszłego ocieplenia do stanu równowagi, zwiększa drugą wartość do 1,15°C.&lt;/p&gt;
 
@@ -88,11 +88,15 @@
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Hansen J. E., et al (2008): &lt;a href=&quot;https://benthamopen.com/ABSTRACT/TOASCJ-2-217&quot;&gt;Target Atmospheric CO2: Where Should Humanity Aim?&lt;/a&gt;, &lt;em&gt;The Open Atmospheric Science Journal&lt;/em&gt;, 2: 217-231.
-&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Petit J. R., et al (1999): &lt;a href=&quot;https://www.nature.com/articles/20859&quot;&gt;Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; 399, pp 429–436.
-&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Masson-Delmotte V., et al (2006): &lt;a href=&quot;https://link.springer.com/article/10.1007/s00382-005-0081-9&quot;&gt;Past and future polar amplification of climate change: climate model intercomparisons and ice-core constraints&lt;/a&gt;, &lt;em&gt;Climate Dynamics&lt;/em&gt; 26, Issue 5, pp 513–529.
-&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Shakun J. D., et al (2012): &lt;a href=&quot;https://www.nature.com/articles/nature10915&quot;&gt;Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; 484, pp 49–54.
-&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. PALEOSENS Project (2012): &lt;a href=&quot;https://www.nature.com/articles/nature11574&quot;&gt;Making sense of palaeoclimate sensitivity&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; 491, pp 683–691.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Hansen J. E., et al (2008): &lt;a href=&quot;https://benthamopen.com/ABSTRACT/TOASCJ-2-217&quot;&gt;Target Atmospheric CO2: Where Should Humanity Aim?&lt;/a&gt;, &lt;em&gt;The Open Atmospheric Science Journal&lt;/em&gt;, 2: 217-231.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Petit J. R., et al (1999): &lt;a href=&quot;https://www.nature.com/articles/20859&quot;&gt;Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; 399, pp 429–436.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Masson-Delmotte V., et al (2006): &lt;a href=&quot;https://link.springer.com/article/10.1007/s00382-005-0081-9&quot;&gt;Past and future polar amplification of climate change: climate model intercomparisons and ice-core constraints&lt;/a&gt;, &lt;em&gt;Climate Dynamics&lt;/em&gt; 26, Issue 5, pp 513–529.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Shakun J. D., et al (2012): &lt;a href=&quot;https://www.nature.com/articles/nature10915&quot;&gt;Global warming preceded by increasing carbon dioxide concentrations during the last deglaciation&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; 484, pp 49–54.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. PALEOSENS Project (2012): &lt;a href=&quot;https://www.nature.com/articles/nature11574&quot;&gt;Making sense of palaeoclimate sensitivity&lt;/a&gt;, &lt;em&gt;Nature&lt;/em&gt; 491, pp 683–691.&lt;/p&gt;
 </description>
         <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
         <link>https://doskonaleszare.github.io/articles/18/karon-u-roli</link>
