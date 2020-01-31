@@ -5,8 +5,8 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jan 2020 17:15:37 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2020 17:15:37 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2020 17:38:35 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2020 17:38:35 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -39,8 +39,6 @@
 
 &lt;p&gt;Jest prawdą że w odniesieniu do odległej przeszłości nie rozpoznano wszystkich czynników, które powodowały te czy inne zmiany klimatu. Jest to nieuniknione, bo klimat Ziemi sprzed milionów lat możemy badać wyłącznie metodami pośrednimi, które zawsze obciążone będą dużymi niepewnościami. Zmianę klimatu zachodzącą &lt;em&gt;obecnie&lt;/em&gt; możemy natomiast obserwować &lt;em&gt;bezpośrednio&lt;/em&gt;, dzięki pomiarom dokonywanym w stacjach meteorologicznych, przez radiosondy, satelity, boje oceanograficzne, i wiele innych typów platform pomiarowych. Z tego też powodu więcej możemy powiedzieć o przyczynach i przebiegu &lt;em&gt;obecnego&lt;/em&gt; globalnego ocieplenia, niż np. globalnego ocieplenia na przełomie paleocenu i eocenu. I jak przewidziano teoretycznie już dawno temu &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;, i potwierdzono w późniejszych badaniach &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;, główną przyczyną jest działalność człowieka.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;CO₂ i temperatura w fanerozoiku&lt;/strong&gt;&lt;/p&gt;
-
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;Zmienność temperatur w skali setek milionów lat (fanerozoik)&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -65,7 +63,7 @@
 
 &lt;p&gt;Jeśli się przeklikacie przez bloga cytowanego przez KNG PAN, odkryjecie że źródłem autora wykresu jest kolejny, starszy wpis na tym samym blogu, ale dane użyte do jego narysowania dawno temu rozpłynęły się w czeluściach internetu. Nie jest to problemem w przypadku rekonstrukcji dwutlenku węgla w atmosferze &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;, bo zostały one zarchiwizowane na &lt;a href=&quot;ftp.ncdc.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/phanerozoic_co2.txt&quot;&gt;serwerach NOAA&lt;/a&gt;, jednak krzywa temperaturowa jest opracowaniem własnym autora bloga, opartym o kompilację danych izotopowych opublikowaną przez Jana Veizera w 1999 roku &lt;a href=&quot;#przyp4&quot;&gt;[4]&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Wykres prezentuje więc w &lt;em&gt;najlepszym&lt;/em&gt; razie stan wiedzy sprzed 20 lat. Co gorsza, użyte dane nie zostały rzetelnie przedstawione: obie krzywe są nie tylko silnie wygładzone, ale w ogóle nie pokazują niepewności związanych z rekonstruowanymi parametrami.&lt;/p&gt;
+&lt;p&gt;Wykres prezentuje więc w &lt;em&gt;najlepszym&lt;/em&gt; razie stan wiedzy sprzed 20 lat. Co gorsza, użyte dane nie zostały rzetelnie przedstawione: choć wiadomo, że zależność amplitudy globalnego ocieplenia klimatu od zmiany zawartości dwutlenku węgla jest logarytmiczna, wykres przedstawia obie krzywe w liniowym układzie współrzędnych. Dodatkowo zostały one silnie wygładzone, i nie ma na wykresie niepewności związanych z rekonstruowanymi parametrami.&lt;/p&gt;
 
 &lt;p&gt;A te są spore. Rekonstrukcja temperatury pochodzi z badań skamielin (przede wszystkim małży), w których wykorzystano zależność frakcjonacji izotopowej 18O w cząsteczkach węglanu wapnia od temperatury. Metoda ta stosowana jest z powodzeniem do rekonstrukcji paleoklimatycznych z okresu plejstocenu, a nawet kenozoiku, jednak jej stosowanie do starszych okresów jest problematyczne, bo próbki pochodzące z odległej przeszłości zawierają sporo mniej ¹⁸O niż te powstałe stosunkowo niedawno.&lt;/p&gt;
 
@@ -99,15 +97,11 @@
 &lt;p&gt;Równie zaskakujące jest to, że wnioski odnośnie przyczyn zmian klimatu w permie autorzy stanowiska KNG PAN wyciągają &lt;em&gt;wyłącznie&lt;/em&gt; w oparciu o znaleziony w internecie wykres, i najwyraźniej nie skonfontowali go z żadnymi naukowymi publikacjami na ten temat. Przykładowo, wystarczy zajrzeć do numeru specjalnego “Palaeogeography, Palaeoclimatology, Palaeoecology” z ubiegłego roku, poświęconego epoce lodowej późnego palezoiku, by niemal w każdym artykule znaleźć słowa o związku pomiędzy poziomem dwutlenku węgla a deglacjacją na początku permu &lt;a href=&quot;#przyp17&quot;&gt;[17]&lt;/a&gt;. Nieco starszy artykuł przeglądowy Montañez i Paulsona &lt;a href=&quot;#przyp18&quot;&gt;[18]&lt;/a&gt; tak podsumowuje opinie geologów nt. przyczyn zmian klimatu w tym okresie:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;The view of the late Paleozoic has evolved from one of long-term stability to one of dynamic change that archives the climate and ecosystem response to repeated glacial-interglacial conditions that were likely CO₂ forced. As the most recent transition froman icehouse to a greenhouse world, the late Paleozoic provides a unique analog for ourwarming world.&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;p&gt;The view of the late Paleozoic has evolved from one of long-term stability to one of dynamic change that archives the climate and ecosystem response to repeated glacial-interglacial conditions that were likely CO₂ forced. As the most recent transition froman icehouse to a greenhouse world, the late Paleozoic provides a unique analog for ourwarming world.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;ol&gt;
-    &lt;li&gt;Both the stepped nature of glaciation during the onset and demise of the LPIA [Late Paleozoic Ice Age] and the temporal distribution of ice centers suggest threshold behavior, likely involving changes in atmospheric pCO₂ and orbital forcing analogous to that which occurred during the initiation of the Cenozoic icehouse. Climate model simulations indicate that CO₂ was the fundamental driver for the buildup and breakdown of glaciers. Other factors, including topography, may have been locally important.&lt;/li&gt;
-  &lt;/ol&gt;
+  &lt;p&gt;Both the stepped nature of glaciation during the onset and demise of the LPIA [Late Paleozoic Ice Age] and the temporal distribution of ice centers suggest threshold behavior, likely involving changes in atmospheric pCO₂ and orbital forcing analogous to that which occurred during the initiation of the Cenozoic icehouse. Climate model simulations indicate that CO₂ was the fundamental driver for the buildup and breakdown of glaciers. Other factors, including topography, may have been locally important.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Nie jest to zresztą pomysł nowy, już w klasycznym artykule “CO₂-Forced Climate and Vegetation Instability During Late Paleozoic Deglaciation” z 2007 roku &lt;a href=&quot;#przyp19&quot;&gt;[19]&lt;/a&gt; Montañez i jej współautorzy pisali:&lt;/p&gt;
@@ -118,7 +112,9 @@
 
 &lt;p&gt;Nie ma więc wątpliwości, że w środowisku geologów specjalizujących się w badaniu przyczyn zmian klimatu w odległej przeszłości rola dwutlenku węgla nie jest kwestionowana, a opinia geologów z KNG PAN pozostaje, no cóż, ich opinią powstałą przy kawie i ciasteczkach.&lt;/p&gt;
 
-&lt;p&gt;Zakończę cytatem z jeszcze jednego artykułu, “Modelling the long-term carbon cycle, atmospheric CO₂, and Earth surface temperature from late Neoproterozoic to present day” z ubiegłego roku &lt;a href=&quot;#przyp20&quot;&gt;[20]&lt;/a&gt;, który zawiera dokładnie takie porównanie zmian klimatu oraz poziomu CO₂, jakie &lt;em&gt;powinno&lt;/em&gt; znaleźć się w stanowisku Komitetu Nauk Geologicznych: uwzględniające niepewności, różne rekonstrukcje oparte zarówno o modelowanie geochemiczne, jak i proxy paleoklimatyczne, i badający czułość konkluzji od przyjętych założeń.&lt;/p&gt;
+&lt;p&gt;Zakończę wykresem i cytatem z jeszcze jednego artykułu, “Modelling the long-term carbon cycle, atmospheric CO₂, and Earth surface temperature from late Neoproterozoic to present day” z ubiegłego roku &lt;a href=&quot;#przyp20&quot;&gt;[20]&lt;/a&gt;, który zawiera dokładnie takie porównanie zmian klimatu oraz poziomu CO₂, jakie &lt;em&gt;powinno&lt;/em&gt; znaleźć się w stanowisku Komitetu Nauk Geologicznych: uwzględniające niepewności, różne rekonstrukcje oparte zarówno o modelowanie geochemiczne, jak i proxy paleoklimatyczne, i badający czułość konkluzji od przyjętych założeń.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Panel górny: zależność dwutlenku węgla od średniej temperatury globalnej, zdiagnozowana w oparciu o dane proxy. Panel dolny: rekonstruowana średnia temperatura Ziemi (zakres koloru szarego) oraz temperatura wyliczona w oparciu o równowagową czułość klimatu (ESS) 5K/podwojenie CO₂ (kolor czarny). Źródło: Mills et al. (2019) [20]&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/phan2019.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Jak piszą jego autorzy:&lt;/p&gt;
 
@@ -132,45 +128,45 @@
 
 &lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp1&quot;&gt;&lt;/a&gt;1. Arrhenius S. (1896): “On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground”, doi: &lt;a href=&quot;https://doi.org/10.1086/121158&quot;&gt;10.1086/121158&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Arrhenius S. (1896): “On the Influence of Carbonic Acid in the Air upon the Temperature of the Ground”, doi: &lt;a href=&quot;https://doi.org/10.1086/121158&quot;&gt;10.1086/121158&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp2&quot;&gt;&lt;/a&gt;2. Stott P., et al. (2000): “External Control of 20th Century Temperature by Natural and Anthropogenic Forcings”, doi: &lt;a href=&quot;https://doi.org/10.1126/science.290.5499.2133&quot;&gt;10.1126/science.290.5499.2133&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Stott P., et al. (2000): “External Control of 20th Century Temperature by Natural and Anthropogenic Forcings”, doi: &lt;a href=&quot;https://doi.org/10.1126/science.290.5499.2133&quot;&gt;10.1126/science.290.5499.2133&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp3&quot;&gt;&lt;/a&gt;3. Berner R. A., Kovathala Z. (2001): “GEOCARB III: A revised model of atmospheric CO₂ over Phanerozoic time”, doi: &lt;a href=&quot;https://doi.org/10.2475/ajs.301.2.182&quot;&gt;10.2475/ajs.301.2.182&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Berner R. A., Kovathala Z. (2001): “GEOCARB III: A revised model of atmospheric CO₂ over Phanerozoic time”, doi: &lt;a href=&quot;https://doi.org/10.2475/ajs.301.2.182&quot;&gt;10.2475/ajs.301.2.182&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp4&quot;&gt;&lt;/a&gt;4. Veizer J., et al. (1999): “⁸⁷Sr/⁸⁶Sr,δ¹³C and δ¹⁸O evolution of Phanerozoic seawater”, doi: &lt;a href=&quot;https://doi.org/10.1016/S0009-2541(99)00081-9&quot;&gt;10.1016/S0009-2541(99)00081-9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp4&quot;&gt;&lt;/a&gt;4. Veizer J., et al. (1999): “⁸⁷Sr/⁸⁶Sr,δ¹³C and δ¹⁸O evolution of Phanerozoic seawater”, doi: &lt;a href=&quot;https://doi.org/10.1016/S0009-2541(99)00081-9&quot;&gt;10.1016/S0009-2541(99)00081-9&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp5&quot;&gt;&lt;/a&gt;5. Veizer J., Prokoph A. (2015): “Temperatures and oxygen isotopic composition of Phanerozoic oceans”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.earscirev.2015.03.008&quot;&gt;10.1016/j.earscirev.2015.03.008&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp5&quot;&gt;&lt;/a&gt;5. Veizer J., Prokoph A. (2015): “Temperatures and oxygen isotopic composition of Phanerozoic oceans”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.earscirev.2015.03.008&quot;&gt;10.1016/j.earscirev.2015.03.008&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp6&quot;&gt;&lt;/a&gt;6. Tartèse R., et al. (2017): “Warm Archean oceans reconstructed from oxygen isotope composition of early-life remnants”, doi: &lt;a href=&quot;https://doi.org/10.7185/geochemlet.1706&quot;&gt;10.7185/geochemlet.1706&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp6&quot;&gt;&lt;/a&gt;6. Tartèse R., et al. (2017): “Warm Archean oceans reconstructed from oxygen isotope composition of early-life remnants”, doi: &lt;a href=&quot;https://doi.org/10.7185/geochemlet.1706&quot;&gt;10.7185/geochemlet.1706&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp7&quot;&gt;&lt;/a&gt;7. Ryb U., Eiler J. M. (2018): “Oxygen isotope composition of the Phanerozoic ocean and a possible solution to the dolomite problem”, doi: &lt;a href=&quot;https://doi.org/10.1073/pnas.1719681115&quot;&gt;10.1073/pnas.1719681115&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp7&quot;&gt;&lt;/a&gt;7. Ryb U., Eiler J. M. (2018): “Oxygen isotope composition of the Phanerozoic ocean and a possible solution to the dolomite problem”, doi: &lt;a href=&quot;https://doi.org/10.1073/pnas.1719681115&quot;&gt;10.1073/pnas.1719681115&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp8&quot;&gt;&lt;/a&gt;8. Sengupta S., Pack A. (2018): “Three Billion Year Secular Evolution of the Triple Oxygen Isotope Composition of Marine Chert”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.chemgeo.2018.07.012&quot;&gt;10.1016/j.chemgeo.2018.07.012&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp8&quot;&gt;&lt;/a&gt;8. Sengupta S., Pack A. (2018): “Three Billion Year Secular Evolution of the Triple Oxygen Isotope Composition of Marine Chert”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.chemgeo.2018.07.012&quot;&gt;10.1016/j.chemgeo.2018.07.012&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp9&quot;&gt;&lt;/a&gt;9. Galili N., et al. (2019): “The geologic history of seawater oxygen isotopes from marine iron oxides”, doi: &lt;a href=&quot;https://doi.org/10.1126/science.aaw9247&quot;&gt;10.1126/science.aaw9247&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp9&quot;&gt;&lt;/a&gt;9. Galili N., et al. (2019): “The geologic history of seawater oxygen isotopes from marine iron oxides”, doi: &lt;a href=&quot;https://doi.org/10.1126/science.aaw9247&quot;&gt;10.1126/science.aaw9247&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp10&quot;&gt;&lt;/a&gt;10. Shen J., et al. (2018): “Improved efficiency of the biological pump as a trigger for the Late Ordovician glaciation”, doi: &lt;a href=&quot;https://doi.org/10.1038/s41561-018-0141-5&quot;&gt;10.1038/s41561-018-0141-5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp10&quot;&gt;&lt;/a&gt;10. Shen J., et al. (2018): “Improved efficiency of the biological pump as a trigger for the Late Ordovician glaciation”, doi: &lt;a href=&quot;https://doi.org/10.1038/s41561-018-0141-5&quot;&gt;10.1038/s41561-018-0141-5&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp11&quot;&gt;&lt;/a&gt;11. Pancost R., et al. (2013): “Reconstructing Late Ordovician carbon cycle variations”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.gca.2012.11.033&quot;&gt;10.1016/j.gca.2012.11.033&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp11&quot;&gt;&lt;/a&gt;11. Pancost R., et al. (2013): “Reconstructing Late Ordovician carbon cycle variations”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.gca.2012.11.033&quot;&gt;10.1016/j.gca.2012.11.033&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp12&quot;&gt;&lt;/a&gt;12. Pohl, A., et al. (2016): “Glacial onset predated Late Ordovician climate cooling”, doi: &lt;a href=&quot;https://doi.org/10.1002/2016PA002928&quot;&gt;10.1002/2016PA002928&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp12&quot;&gt;&lt;/a&gt;12. Pohl, A., et al. (2016): “Glacial onset predated Late Ordovician climate cooling”, doi: &lt;a href=&quot;https://doi.org/10.1002/2016PA002928&quot;&gt;10.1002/2016PA002928&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp13&quot;&gt;&lt;/a&gt;13. Ghienne J-F., et al. (2014): “A Cenozoic-style scenario for the end-Ordovician glaciation”, doi: &lt;a href=&quot;https://doi.org/10.1038/ncomms5485&quot;&gt;10.1038/ncomms5485&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp13&quot;&gt;&lt;/a&gt;13. Ghienne J-F., et al. (2014): “A Cenozoic-style scenario for the end-Ordovician glaciation”, doi: &lt;a href=&quot;https://doi.org/10.1038/ncomms5485&quot;&gt;10.1038/ncomms5485&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp14&quot;&gt;&lt;/a&gt;14. Pohl A., et al. (2014): “Effect of the Ordovician paleogeography on the (in)stability of the climate”, doi: &lt;a href=&quot;https://doi.org/10.5194/cp-10-2053-2014&quot;&gt;10.5194/cp-10-2053-2014&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp14&quot;&gt;&lt;/a&gt;14. Pohl A., et al. (2014): “Effect of the Ordovician paleogeography on the (in)stability of the climate”, doi: &lt;a href=&quot;https://doi.org/10.5194/cp-10-2053-2014&quot;&gt;10.5194/cp-10-2053-2014&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp15&quot;&gt;&lt;/a&gt;15. Algeo T. J., Marenco P., Saltzman M. R. (2016): “Co-evolution of oceans, climate, and the biosphere during the ‘Ordovician Revolution’: A review”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.palaeo.2016.05.015&quot;&gt;10.1016/j.palaeo.2016.05.015&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp15&quot;&gt;&lt;/a&gt;15. Algeo T. J., Marenco P., Saltzman M. R. (2016): “Co-evolution of oceans, climate, and the biosphere during the ‘Ordovician Revolution’: A review”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.palaeo.2016.05.015&quot;&gt;10.1016/j.palaeo.2016.05.015&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp16&quot;&gt;&lt;/a&gt;16. Smolarek-Łach J., et al. (2019): “Mercury Spikes Indicate a Volcanic Trigger for the Late Ordovician Mass Extinction Event: An Example from a Deep Shelf of the Peri-Baltic Region”, doi: &lt;a href=&quot;https://doi.org/10.1038/s41598-019-39333-9&quot;&gt;10.1038/s41598-019-39333-9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp16&quot;&gt;&lt;/a&gt;16. Smolarek-Łach J., et al. (2019): “Mercury Spikes Indicate a Volcanic Trigger for the Late Ordovician Mass Extinction Event: An Example from a Deep Shelf of the Peri-Baltic Region”, doi: &lt;a href=&quot;https://doi.org/10.1038/s41598-019-39333-9&quot;&gt;10.1038/s41598-019-39333-9&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp17&quot;&gt;&lt;/a&gt;17. ed. Qie, W., et al. (2019): “Global events of the Late Devonian to Early Permian”, w &lt;a href=&quot;https://www.sciencedirect.com/journal/palaeogeography-palaeoclimatology-palaeoecology/vol/531/part/PA&quot;&gt;Palaeogeography, Palaeoclimatology, Palaeoecology&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp17&quot;&gt;&lt;/a&gt;17. ed. Qie, W., et al. (2019): “Global events of the Late Devonian to Early Permian”, w &lt;a href=&quot;https://www.sciencedirect.com/journal/palaeogeography-palaeoclimatology-palaeoecology/vol/531/part/PA&quot;&gt;Palaeogeography, Palaeoclimatology, Palaeoecology&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp18&quot;&gt;&lt;/a&gt;18. Montañez I. P., Poulsen C. J. (2013): “The Late Paleozoic Ice Age:An Evolving Paradigm”, doi: &lt;a href=&quot;https://doi.org/10.1146/annurev.earth.031208.100118&quot;&gt;10.1146/annurev.earth.031208.100118&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp18&quot;&gt;&lt;/a&gt;18. Montañez I. P., Poulsen C. J. (2013): “The Late Paleozoic Ice Age:An Evolving Paradigm”, doi: &lt;a href=&quot;https://doi.org/10.1146/annurev.earth.031208.100118&quot;&gt;10.1146/annurev.earth.031208.100118&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp19&quot;&gt;&lt;/a&gt;19. Montañez I. P., et al. (2007): “CO₂-Forced Climate and Vegetation Instability During Late Paleozoic Deglaciation”, doi: &lt;a href=&quot;https://doi.org/10.1126/science.1134207&quot;&gt;10.1126/science.1134207&lt;/a&gt;. Patrz też Goddéris Y., et al. (2017): “Onset and ending of the late Palaeozoic ice agetriggered by tectonically paced rock weathering”, doi: [10.1038/ngeo2931](https://doi.org/10.1038/ngeo2931]&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp19&quot;&gt;&lt;/a&gt;19. Montañez I. P., et al. (2007): “CO₂-Forced Climate and Vegetation Instability During Late Paleozoic Deglaciation”, doi: &lt;a href=&quot;https://doi.org/10.1126/science.1134207&quot;&gt;10.1126/science.1134207&lt;/a&gt;. Patrz też Goddéris Y., et al. (2017): “Onset and ending of the late Palaeozoic ice agetriggered by tectonically paced rock weathering”, doi: [10.1038/ngeo2931](https://doi.org/10.1038/ngeo2931]&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;#przyp20&quot;&gt;&lt;/a&gt;20. Mills, B. J., et al. (2019): “Modelling the long-term carbon cycle, atmospheric CO₂, and Earth surface temperature from late Neoproterozoic to present day”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.gr.2018.12.001&quot;&gt;10.1016/j.gr.2018.12.001&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp20&quot;&gt;&lt;/a&gt;20. Mills, B. J., et al. (2019): “Modelling the long-term carbon cycle, atmospheric CO₂, and Earth surface temperature from late Neoproterozoic to present day”, doi: &lt;a href=&quot;https://doi.org/10.1016/j.gr.2018.12.001&quot;&gt;10.1016/j.gr.2018.12.001&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Jan 2020 16:00:00 +0000</pubDate>
         <link>https://doskonaleszare.github.io/articles/20/komitet-nauk-geologicznych-pan-cz-1</link>
