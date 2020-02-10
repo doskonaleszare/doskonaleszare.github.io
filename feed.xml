@@ -5,13 +5,38 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Feb 2020 17:52:24 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Feb 2020 17:52:24 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Feb 2020 10:15:12 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Feb 2020 10:15:12 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
+        <title>Komitet Nauk Geologicznych PAN, tl;dr</title>
+        <description>&lt;p&gt;Komentarz w formie jednego dokumentu pdf można ściągnąć &lt;a href=&quot;assets/kng.pdf&quot;&gt;stąd&lt;/a&gt;, dopisałem do niego krótkie podsumowanie poniżej, jakby komuś nie chciało się przebijać przez trzydzieści kilka stron tekstu.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Dzięki geologii wiemy, że klimat naszej planety wielokrotnie się zmieniał w bliższej i odległej przeszłości. Zmiany te były powodowane różnymi czynnikami: wahaniami aktywności słonecznej, periodycznymi zmianami orbity ziemskiej, erupcjami wulkanicznymi, a także zmianami zawartości gazów cieplarnianych w atmosferze. Badania paleoklimatyczne (w tym modelowanie klimatu Ziemi w odległej przeszłości) umożliwiają nam stawianie i weryfikowanie hipotez dotyczących przyczyn tych zmian klimatu, jednak ze względu na niepewności dotyczące rekonstrukcji stanu środowiska sprzed tysięcy czy milionów lat, nie zawsze jest możliwe ustalenie ponad wszelką wątpliwość jak i dlaczego zmieniał się klimat w przeszłości geologicznej planety.&lt;/p&gt;
+
+&lt;p&gt;Dla odmiany, obecne zmiany klimatu możemy obserwować bezpośrednio dzięki globalnej sieci stacji meteorologicznych, radiosond, radarów, satelitów, samolotów, statków, boi, pływaków i dronów oceanograficznych. Obserwacje i pomiary, w połączeniu z teoretycznym opisem procesów zachodzących w systemie klimatycznym, umożliwiają nam zdiagnozowanie przyczyn globalnego ocieplenia zachodzącego od ponad 100 lat, i wykazanie ponad wszelką wątpliwość, że odpowiedzialna jest za nie emisja gazów cieplarnianych, przede wszystkim spalanie węgla, ropy i gazu. Tempo współczesnej, antropogenicznej zmiany klimatu jest pod wieloma względami bezprecedensowe w skali przynajmniej kilku milionów lat.&lt;/p&gt;
+
+&lt;p&gt;Nie jest to tylko opinia klimatologów czy fizyków atmosfery; z diagnozą taką zgadzają się również badacze zajmujący się badaniem klimatu w odległej przeszłości, a także instytucje i organizacje zrzeszające geologów i innych specjalistów z zakresu nauk o Ziemi. Powszechna akceptacja antropogenicznych przyczyn globalnego ocieplenia jest widoczna chociażby w treści współczesnych podręczników, również do geologii.&lt;/p&gt;
+
+&lt;p&gt;Na tym tle stanowisko Komitetu Nauk Geologicznych Polskiej Akademii Nauk szokuje nie tylko treścią, ale i formą, w tym selektywnym doborem źródeł i skromną bibliografią. Jasne jest, że jego autorzy nie znają się na większości zagadnień o których napisali, nie konsultowali się ze specjalistami, ani nie robili systematycznego przeglądu literatury. W wielu przypadkach pisali “z głowy”, w oparciu o analizę znalezionych w internecie wykresów metodą “na oko”, a tam gdzie cytowali jakąś literaturę naukową, to często bez zrozumienia, albo były to prace dawno już zdezaktualizowane.&lt;/p&gt;
+
+&lt;p&gt;Nie będę spekulować nad przyczynami takiego stanu rzeczy, i nie mam złudzeń że bez wymiany pokoleniowej nie ma co liczyć na głębszą refleksję członków Komitetu. Na szczęście dzisiaj widać wyraźniej niż kiedykolwiek, jak bardzo oderwane od świata nauki jest część środowiska polskich geologów, i pozostaje mi mieć nadzieję, że opinia KNG szybko zostanie zapomniana jako wstydliwy relikt ostatniego bastionu denializmu klimatycznego.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Feb 2020 10:00:00 +0000</pubDate>
+        <link>https://doskonaleszare.github.io/articles/20/komitet-nauk-geologicznych-pan-tldr</link>
+        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/20/komitet-nauk-geologicznych-pan-tldr</guid>
+        
+        
+        <category>media</category>
+        
+      </item>
+    
+      <item>
         <title>Komitet Nauk Geologicznych PAN, część 3</title>
-        <description>&lt;p&gt;Część trzecia i ostatnia.&lt;/p&gt;
+        <description>&lt;p&gt;Część trzecia i ostatnia. Część pierwszą można przeczytać &lt;a href=&quot;https://doskonaleszare.github.io/articles/20/komitet-nauk-geologicznych-pan-cz-1&quot;&gt;tutaj&lt;/a&gt;, drugą &lt;a href=&quot;https://doskonaleszare.github.io/articles/20/komitet-nauk-geologicznych-pan-cz-2&quot;&gt;tutaj&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -23,7 +48,7 @@
 
 &lt;p&gt;Co do “naukowej dyskusji” o roli dwutlenku węgla, KNG PAN znowu wprowadza w błąd opinię publiczną. Niemal wszyscy aktywni zawodowo klimatolodzy akceptują, że to czynniki antropogeniczne odpowiadają za obserwowany w ostatnim stuleciu długoterminowy wzrost temperatur; “niemal wszyscy”, bo istnienie konsensusu naukowego w dowolnej dziedzinie nie wyklucza istnienia jednostek, które taki stan rzeczy kontestują. Przykładowo, choć zdecydowana większość geologów akceptuje teorię tektoniki płyt, członkowie KNG PAN z pewnością pamiętają hipotezę rozszerzającej się Ziemi, i kilku swoich kolegów którzy tej hipotezy są od wielu lat bezkompromisowymi orędownikami.&lt;/p&gt;
 
-&lt;p&gt;Czy w takiej sytuacji członkowie KNG PAN zgodziliby się z tezą, że “trwa naukowa dyskusja” na temat poprawności tektoniki płyt, i że tak naprawdę nie wiadomo, czy Ziemia nie była dwukrotnie mniejsza ćwierć miliarda lat temu? Podejrzewam, że nie. Podejrzewam, że traktują ekspandystów jako sympatycznych, ale nieszkodliwych oszołomów, którzy nie potrafią zmodyfikować swoich poglądów i przyznać się do błędu. A za kilkanaście lat, kiedy ostatni ekspandyści opuszczą ten łez padół, będzie można traktować ten epizod jako ciekawą anegodtkę z historii nauki.&lt;/p&gt;
+&lt;p&gt;Czy w takiej sytuacji członkowie KNG PAN zgodziliby się z tezą, że “trwa naukowa dyskusja” na temat poprawności tektoniki płyt, i że tak naprawdę nie wiadomo, czy Ziemia nie była dwukrotnie mniejsza ćwierć miliarda lat temu? Podejrzewam, że nie. Podejrzewam, że traktują ekspandystów jako sympatycznych, ale nieszkodliwych oszołomów, którzy nie potrafią zmodyfikować swoich poglądów i przyznać się do błędu. A za kilkanaście lat, kiedy ostatni ekspandyści opuszczą ten łez padół, będzie można traktować ten epizod jako ciekawą anegdotkę z historii nauki.&lt;/p&gt;
 
 &lt;p&gt;Sytuacja naukowców kontestujących antropogeniczne przyczyny globalnego ocieplenia wygląda podobnie. Są oni w większości już na emeryturze, rzadko publikują w czasopismach naukowych (i coraz częściej są to &lt;em&gt;predatory journals&lt;/em&gt; albo azjatyckie &lt;em&gt;OA&lt;/em&gt; o bardzo niskim progu akceptacji manuskryptów), a prezentowane przez nich publicznie opinie nie odzwierciedlają aktualnego stanu badań nad klimatem. Widać to zresztą po zacytowanym przez KNG artykule Curry i Webstera &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;: jest on &lt;em&gt;esejem&lt;/em&gt; opublikowany w dziale &lt;em&gt;opinii&lt;/em&gt; Biuletynu Amerykańskiego Towarzystwa Meteorologicznego. Nie będę zajmował się nim szczegółowo, mogę tylko zapewnić czytelnika, że zawiera liczne błędy merytoryczne, zdradzające że autorzy wyszli daleko poza granice własnej specjalizacji &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;. Niektóre z tych błędów wypunktowane są w komentarzu autorstwa kilku naukowców, do których badań odwoływali się Curry i Webster &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
 
@@ -134,7 +159,7 @@
     
       <item>
         <title>Komitet Nauk Geologicznych PAN, część 2</title>
-        <description>&lt;p&gt;Kolejna część komentarza do stanowiska Komitetu Nauk Geologicznych PAN. Część trzecia ukaże się pod koniec tygodnia.&lt;/p&gt;
+        <description>&lt;p&gt;Kolejna część komentarza do stanowiska Komitetu Nauk Geologicznych PAN. Część trzecia ukaże się pod koniec tygodnia. &lt;a href=&quot;https://doskonaleszare.github.io/articles/20/komitet-nauk-geologicznych-pan-cz-1&quot;&gt;Link do części poprzedniej&lt;/a&gt;.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -180,7 +205,7 @@
   &lt;p&gt;Zasadniczą różnicą między okresowymi wzrostami temperatury globalnej w ciągu ostatniego miliona lat a czasami współczesnymi wydaje się być tempo tych zmian. Uważa się, że dziś jest ono znacząco wyższe niż dawniej. Niepewność polega na tym, że nie potrafimy porównać dawnej dynamiki wzrostu temperatury i koncentracji CO₂ z dynamiką dzisiejszą. Współcześnie mamy do dyspozycji długie i ciągłe serie czasowe pomiarów temperatury, które wykonujemy termometrami naziemnymi lub przyrządami umieszczanymi na satelitach bądź w balonach o zasięgu stratosferycznym. Informacje o temperaturze na dawnej Ziemi pozyskujemy metodami pośrednimi, których wyniki są obarczone niepewnością co do rzeczywistej wartości temperatury oraz czasu (wieku geologicznego). Jest zatem możliwe, że dawniej tempo zmian temperatury było podobne do dzisiejszego, ale niepełne ciągi danych, założenia metodyczne oraz uśrednienia i uogólnienia interpretacyjne nie pozwalają na pełną obserwację rzeczywistych przebiegów zmian temperatury i koncentracji CO₂. W konsekwencji, obserwowane współcześnie tempo wzrostu temperatury nie może być traktowane jako dowód na to, że naturalny proces wzrostu temperatury na Ziemi został w zauważalnym stopniu wzmocniony przez efekt cieplarniany, związany z antropogenicznym CO₂. Wskazuje na to również wyraźny epizod ocieplenia w latach trzydziestych dwudziestego wieku — na terytorium dzisiejszej Polski zanotowano wówczas najwyższe temperatury, odnotowane ponownie dopiero w 2019 roku.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Wypada zacząć od tego, że obserwowane współcześnie tempo wzrostu temperatury nie jest &lt;em&gt;samo w sobie&lt;/em&gt; dowodem tego, że ocieplenie jest konsekwencją wzmocnienia efektu cieplarnianego. Dowody potwierdzające dominującą rolę czynników antropogenicznych opierają się o porównanie przewidywań teoretycznych zmian klimatu ze zmianami rzeczywistymi, zarówno w czasie jak i przestrzeni &lt;a href=&quot;#przyp8&quot;&gt;[8]&lt;/a&gt;. Gdyby ludzkość emitowała mniej dwutlenku węgla, i w konsekwencji zawartość tego gazu w atmosferze rosła znacznie wolniej, obserwowalibyśmy ocieplenie przebiegające w wolniejszym tempie (jest nawet hipoteza, zwana “wczesnym antropocenem”, która postuluje że coś takiego zdarzyło się w połowie holocenu, dzięki deforestacji, rozwojowi rolnictwa i hodowli trzody &lt;a href=&quot;#przyp9&quot;&gt;[9]&lt;/a&gt;). Szybkie tempo zmiany klimatu ułatwia  natomiast badanie ich przyczyn, bo dzięki zwiększeniu stosunku sygnału do szumu nie musimy prowadzić długich obserwacji, aby statystycznie potwierdzić przewidywany efekt.&lt;/p&gt;
+&lt;p&gt;Wypada zacząć od tego, że obserwowane współcześnie tempo wzrostu temperatury nie jest &lt;em&gt;samo w sobie&lt;/em&gt; dowodem tego, że ocieplenie jest konsekwencją wzmocnienia efektu cieplarnianego. Dowody potwierdzające dominującą rolę czynników antropogenicznych opierają się o porównanie przewidywań teoretycznych zmian klimatu ze zmianami rzeczywistymi, zarówno w czasie jak i przestrzeni &lt;a href=&quot;#przyp8&quot;&gt;[8]&lt;/a&gt;. Gdyby ludzkość emitowała mniej dwutlenku węgla, i w konsekwencji zawartość tego gazu w atmosferze rosła znacznie wolniej, obserwowalibyśmy ocieplenie przebiegające w wolniejszym tempie (jest nawet hipoteza, zwana “wczesnym antropocenem”, która postuluje że coś takiego zdarzyło się w połowie holocenu, dzięki deforestacji, rozwojowi rolnictwa i hodowli bydła &lt;a href=&quot;#przyp9&quot;&gt;[9]&lt;/a&gt;). Szybkie tempo zmiany klimatu ułatwia  natomiast badanie ich przyczyn, bo dzięki zwiększeniu stosunku sygnału do szumu nie musimy prowadzić długich obserwacji, aby statystycznie potwierdzić przewidywany efekt.&lt;/p&gt;
 
 &lt;p&gt;Mierzony w ostatnich kilku dekadach trend temperatury globalnej wynosi około 0,02°C rocznie, czyli 2 stopnie na stulecie. Możemy spokojnie wykluczyć, że podobne globalne ocieplenie trwające &lt;em&gt;dłużej&lt;/em&gt; niż 1000 lat zaszło w ciągu ostatnich kiludziesięciu milionów lat: oznaczałoby to zmianę średniej temperatury globalnej o ponad 20 stopni Celsjusza, co spowodowałoby masowe wymieranie wielu gatunków, i byłoby łatwo dostrzegalne w zapisie kopalnym &lt;em&gt;nawet jeśli&lt;/em&gt; rozdzielczość czasowa rekonstrukcji zmiany temperatury nie pozwalałaby na stwierdzenie, że do wzrostu temperatury doszło.&lt;/p&gt;
 
@@ -216,6 +241,8 @@
 
 &lt;p&gt;Na koniec zwrócę jeszcze uwagę, że autorzy stanowiska KNG nie zrozumieli wniosków zawartych w raporcie IPCC (przy okazji, “AR” to skrót od “Assessment Report”, a nie “Annual Report”). “Bardzo prawdopodobny” z pierwszego cytatu odnosi się do &lt;em&gt;globalnego&lt;/em&gt; wzrostu temperatury, “prawdopodobny” zaś do trendów regionalnych, gdzie prób atrybucji dokonywano dla każdego kontynentu osobno &lt;a href=&quot;#przyp18&quot;&gt;[18]&lt;/a&gt;. Ponieważ wariancja szeregów czasowych temperatury wzrasta w mniejszych skalach przestrzennych, udowodnienie że &lt;em&gt;lokalne&lt;/em&gt; ocieplenie zostało spowodowane przez człowieka jest trudniejsze, a zatem i poziomy ufności są inne.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://doskonaleszare.github.io/articles/20/komitet-nauk-geologicznych-pan-cz-2&quot;&gt;Link do części trzeciej&lt;/a&gt;.&lt;/p&gt;
+
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;cytowana-literatura&quot;&gt;Cytowana literatura&lt;/h2&gt;
@@ -236,11 +263,11 @@
 
 &lt;p&gt;&lt;a name=&quot;przyp8&quot;&gt;&lt;/a&gt;8. Np. Jones G. S., Stott P. A., Christidis N. (2013): “Attribution of observed historical near‒surface temperature variations to anthropogenic and natural causes using CMIP5 simulations”, doi: &lt;a href=&quot;https://doi.org/10.1002/jgrd.50239&quot;&gt;10.1002/jgrd.50239&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;przyp9&quot;&gt;&lt;/a&gt;9. Ruddiman W. F. (2013): “The Anthropocene”, doi: &lt;a href=&quot;10.1146/annurev-earth-050212-123944&quot;&gt;https://doi.org/10.1146/annurev-earth-050212-123944&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp9&quot;&gt;&lt;/a&gt;9. Ruddiman W. F. (2013): “The Anthropocene”, doi: &lt;a href=&quot;https://doi.org/10.1146/annurev-earth-050212-123944&quot;&gt;10.1146/annurev-earth-050212-123944&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;przyp10&quot;&gt;&lt;/a&gt;10. Zeebe R. E., Ridgwell A., Zachos J. C. (2016): “Anthropogenic carbon release rate unprecedented during the past 66 million years”, doi: &lt;a href=&quot;https://doi.org/10.1038/ngeo2681&quot;&gt;10.1038/ngeo2681&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a name=&quot;przyp11&quot;&gt;&lt;/a&gt;11. Np. Rooth R., Joos F. (2013): “A reconstruction of radiocarbon production and total solar irradiance from the Holocene 14C and CO2 records: implications of data and model uncertainties”, doi: &lt;a href=&quot;https://doi.org/10.5194/cp-9-1879-2013&quot;&gt;10.5194/cp-9-1879-2013&lt;/a&gt;, Vieira L. E. A., et al. (2011): “Evolution of the solar irradiance during the Holocene”, doi: &lt;a href=&quot;https://doi.org/10.1051/0004-6361/201015843&quot;&gt;0004-6361/201015843&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;przyp11&quot;&gt;&lt;/a&gt;11. Np. Rooth R., Joos F. (2013): “A reconstruction of radiocarbon production and total solar irradiance from the Holocene ¹⁴C and CO₂ records: implications of data and model uncertainties”, doi: &lt;a href=&quot;https://doi.org/10.5194/cp-9-1879-2013&quot;&gt;10.5194/cp-9-1879-2013&lt;/a&gt;, Vieira L. E. A., et al. (2011): “Evolution of the solar irradiance during the Holocene”, doi: &lt;a href=&quot;https://doi.org/10.1051/0004-6361/201015843&quot;&gt;0004-6361/201015843&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a name=&quot;przyp12&quot;&gt;&lt;/a&gt;12. Rekonstrukcje aktywności słonecznej opierają się o relacje statystyczne pomiędzy liczbą plam słonecznych, oraz tempem produkcji radioaktywnych izotopów ¹⁴C i ¹⁰Be w atmosferze przez cząstki promieniowania kosmicznego, które modulowane jest intensywnością pola magnetycznego Słońca, i które można oszacować badając zawartość tych izotopów w słojach drzew i rdzeniach lodowych. Systematyczne liczenie plam słonecznych zaczęło się niespełna 400 lat temu; a izotopy ¹⁴C i ¹⁰Be mają ograniczoną użyteczność przed początkiem holocenu. Pewne nadzieje wiąże się z proxy opartym o zawartość jonów azotanowych z rdzeni lodowych, ale na razie nie opracowano jeszcze wykorzystujących ich rekonstrukcji.&lt;/p&gt;
 
@@ -300,11 +327,11 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;W interesującej nas kwestii związku koncentracji CO₂ w atmosferze z temperaturą na powierzchni Ziemi trzeba stwierdzić, że zapis geologiczny nie wskazuje na istnienie prostej zależności korelacyjnej między tymi dwiema zmiennymi. Dostępne informacje o cyklach najdłuższych – w skali epok geologicznych – wskazują, że najwyższe średnie temperatury (do 14oC wyższe od współczesnych) panowały na Ziemi ok. 480 mln lat temu: na granicy kambru i ordowiku, przed 270 mln lat – w permie oraz ok. 80 mln lat temu: w późnej kredzie, najniższe zaś (parę stopni niższe od współczesnych) ok. 450 mln lat temu: w  ordowiku i przed ok. 25 000 lat (Fig. 1, 2). Poziom CO₂ spadł z kilku tysięcy ppm w kambrze (ok. 520 mln lat) do kilkuset ppm w karbonie (ok. 300 mln lat), następnie wzrósł do ponad 2000 ppm w mezozoiku i spadł ponownie do kilkuset ppm w neogenie (ostatnie 20 mln lat). W takiej skali widać korelację długotrwałych (dziesiątki mln lat) minimów temperaturowych z minimami poziomu CO₂ (karbon i neogen), ale już na przełomie jury i kredy temperatura spadła do poziomu dzisiejszego, podczas gdy poziom CO₂ był sześciokrotnie wyższy niż dziś. Taka sytuacja jest sprzeczna z paradygmatem efektu cieplarnianego. Podobny paradoks dotyczy zlodowacenia ordowickiego (Fig. 1) czy okresu holoceńskiego (Fig. 5 poniżej), kiedy poziom koncentracji CO₂ i metanu wzrasta, a temperatura spada, począwszy od ok. 7000 lat temu. Należy  więc dopuścić hipotezę o istnieniu innych czynników warunkujących klimat, które potrafiły stłumić efekt szklarniowy.&lt;/p&gt;
+  &lt;p&gt;W interesującej nas kwestii związku koncentracji CO₂ w atmosferze z temperaturą na powierzchni Ziemi trzeba stwierdzić, że zapis geologiczny nie wskazuje na istnienie prostej zależności korelacyjnej między tymi dwiema zmiennymi. Dostępne informacje o cyklach najdłuższych – w skali epok geologicznych – wskazują, że najwyższe średnie temperatury (do 14°C wyższe od współczesnych) panowały na Ziemi ok. 480 mln lat temu: na granicy kambru i ordowiku, przed 270 mln lat – w permie oraz ok. 80 mln lat temu: w późnej kredzie, najniższe zaś (parę stopni niższe od współczesnych) ok. 450 mln lat temu: w  ordowiku i przed ok. 25 000 lat (Fig. 1, 2). Poziom CO₂ spadł z kilku tysięcy ppm w kambrze (ok. 520 mln lat) do kilkuset ppm w karbonie (ok. 300 mln lat), następnie wzrósł do ponad 2000 ppm w mezozoiku i spadł ponownie do kilkuset ppm w neogenie (ostatnie 20 mln lat). W takiej skali widać korelację długotrwałych (dziesiątki mln lat) minimów temperaturowych z minimami poziomu CO₂ (karbon i neogen), ale już na przełomie jury i kredy temperatura spadła do poziomu dzisiejszego, podczas gdy poziom CO₂ był sześciokrotnie wyższy niż dziś. Taka sytuacja jest sprzeczna z paradygmatem efektu cieplarnianego. Podobny paradoks dotyczy zlodowacenia ordowickiego (Fig. 1) czy okresu holoceńskiego (Fig. 5 poniżej), kiedy poziom koncentracji CO₂ i metanu wzrasta, a temperatura spada, począwszy od ok. 7000 lat temu. Należy  więc dopuścić hipotezę o istnieniu innych czynników warunkujących klimat, które potrafiły stłumić efekt szklarniowy.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Najciekawsze - jako analog dla współczesności - ocieplenie po okresie lodowcowym na początku permu przyszło wcześniej niż wyraźny wzrost CO₂ z końcem permu. Te obserwacje sugerują, że w cyklach najdłuższych nie ma prostej zależności przyczynowo-skutkowej między poziomem CO 2 w atmosferze a temperaturą na powierzchni Ziemi.&lt;/p&gt;
+  &lt;p&gt;Najciekawsze - jako analog dla współczesności - ocieplenie po okresie lodowcowym na początku permu przyszło wcześniej niż wyraźny wzrost CO₂ z końcem permu. Te obserwacje sugerują, że w cyklach najdłuższych nie ma prostej zależności przyczynowo-skutkowej między poziomem CO₂ w atmosferze a temperaturą na powierzchni Ziemi.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Ten krótki fragment ilustruje większość związanych ze stanowiskiem KNG PAN problemów. Autorzy zaczynają od zbudowania chochoła: choć dosłownie akapit wcześniej wymieniali &lt;em&gt;różne&lt;/em&gt; czynniki które miały wpływ na klimat, teraz nagle odkrywają, że zapis geologiczny nie wskazuje na istnienie &lt;em&gt;prostej&lt;/em&gt; zależności korelacyjnej pomiędzy koncentracją CO₂ w atmosferze a temperaturą powierzchni Ziemi, oraz że należy dopuścić hipotezę &lt;em&gt;innych&lt;/em&gt; czynników warunkujących klimat.&lt;/p&gt;
@@ -345,7 +372,7 @@
 &lt;p&gt;W opublikowanym cztery lata temu artykule przeglądowym “Co-evolution of oceans, climate, and the biosphere during the ‘Ordovician Revolution’: A review” trzech amerykańskich geologów tak opisuje problem ordowiku i ewolucję wiedzy na temat jego przyczyn &lt;a href=&quot;#przyp15&quot;&gt;[15]&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The Hirnantian glaciation is widely thought to have developed under conditions of high atmospheric pCO₂, an idea based largely on the Phanerozoic carbon cycle models of the late Robert Berner (Berner, 1991,1994, 2006; Berner and Kothavala, 2001) and possibly reinforced by C-isotope studies of soil minerals as CO₂ paleobarometers (Yapp andPoths, 1992; Mora et al., 1996). However, this would be highly unusual given the strong positive correlation between low pCO₂ and glaciation for the Phanerozoic as a whole (Royer, 2006) and for the Pleistocene in particular (Cuffey and Vimeux, 2001; Shakun et al., 2012). Various hypotheses have been proposed to account for this supposed anomaly, including a weak early Sun (Ramstein, 2011), high cloud albedo caused by cosmic ray flux (Shaviv and Veizer, 2003), and diminished silicate weathering owing to extensive ice cover (Kump et al., 1999). However, it is also possible that the inference of high atmospheric pCO₂ during the Hirnantian is simply incorrect: Berner’s pCO₂ curves have only a 10-Myr resolution and, thus, are likely to have completely missed a short-lived (~1-Myr-long) pCO₂ minimum during the Hirnantian glaciation. The significance of the Yapp and Poths (1992) study is uncertain as well: they studied the late Richmondian (late Katian) Neda Formation, which predated the Hirnantian glaciation by several million years. A recent investigation inferred that pCO₂ in the early Katian, ~8 million years prior to the Hirnantian glaciation, was &amp;lt;8× present atmospheric level (PAL), or less than half of earlier estimates (Pancost et al., 2013). Thus, atmospheric pCO₂ during the Hirnantian glaciation may well have been lower than previously thought.&lt;/p&gt;
+  &lt;p&gt;The Hirnantian glaciation is widely thought to have developed under conditions of high atmospheric pCO₂, an idea based largely on the Phanerozoic carbon cycle models of the late Robert Berner (Berner, 1991, 1994, 2006; Berner and Kothavala, 2001) and possibly reinforced by C-isotope studies of soil minerals as CO₂ paleobarometers (Yapp and Poths, 1992; Mora et al., 1996). However, this would be highly unusual given the strong positive correlation between low pCO₂ and glaciation for the Phanerozoic as a whole (Royer, 2006) and for the Pleistocene in particular (Cuffey and Vimeux, 2001; Shakun et al., 2012). Various hypotheses have been proposed to account for this supposed anomaly, including a weak early Sun (Ramstein, 2011), high cloud albedo caused by cosmic ray flux (Shaviv and Veizer, 2003), and diminished silicate weathering owing to extensive ice cover (Kump et al., 1999). However, it is also possible that the inference of high atmospheric pCO₂ during the Hirnantian is simply incorrect: Berner’s pCO₂ curves have only a 10-Myr resolution and, thus, are likely to have completely missed a short-lived (~1-Myr-long) pCO₂ minimum during the Hirnantian glaciation. The significance of the Yapp and Poths (1992) study is uncertain as well: they studied the late Richmondian (late Katian) Neda Formation, which predated the Hirnantian glaciation by several million years. A recent investigation inferred that pCO₂ in the early Katian, ~8 million years prior to the Hirnantian glaciation, was &amp;lt;8× present atmospheric level (PAL), or less than half of earlier estimates (Pancost et al., 2013). Thus, atmospheric pCO₂ during the Hirnantian glaciation may well have been lower than previously thought.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;W Komitecie Nauk Geologicznych PAN co najmniej kilka osób zna tę przeglądówkę; na przykład prof. Leszek Marynowski z Uniwersytetu Śląskiego jest współautorem cytującego go artykułu, który został opublikowany zaledwie kilkanaście miesięcy temu &lt;a href=&quot;#przyp16&quot;&gt;[16]&lt;/a&gt;. Nie będę spekulować, co powstrzymało go przed podzieleniem się z kolegami tą wiedzą.&lt;/p&gt;
@@ -379,6 +406,8 @@
 &lt;/blockquote&gt;
 
 &lt;p&gt;Kurtyna.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://doskonaleszare.github.io/articles/20/komitet-nauk-geologicznych-pan-cz-2&quot;&gt;Link do części drugiej&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -987,62 +1016,6 @@ Współczesna wiedza naukowa jest od bardzo dawna zbyt rozległa, by pojedyncza 
         <pubDate>Wed, 26 Dec 2018 09:00:00 +0000</pubDate>
         <link>https://doskonaleszare.github.io/articles/18/karon-u-roli</link>
         <guid isPermaLink="true">https://doskonaleszare.github.io/articles/18/karon-u-roli</guid>
-        
-        
-        <category>climsci</category>
-        
-      </item>
-    
-      <item>
-        <title>Geekweek i Antarktyda</title>
-        <description>&lt;p&gt;Globalny strumień geotermalny – ilość ciepła uciekającego z głębi planety przez jej powierzchnię – wynosi około 47 TW albo 92 mW/m². Jest to 2600 razy mniej niż ilość energii słonecznej docierającej do powierzchni Ziemi, i 20 razy mniej niż antropogeniczne wzmocnienie efektu cieplarnianego, wywołane emisjami dwutlenku węgla.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Jego źródłem&lt;/span&gt;  jest ciepło pochodzące z okresu formowania się planet Układu Słonecznego oraz rozpad pierwiastków radioaktywnych znajdujących się w skorupie i płaszczu Ziemi; w długich skalach czasowych jest to więc źródło bardzo stabilne. Jak pokazuje mapka poniżej (z artykułu Daviesa i Daviesa &lt;a href=&quot;#przypis1&quot;&gt;[1]&lt;/a&gt;), opracowana na podstawie pomiarów z dziesiątków tysięcy odwiertów, rozkład przestrzenny strumienia geotermalnego nie jest jednorodny: mniej ciepła ucieka przez kontynenty, niż przez dno oceanów (gdzie skorupa jest cieńsza), a szczególnie duże wartości strumień geotermalny osiąga w okolicach stref ryftowych.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Mapa strumienia geotermalnego.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/geothermal_heat_flux.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Antarktyda i Grenlandia są przedstawione jako miejsca, gdzie strumień geotermalny osiąga wyjątkowo wysokie wartości. Jest to konsekwencją dużych niepewności pomiarowych wynikających z trudności wykonywania pomiarów kilka kilometrów pod powierzchnią lądolodu, i w efekcie szacunki dotyczące tych miejsc oparte są głównie o dane pośrednie, oraz modelowanie uwzględniające lokalną geologię. Te niepewności oznaczają też oczywiście, że niespodzianki są nieuniknione.&lt;/p&gt;
-
-&lt;p&gt;Taką niespodziankę opisuje artykuł “Anomalously high geothermal flux near the South Pole” &lt;a href=&quot;#przypis2&quot;&gt;[2]&lt;/a&gt;, opublikowany kilka dni temu w &lt;em&gt;Scientific Reports&lt;/em&gt;. Autorzy analizowali odczyty radarowe dokonane w ramach projektu PolarGAP (nazwa pochodzi od tego, że bieguny są zwykle “ślepą plamką” satelitów na orbitach polarnych, więc w tym przypadku pomiarów dokonywano z pokładu samolotów), które pozwoliły na zrekonstruowanie pionowej struktury – stratygrafii – lądolodu Antarktydy w okolicy bieguna południowego. W kilku miejscach naukowcy wykryli, że jest ona zaburzona w sposób, który sugeruje topnienie dolnej (spągowej) warstwy lądolodu, tuż nad skałą macierzystą. Modelując przepływ ciepła w lodzie można oszacować, jaka wartość lokalnego strumienia geotermalnego jest wymagana do jego stopienia, z szacunków tych wyszło 120±20 mW/m², więcej niż można byłoby się spodziewać po lokalnej geologii tego obszaru. Autorzy proponują kilka hipotez dotyczących źródła ciepła, zauważają też, że jedną z praktycznych implikacji tego odkrycia jest to, że rejon bieguna południowego może nie nadawać się do poszukiwań &lt;a href=&quot;http://doskonaleszare.github.io/articles/15/blekitny-lod/&quot;&gt;bardzo starego lodu&lt;/a&gt;, którego próbki pozwoliłby na rekonstrukcję warunków klimatycznych na Antarktydzie milion i więcej lat temu.&lt;/p&gt;
-
-&lt;p&gt;Może zauważyliście, że jak dotąd ani słowem nie wspomniałem nic o globalnym ociepleniu. Nie jest to przypadek, bo artykuł też o nim nic nie mówi. Jedyna aluzja pojawia się w sekcji “Discussion”, przy odnośniku do artykułu o mechanizmach regulujących funkcjonowanie strumieni lodowych &lt;a href=&quot;#przypis3&quot;&gt;[3]&lt;/a&gt;. Na wszelki wypadek autorzy podkreślili ten fakt &lt;a href=&quot;https://www.bas.ac.uk/media-post/discovery-of-high-geothermal-heat-at-south-pole/&quot;&gt;w notce prasowej&lt;/a&gt;, tak by nikt nie miał wątpliwości, że anomalnie wysoka wartość strumienia geotermalnego nie wyjaśnia zmian lądolodu Antarktydy &lt;a href=&quot;http://doskonaleszare.github.io/articles/16/na-antarktydzie-ubywa-lodu/&quot;&gt;mierzonych w ostatnich dekadach&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The process of melting we observe has probably been going on for thousands or maybe even millions of years and isn’t directly contributing to ice sheet change. However, in the future the extra water at the ice sheet bed may make this region more sensitive to external factors such as climate change.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nie powstrzymało to redaktorów polskiego serwisu &lt;em&gt;Geekweek&lt;/em&gt;, który postanowił odkrycie przybliżyć swoim czytelnikom &lt;a href=&quot;http://www.geekweek.pl/news/2018-11-21/tajemnicze-zrodlo-ciepla-pod-lodami-antarktydy-ma-wplyw-na-globalny-klimat/&quot;&gt;w artykule&lt;/a&gt; pod frapującym tytułem “Tajemnicze źródło ciepła pod lodami Antarktydy ma wpływ na globalny klimat”. Większość przedstawionych w nim twierdzeń jest całkowicie wyssana z palca, zaczynając od samego tytułu, bo przecież &lt;em&gt;lokalna&lt;/em&gt; anomalia geotermalna o wartości 120 miliwatów na metr kwadratowy ma na &lt;em&gt;globalny klimat&lt;/em&gt; wpływ znikomy.&lt;/p&gt;
-
-&lt;p&gt;Dalej jest jeszcze gorzej, bo według serwisu &lt;em&gt;Geekweek&lt;/em&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Naukowcy odkryli pod lodami Antarktydy zagadkowe źródło ciepła, które ma gigantyczny wpływ na topnienie lodu, a to może podważać teorię o szybko postępującym globalnym ociepleniu. Najbardziej widocznym i namacalnym efektem globalnego ocieplenia ma być szybsze topnienie lodu na obszarach Arktyki i Antarktydzie, tymczasem w obu przypadkach źródłem tego zjawiska wcale nie musi być działalność człowieka, tylko naturalne procesy determinowane przez samo wnętrze naszej planety, na co my nie mamy żadnego wpływu.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Najbardziej widocznym efektem globalnego ocieplenia jest wzrost temperatury &lt;em&gt;powierzchni&lt;/em&gt; planety, który jest mierzony wieloma niezależnymi metodami, nie wiem więc jakim cudem topnienie lądolodu trzy kilometry pod biegunem południowym miałoby te pomiary &lt;em&gt;podważyć&lt;/em&gt;, tym bardziej że proces ten, jak podkreślają sami naukowcy, trwa od tysięcy albo milionów lat, i nie ma związku z &lt;em&gt;obecnymi&lt;/em&gt; zmianami grubości lądolodu?&lt;/p&gt;
-
-&lt;p&gt;Zmyśleniem redaktorów z &lt;em&gt;Geekweek&lt;/em&gt; jest też następująca teza&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Międzynarodowy zespół naukowy ma w planach zorganizować bardziej dokładne badania tajemniczego zjawiska występującego na tym kontynencie, bo niewątpliwie fałszuje ono dane historyczne uzyskiwane z badań rdzeni lodowych, więc może ono odmienić naszą dotychczasową wiedzę na temat postępujących zamian klimatycznych i skali udziału w nich działalności ludzkiej.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;“Tajemnicze zjawisko” nie może mieć wpływu na dane uzyskane z rdzeni lodowych z tego prostego powodu, że żadne odwierty w tej lokalizacji nie były &lt;em&gt;jeszcze&lt;/em&gt; przeprowadzane. Najbliższy długi rdzeń,  Wostok, został pozyskany z miejsca odległego o około tysiąc kilometrów, i akurat w tym przypadku od dawna było wiadomo, że pod lodem znajduje się zbiornik ciekłej wody, odkryty pomiarami radarowymi w 1974 roku. W przypadku innych rdzeni też oczywiście był przeprowadzany radarowy rekonesans, bo glacjolodzy nie są idiotami i nie chcieliby spędzić kilku sezonów na końcu świata tylko po to, by na koniec odkryć że próbki lodu do niczego się nie nadają. Nie było i nie ma więc obaw, że nasza wiedza na temat zmian klimatu została “niewątpliwie zafałszowana”, jak wymyślili to sobie na Geekweeku.&lt;/p&gt;
-
-&lt;p&gt;Zdaję sobię sprawę, że dział popularno-naukowy Geekweeka z założenia ma mieć poziom Pudelka, więc wszystkie odkrycia o których piszą będą “przełomem” i “odmienią naszą dotychczasową wiedzę”. Podpowiem redaktorom serwisu, że można ten cel osiągnąć wybierając na temat artykułów odkrycia naukowe, które rzeczywiście takie &lt;em&gt;są&lt;/em&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przypis1&quot;&gt;&lt;/a&gt;1. Davies J. H. i D. R. Davies (2010): &lt;a href=&quot;https://www.solid-earth.net/1/5/2010/&quot;&gt;Earth’s Surface Heat Flux&lt;/a&gt;, &lt;em&gt;Solid Earth&lt;/em&gt; 1, 5-24, 2010.
-&lt;a name=&quot;przypis2&quot;&gt;&lt;/a&gt;2. Jordan T.A, et al (2018): &lt;a href=&quot;https://www.nature.com/articles/s41598-018-35182-0&quot;&gt;Anomalously high geothermal flux near the South Pole&lt;/a&gt;, &lt;em&gt;Scientific Reports&lt;/em&gt; 8.
-&lt;a name=&quot;przypis3&quot;&gt;&lt;/a&gt;3. Langley K., et al (2014): &lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-glaciology/article/onset-of-fast-ice-flow-in-recovery-ice-stream-east-antarctica-a-comparison-of-potential-causes/&quot;&gt;Onset of fast ice flow in Recovery Ice Stream, East Antarctica: a comparison of potential causes&lt;/a&gt;, &lt;em&gt;Journal of Glaciology&lt;/em&gt; 60, Issue 223, pp. 1007-1014.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 22 Nov 2018 09:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/18/geekweek-i-antarktyda</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/18/geekweek-i-antarktyda</guid>
         
         
         <category>climsci</category>
