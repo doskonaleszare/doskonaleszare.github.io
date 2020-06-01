@@ -5,9 +5,44 @@
     <description>Blog o klimacie</description>
     <link>https://doskonaleszare.github.io/</link>
     <atom:link href="https://doskonaleszare.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 May 2020 12:11:32 +0000</pubDate>
-    <lastBuildDate>Fri, 15 May 2020 12:11:32 +0000</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2020 22:49:04 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2020 22:49:04 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Wyjątkowo zimny maj</title>
+        <description>&lt;p&gt;Tegoroczny maj skonfundował nieco naszych rodzimych denialistów klimatycznych, powodując masowe zwątpienie w realność zjawiska globalnego ocieplenia.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Przyznam że nigdy nie rozumiem&lt;/span&gt; , co kryje się za pytaniami, gdzie się podziało globalne ocieplenie. Czy pytający naprawdę wierzą, że wzrost średniej temperatury planety nie miał miejsca? Czy też może są przekonani, że w Polsce akurat to zjawisko nie zachodzi? Jeśli traktują jakieś zjawisko pogodowe jako dowód &lt;em&gt;obalający&lt;/em&gt; hipotezę ocieplenia klimatu, to przecież powinni mieć jakąś hipotezę alernatywną, która lepiej oddaje ich wierzenia i opinie. I przyznaję, spotkałem się w internecie z przypadkami, gdy ktoś przekonywał mnie, że tak naprawdę nie wiadomo, czy zmiana klimatu w ogóle jest obserwowana, ale jakoś większość denialistów przez większą część roku będzie gotowa zarzekać się, że “nikt poważny nie kwestionuje samego globalnego ocieplenia”&lt;/p&gt;
+
+&lt;p&gt;Czy można potraktować pojedyncze zjawisko pogodowe jako dowód obalający hipotezę ocieplenia klimatu? Jak najbardziej.&lt;/p&gt;
+
+&lt;p&gt;Wystarczy takie wybrać zdarzenie pogodowe, którego zajście byłoby (bardzo) mało prawdopodobne przy &lt;em&gt;danym&lt;/em&gt; klimacie. Przykładowo, gdybyśmy wzięli mapę temperatury atmosfery z pojedynczego dnia 21 tysięcy lat temu, i wybrali z niej nawet niewielki wycinek odpowiadający terytorium współczesnej Polski, to zapewne nawet osoba która z klimatologią i paleoklimatologią nie miała nic do czynienia zauważyłaby, że coś z tą pogodą jest nie tak. Ktoś o większym doświadczeniu mógłby natomiast wywnioskować, że system klimatyczny który to zjawisko pogodowe wytworzył, wyglądał drastycznie inaczej niż obecny: na przykład sporą powierzchnię lądów półkuli północnej pokrywał kilkukilometrowy lądolód.&lt;/p&gt;
+
+&lt;p&gt;Przekładając to na język statystyki (będę używać interpretacji częstotliwościowej, ale analogiczne rozumowanie można przeprowadzić i z użyciem Bayesa), w najprostszym przypadku mamy jakiś rozkład odpowiadający hipotezie, którą chcemy sfalsyfikować, i zdarzenie gdzieś na krańcu tego rozkładu. Jeśli jest ono odpowiednio ekstremalne — to znaczy, jeśli znikome jest prawdopodobieństwo jego zaobserwowania &lt;em&gt;jeśli&lt;/em&gt; hipoteza jest prawdziwa — możemy naszą hipotezę odrzucić.&lt;/p&gt;
+
+&lt;p&gt;Czy tegoroczny maj jest takim zdarzeniem? Czy faktycznie był on &lt;em&gt;wyjątkowo&lt;/em&gt; zimny?&lt;/p&gt;
+
+&lt;p&gt;Można to ocenić na kilka sposobów. Jeśli jesteśmy bardzo leniwi, możemy wykorzystać to, że rozkład anomalii miesięcznych z ostatnich kilkudziesięciu lat da się modelować jako trend liniowy (“ocieplenie klimatu”) plus biały szum gaussowski (“pogoda”). Jeśli to założenie akceptujemy, łatwo jest obliczyć, że tegoroczny maj wypadał około 2 odchylenia standardowe poniżej linii trendu wieloletniego, a prawdopodobieństwo zaobserwowania &lt;em&gt;co najmniej&lt;/em&gt; tak ekstremalnego zdarzenia wynosiło 2.3%.&lt;/p&gt;
+
+&lt;p&gt;Czy 2.3% to dużo? Zależy od kontekstu. Nie ma przecież nic wyjątkowego w tym, że to &lt;em&gt;akurat&lt;/em&gt; maj był chłodniejszy a kwiecień nie; gdyby było na odwrót, denialiści klimatyczni pytaliby się miesiąc temu, czy globalne ocieplenie już się skończyło. Innymi słowy, mamy do czynienia tutaj z problemem porównań wielokrotnych, kiedy wykonujemy ten sam test statystyczny więcej niż raz, co oczywiście zwiększa prawdopodobieństwo zaobserwowania interesującego nas zdarzenia. Traktując każdy miesiąc jako zdarzenie niezależne (co nie jest prawdą, ale uwzględnienie autokorelacji tylko nieznacznie zmieni wynik), wychodzi nam, że prawdopodobieństwo że &lt;em&gt;jakiś&lt;/em&gt; miesiąc (albo miesiące) jest 2 odchylenia standardowe poniżej linii trendu wynosi około 24% rocznie, 42% w ciągu 2 lat, 56% w ciągu 3 lat, 75% w ciągu 5 lat, i 94% w ciągu dekady. Jeśli więc nie obserwujemy takich zimnych anomalii częściej niż raz na kilka lat, nie mamy powodów aby odrzucić nasze początkowe założenie o liniowym trendzie wzrostowym, a zatem i ocieplaniu się klimatu.&lt;/p&gt;
+
+&lt;p&gt;Alternatywnie, możemy też zapytać, jak prawdopodobne jest zaobserwowanie zdarzenia “najchłodniejszy od 29 lat miesiąc”. Przyjmując podobne założenia co poprzednio, można oszacować że w przypadku maja prawdopodobieństwo to wynosi 1.8%, co jest wynikiem zbliżonym do poprzedniego. Oczywiście, im dłuższy okres ocieplenia, i im dłuższego rekordu wymagamy, tym mniej prawdopodobna jest jego realizacja.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;marginnote&quot;&gt;Prawdopodobieństwo pobicia n-letniego rekordu dla różnych wartości trendu liniowego (wyrażonych w odchyleniach standardowych składników resztowych na rok). Panel górny: rekordy zimna, panel dolny: rekordy ciepła. Linie przerywane pokazują dane dla maja (dane z okresu 1950-2020) i długości rekordu wynoszącej 29 lat.&lt;/span&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/records2020.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dla porównania, prawdopodobieństwo zaobserwowania &lt;em&gt;najcieplejszego&lt;/em&gt; od 29 lat maja wynosi już 5.6%, a dla dłuższych rekordów nie spada poniżej 4.3%. Inaczej rzecz ujmując, przy ocieplającym się klimacie jest mało prawdopodobne (i wraz z upływem czasu staje się coraz mniej prawdopodobne), aby rekordowo wysokie temperatury zarejestrowane były w odległej przeszłości.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2020 22:00:00 +0000</pubDate>
+        <link>https://doskonaleszare.github.io/articles/20/wyjatkowo-zimny-maj</link>
+        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/20/wyjatkowo-zimny-maj</guid>
+        
+        
+        <category>media</category>
+        
+      </item>
     
       <item>
         <title>Zimni ogrodnicy, czyli podróże w krainie hipotez zerowych</title>
@@ -894,106 +929,6 @@ Współczesna wiedza naukowa jest od bardzo dawna zbyt rozległa, by pojedyncza 
         
         
         <category>clisci</category>
-        
-      </item>
-    
-      <item>
-        <title>Dziesięć lat</title>
-        <description>&lt;p&gt;Bloga zacząłem pisać pod wpływem impulsu, mniej więcej 10 lat temu, i nie przypuszczałem wtedy że dzisiaj wciąż będę tę pisaninę kontynuować. Poniżej znajdziecie więc garść moich refleksji, wspomnień i anegdotek, dotyczących mojej działalności popularyzatorskiej, oraz debaty o globalnym ociepleniu w Polsce i nie tylko. Notka jest, ostrzegam, dość długa, na szczęście kolejnej o podobnej objętości możecie się spodziewać za kolejne 10 lat.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Doskonale Szare powstało&lt;/span&gt;  w odpowiedzi na wyemitowaną 21 stycznia 2009 audycję “Bronisław Wildstein przedstawia”, której hasłem przewodnim był “Ekoterror”, a głównym jego przykładem globalne ocieplenie. Ówczesny kontekst polityczny zaskakująco przypominał atmosferę sprzed kilku tygodni: było to świeżo po zakończeniu COP14 w Poznaniu (oraz przyjęciu ustaleń Pakietu energetyczno-klimatycznego przez Parlament Europejski); zgodnie z tezą przewodnią Wildsteina globalne ocieplenie miało być oszustwem propagowanym przez nieuczciwych naukowców (o czym mówił jeden z zaproszonych gości, emerytowany lekarz-radiolog Zbigniew Jaworowski) i skorumpowanych polityków (takie tezy z kolei przedstawiał drugi z gości programu, Robert Gwiazdowski).&lt;/p&gt;
-
-&lt;p&gt;Dzisiaj pewnie już następnego dnia serwis Nauka o Klimacie przedstawiłby polemikę z tezami, które padły w programie Wildsteina; no ale 10 lat temu Nauki o Klimacie jeszcze nie było. Pamiętam, że oglądając konferencję prasową Ministerstwa Środowiska, które dość nieporadnie tłumaczyło się, że nie uczestniczą w opisanym przez Jaworowskiego Wielkim Spisku Globalnego Ocieplenia, pomyślałem sobie “nawet ja zrobiłbym to lepiej”. No i założyłem bloga.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Bloga, bo kiedy zaczynałem pisać o klimacie,&lt;/span&gt;  internet był trochę innym miejscem niż dzisiaj. Miejscem, gdzie kłócili się ludzie, były fora internetowe oraz blogi, i oczywiście jednym z powracających tematów sporów było globalne ocieplenie. W anglojęzycznej części internetu dyskurs klimatyczny był zdominowany przez blog “RealClimate”, założony przez kilku klimatologów różnych narodowości jeszcze w 2005 roku; oraz znacznie popularniejszy “Watts Up With That”, prowadzony przez emerytowanego prezentera pogody Anthony’ego Wattsa, i prezentujący punkt widzenia denialistów klimatycznych (a raczej setki różnych punktów widzenia, niekoniecznie ze sobą spójnych). Szczyt popularności te i inne blogi o klimacie przeżyły w 2009 i 2010, dzięki tzw. aferze “ClimateGate”, którą niektórzy czytelnicy być może jeszcze pamiętają (tak, będzie okrągła 10-letnia rocznica w listopadzie).&lt;/p&gt;
-
-&lt;p&gt;Formuła bloga “Doskonale Szare” nie była zbyt oryginalna, bo z początku koncentrowałem się głównie na pisaniu polemik (a w 2009 roku denializm klimatyczny był w polskich mediach bardzo popularny), oraz edukacji w tematach podstaw klimatologii. Z upływem czasu moja aktywność spadała, zarówno z przyczyn osobistych, jak i powolnego wyczerpywania tematu: jak już napiszesz o emisjach wulkanicznych, karczmach na Bałtyku i Wikingach na Grenlandii, to masz z głowy połowę padających w dyskursie publicznym argumentów “obalających” globalne ocieplenie. Po kilku latach zauważyłem też, że przynajmniej w mediach masowych denializm klimatyczny stracił na popularności, miałem więc mniej okazji do tekstów polemicznych. W 2013 roku powstała też Nauka o Klimacie, która popularyzowaniem wiedyz o klimacie zajęła się w sposób zdecydowanie bardziej systematyczny, i jak muszę z zazdrością przyznać, bardziej skuteczny.&lt;/p&gt;
-
-&lt;p&gt;Od wielu lat w środowisku ludzi zajmujących się popularyzacją wiedzy o klimacie toczy się dyskusja na temat najlepszych strategii komunikacyjnych. Nie będę tutaj streszczał jej przebiegu, napomknę tylko, że tutaj do osiągnięcia konsensusu wciąż daleko, a jej głównym efektem było wzajemne poobrażanie się ludzi, którzy o zmianach klimatu mówią, oraz ludzi, którzy mówią jak powinno się mówić (oraz, co gorsza, jak się mówić &lt;em&gt;nie powinno&lt;/em&gt;). Osobiście uważam, że nie istnieje jeden magiczny, wyjątkowo skuteczny sposób przekonywania kogoś do tego, że problem globalnego ocieplenia należy potraktować poważnie; a skoro taki sposób nie istnieje, jest w przestrzeni publicznej miejsce na różne, alternatywne metody i podejścia.&lt;/p&gt;
-
-&lt;p&gt;Moje podejście do popularyzacji nauki o klimacie opierało się na jednym, podstawowym założeniu:&lt;/p&gt;
-
-&lt;p&gt;Ludzie prawie nigdy nie zmieniają zdania.&lt;/p&gt;
-
-&lt;p&gt;Tak, wiem, bywają wyjątki. Zdarzyło się kilka razy, że słyszałem od kogoś, że był do globalnego ocieplenia nastawiony sceptycznie, ale lektura mojego bloga pomogła mu w zrozumieniu, jakimi metodami posługuje się klimatologia, jak wyglądają badania nad zmianami klimatu, i jak przedstawiają się ich ustalenia. Takich przypadków, obawiam się, jest jednak niewiele, a jeśli drogi czytelniku jesteś jednym z nich, to serdecznie gratuluję!&lt;/p&gt;
-
-&lt;p&gt;Umysł ludzki jest bowiem bardzo plastyczny i doskonale sobie radzi z racjonalizacją sprzeczności pomiędzy faktami i osobistymi przekonaniami. Te same osoby, które jeszcze chwilę temu przywiązywały wielką wagę do tego, że “naukowcy spierają się o globalne ocieplenie”, gdy przedstawić im dane świadczące o braku takiego sporu nagle zaczynają głosić, że fakt istnienia — bądź braku — konsensusu naukowego nie ma żadnego znaczenia, bo przecież ustaleń nauki nie rozstrzyga się głosowaniem. Te same osoby, które w oparciu o badania glacjologów i heliofizyków próbują dowieść, że obserwowany wzrost poziomu dwutlenku węgla w atmosferze ma przyczyny naturalne, a za globalne ocieplenie odpowiada wzrost aktywności słonecznej, gdy pokazać im że glacjolodzy i heliofizycy wcale tak nie myślą — nagle zaczynają mówić, że naukowcom wierzyć nie można, bo przecież dostają na te badania &lt;em&gt;pieniądze z grantów&lt;/em&gt;. Ludzie, którzy domagają się &lt;em&gt;naukowych dowodów&lt;/em&gt; na antropogeniczne przyczyny globalnego ocieplenia, gdy takie dowody dostaną, nagle tracą nimi zainteresowanie, albo odrzucają je nawet bez zapoznania się z nimi.&lt;/p&gt;
-
-&lt;p&gt;Smutna prawda jest taka, że jeśli już komuś zdarzy się publiczne wyrażenie zdania na temat globalnego ocieplenia — a nie daj Boże, by wziął udział w dyskusji na ten temat — to najprawdopodobniej będzie się tego zdania trzymał.&lt;/p&gt;
-
-&lt;p&gt;Pozwolę sobie tutaj sięgnąć do wywiadu z dr Magdaleną Budziszewską, &lt;a href=&quot;https://www.crazynauka.pl/dlaczego-ludzie-neguja-ocieplenie-klimatu-i-wplyw-czlowieka-na-te-zmiany/&quot;&gt;udzielonego serwisowi&lt;/a&gt; Crazy Nauka, gdzie pada taka oto teza:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Z denialistami (nawet tymi dobrej woli, jak moja znajoma starsza pani) nie wygramy w sieci. Musimy się z nimi spotkać twarzą w twarz – najlepiej sam na sam, żeby taki ktoś nie czuł się wyśmiany, upokorzony, zawstydzony. W ogóle w świecie globalnego ocieplenia musimy wyjść z Facebooka i zainwestować w relacje personalne i w więzi. I tak jak w stanie wojennym: to, co jest w pierwszym obiegu – traktować co najmniej podejrzanie.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Problem z tymi radami jest taki, że po pierwsze sugerowane podejście jest, jak to się brzydko mówi, nieskalowalne. Mogę porozmawiać o globalnym ociepleniu z anegdotycznym wąsatym wujkiem Januszem albo znajomą dentystką, mogę ich nawet przekonać do tego, że jest to realny problem za który odpowiada nasza cywilizacja, i że należałoby go rozwiązać, jeśli nie dla nas, to dla przyszłych pokoleń. Nawet zapalczywym denialistom trudniej jest oskarżyć kogoś osobiście, że jest członkiem ogólnoświatowego spisku lewackich naukowców z IV Rzeszy, którego celem jest zniszczenie górnictwa i depopulacja Polski; zauważyłem też, że w rozmowach twarzą w twarz łatwiej zaakceptować braki we własnej wiedzy, i uznać że rozmówca na jakiś temat jednak może wiedzieć więcej. Niestety, nie mogę porozmawiać osobiście z &lt;em&gt;wszystkimi&lt;/em&gt; sceptykami.&lt;/p&gt;
-
-&lt;p&gt;Może więc porozmawiać tylko z tymi, którzy nadają ton całej publicznej debacie? Może wziąć i zgromadzić w jednym pokoju wszystkich Ziemkiewiczów, Warzechów, Korwinów-Mikke, Gwiazdowskich, i spróbować wyedukować ich w temacie podstaw klimatologii?&lt;/p&gt;
-
-&lt;p&gt;Mam powody by wątpić, by takie podejście było skuteczne. Jeśli ktoś od kilkunastu lat wierzy, że Grenlandia była w średniowieczu pozbawiona lądolodu, a w lipcu 1655 Szwedzi zaatakowali Rzeczpospolitą przechodząc po zamarzniętym Bałtyku, to nie podejrzewam by nagle zmienili zdanie. Ostateczny argument wyznawów teorii spiskowych — że to “największy szwindel w historii ludzkości” — jest, niestety, niepodważalny. Każdy naukowiec może być kupiony, każde badanie sfałszowane, a każdy fakt sfabrykowany przez lobby wegetariańsko-wiatrakowo-rowerowe &lt;a href=&quot;#przyp1&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Prowadząc “Doskonale Szare” poszedłem więc po linii najmniejszego oporu&lt;/span&gt; . Zamiast zmieniać wyrobione już opinie, uznałem że łatwiej będzie wpłynąć na sposób, w jaki te opinie są &lt;em&gt;wyrabiane&lt;/em&gt;. Nikt z nas przecież nie rodzi się ze zbiorem gotowych opinii siedzących już w mózgu, tylko zdobywamy je w trakcie naszego życia: słyszymy je od rodziców, potem nauczycieli, rówieśników, nauczycieli, wykładowców, polityków, dziennikarzy, idoli i autorytetów różnego typu. Jeśli nie będziemy kontestować — najlepiej od razu, zaraz po ich wygłoszeniu — pojawiających się w publicznym dyskursie, nieprawdziwych informacji o zmianach klimatu, to niewielka jest szansa, że ktokolwiek je potem samodzielnie zweryfikuje.&lt;/p&gt;
-
-&lt;p&gt;Weźmy dla przykładu popularny mit, że jeden wybuch wulkanu wyrzuca do atmosfery więcej dwutlenku węgla, niż cała ludzkość w swojej historii. Słyszę go, w różnych wariantach, od ponad 15 lat, i choć znam &lt;a href=&quot;http://naukaoklimacie.pl/aktualnosci/korzenie-mitu-wulkany-emituja-wiecej-co2-od-nas-172&quot;&gt;jego historię&lt;/a&gt;, nigdy nie udało mi się uzyskać odpowiedzi na pytanie “a skąd zaczerpnąłeś tę informację” (no dobrze, raz pewien dziennikarz odesłał mnie do mojego własnego artykułu o emisjach wulkanicznych). Podobnie z karczmami na Bałtyku, choć tutaj czasami padają naprędce wymyślane źródła historyczne. Podejrzewam więc, że tego typu faktoidy krążą w obiegu ustno-pisemno-internetowym, podtrzymywane przy życiu wyłącznie częstością ich powtarzania. Co innego, jeśli pojawią się głosy alternatywne, przedstawiające merytoryczne argumenty i rzetelne źródła. Nawet jeśli nie przekonają one dyskutanta czy głosiciela danej tezy, jest większa szansa że trafią do obserwujących dyskusję, anonimowych lurkerów.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Czy faktycznie trafiają?&lt;/span&gt;  Posiadam na ten temat tylko dane anegdotyczne, ale wydaje mi się, że jednak tak. Choć wciąż, przy każdym wybuchu jakiegoś wulkanu — co zdarza się raz czy kilka razy w roku — internet zalewają komentarze o tym, że &lt;em&gt;całą redukcję emisji ceodwa szlag trafił&lt;/em&gt;, normą już jest, iż spotykają się z natychmiastową kontrą osób, które poprawnie zapamiętały, ile faktycznie te wulkany dwutlenku węgla emitują. Podobnie jest z wieloma innymi mitami klimatycznymi: choć wciąż są bardzo popularne, sporo osób wie, dlaczego są nieprawdziwe, i potrafi je sprostować.&lt;/p&gt;
-
-&lt;p&gt;Nie mam oczywiście złudzeń, że jest to zasługą mojego bloga. Dobrych, rzetelnych źródeł informacji na temat klimatu, czy szerzej nauki, jest po prostu znacznie więcej niż 10 lat temu, nie wspominając już o epoce wczesnointernetowej, sprzed Googla i Wikipedii. Temat zmian klimatu na stałe zagościł u polskich popularyzatorów nauki, zarówno amatorów, pół-profesjonalistów, jak i weteranów tego zawodu, którzy łącznie docierają do widowni, jak podejrzewam, setek tysięcy czytelników/subkrybentów. Ostatecznie, wiele osób lubi czytać czy słuchać o nauce, a problemy naukowe klimatologii, jeśli zostaną odpowiednio sprzedane, mogą być naprawdę fascynujące również dla laików.&lt;/p&gt;
-
-&lt;p&gt;Max Planck powiedział kiedyś (bardzo luźno parafrazując), że głównym motorem zmian w nauce jest demografia: stare paradygmaty upadają nie dlatego, że ich proponenci doznają oświecenia i akceptują argumenty swoich oponentów, tylko w wyniku przemiany pokoleniowej. Denializm globalnego ocieplenia jest dobrym przykładem takiego schyłkowego paradygmatu w ostatnim stadium wymarcia, w przenośni i dosłownie, praktycznie nieobecnego już w literaturze naukowej, a istniejącego głównie w mediach (raczej o konserwatywnym czy prawicowym światopoglądzie), i to o coraz mniejszym zasięgu. Wielu bohaterów mojego bloga dawno już osiągnęło podeszły wiek, część na zawsze opuściła ten łez padół. Jest dość symptomatyczne, że pisanie bloga rozpocząłem od polemiki z tezami dwóch naukowców, których już wśród nas nie ma: radiologa Zbigniewa Jaworowskiego (1927-2011) i chemika Przemysława Mastalerza (1925-2011).&lt;/p&gt;
-
-&lt;p&gt;Z drugiej strony, naukowcy młodszego pokolenia mają lepsze rzeczy do roboty niż negowanie podstaw fizyki, a dzięki internetowi i przemianom polityczno-gospodarczo-społecznym ostatniego ćwierćwiecza łatwiej jest im też zorientować się, jak wygląda rzeczywisty stan badań nad klimatem (nawet jeśli zagadnienie to nie leży w zakresie ich specjalności naukowej). Innymi słowy, wśród naukowców starych denialistów ubywa, a młodych nie przybywa, i podejrzewam że gdy media stracą możliwość cytowania nawet garstki tych samych emerytów, którzy od kilku dekad występowali w roli zaplecza intelektualnego zorganizowanego ruchu sceptyków globalnego ocieplenia, rzekome “kontrowersje” dotyczące przyczyn i skutków zmian klimatu zostaną zapomniane również przez opinię publiczną.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Głównym problemem denialistów&lt;/span&gt;  było to, że choć przez długi czas całkiem skutecznie kreowali się na alternatywny głos nauki, jako naukowcy nie mieli nic ciekawego do zaoferowania. Wszystkie ogłaszane z wielką pompą projekty i inicjatywy, które miały teorię antropogenicznego globalnego ocieplenia obalić, albo nie przyniosły spodziewanych rezultatów, i zwykle były po cichu zapominane.&lt;/p&gt;
-
-&lt;p&gt;Prowadzony w CERNie eksperyment CLOUD nie potwierdził istnienia postulowanego wiele lat temu mechanizmu wpływu promieniowania kosmicznego na zachmurzenie.&lt;/p&gt;
-
-&lt;p&gt;Projekt “surfacestations.org” Anthony’ego Wattsa, który miał wykazać że większość ocieplenia mierzonego na terenie Stanów Zjednoczonych jest artefaktem pomiarowym, umarł w kuriozalnych okolicznościach w 2012 roku &lt;a href=&quot;#przyp2&quot;&gt;[2]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Podobna, przynajmniej jeśli chodzi o &lt;a href=&quot;https://www.telegraph.co.uk/comment/11561629/Top-scientists-start-to-examine-fiddled-global-warming-figures.html&quot;&gt;deklarowane&lt;/a&gt; &lt;a href=&quot;http://www.thegwpf.org/inquiry-launched-into-global-temperature-data-integrity/&quot;&gt;cele&lt;/a&gt;, inicjatywa brytyjskiej organizacji lobbystycznej Global Warming Policy Foundation z 2015 roku zakończyła się wykupieniem domeny i stworzeniem strony internetowej, którą wkrótce przestano zresztą &lt;a href=&quot;https://web.archive.org/web/20170622082112/http://www.tempdatareview.org/news&quot;&gt;aktualizować&lt;/a&gt;, a potem i przestano opłacać samą domenę.&lt;/p&gt;
-
-&lt;p&gt;Projekt Berkeley Earth zakończył się zreplikowaniem “oficjalnych” wyników klimatologów, co spowodowało zresztą rozłam w zespole projektu.&lt;/p&gt;
-
-&lt;p&gt;Komisje badające tzw. Climategate nie wykazały ani nieuczciwości klimatologów, ani żadnego nierzetelnego manipulowania danymi.&lt;/p&gt;
-
-&lt;p&gt;Podobnie jak &lt;a href=&quot;https://www.mitre.org/sites/default/files/publications/MITRE-DoC-NOAA-Assessment-Report.pdf&quot;&gt;komisja&lt;/a&gt; badająca rzekome &lt;a href=&quot;https://doskonaleszare.github.io/articles/17/dzien-swistaka&quot;&gt;“fałszowanie danych przed szczytem w Paryżu”&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Największą wtopę zaliczyli jednak denialiści z New Zealand Climate Science Coalition, którzy próbowali w tamtejszym Sądzie Najwyższym unieważnić analizę zmian temperatury przeprowadzoną przez główny nowozelandzki ośrodek badań nad środowiskiem NIWA. Sąd Najwyższy, o dziwo, sprawę bardzo dokładnie przeanalizował, i &lt;a href=&quot;https://www.nbr.co.nz/sites/default/files/images/NZ%20Climate%20Science%20v%20NIWA.pdf&quot;&gt;oddalił zarzuty jako bezzasadne&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Zapowiadane przez wielu denialistów — z prof. Jaworowskim na czele — globalne ochłodzenie i kolejna mała epoka lodowa wciąż nie nadeszło.&lt;/p&gt;
-
-&lt;p&gt;Globalne ocieplenie nie skończyło się w 1998 roku.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;Znajduję więc wyjątkowo ironicznym&lt;/span&gt;  to, że niemal dziesięć lat po tym, jak pewna prawicowa publicystka ogłaszała w &lt;em&gt;Rzeczpospolitej&lt;/em&gt; “ostateczną kompromitację tezy o globalnym ociepleniu”, teza o globalnym ociepleniu ma się całkiem dobrze.&lt;/p&gt;
-
-&lt;p&gt;Przeglądając z perspektywy 10 lat moje pierwsze notki na blogu jestem szczerze zaskoczony, jak niewiele się zdezaktualizowały, oraz jednocześnie jak wielkie postępy poczyniono zwłaszcza na gruncie obserwacji zachodzących zmian w systemie klimatycznym. Wiadomo, pewne liczby się zmieniły: kiedy pisałem o zawartości dwutlenku węgla w atmosferze, było to wtedy jeszcze “około 380 ppm”. W roku 2019 będzie to już 410 ppm. Cytowany za czwartym raportem IPCC z 2007 r. wzrost średniej globalnej temperatury od połowy XIX wieku wynosił 0,76°C, obecnie jest to już 1°C &lt;a href=&quot;#przyp3&quot;&gt;[3]&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Analizy temperatur powierzchni Ziemi są zresztą dzisiaj znacznie doskonalsze niż 10 lat temu, dzięki lepszym metodom statystycznym i nowym źródłom danych z pomiarów instrumentalnych. Również reanalizy historyczne (zwłaszcza piątej generacji, jak np. europejska ERA5) są już na tyle dobre, że można ich używać do badania długoterminowych zmian klimatycznych, i podejrzewam że za kolejnych 10 lat stare indeksy temperatur, oparte o kilka czy kilkanaście dość zbliżonych typów źródeł danych, zostaną przez reanalizy całkowicie wyparte. Podobnie, wiele innych serii danych osiągnęło już dojrzałość wystarczającą do klimatologicznych zastosowań: dysponujemy kilkunastoma latami pomiarów sieci ARGO; rekonstrukcje zmian zawartości ciepła w oceanach z głębokości 2 kilometrów, a nawet niżej, są już produkowane rutynowo; bilans zmian poziomu wszechoceanu jest praktycznie domknięty; pomiary różnych parametrów związanych ze zmianami lądolodów Antarktydy i Grenlandii (prędkości, bilansu powierzchniowego, bilansu masy…) też już składają się w jeden spójny, choć dość niepokojący, obraz; znamy lepiej mechanizmy kontrolujące obieg węgla w przyrodzie, pochłanianie CO₂ przez różne ekosystemy, i ich czułość na ocieplenie.&lt;/p&gt;
-
-&lt;p&gt;Wiemy więc o klimacie znacznie więcej, niż w 2009 roku, jednocześnie jednak fundamenty tej wiedzy pozostały nienaruszone: spalanie kopalin wciąż powoduje wzrost zawartości dwutlenku węgla w atmosferze, co powoduje ocieplenie klimatu.&lt;/p&gt;
-
-&lt;p&gt;Kończę ten już dość długi wpis obietnicą, że będę się starał prowadzić tego bloga przez kolejne 10 lat. Dziękuję za uwagę, i do przeczytania następnym razem.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;przypisy&quot;&gt;Przypisy&lt;/h2&gt;
-&lt;p&gt;&lt;a name=&quot;przyp1&quot;&gt;&lt;/a&gt;1. Poza tym, mam w pamięci eksperyment, który miał miejsce kilka lat temu w Wielkiej Brytanii, kiedy kilku tamtejszych klimatologów próbowało właśnie takiej metody, &lt;a href=&quot;https://www.theguardian.com/environment/2014/oct/03/climate-consensus-scientists-and-sceptics-suspend-hostilities&quot;&gt;spotykając się na obiedzie z (głównie lokalnymi) sceptykami klimatycznymi&lt;/a&gt;, aby obgadać różnice zdań i istniejące pomiędzy nimi kontrowersje. Towarzyszyły temu ciepłe słowa o wzajemnym szacunku i wspólnym celu, jakim jest dążenie do Prawdy, i jednocześnie dość cięte komentarze zwłaszcza ze strony amerykańskich kolegów owych klimatologów, którzy uważali to za stratę czasu i niepotrzebną legitymizację pseudonauki.&lt;/p&gt;
-
-&lt;p&gt;O ile mi wiadomo, żaden z sceptycznych uczestników tamtego wydarzenia nie zmienił zdania na temat globalnego ocieplenia; najbardziej jaskrawym przypadkiem jest David Rose, dziennikarz &lt;em&gt;Daily Mail&lt;/em&gt;, który regularnie &lt;a href=&quot;https://doskonaleszare.github.io/articles/17/dzien-swistaka&quot;&gt;publikuje&lt;/a&gt; demaskatorskie artykuły o oszustwach klimatologów, które potem jego gazeta musi drobnym drukiem prostować.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;przyp2&quot;&gt;&lt;/a&gt;2. Omawiałem tę historię szczegółowo &lt;a href=&quot;http://doskonaleszare.blox.pl/2011/04/BEST-i-surfacestationsorg.html&quot;&gt;prawie osiem lat temu&lt;/a&gt;, ale nie miałem okazji dopisać jej finału. Otóż w 2011 roku opublikowany został w końcu artykuł &lt;a href=&quot;https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JD015146&quot;&gt;“Analysis of the impacts of station exposure on the U.S. Historical Climatology Network temperatures and temperature trends”&lt;/a&gt;, jednak jego konkluzje — że algorytmy homogenizacji NOAA działają, a trendy średnich temperatur nie są zawyżane — nie pasowały Wattsowi. Dlatego rok później ogłosił, że dotychczas używane kryteria klasyfikacji stacji meteorologicznych były niepoprawne, i kiedy wraz z małym zespołem dokonali powtórnej oceny jakości stacji meteorologicznych, tym razem odkryto efekt którego istnienie podejrzewano: że stacje najgorsze &lt;em&gt;dwukrotnie&lt;/em&gt; zawyżają trendy temperatur dla terytorium USA. Wyniki tej analizy &lt;a href=&quot;https://wattsupwiththat.com/2012/07/29/press-release-2/&quot;&gt;ogłosił z wielką pompą na blogu&lt;/a&gt;, gdzie szybko wytknięto mu fundamentalny błąd w analizie danych (nieuwzględnienie tzw. poprawek TOB na zmianę czasu obserwacji). Watts przyznał, że jest to faktycznie problem, i obiecał poprawioną wersję w ciągu kilku dni, potem za kilka tygodni, a później przestał poruszać ten temat w ogóle. Nie ukazała się ona do dzisiaj, a Watts (pomimo wielokrotnych próśb m. in. ochotników uczestniczących w pierwszej fazie jego projektu) nigdy nie opublikował też meta-danych z powtórnej klasyfikacji, uniemożliwiając w ten sposób samodzielną ich analizę.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;przyp3&quot;&gt;&lt;/a&gt;3. Jako różnica pomiędzy średnią 2001-2005 i 1850-1899, oraz 2014-2018 i 1850-1899.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 Jan 2019 01:00:00 +0000</pubDate>
-        <link>https://doskonaleszare.github.io/articles/19/dziesiec-lat</link>
-        <guid isPermaLink="true">https://doskonaleszare.github.io/articles/19/dziesiec-lat</guid>
-        
-        
-        <category>meta</category>
         
       </item>
     
